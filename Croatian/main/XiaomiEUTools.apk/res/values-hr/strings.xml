@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Idi na početnu</string>
+    <string name="abc_action_bar_up_description">Idi gore</string>
+    <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+    <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_search_hint">Pretražite…</string>
+    <string name="abc_searchview_description_clear">Izbriši upit</string>
+    <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+    <string name="abc_searchview_description_search">Pretraživanje</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
+    <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
+    <string name="abc_toolbar_collapse_description">Sažmi</string>
+    <string name="about">"XiaomiEU Alati v1.0 je koncept koji se temelji na MIUI aplikaciji Sigurnost kojeg je projektirao ZduneX25
+2018 Sva prava pridržana."</string>
+    <string name="app_name">XiaomiEU Alati</string>
+    <string name="btn_cancel">Odustani</string>
+    <string name="btn_next">Dalje</string>
+    <string name="carousel_desc">Autom. upravljanje Zaklj. zaslonom</string>
+    <string name="carousel_title">Wallpaper carousel</string>
+    <string name="dialog_desc">Za sad možete samo odabrati korištenje promjenu preko ikone radne površine, odabir uzorka će baciti FC.</string>
+    <string name="dialog_title">UPOZORENJE!</string>
+    <string name="domain_desc">Dodjeljivanje URL-ova aplikacijama</string>
+    <string name="domain_title">URL domena</string>
+    <string name="dpi_desc">Napredni alati za prilagodbu veličine zaslona kao što su zumiranje, dodatno podešavanje veličine slova i mogućnost upravljanja DPI-ja cijelog korisničkog sučelja.</string>
+    <string name="dpi_title">DPI upravljanje</string>
+    <string name="hardware_test">Provjerite jeste sve u redu</string>
+    <string name="hardware_title">Hardware test</string>
+    <string name="oreo_desc">Ugrađena mini igra koja će otpuhati paru ili jednostavno ubiti dosadu.</string>
+    <string name="oreo_title">Oreo Easter Egg</string>
+    <string name="power_desc">Uštedite nešto baterije tijekom mirovanja</string>
+    <string name="power_title">Energija</string>
+    <string name="ram_desc">Statistika korištenja memorije koja vam omogućuje da pratite koji proces najviše troši vaš RAM.</string>
+    <string name="ram_title">Korištenje RAM-a</string>
+    <string name="search_menu_title">Traži</string>
+    <string name="space_desc">Još jedan zaseban prostor</string>
+    <string name="space_title">Drugi prostor</string>
+    <string name="theme_desc">Prilagodite izgled uređaja</string>
+    <string name="theme_title">Teme</string>
+    <string name="tools">Alati %1$s</string>
+</resources>

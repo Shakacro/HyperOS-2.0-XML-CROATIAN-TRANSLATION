@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	 <string-array name="miui15_settings_search_mirror">
+        <item>Usluge međusobnog povezivanja uređaja</item>
+        <item>Veza i dijeljenje/usluge međusobnog povezivanja uređaja</item>
+        <item>Screen Combo; Duet; Multiscreen; Duo; Računalo; Zrcalo; Usluge međusobnog povezivanja uređaja</item>
+     </string-array>
+    <string-array name="settings_search_mirror">
+        <item>Screen Combo</item>
+        <item>Veza &amp; dijeljenje/Screen Combo</item>
+        <item>Screen Combo;Multiscreen;Emitiranje zaslona;PC;Računalo</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Isključite prijenosni hotspot, Mi Share, ili emitiranje na mobilnom uređaju prije korištenja Screen Combo.
+2. Isključite Wi-Fi na mobilnom uređaju i računalu.
+3. Provjerite je li vaš mobilni uređaj blizu računala."</item>
+        <item>Vaše računalo koristi Bluetooth za otkrivanje mobilnih uređaja koji su prethodno bili povezani. Provjerite je li Bluetooth uključen na vašem mobilnom uređaju.</item>
+        <item>"Mobilni uređaji ne mogu sinkronizirati podatke s računalima kada je zaslon zaključan. Screen Combo prema zadanim postavkama ne dopušta zaključavanje zaslona kada je vaš mobilni uređaj povezan s računalom. To možete promijeniti u Postavkama."</item>
+        <item>"1. Kompatibilni mobilni uređaji: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. Ako ste preusmjereni na našoj službenoj web stranici nakon skeniranja QR koda, vaš uređaj još nije podržan.
+2. Kompatibilna računala: Mi Notebook Pro X 15, Mi Notebook Pro 15.6 (2020), Redmi G, Redmibook 16, Redmibook 14 Ⅱ, Redmibook Air 13. Preuzmite MIUI+ Beta za svoje računalo ovdje: https://plus.miui.com ."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"Ne možete se povezati pomoću QR koda?"</item>
+        <item>"Ne možete pronaći mobilne uređaje pomoću računala?"</item>
+        <item>"Ne možete zaključati svoj mobilni uređaj?"</item>
+        <item>Kompatibilnost</item>
+    </string-array>
+	<string-array name="desktop_positions">
+        <item>Lijevo</item>
+        <item>Desno</item>
+     </string-array>
+	 <string-array name="settings_search_mirror_desktop">
+        <item>Home screen+</item>
+        <item>Međusobna povezanost/Home screen+</item>
+        <item>Home screen+, Home screen, Mi Smart Hub, Screen Combo, međusobno povezivanje uređaja</item>
+     </string-array>
+</resources>

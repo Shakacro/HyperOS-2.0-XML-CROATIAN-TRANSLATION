@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>Zaglavlje računa: *** Inc.</item>
+        <item>Adresa: Ulica, Stan, Grad, Država/Regija, Pokrajina, Poštanski broj</item>
+        <item>Molim vas, ostavite paket pred vratima. Hvala!</item>
+        <item>"Pričekajte minutu, odmah se vraćam."</item>
+        <item>"Na sastanku sam. Pošaljite SMS poruku."</item>
+        <item>"Ne mogu sada razgovarati. Nazvat ću te što prije."</item>
+        <item>Hvala!</item>
+    </string-array>
+</resources>

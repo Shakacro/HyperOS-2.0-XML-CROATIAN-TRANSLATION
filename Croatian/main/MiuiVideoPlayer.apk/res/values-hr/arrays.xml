@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="feedback_tag_list">
+        <item>Greška</item>
+        <item>Prijedlozi</item>
+        <item>Drugo</item>
+    </string-array>
+    <string-array name="playback_streaming_quality">
+        <item>Auto</item>
+        <item>Niska</item>
+        <item>Srednja</item>
+        <item>Viskoka</item>
+        <item>Jako visoka</item>
+    </string-array>
+</resources>

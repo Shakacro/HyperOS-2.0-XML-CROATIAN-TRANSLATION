@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="e2ee_device_verification_num">
+        <item quantity="other">%s neprovjerenih uređaja</item>
+        <item quantity="one">%s neprovjeren uređaj</item>
+     </plurals>
+     <plurals name="local_lockscreen_error_hint_retry">
+        <item quantity="other">Previše pokušaja. Pokušajte ponovno za %s sekundi.</item>
+        <item quantity="one">Previše pokušaja. Pokušajte ponovno za %s sekundu.</item>
+     </plurals>
+     <plurals name="other_lockscreen_error_hint_retry">
+        <item quantity="other">Previše pokušaja. Pokušajte ponovno za %d dana.</item>
+        <item quantity="one">Previše pokušaja. Pokušajte ponovno za %d dan.</item>
+     </plurals>
+     <plurals name="verify_open_SMS_dialog_positive_btn_timer">
+        <item quantity="other">Pošalji novi kod (%ss)</item>
+        <item quantity="one">Pošalji novi kod (%ss)</item>
+     </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">prije %d sat</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za %d sat</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Za %d min</item>
+        <item quantity="one">Za %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije %d min</item>
+    </plurals>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">"Ne mogu sinkronizirati stavke: %s"</item>
+        <item quantity="one">"Ne mogu sinkronizirati %s stavku"</item>
+    </plurals>
+	 <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">"Nedovoljno prostora za pohranu. Ne mogu sinkronizirati %d fotografija."</item>
+        <item quantity="one">"Nedovoljno prostora za pohranu. Ne mogu sinkronizirati %d fotografiju."</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">%d unosa liste blokiranja</item>
+        <item quantity="one">%d unos liste blokiranja</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">%d stavki preglednika</item>
+        <item quantity="one">%d stavka preglednika</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">%d stavki kalendara</item>
+        <item quantity="one">%d stavka kalendara</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">%d zapisa povijesti poziva</item>
+        <item quantity="one">%d zapis povijesti poziva</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">Kontakti: %d</item>
+        <item quantity="one">%d kontakt</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">Fotografija: %d</item>
+        <item quantity="one">%d fotografija</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">Poruka: %d</item>
+        <item quantity="one">%d poruka</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">Bilješke: %d</item>
+        <item quantity="one">%d bilješka</item>
+    </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">Bilješke: %d</item>
+        <item quantity="one">%d bilješka</item>
+    </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">%d unosa u Zaklj. aplikacija</item>
+        <item quantity="one">%d unos u Zaklj. aplikacija</item>
+    </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d čestih fraza</item>
+        <item quantity="one">%d česta fraza</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">%d zapisa</item>
+        <item quantity="one">%d zapis</item>
+    </plurals>
+    <plurals name="dirty_secretphoto_count">
+        <item quantity="other">"%d skrivenih fotografija nije sinkronizirano. Odjavite se nakon što su sve stavke sinkronizirane da ih zadržite; inače će se stavke izbrisati."</item>
+        <item quantity="one">"%d skrivena fotografija nije sinkronizirana. Odjavite se nakon što su sve stavke sinkronizirane da ih zadržite; inače će se stavke izbrisati."</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">%d Wi-Fi mreža</item>
+        <item quantity="one">%d Wi-Fi mreža</item>
+    </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d Wi-Fi mreža</item>
+        <item quantity="one">%d Wi-Fi mreža</item>
+    </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s h</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s min.</item>
+        <item quantity="one">%s min.</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s sek.</item>
+        <item quantity="one">%s sek.</item>
+    </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Pokušajte ponovno za %d sek.</item>
+        <item quantity="one">Pokušajte ponovno za %d sekundu</item>
+    </plurals>
+	 <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">"Ne mogu sinkronizirati &lt;font color=#F22424>%s stavki&lt;/font>"</item>
+        <item quantity="one">"Ne mogu sinkronizirati &lt;font color=#F22424>%s stavku&lt;/font>"</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">"Ne mogu sinkronizirati %s stavki"</item>
+        <item quantity="one">"Ne mogu sinkronizirati %s stavku"</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Stavke koje čekaju na sinkr.: %d</item>
+        <item quantity="one">%d stavka koja čeka na sinkr.</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+        <item quantity="other">%d stavki čekaju na sinkr.</item>
+        <item quantity="one">%d stavka čeka na sinkr.</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">prije %s sati</item>
+        <item quantity="one">prije %s sat</item>
+    </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">prije %s  min.</item>
+        <item quantity="one">prije %s  min.</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Sinkr. će se nastaviti za %d min.</item>
+        <item quantity="one">Sinkr. će se nastaviti za %d min.</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">odabrano %d stavki</item>
+        <item quantity="one">odabrana %d stavka</item>
+    </plurals>
+	 <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">"Prostor za pohranu je pun. Ne mogu sinkronizirati &lt;font color=#F22424>%d aplikacija&lt;/font>."</item>
+        <item quantity="one">"Prostor za pohranu je pun. Ne mogu sinkronizirati &lt;font color=#F22424>%d aplikaciju&lt;/font>."</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 minutu</item>
+    </plurals>
+	<plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">"Sinkronizacija nije uključena za %s stavki"</item>
+        <item quantity="one">"Sinkronizacija nije uključena za %s stavku"</item>
+    </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">%s usluga će se sinkronizirati s Xiaomi Cloudom</item>
+        <item quantity="one">%s usluga će se sinkronizirati s Xiaomi Cloudom</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">"Ne možete odabrati više od %d stavki"</item>
+        <item quantity="one">"Ne možete odabrati više od %d stavke"</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Poziv je prihvatilo %d osoba</item>
+        <item quantity="one">%d osoba je prihvatila poziv</item>
+    </plurals>
+    <plurals name="sync_items_close">
+        <item quantity="other">Isključeno stavki: %d</item>
+        <item quantity="one">Isključena %d stavka</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s dana</item>
+        <item quantity="one">%1$s dan</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s sati</item>
+        <item quantity="one">%1$s sat</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+</resources>

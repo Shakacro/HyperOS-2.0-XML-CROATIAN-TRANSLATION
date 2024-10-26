@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
+	     <string-array name="passport_account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+     </string-array>
+    <string-array name="education">
+        <item>Osnovna škola</item>
+        <item>Pred škola</item>
+        <item>Srednja škola</item>
+        <item>Srednja stručna škola</item>
+        <item>Fakultet</item>
+        <item>"Magisterij"</item>
+        <item>"Doktorat"</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Obitelj</item>
+        <item>"Ime bake s očeve strane"</item>
+        <item>"Ime djeda s očeve strane"</item>
+        <item>"Ime djeda s majčine strane"</item>
+        <item>"Ime bake s majčine strane"</item>
+        <item>"Tatin rođendan"</item>
+        <item>"Mamin rođendan"</item>
+        <item>"Koja je razlika u godinama vaših roditelja (godine i mjeseci)?"</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>Škola</item>
+        <item>Ime vašeg predsjednika razreda u osnovnoj školi?</item>
+        <item>Ime vašeg predsjednika razreda u srednjoj školi?</item>
+        <item>Vaš studentski ID broj na faksu</item>
+        <item>"Ime vašeg cimera na faksu?"</item>
+        <item>"Ime vašeg nadzornika na faksu?"</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Osobni podaci</item>
+        <item>Kak vas roditelji zovu?</item>
+        <item>Posljednjih 6 znamenaka vaše putovnice</item>
+        <item>U kojo ste bolnici rođeni?</item>
+        <item>"Ime vašeg najboljeg prijatelja?"</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>Prvi puta</item>
+        <item>"Ime vašeg prvog kućnog ljubimca?"</item>
+        <item>"Ime vašeg prve simpatije?"</item>
+        <item>Naziv tvrtke gdje ste dobili svoj prvi posao</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Brak</item>
+        <item>Gdje ste se vjenčali?</item>
+        <item>"Ime vašeg supružnika"</item>
+        <item>"Rođendan vašeg supružnika"</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>Računi</item>
+        <item>Dodajte i upravljajte računima trećih strana</item>
+        <item>Računi;SNS;Facebook;Google;Xiaomi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>Računi</item>
+         <item>Pogledajte svoje povezane WeChat i druge SNS račune</item>
+         <item>dopuštenja;SNS;WeChat;Xiaomi račun;račun</item>
+		 </string-array>
+    <string-array name="settings_search_change_password">
+        <item>Promijeni zaporku</item>
+        <item>Promijeni zaporku Xiaomi Računa</item>
+        <item>Promijeni zaporku;Ažuriraj zaporku;Xiaomi Račun;Račun</item>
+    </string-array>
+	 <string-array name="settings_search_cloud_space_share">
+        <item>Obiteljski prostor za pohranu</item>
+        <item>Pogledajte/uključite Obiteljski prostor za pohranu</item>
+        <item>Obiteljski prostor za pohranu;Dijeljenje pohrane</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Obiteljske usluge</item>
+        <item>Pogledajte/uključite obiteljske usluge</item>
+        <item>Obitelj;Obiteljske usluge;Dijeljenje s obitelji</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>Pomoć</item>
+        <item>Dobij pomoć i podršku za Xiaomi Račun</item>
+        <item>Račun;Xiaomi Račun;Račun;Pomoć za račun;Centar za pomoć</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>Provjera u 2 koraka</item>
+        <item>Postavite provjeru u 2 koraka za vaš Xiaomi Račun</item>
+        <item>Prijava;Prijava;u 2 koraka;Provjera;Xiaomi;Račun;Xiaomi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>Prijava i sigurnost</item>
+        <item>Telefon za oporavak i e-pošta; Upravljanje zaporkom</item>
+        <item>Sigurnost računa;Prijava;Telefon za oporavak;E-adresa za oporavak;Zaštita računa;Broj telefona;E-pošta;Promjena zaporke;Dodaj broj telefona;Dodaj e-poštu;Xiaomi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>Uređaji</item>
+        <item>Upravljajte uređajima povezanim s vašim Xiaomi Računom</item>
+        <item>Upravljanje uređajima;Moji uređaji;Uređaji;Popis uređaja;Xiaomi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_payment_information">
+        <item>Informacije o plaćanju</item>
+        <item>Pregledajte i upravljajte informacijama o plaćanju</item>
+        <item>Plati;Plaćanje;Način plaćanja;Xiaomi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>Pravila o privatnosti</item>
+        <item>Prikaži Pravila o privatnosti Xiaomi Računa</item>
+        <item>Xiaomi;Račun;Xiaomi Račun;Privatnost;Pravila;Prikaži</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>E-pošta za oporavak</item>
+        <item>Dodajte e-poštu za oporavak</item>
+        <item>E-adresa za oporavak;E-pošta;Dodaj e-poštu;Xiaomi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>Telefon za oporavak</item>
+        <item>Dodaj telefon za oporavak</item>
+        <item>Telefon za oporavak;Dodaj telefon;Xiaomi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>Oglasi</item>
+        <item>Upravljanje oglasima sustava</item>
+        <item>Oglasi;Xiaomi Račun;Račun</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>Informacije računa</item>
+        <item>Pregledajte fotografiju svog profila i upravljajte podacima o računu</item>
+        <item>Osobni podaci;Fotografija profila;Nadimak;Podaci o računu; Mi ID; ID; Xiaomi Račun; Račun</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>Korasnički sporazum</item>
+        <item>Prikaži Xiaomi Račun Korasnički sporazum</item>
+        <item>Xiaomi Račun;Račun;Korisnički ugovor;EULA</item>
+    </string-array>
+</resources>

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 min</item>
+    </plurals>
+    <plurals name="birthday_format">
+        <item quantity="other">" (%1$d godina)"</item>
+        <item quantity="one">" (%1$d godina)"</item>
+    </plurals>
+    <plurals name="count_duration_standard">
+        <item quantity="other">%1$d-%2$d puta</item>
+        <item quantity="one">%1$d-%2$d put</item>
+    </plurals>
+    <plurals name="cousume_unit_format">
+        <item quantity="other">%1$d Cal</item>
+        <item quantity="one">%1$d Cal</item>
+    </plurals>
+    <plurals name="daily_suggestions_steps">
+        <item quantity="other">Svaki dan hodajte najmanje %1$d koraka</item>
+        <item quantity="one">Svaki dan hodajte najmanje %1$d koraka</item>
+    </plurals>
+    <plurals name="day_index">
+        <item quantity="other">%1$d dana</item>
+        <item quantity="one">%1$d dan</item>
+    </plurals>
+    <plurals name="days_in_menstrual_period">
+        <item quantity="other">Trajanje razdoblja: %1$d dana</item>
+        <item quantity="one">Trajanje razdoblja: %1$d dana</item>
+    </plurals>
+    <plurals name="days_in_period">
+        <item quantity="other">Trajanje ciklusa: %1$d dana</item>
+        <item quantity="one">Trajanje ciklusa: %1$d dan</item>
+    </plurals>
+    <plurals name="dialog_choose_items">
+        <item quantity="other">Odabrano %1$d stavki</item>
+        <item quantity="one">Odabrana %1$d stavka</item>
+    </plurals>
+    <plurals name="dialog_delete_records_confirm">
+        <item quantity="other">Izbrisati %1$d zapisa?</item>
+        <item quantity="one">Izbrisati %1$d zapisa</item>
+    </plurals>
+    <plurals name="distance_unit_kilometre">
+        <item quantity="other">%1$.1f km</item>
+        <item quantity="one">%1$.1f km</item>
+    </plurals>
+    <plurals name="dream_talk_segment">
+        <item quantity="other">%1$d snimaka</item>
+        <item quantity="one">%1$d snimka</item>
+    </plurals>
+    <plurals name="dream_talk_segment_unit">
+        <item quantity="other">" primjera"</item>
+        <item quantity="one">" primjer"</item>
+    </plurals>
+    <plurals name="duration_unit_hour_format">
+        <item quantity="other">%1$d hrs</item>
+        <item quantity="one">%1$d hr</item>
+    </plurals>
+    <plurals name="duration_unit_minute_format">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="duration_unit_second_format">
+        <item quantity="other">%1$d sek</item>
+        <item quantity="one">%1$d sek</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Cilj: %1$d koraka</item>
+        <item quantity="one">Cilj: %1$d korak</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" koraka"</item>
+        <item quantity="one">" korak"</item>
+    </plurals>
+    <plurals name="goal_unit_with_number">
+        <item quantity="other">%1$d koraka</item>
+        <item quantity="one">%1$d korak</item>
+    </plurals>
+    <plurals name="group_unit">
+        <item quantity="other">%1$d ciklusa</item>
+        <item quantity="one">%1$d ciklus</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%1$d hrs</item>
+        <item quantity="one">%1$d hr</item>
+    </plurals>
+    <plurals name="hr_fp_detect_time_remainder">
+        <item quantity="other">%1$d sekundi preostalo</item>
+        <item quantity="one">%1$d sekunda preostala</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="last_measure_date_interval">
+        <item quantity="other">%1$d dana od zadnjeg vaganja</item>
+        <item quantity="one">%1$d dan od zadnjeg vaganja</item>
+    </plurals>
+    <plurals name="last_measure_day_body_weight">
+        <item quantity="other">%1$d dana od zadnjeg vaganja</item>
+        <item quantity="one">%1$d dan od zadnjeg vaganja</item>
+    </plurals>
+    <plurals name="length_unit_meter_format">
+        <item quantity="other">%1$d metara</item>
+        <item quantity="one">%1$d metar</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sad</item>
+    </plurals>
+    <plurals name="mens_offset_predict_menstrual_period">
+        <item quantity="other">Menstruacija će vjerojatno početi za %1$d dana</item>
+        <item quantity="one">Menstruacija će vjerojatno početi za %1$d dan</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">%1$d-dnevno razdoblje</item>
+        <item quantity="one">%1$d-dnevno razdoblje</item>
+    </plurals>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">Dan %1$d (očekivano)</item>
+        <item quantity="one">Dan %1$d (očekivano)</item>
+    </plurals>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">Dan %1$d</item>
+        <item quantity="one">Dan %1$d</item>
+    </plurals>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">Sljedeće razdoblje za %1$d dana</item>
+        <item quantity="one">Sljedeće razdoblje za %1$d dana</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="minutes_ago">
+        <item quantity="other">prije %1$d min</item>
+        <item quantity="one">prije %1$d min</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d stavki odabrano</item>
+        <item quantity="one">%d stavka odabrana</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d minuta</item>
+        <item quantity="one">prije 1 minute</item>
+    </plurals>
+    <plurals name="sleep_goal_by_hour">
+        <item quantity="other">Cilj: %1$d sati</item>
+        <item quantity="one">Cilj: %1$d sat</item>
+    </plurals>
+    <plurals name="sleep_management_exp_hours">
+        <item quantity="other">"Trenutačne postavke ne jamče %1$d sati sna dnevno. Trebate više od toga."</item>
+        <item quantity="one">"Trenutačne postavke ne jamče %1$d sat sna dnevno. Trebate više od toga."</item>
+    </plurals>
+    <plurals name="sport_tts_goal_consume">
+        <item quantity="other">Još %s kalorija koje morate potrošiti dok ne postignete svoj cilj</item>
+        <item quantity="one">Još %s kalorija koju morate potrošiti dok ne postignete svoj cilj</item>
+    </plurals>
+    <plurals name="sport_tts_goal_distance">
+        <item quantity="other">preostalo je još %s kilometara do cilja</item>
+        <item quantity="one">preostao je još %s kilometar do cilja</item>
+    </plurals>
+    <plurals name="sport_tts_goal_time">
+        <item quantity="other">preostalo je još %s minuta do cilja</item>
+        <item quantity="one">preostala je još %s minuta do cilja</item>
+    </plurals>
+    <plurals name="sport_tts_riding_distance">
+        <item quantity="other">"Biciklirali ste %s kilometara"</item>
+        <item quantity="one">"Biciklirali ste %s kilometar"</item>
+    </plurals>
+    <plurals name="sport_tts_running_distance">
+        <item quantity="other">"Pretrčali ste %s kilometara"</item>
+        <item quantity="one">"Pretrčali ste %s kilometar"</item>
+    </plurals>
+    <plurals name="sport_tts_total_consume">
+        <item quantity="other">"Potrošili ste %s kalorija"</item>
+        <item quantity="one">"Potrošili ste %s kaloriju"</item>
+    </plurals>
+    <plurals name="sport_tts_walking_distance">
+        <item quantity="other">"Prohodali ste %s kilometara"</item>
+        <item quantity="one">"Prohodali ste %s kilometar"</item>
+    </plurals>
+    <plurals name="sporting_content_calories">
+        <item quantity="other">"Već ste potrošili %1$s kalorija"</item>
+        <item quantity="one">"Već ste potrošili %1$s kaloriju"</item>
+    </plurals>
+    <plurals name="sporting_content_min">
+        <item quantity="other">%1$d minuta</item>
+        <item quantity="one">%1$d minutu</item>
+    </plurals>
+    <plurals name="sporting_content_riding_km">
+        <item quantity="other">"Već ste biciklirali %1$s kilometara"</item>
+        <item quantity="one">"Već ste biciklirali %1$s kilometar"</item>
+    </plurals>
+    <plurals name="sporting_content_running_km">
+        <item quantity="other">"Već ste otrčali %1$s kilometara"</item>
+        <item quantity="one">"Već ste otrčali %1$s kilometar"</item>
+    </plurals>
+    <plurals name="sporting_content_sec">
+        <item quantity="other">%1$d sekundi</item>
+        <item quantity="one">%1$d sekundu</item>
+    </plurals>
+    <plurals name="sporting_content_walking_km">
+        <item quantity="other">"Već ste napravili %1$s kilometara"</item>
+        <item quantity="one">"Već ste napravili %1$s kilometar"</item>
+    </plurals>
+    <plurals name="sporting_content_walking_stpe">
+        <item quantity="other">"Već ste napravili %1$s koraka"</item>
+        <item quantity="one">"Već ste napravili %1$s korak"</item>
+    </plurals>
+    <plurals name="sporting_unit_calories">
+        <item quantity="other">%1$d kalorija</item>
+        <item quantity="one">%1$d kalorija</item>
+    </plurals>
+    <plurals name="sporting_unit_km">
+        <item quantity="other">%1$s km</item>
+        <item quantity="one">%1$s km</item>
+    </plurals>
+    <plurals name="sporting_unit_step">
+        <item quantity="other">koraka</item>
+        <item quantity="one">korak</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d koraka</item>
+        <item quantity="one">%1$d korak</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">"Niste bilježili %1$d dana. Zabilježite svoje mjesečnice kako biste dobili točnija predviđanja."</item>
+        <item quantity="one">"Niste bilježili %1$d dan. Zabilježite svoje mjesečnice kako biste dobili točnija predviđanja."</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Ovo razdoblje ukupno traje %1$d dana</item>
+        <item quantity="one">Ovo razdoblje ukupno traje %1$d dan</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">Dan %1$d ovog menstrualnog ciklusa</item>
+        <item quantity="one">Dan %1$d ovog menstrualnog ciklusa</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">%1$d-dnevni ciklus</item>
+        <item quantity="one">%1$d-dnevni ciklus</item>
+    </plurals>
+    <plurals name="time_duration_compare_standard">
+        <item quantity="other">≤%1$d minuta</item>
+        <item quantity="one">≤%1$d minuta</item>
+    </plurals>
+    <plurals name="time_duration_hour_float">
+        <item quantity="other">%1$.2f hrs</item>
+        <item quantity="one">%1$.2f hr</item>
+    </plurals>
+    <plurals name="time_duration_hour_int">
+        <item quantity="other">%d hrs</item>
+        <item quantity="one">%d hr</item>
+    </plurals>
+    <plurals name="time_duration_hour_standard">
+        <item quantity="other">%1$.1f-%2$.1f sati</item>
+        <item quantity="one">%1$.1f-%2$.1f sat</item>
+    </plurals>
+    <plurals name="time_duration_minute">
+        <item quantity="other">%1$d minuta</item>
+        <item quantity="one">%1$d minuta</item>
+    </plurals>
+    <plurals name="time_duration_minute_standard">
+        <item quantity="other">%1$d-%2$d minuta</item>
+        <item quantity="one">%1$d-%2$d minuta</item>
+    </plurals>
+    <plurals name="time_duration_time">
+        <item quantity="other">%1$d puta</item>
+        <item quantity="one">%1$d put</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d puta</item>
+        <item quantity="one">%1$d put</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">Dan %1$d razdoblja</item>
+        <item quantity="one">Dan %1$d razdoblja</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d dana do sljedeće menstruacije</item>
+        <item quantity="one">%1$d dan do sljedeće menstruacije</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Očekivani dan %1$d razdoblja</item>
+        <item quantity="one">Očekivani dan %1$d razdoblja</item>
+    </plurals>
+    <plurals name="title_today_exercise_steps">
+        <item quantity="other">%1$d koraka danas</item>
+        <item quantity="one">%1$d korak danas</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" dana"</item>
+        <item quantity="one">" dan"</item>
+    </plurals>
+    <plurals name="unit_group">
+        <item quantity="other">" ciklusa"</item>
+        <item quantity="one">" ciklus"</item>
+    </plurals>
+    <plurals name="unit_hours">
+        <item quantity="other">" hrs "</item>
+        <item quantity="one">" hr "</item>
+    </plurals>
+    <plurals name="unit_hours2">
+        <item quantity="other">" sati "</item>
+        <item quantity="one">" sat "</item>
+    </plurals>
+    <plurals name="unit_mins">
+        <item quantity="other">" min "</item>
+        <item quantity="one">" min "</item>
+    </plurals>
+    <plurals name="unit_mins2">
+        <item quantity="other">" minuta "</item>
+        <item quantity="one">" minutu "</item>
+    </plurals>
+    <plurals name="unit_seconds">
+        <item quantity="other">" sek "</item>
+        <item quantity="one">" sek "</item>
+    </plurals>
+    <plurals name="unit_times">
+        <item quantity="other">" puta"</item>
+        <item quantity="one">" put"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d godina</item>
+        <item quantity="one">%1$d godina</item>
+    </plurals>
+</resources>

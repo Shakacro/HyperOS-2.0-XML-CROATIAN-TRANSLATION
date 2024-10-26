@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Mi Play</string>
+    <string name="cancel">Odustani</string>
+    <string name="enable_wifi_btn">Uključi</string>
+    <string name="enable_wifi_message">Uključi Wi-Fi za pretraživanje i povezivanje uređaja u blizini.</string>
+    <string name="enable_wifi_title">Uključi Wi-Fi</string>
+    <string name="media_feature_projection">Zrcalni zaslon</string>
+    <string name="media_route_controller_disconnect">Prekini vezu</string>
+    <string name="media_status_error">Pogreška</string>
+    <string name="media_status_started">Povezano</string>
+    <string name="media_status_starting">Povezivanje…</string>
+    <string name="media_status_stopped">Zaustavljeno</string>
+    <string name="media_status_stopping">Zaustavljanje…</string>
+    <string name="noti_projection_status_desc_on">Zrcaljenje zaslona je uključeno</string>
+    <string name="noti_projection_status_title">Mi Play Bežični prikaz</string>
+    <string name="prjection_title">Bežični zaslon</string>
+    <string name="search_for_devices">Osvježi</string>
+    <string name="wifi_display_autonomous_go">Uključi autonomni GO</string>
+    <string name="wifi_display_certification_heading">Potvrda</string>
+    <string name="wifi_display_details">Postavke prikaza</string>
+    <string name="wifi_display_enable_menu_item">Uključi bežični prikaz</string>
+    <string name="wifi_display_listen_channel">Poslušajte kanal</string>
+    <string name="wifi_display_listen_mode">Uključi način rada slušanja</string>
+    <string name="wifi_display_no_devices_found">"Ne mogu pronaći uređaje u blizini."</string>
+    <string name="wifi_display_operating_channel">Radni kanal</string>
+    <string name="wifi_display_options_done">Dovršeno</string>
+    <string name="wifi_display_options_forget">Zaboravi</string>
+    <string name="wifi_display_options_name">Naziv</string>
+    <string name="wifi_display_options_title">Opcije bežičnog prikaza</string>
+    <string name="wifi_display_pause">Pauza</string>
+    <string name="wifi_display_resume">Nastavi</string>
+    <string name="wifi_display_session_info">Info o sesiji</string>
+    <string name="wifi_display_settings_title">Emitiraj</string>
+    <string name="wifi_display_status_connected">Povezano</string>
+    <string name="wifi_display_status_connecting">Povezivanje…</string>
+    <string name="wifi_display_status_in_use">U uporabi</string>
+    <string name="wifi_display_status_not_available">Nedostupno</string>
+    <string name="wifi_display_wps_config">WPS konfiguracija</string>
+</resources>

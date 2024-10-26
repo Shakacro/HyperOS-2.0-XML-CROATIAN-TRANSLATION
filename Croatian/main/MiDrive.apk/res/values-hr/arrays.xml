@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="privacy_dialog_runtime_permission_desc">
+        <item>Za prijavu putem Xiaomi Računa</item>
+        <item>Za pregled, prijenos, preuzimanje i sinkronizaciju datoteka</item>
+    </string-array>
+    <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
+        <item>Za prijavu putem Xiaomi Računa</item>
+        <item>Za pregled, prijenos, preuzimanje i sinkronizaciju datoteka</item>
+        <item>Za otkrivanje dostupnih ažuriranja</item>
+    </string-array>
+</resources>

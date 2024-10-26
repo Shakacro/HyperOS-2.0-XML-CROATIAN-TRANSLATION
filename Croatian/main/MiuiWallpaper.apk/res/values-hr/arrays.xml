@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>Dom</item>
+        <item>Slika pozadine/Super Slika pozadine/Početna</item>
+        <item>Zemlja;Super Slika pozadine;Zemlja izdanje;Slika pozadine</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Crveni planet</item>
+        <item>Slika pozadine/Super Slika pozadine/Crveni planet</item>
+        <item>Mars;Mars izdanje;Super Slika pozadine;Slika pozadine</item>
+    </string-array>
+	<string-array name="settings_search_moon">
+        <item>Mjesec</item>
+        <item>Pozadina/Super pozadine/Mjesec</item>
+        <item>svemir;Mjesec;Super pozadine;pozadina</item>
+		 </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Prstenovi Saturna</item>
+        <item>Slika pozadine/Super Slika pozadine/Prstenovi Saturna</item>
+        <item>Planet;Saturn;Super Slika pozadine;Slika pozadine</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super Slika pozadine</item>
+        <item>Slika pozadine/Super Slika pozadine</item>
+        <item>Super Slika pozadine;Slika pozadine;Dinamična pozadina;3D Slika pozadine</item>
+    </string-array>
+	     <string-array name="settings_search_geometry">
+        <item>Geometrija</item>
+        <item>Slika pozadine/Super Slika pozadine/Geometrija</item>
+        <item>Geometrija;Apstraktno;Super Slika pozadine;Slika pozadine</item>
+     </string-array>
+     <string-array name="settings_search_snowmountain">
+        <item>Snježni vrhovi</item>
+        <item>Slika pozadine/Super Slika pozadine/Snježni vrhovi</item>
+        <item>Snježni vrhovi;Planine;Super Slika pozadine;Slika pozadine</item>
+     </string-array>
+</resources>

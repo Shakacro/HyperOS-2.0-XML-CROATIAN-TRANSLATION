@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">prije %d sat</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za %d sat</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Za %d min</item>
+        <item quantity="one">Za %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije %d min</item>
+    </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s sati %2$s"</item>
+        <item quantity="one">" %1$s sat %2$s"</item>
+    </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">Smanjeni razmak znakova. Razmak između znakova %s.</item>
+        <item quantity="one">Smanjeni razmak znakova. Razmak između znakova %s.</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Povećani razmak znakova. Razmak između znakova %s.</item>
+        <item quantity="one">Povećani razmak znakova. Razmak između znakova %s.</item>
+    </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"Trajanje reprodukcije animacija ne smije biti dulje od %d sekundi.
+Duže animacije bit će zaustavljene u ovom trenutku."</item>
+        <item quantity="one">"Trajanje reprodukcije animacija ne smije biti dulje od %d sekundi.
+Duže animacije bit će zaustavljene u ovom trenutku."</item>
+    </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">Odabrano: %d</item>
+        <item quantity="one">Odabrano: %d</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Povećani razmak između redova. Razmak između redova %s.</item>
+        <item quantity="one">Povećani razmak između redova. Razmak između redova %s.</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Smanjeni razmak između redova. Razmak između redova %s.</item>
+        <item quantity="one">Smanjeni razmak između redova. Razmak između redova %s.</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">odabrano %d stavki</item>
+        <item quantity="one">odabrana %d stavka</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Nove obavijesti: %d</item>
+        <item quantity="one">%d nova obavijest</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 minutu</item>
+    </plurals>
+	<plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Atmosferski tlak: %s hektopaskala</item>
+        <item quantity="one">Atmosferski tlak: %s hektopaskal</item>
+     </plurals>
+     <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Potrošeno %1$s kcal</item>
+        <item quantity="one">Potrošena %1$s kcal</item>
+     </plurals>
+     <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Cilj kalorija: %1$s kcal</item>
+        <item quantity="one">Cilj kalorija: %1$s kcal</item>
+     </plurals>
+     <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
+     </plurals>
+     <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Vrijeme aktivnosti: %1$s min</item>
+        <item quantity="one">Vrijeme aktivnosti: %1$s min</item>
+     </plurals>
+     <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Cilj aktivnosti: %1$s min</item>
+        <item quantity="one">Cilj aktivnosti: %1$s min</item>
+     </plurals>
+     <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s min</item>
+        <item quantity="one">%1$s/%2$s min</item>
+     </plurals>
+     <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Ustao unutar %1$s sati</item>
+        <item quantity="one">Ustao unutar %1$s sata</item>
+     </plurals>
+     <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Cilj stajanja: %1$s sati</item>
+        <item quantity="one">Cilj stajanja: %1$s sat</item>
+     </plurals>
+     <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s hrs</item>
+        <item quantity="one">%1$s/%2$s hr</item>
+     </plurals>
+     <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Broj trenutnih koraka: %1$s </item>
+        <item quantity="one">Broj trenutnih koraka: %1$s </item>
+     </plurals>
+     <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Cilj koraka: %1$s koraka</item>
+        <item quantity="one">Cilj koraka: %1$s korak</item>
+     </plurals>
+     <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s koraka</item>
+        <item quantity="one">%1$s/%2$s korak</item>
+     </plurals>
+	 <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Razina baterije sada je %s posto</item>
+        <item quantity="one">Razina baterije sada je %s posto</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Punjenje. Razina baterije sada je %s posto.</item>
+        <item quantity="one">Punjenje. Razina baterije sada je %s posto.</item>
+    </plurals>
+     <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatura: %1$s stupnjeva, %2$s</item>
+        <item quantity="one">Temperatura: %1$s stupanj, %2$s</item>
+     </plurals>
+</resources>

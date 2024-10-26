@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="aivs_huami_command_list">
+        <item>"Kakvo je vrijeme?"</item>
+        <item>"Koliko sam koraka napravio?"</item>
+        <item>Pronađi moj telefon.</item>
+    </string-array>
+    <string-array name="common_week_array">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+    </string-array>
+    <string-array name="date_week">
+        <item>Ponedjeljak</item>
+        <item>Utorak</item>
+        <item>Srijeda</item>
+        <item>Četvrtak</item>
+        <item>Petak</item>
+        <item>Subota</item>
+        <item>Nedjelja</item>
+    </string-array>
+    <string-array name="date_week_simple">
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+    <string-array name="date_week_simple1">
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+    <string-array name="device_settings_common_every_week_array">
+        <item>Svake nedjelje</item>
+        <item>Svakog ponedjeljka</item>
+        <item>Svakog utorka</item>
+        <item>Svake srijede</item>
+        <item>Svakog četvrtka</item>
+        <item>Svakog petka</item>
+        <item>Svake subote</item>
+    </string-array>
+    <string-array name="device_settings_date_week">
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+        <item>Ned</item>
+    </string-array>
+    <string-array name="device_settings_date_week_simple1">
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+        <item>Ned</item>
+    </string-array>
+    <string-array name="device_settings_face_fun">
+        <item>@string/device_settings_common_null</item>
+        <item>Broj otkucaja srca</item>
+        <item>Stres</item>
+        <item>Spavanje</item>
+        <item>Energija</item>
+        <item>Koraci</item>
+        <item>Kalorije</item>
+        <item>Stoji</item>
+        <item>Baterija</item>
+        <item>Datum</item>
+        <item>Vrijeme</item>
+        <item>Tlak zraka</item>
+        <item>Elevacija</item>
+        <item>Timer</item>
+        <item>Alarm</item>
+        <item>AQI</item>
+        <item>Vlaga</item>
+        <item>Vježbanje</item>
+        <item>UV indeks</item>
+        <item>Izlazak &amp; zalazak sunca</item>
+        <item>Vjetar</item>
+    </string-array>
+    <string-array name="device_settings_reminder_period_array">
+        <item>Jednokratni događaj</item>
+        <item>Dnevno</item>
+        <item>Tjedno</item>
+        <item>Mjesečno</item>
+        <item>Godišnje</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="device_settings_unlock_phone_distance_list">
+        <item>Jako blizu</item>
+        <item>Blizu</item>
+        <item>Manje blizu</item>
+    </string-array>
+    <string-array name="face_fun">
+        <item>@string/face_common_null</item>
+        <item>Broj otkucaja srca</item>
+        <item>Stres</item>
+        <item>Spavanje</item>
+        <item>Energija</item>
+        <item>Koraci</item>
+        <item>Kalorije</item>
+        <item>Stoji</item>
+        <item>Baterija</item>
+        <item>Datum</item>
+        <item>Vrijeme</item>
+        <item>Tlak zraka</item>
+        <item>Elevacija</item>
+        <item>Timer</item>
+        <item>Alarm</item>
+        <item>AQI</item>
+        <item>Vlaga</item>
+        <item>Vježbanje</item>
+        <item>UV indeks</item>
+        <item>Izlazak &amp; zalazak sunca</item>
+        <item>Vjetar</item>
+    </string-array>
+    <string-array name="habit_date_week">
+        <item>Ponedjeljak</item>
+        <item>Utorak</item>
+        <item>Srijeda</item>
+        <item>Četvrtak</item>
+        <item>Petak</item>
+        <item>Subota</item>
+        <item>Nedjelja</item>
+    </string-array>
+    <string-array name="habit_date_week_simple1">
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+        <item>Ned</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
+        <item>Pon, Sri, Pet</item>
+        <item>Uto, Čet, Sub</item>
+        <item>Sri, Pet, Ned</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_week_array">
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+        <item>Ned</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_descriptions">
+        <item>Postavite telefon pored sebe dok spavate da biste pratili pokrete tijela i generirali statistiku ciklusa spavanja.</item>
+        <item>"Da biste dobili točnu statistiku, stavite telefon pored ili ispod jastuka i pazite da ne bude udaljen više od 50 cm od vašeg tijela."</item>
+        <item>Kada je raspored vremena za spavanje postavljen, vaše spavanje će se automatski pratiti.</item>
+        <item>Praćenje spavanja troši samo oko 1% baterije po noći.</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_titles">
+        <item>Pratite svoj san</item>
+        <item>Postavite telefon pored jastuka</item>
+        <item>Automatski generiraj statistiku</item>
+        <item>Mala potrošnja energije</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_daily_sleep_arr">
+        <item>Ograničavanje spavanja na 30 minuta pomaže vam da bolje utonete.</item>
+        <item>Dobra higijena sna može vam pomoći da se osjećate bolje.</item>
+        <item>Drijemanje od 10 do 20 minuta može vas osvježiti.</item>
+        <item>Drijemanje prije 13:30. može vas osvježiti.</item>
+        <item>Drijemanje povećava vašu energiju i performanse.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_long_sleep_arr">
+        <item>Pristojan iznos. Većina odraslih treba između 7 i 9 sati sna.</item>
+        <item>Pristojan iznos. Držite se redovnih sati spavanja.</item>
+        <item>Dobar iznos. Samo tako nastavi.</item>
+        <item>Kratko spavanje. Većina odraslih treba između 7 i 9 sati sna.</item>
+        <item>Iznos veći od prosječnog. Većina odraslih treba između 7 i 9 sati sna.</item>
+        <item>Dobra količina dubokog sna. Oporavak i jačanje memorije.</item>
+        <item>Dobra količina dubokog sna. Regenerativno i za jačanje imuniteta.</item>
+        <item>Veća količina dubokog sna od prosječne. Pazite na svoje zdravlje.</item>
+        <item>Malo dubokog sna. Pokušajte vježbati, ali ne prije spavanja.</item>
+        <item>Malo dubokog sna. Opustite svoj um, lagano zaspite.</item>
+        <item>Malo dubokog sna. Izbjegavajte podizanje mene noću.</item>
+        <item>Pomaknite vrijeme za spavanje na 22 - 23 sata</item>
+        <item>Kasno vrijeme spavanja. Postavite redoviti raspored vremena za spavanje.</item>
+        <item>Kasno vrijeme spavanja. Držite se redovnih sati spavanja.</item>
+        <item>Sklonost noćnim sovama može imati posljedice po zdravlje.</item>
+        <item>Više od prosječnog vremena budnosti. Neka vaša spavaća soba bude tamna i tiha.</item>
+        <item>Nekoliko buđenja. Neka vaša spavaća soba bude tiha.</item>
+        <item>Nekoliko buđenja. Neka vaša spavaća soba bude tamna i tiha.</item>
+        <item>Dobra količina REM sna. Pojačavaju se vaša kreativnost i vještine rješavanja problema.</item>
+        <item>Dobra količina REM sna. Opuštajuće i opuštajuće.</item>
+        <item>Malo REM sna. Pokušajte vježbati, ali ne neposredno prije spavanja.</item>
+        <item>Malo REM sna. Dovoljno spavanje može pomoći.</item>
+        <item>Viša od prosječne količine REM sna. Ostavite svoje brige prije spavanja.</item>
+        <item>Viša od prosječne količine REM sna. Držite se redovnih sati spavanja.</item>
+        <item>Dobra količina laganog sna. Opušta i potiče kreativnost.</item>
+        <item>Dobra količina laganog sna. Regenerativno i za smanjenje stresa.</item>
+        <item>Veća količina laganog sna od prosječne. Opustite se i opustite prije spavanja.</item>
+        <item>Da biste pronašli svoju jutarnju energiju, idite u krevet prije 12 sati</item>
+        <item>Da biste pronašli svoju jutarnju energiju, idite u krevet prije 12 sati</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_monthly_sleep_arr">
+        <item>Dobra količina sna i redovita rutina odlaska na spavanje. Samo tako nastavi.</item>
+        <item>Dobra količina sna, ali pomalo neredovita rutina odlaska na spavanje. Držite se redovnih sati spavanja.</item>
+        <item>Dobra količina sna, ali neredovita rutina odlaska na spavanje. Postavite raspored i držite ga se.</item>
+        <item>Pristojna količina sna i redovita rutina odlaska na spavanje. Izbjegavajte podizanje mene noću.</item>
+        <item>Pristojna količina sna, ali pomalo neredovita rutina odlaska na spavanje. Opustite se i opustite prije spavanja.</item>
+        <item>Pristojna količina sna, ali neredovita rutina odlaska na spavanje. Neka vaša spavaća soba bude tamna i tiha.</item>
+        <item>Viša od prosječne količine sna i redovite rutine odlaska na spavanje. Dobra higijena sna može pomoći da se osjećate bolje.</item>
+        <item>Veća količina sna od prosječne, ali malo nepravilna rutina odlaska na spavanje. Ako se osjećate umorno, prilagodite svoje sate spavanja.</item>
+        <item>Veća količina sna od prosječne, ali neredovita rutina odlaska na spavanje. Držite se redovnih sati spavanja.</item>
+        <item>Dobar san. Postavite raspored i držite ga se.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_stage_arr">
+        <item>Nema podataka</item>
+        <item>Nije loše</item>
+        <item>Umjereno</item>
+        <item>Dobro</item>
+        <item>Izvrsno</item>
+        <item>Nema noćnih podataka</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_weekly_sleep_arr">
+        <item>Dobra količina sna i redovita rutina odlaska na spavanje. Samo tako nastavi.</item>
+        <item>Dobra količina sna, ali pomalo neredovita rutina odlaska na spavanje. Držite se redovnih sati spavanja.</item>
+        <item>Dobra količina sna, ali neredovita rutina odlaska na spavanje. Postavite raspored i držite ga se.</item>
+        <item>Pristojna količina sna i redovita rutina odlaska na spavanje. Izbjegavajte podizanje mene noću.</item>
+        <item>Pristojna količina sna, ali pomalo neredovita rutina odlaska na spavanje. Opustite se i opustite prije spavanja.</item>
+        <item>Pristojna količina sna, ali neredovita rutina odlaska na spavanje. Neka vaša spavaća soba bude tamna i tiha.</item>
+        <item>Viša od prosječne količine sna i redovite rutine odlaska na spavanje. Dobra higijena sna može pomoći da se osjećate bolje.</item>
+        <item>Veća količina sna od prosječne, ali malo nepravilna rutina odlaska na spavanje. Ako se osjećate umorno, prilagodite svoje sate spavanja.</item>
+        <item>Iznos veći od prosjeka, ali neredovita rutina odlaska na spavanje. Držite se redovnih sati spavanja.</item>
+        <item>Dobar san. Postavite raspored i držite ga se.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_descriptions">
+        <item>Zvuk će se snimati dok spavate. Strojno učenje omogućuje Mi Fitnessu da otkrije hrkanje, pričanje i glasne zvukove te pohrani snimke na vaš telefon.</item>
+        <item>Mikrofon će se uključiti i isključiti prema rasporedu vremena za spavanje.</item>
+        <item>Provjerite je li vaš telefon dovoljno napunjen prije nego odete u krevet. Slaba baterija može prekinuti snimanje zvuka.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_titles">
+        <item>Snimite zvuk pomoću mikrofona</item>
+        <item>Automatski otkrij zvukove</item>
+        <item>Držite svoj telefon napunjenim</item>
+    </string-array>
+    <string-array name="settingitem_date_week">
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+        <item>Sun</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple">
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+        <item>N</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple1">
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+        <item>Sun</item>
+    </string-array>
+    <string-array name="userinfo_Height_unit">
+        <item>cm</item>
+    </string-array>
+    <string-array name="userinfo_blood_types">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>A(-)</item>
+        <item>A(+)</item>
+        <item>B(-)</item>
+        <item>B(+)</item>
+        <item>AB(-)</item>
+        <item>AB(+)</item>
+        <item>O(-)</item>
+        <item>O(+)</item>
+    </string-array>
+    <string-array name="userinfo_contact_relation_array">
+        <item>Nije postavljeno</item>
+        <item>Roditelj</item>
+        <item>Sestra</item>
+        <item>Brat</item>
+        <item>Supružnik</item>
+        <item>Par</item>
+        <item>Prijatelj</item>
+        <item>Kolega</item>
+        <item>Urednik</item>
+        <item>Dijete</item>
+        <item>Partner</item>
+        <item>Pomoćnik</item>
+        <item>Šef</item>
+        <item>Cimer</item>
+        <item>Doktor</item>
+        <item>Član obitelji</item>
+        <item>Učitelj</item>
+        <item>Skrbnik</item>
+        <item>Čuvar</item>
+        <item>Socijalni radnik</item>
+        <item>Škola</item>
+        <item>Dnevni boravak</item>
+        <item>Ostalo</item>
+    </string-array>
+    <string-array name="userinfo_energy_unit">
+        <item>kcal</item>
+        <item>kJ</item>
+    </string-array>
+    <string-array name="userinfo_gender_array">
+        <item>Nije postavljeno</item>
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="userinfo_length_unit">
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="userinfo_normal_blood_array">
+        <item>Nije postavljeno</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="userinfo_rh_blood_array">
+        <item>Nije postavljeno</item>
+        <item>-</item>
+        <item>+</item>
+    </string-array>
+    <string-array name="userinfo_weight_unit">
+        <item>kg</item>
+    </string-array>
+    <string-array name="userinfo_yes_no_array">
+        <item>Nije postavljeno</item>
+        <item>Da</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>N</item>
+        <item>P</item>
+        <item>U</item>
+        <item>S</item>
+        <item>Č</item>
+        <item>P</item>
+        <item>S</item>
+    </string-array>
+</resources>

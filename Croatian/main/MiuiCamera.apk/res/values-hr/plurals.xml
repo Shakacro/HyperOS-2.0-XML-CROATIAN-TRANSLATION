@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 min</item>
+    </plurals>
+    <plurals name="accessibility_focus_face_detect">
+        <item quantity="other">Fokusirano. %d lica otkriveno</item>
+        <item quantity="one">Fokusirano. %d lice otkriveno</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_count">
+        <item quantity="other">%d fotografija u uzastopnom snimanju</item>
+        <item quantity="one">%d fotografija u uzastopnom snimanju</item>
+    </plurals>
+    <plurals name="accessibility_timer_burst_interval">
+        <item quantity="other">Interval: %d sekundi</item>
+        <item quantity="one">Interval: %d sekunda</item>
+    </plurals>
+    <plurals name="accessibility_vv_duartion">
+        <item quantity="other">Trajanje: %d sek.</item>
+        <item quantity="one">Trajanje: %d sek.</item>
+    </plurals>
+	 <plurals name="accessibility_watermark_characters_inputted">
+        <item quantity="other">Unešeno %d znakova.</item>
+        <item quantity="one">Unešeno %d znak.</item>
+     </plurals>
+     <plurals name="accessibility_watermark_characters_max">
+        <item quantity="other">Unesite do %d znakova.</item>
+        <item quantity="one">Unesite do %d znak.</item>
+     </plurals>
+    <plurals name="clone_guide_tip2">
+        <item quantity="other">Istovremeno možete stvoriti do %d klonova.</item>
+        <item quantity="one">Istovremeno možete stvoriti do %d klona.</item>
+    </plurals>
+    <plurals name="delete_selection">
+        <item quantity="other">Izbrisati odabrane stavke?</item>
+        <item quantity="one">Izbrisati odabranu stavku?</item>
+    </plurals>
+    <plurals name="exit_camera_hint">
+        <item quantity="other">"&lt;Data>"Ne mogu se povezati s kamerom.&lt;br>Ova će se aplikacija zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Nakon toga, pričekajte minutu ili dvije i pokušajte ponovno."&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>"Ne mogu se povezati s kamerom.&lt;br>Ova će se aplikacija zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Nakon toga, pričekajte minutu ili dvije i pokušajte ponovno."&lt;/Data>"</item>
+    </plurals>
+    <plurals name="exit_thermal_hint">
+        <item quantity="other">&lt;Data>Ovaj je uređaj pregrijan.&lt;br>Ova će se aplikacija zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Trenutni napredak je spremljen automatski.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ovaj je uređaj pregrijan.&lt;br>Ova će se aplikacija zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Trenutni napredak je spremljen automatski.&lt;/Data></item>
+    </plurals>
+	<plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Brzo naprijed %d sek</item>
+        <item quantity="one">Brzo naprijed %d sek</item>
+     </plurals>
+     <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Premotaj unatrag %d sek</item>
+        <item quantity="one">Premotaj unatrag %d sek</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+     </plurals>
+    <plurals name="fastmotion_pro_min_unit">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="fastmotion_pro_sec_unit">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="live_workspace_delete_dialog_title">
+        <item quantity="other">Izbrisati skice: %1$d?</item>
+        <item quantity="one">Izbrisati %1$d skicu?</item>
+    </plurals>
+	<plurals name="manual_picture_style_desc_custom_add_max">
+        <item quantity="other">Dodajte do %d unaprijed postavljenih postavki</item>
+        <item quantity="one">Dodajte do %d unaprijed postavljenu postavku</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">odabrano %d stavki</item>
+        <item quantity="one">odabrana %d stavka</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 minutu</item>
+    </plurals>
+    <plurals name="pad_ccc_temperature_warning_msg">
+        <item quantity="other">Vaš uređaj je pregrijan. Kamera će se zatvoriti za %d sekundi. Vaše fotografije ili videozapisi bit će automatski spremljeni.</item>
+        <item quantity="one">Vaš uređaj je pregrijan. Kamera će se zatvoriti za %d sekundu. Vaše fotografije ili videozapisi bit će automatski spremljeni.</item>
+    </plurals>
+    <plurals name="pref_camera_fastmotion_duration_unit">
+        <item quantity="other">%1$s min</item>
+        <item quantity="one">%1$s min</item>
+    </plurals>
+    <plurals name="pref_live_duration_prompt">
+        <item quantity="other">Snimi %d sek.</item>
+        <item quantity="one">Snimi %d sekundu</item>
+    </plurals>
+    <plurals name="timefreeze_guide_tip1">
+        <item quantity="other">Možete snimati videozapise s vremenskim zamrzavanjem s do %d subjekata.</item>
+        <item quantity="one">Možete snimiti videozapis s vremenskim zamrzavanjem s %d subjektom.</item>
+    </plurals>
+    <plurals name="timer_burst_setting_total_count">
+        <item quantity="other">%1$s fotografija</item>
+        <item quantity="one">%1$s fotografija</item>
+    </plurals>
+    <plurals name="toast_burst_snap_finished_summary">
+        <item quantity="other">Brzo uzastopno snimanje gotovo, snimljeno fotografija: %1$s</item>
+        <item quantity="one">Brzo uzastopno snimanje gotovo, snimljena %1$s fotografija</item>
+    </plurals>
+	     <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">Na istu mrežu možete povezati do %d kamera</item>
+        <item quantity="one">Na istu mrežu možete povezati %d kameru</item>
+     </plurals>
+     <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">Na istu mrežu možete povezati do %d monitora</item>
+        <item quantity="one">Na istu mrežu možete povezati %d monitor</item>
+     </plurals>
+     <plurals name="friend_mode_display_first_dialog">
+        <item quantity="other">xxxx%1$d xxxx.</item>
+        <item quantity="one">xxxx%1$d xxxx.</item>
+     </plurals>
+     <plurals name="number_unit_seconds_split">
+        <item quantity="other">%ds</item>
+        <item quantity="one">%ds</item>
+     </plurals>
+	      <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">%d-sek. timer za noćni način rada</item>
+        <item quantity="one">%d-sek. timer za noćni način rada</item>
+     </plurals>
+     <plurals name="exit_version_hint">
+        <item quantity="other">"&lt;Data>"Verzija kamere koju koristite nije kompatibilna s modelom vašeg uređaja.&lt;br>Aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Deinstalirajte ažuriranja kamere i pokušajte ponovno."&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>"Verzija kamere koju koristite nije kompatibilna s modelom vašeg uređaja.&lt;br>Aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Deinstalirajte ažuriranja kamere i pokušajte ponovno."&lt;/Data>"</item>
+     </plurals>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passport_account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
+    <string-array name="feature_desc">
+        <item>Optimizirano za međunarodne korisnike by Xiaomi.eu</item>
+    </string-array>
+    <string-array name="month12">
+        <item>Siječanj</item>
+        <item>Veljača</item>
+        <item>Ožujak</item>
+        <item>Travanj</item>
+        <item>Svibanj</item>
+        <item>Lipanj</item>
+        <item>Srpanj</item>
+        <item>Kolovoz</item>
+        <item>Rujan</item>
+        <item>Listopad</item>
+        <item>Studeni</item>
+        <item>Prosinac</item>
+    </string-array>
+</resources>
+

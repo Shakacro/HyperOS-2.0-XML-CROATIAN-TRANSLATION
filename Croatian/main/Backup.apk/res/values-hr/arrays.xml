@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Cjelokupna ocjena</item>
+        <item>Trajanje prijenosa</item>
+        <item>Jednostavnost procesa</item>
+        <item>Jasnoća uputa</item>
+        <item>Ova je značajka korisna</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Jako nezadovoljan</item>
+        <item>Umjereno nezadovoljan</item>
+        <item>Neodlučan</item>
+        <item>Umjereno zadovoljan</item>
+        <item>Jako zadovoljan</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Cjelokupna ocjena</item>
+        <item>Trajanje prijenosa</item>
+        <item>Jednostavnost procesa</item>
+        <item>Jasnoća uputa</item>
+    </string-array>
+</resources> 

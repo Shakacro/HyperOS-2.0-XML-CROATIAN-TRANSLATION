@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+     </string-array>
+	 <string-array name="passport_account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
+     <string-array name="settings_search_connect_car">
+         <item>Kombinirajte aplikacije</item>
+         <item>Međusobno povezivanje/kombiniranje aplikacija</item>
+         <item>Značajke automobila</item>
+		 </string-array>
+     <string-array name="settings_search_connection_home">
+         <item>Međusobna povezanost</item>
+         <item>Međusobna povezanost/međusobna povezanost</item>
+		   <item>Međusobno povezivanje uređaja, Usluge međusobnog povezivanja uređaja, Xiaomi, Xiaomi AIoT, AIoT, Screen Combo, pametna veza, Mi Smart Hub, međusobna povezanost, Duo, Xiaomi telefon, Xiaomi laptop, Multiscreen, Duet, casting, kombiniranje aplikacija, handoff, App handoff, Mirror, Xiaomi Ecosystem, povezivanje uređaja</item>
+     </string-array>
+     <string-array name="settings_search_connection_privacy">
+        <item>Privatnost</item>
+        <item>Međusobna povezanost/Privatnost</item>
+        <item>Privatnost i međusobna povezanost, Privatnost</item>
+     </string-array>
+     <string-array name="settings_search_connection_service">
+        <item>Xiaomi međusobno povezivanje</item>
+        <item>Usluga međusobnog povezivanja/Xiaomi međusobno povezivanje</item>
+        <item>Xiaomi usluge međusobnog povezivanja, Xiaomi međusobno povezivanje</item>
+     </string-array>
+     <string-array name="settings_search_relay_app">
+        <item>Prijenos aplikacije</item>
+        <item>Međusobna povezanost/Aplikacije</item>
+        <item>Prijenos aplikacija, predaja, prijenos</item>
+     </string-array>
+     <string-array name="settings_search_relay_call">
+        <item>Sinkronizacija poziva</item>
+        <item>Međusobna povezanost/Sinkronizacija poziva</item>
+        <item>Sinkronizacija poziva, pozivi s različitih uređaja, predaja poziva, pozivi</item>
+     </string-array>
+     <string-array name="settings_search_relay_network">
+        <item>Mrežna pomoć</item>
+        <item>Međusobna povezanost/Mrežna pomoć</item>
+        <item>Mrežna pomoć, povezivanje, dijeljenje hotspota, bežično povezivanje</item>
+     </string-array>
+     <string-array name="settings_search_relay_network_2">
+       <item>Bežično povezivanje</item>
+       <item>Međupovezanost/Bežično povezivanje</item>
+      <item>Mrežna pomoć, povezivanje, dijeljenje hotspota, bežično povezivanje</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+      <item>Mrežna sinkronizacija</item>
+      <item>Međupovezanost/mrežna sinkronizacija</item>
+      <item>Mrežna pomoć, povezivanje, dijeljenje hotspota, mrežna sinkronizacija</item>
+     </string-array>
+     <string-array name="settings_search_share_Launcher">
+        <item>Home screen+</item>
+        <item>Međusobna povezanost/Home screen+</item>
+        <item>Home screen+, Mi Smart Hub, dijeljenje zaslona</item>
+     </string-array>
+     <string-array name="settings_search_share_clipboard">
+        <item>Međuspremnik</item>
+        <item>Međusobna povezanost/Međuspremnik</item>
+        <item>Međuspremnik</item>
+     </string-array>
+     <string-array name="settings_search_share_notify">
+        <item>Obavijesti na različitim uređajima</item>
+        <item>Međusobna povezanost/Obavijesti</item>
+        <item>Obavijesti na različitim uređajima</item>
+     </string-array>
+</resources>

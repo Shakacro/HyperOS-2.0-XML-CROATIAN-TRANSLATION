@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Jednom</item>
+        <item>Svakodnevno</item>
+        <item>Radnim danima</item>
+        <item>Vikendom</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Jednom</item>
+        <item>Svakodnevno</item>
+        <item>Vikendom</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Svi zapisi</item>
+        <item>Autom. pokretanje</item>
+        <item>Lančano pokretanje</item>
+        <item>Korištenje dopuštenja</item>
+        <item>Osjetljive radnje</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Uzorak</item>
+        <item>PIN</item>
+        <item>Zaporka</item>
+    </string-array>
+    <string-array name="auto_task_screen_zoom_level">
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Jako mali</item>
+        <item>Mali</item>
+        <item>Srednji</item>
+        <item>Veliki</item>
+        <item>Jako veliki</item>
+        <item>XXL</item>
+    </string-array>
+	 <string-array name="cache_sort_type">
+        <item>Veličina</item>
+        <item>Naziv</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Mjesečni plan</item>
+        <item>Neograničeno</item>
+        <item>Dnevni plan</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Vlastito</item>
+        <item>Mi Fan kartica</item>
+        <item>Xiao Tiansheng kartica</item>
+        <item>Tencent King kartica</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Vlastito</item>
+        <item>Mi Mobile</item>
+        <item>Mi Fan kartica</item>
+        <item>Tianshen kartica</item>
+        <item>Tencent kartica</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Jučer (podaci)</item>
+        <item>Danas (podaci)</item>
+        <item>Ovaj mjesec (podaci)</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Jučer (Mobilni podaci) "</item>
+        <item>"Danas (Mobilni podaci) "</item>
+        <item>"Prošli mjesec (Mobilni podaci) "</item>
+        <item>"Ovaj mjesec (Mobilni podaci) "</item>
+        <item>"Jučer (Wi-Fi) "</item>
+        <item>"Danas (Wi-Fi) "</item>
+        <item>"Prošli mjesec (Wi-Fi) "</item>
+        <item>"Ovaj mjesec (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Jučer "</item>
+        <item>"Danas "</item>
+        <item>"Prošli mjesec "</item>
+        <item>"Ovaj mjesec "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Ovaj tjedan "</item>
+        <item>"Danas "</item>
+        <item>"Ovaj mjesec "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Jučer: "</item>
+        <item>"Danas: "</item>
+        <item>"Prošli mjesec "</item>
+        <item>"Ovaj mjesec: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Ovaj tjedan: "</item>
+        <item>"Danas: "</item>
+        <item>"Ovaj mjesec: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Moći ćete pristupiti i uređivati datoteke na vašem uređaju putem računala.</item>
+        <item>Instaliranje aplikacija na vaš uređaj bez vašeg izričitog dopuštenja bit će dopušteno.</item>
+        <item>"Moći ćete daljinski pratiti i snimati sadržaj vašeg zaslona."</item>
+        <item>Moći ćete pristupiti detaljnim informacijama o vašem uređaju.</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Da</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Najniža</item>
+        <item>Niska</item>
+        <item>Normalna</item>
+        <item>Visoka</item>
+        <item>Najviša</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Zaključaj kad je uređaj zaključan</item>
+        <item>Zaključaj nakon izlaska iz aplikacije</item>
+        <item>Zaključaj za 1 min. nakon izlaska iz aplikacije</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>Dodaj u iznimke</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobilni podaci "</item>
+        <item>"Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Važno: Više aplikacija sustava može prestati raditi ispravno.</item>
+        <item>Izgled teksta, računi i sadržaj možda se neće prikazati ispravno.</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sek.</item>
+        <item>4 sek.</item>
+        <item>5 sek.</item>
+        <item>6 sek.</item>
+        <item>7 sek.</item>
+        <item>8 sek.</item>
+        <item>9 sek.</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Pokaži upozorenje</item>
+        <item>Upozori i isključi mobilne podatke</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Zadano</item>
+        <item>Prioritet imaju performanse</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Korištenje zadanog načina kontrole temperature</item>
+        <item>Davanje prioriteta performansama</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Pročitajte sve svoje obavijesti, uključujući sadržaj vaših tekstualnih poruka i drugih stavki koje mogu sadržavati osobne podatke</item>
+        <item>Ograničite dopuštenja obavijesti za neke aplikacije</item>
+        <item>Simulirajte dodirivanje obavijesti i otvaranje aplikacija</item>
+        <item>Uključite i isključite DND način</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Prikupiti podatke o vašim interesima i ponašanju učenjem koje aplikacije koristite i koliko često ih koristite</item>
+        <item>Pristupiti postavkama vašeg jezika i jeziku, kao i drugim pojedinostima</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>"Aplikacije treće strane koje nisu provjerene mogu uzrokovati višestruke probleme i smanjiti stabilnost sustava."</item>
+        <item>Neke aplikacije trećih strana mogu sadržavati zlonamjerni softver koji vaše osobne podatke dovodi u opasnost.</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Nakon 1 minute</item>
+        <item>Nakon 5 minuta</item>
+        <item>Nakon 10 minuta</item>
+        <item>Nakon 30 minuta</item>
+        <item>Nikad</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Unutarnja pohrana</item>
+        <item>Vanjska pohrana</item>
+    </string-array>
+	 <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Zadano</item>
+        <item>Sve</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Najviše korišteno</item>
+        <item>Naziv</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Uvijek</item>
+        <item>Samo za iznimke</item>
+        <item>Nikad</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Uporaba podataka</item>
+        <item>Stanje računa</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Poredaj po nazivu aplikacije</item>
+        <item>Poredaj po nedavno korišteno</item>
+        <item>Poredaj po iskor. prost. za pohranu</item>
+        <item>Poredaj po vremenu instalacije</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Naziv aplikacije</item>
+        <item>Nedavno korišteno</item>
+        <item>Iskorišteni prostor za pohranu</item>
+        <item>Vrijeme instalacije</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Isključi i obavijesti</item>
+        <item>Samo obavijesti</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Izvor instalacije</item>
+        <item>Vrijeme instalacije</item>
+        <item>Izvor posljednjeg ažuriranja</item>
+        <item>Vrijeme posljednjeg ažuriranja</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Mjesečni plan podataka</item>
+        <item>Dnevni plan podataka</item>
+        <item>Neograničeni plan podataka</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Ništa</item>
+        <item>Niska</item>
+        <item>Srednja</item>
+        <item>Visoka</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Nabavite automatski</item>
+        <item>Postavite ručno</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Mobilni podaci "</item>
+        <item>"Wi-Fi "</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobilni podaci "</item>
+        <item>"Wi-Fi "</item>
+    </string-array>
+	 <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normalno</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+     </string-array>
+</resources>

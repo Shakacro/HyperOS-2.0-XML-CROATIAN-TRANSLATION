@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="additional_permissions_more">
+        <item quantity="other">Još %1$d</item>
+        <item quantity="one">Još %1$d</item>
+        <item quantity="few">Još %1$d</item>
+    </plurals>
+    <plurals name="days">
+        <item quantity="other">%s dana</item>
+        <item quantity="one">%s dana</item>
+        <item quantity="few">%s dana</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s sati</item>
+        <item quantity="one">%s sata</item>
+        <item quantity="few">%s sata</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minuta</item>
+        <item quantity="one">%s minute</item>
+        <item quantity="few">%s minute</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s sekundi</item>
+        <item quantity="one">%s sekunde</item>
+        <item quantity="few">%s sekunde</item>
+    </plurals>
+</resources>

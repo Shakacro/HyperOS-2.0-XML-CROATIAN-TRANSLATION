@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="net_diag_err_link_quality">
+         <item>Loša Wi-Fi veza. Promijenite bežični pojas ili ponovno pokrenite router.</item>
+         <item>"Ne mogu pristupiti mreži. Ponovno se spojite na Wi-Fi ili ponovno pokrenite router."</item>
+		 </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+         <item>Loša Wi-Fi veza. Promijenite bežični pojas ili ponovno pokrenite router.</item>
+         <item>"Ne mogu pristupiti mreži. Ponovno se spojite na Wi-Fi ili ponovno pokrenite router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+         <item>Za pristup mreži potrebna je provjera autentičnosti</item>
+         <item>"Pristup mreži je ograničen. Podesite vrijeme na ovom uređaju i provjerite mrežne postavke routera."</item>
+         <item>Greška mreže. Provjerite HTTP proxy postavke.</item>
+         <item>Greška mreže. Provjerite može li ruter pristupiti internetu.</item>
+         <item>"Ne mogu se povezati na mrežu. Ponovno se spojite na Wi-Fi ili ponovno pokrenite router."</item>
+		 </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+         <item>Za pristup mreži potrebna je provjera autentičnosti</item>
+         <item>"Pristup mreži je ograničen. Podesite vrijeme na ovom uređaju i provjerite mrežne postavke routera."</item>
+         <item>Greška mreže. Provjerite HTTP proxy postavke.</item>
+         <item>Greška mreže. Provjerite može li ruter pristupiti internetu.</item>
+         <item>"Ne mogu se povezati na mrežu. Ponovno se spojite na Wi-Fi ili ponovno pokrenite router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+         <item>"Pogreška DNS poslužitelja. Provjerite DNS konfiguraciju routera."</item>
+         <item>"Velika kašnjenja DNS poslužitelja. Provjerite DNS konfiguraciju routera."</item>
+         <item>"Ne mogu pristupiti pristupniku. Ponovno se povežite na Wi-Fi ili ponovno pokrenite router."</item>
+		 </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+         <item>"Pogreška DNS poslužitelja. Provjerite DNS konfiguraciju routera."</item>
+         <item>"Velika kašnjenja DNS poslužitelja. Provjerite DNS konfiguraciju routera."</item>
+         <item>"Ne mogu pristupiti pristupniku. Ponovno se povežite na Wi-Fi ili ponovno pokrenite router."</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+         <item>Velika kašnjenja s lokalne mreže. Ponovno pokrenite router ili se povežite s drugom mrežom.</item>
+         <item>Velika kašnjenja s interneta. Provjerite mrežne postavke operatera ili se povežite s drugom mrežom.</item>
+		 </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Prebacivanje sa statičke IP adrese na DHCP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Greška mrežnog protokola. Ponovno se povežite na Wi-Fi ili ponovno pokrenite uređaj.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Greška mrežnog protokola. Ponovno se povežite na Wi-Fi ili ponovno pokrenite uređaj.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Premjestite se na područje s boljom Wi-Fi pokrivenošću</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Premjestite se na područje s boljom Wi-Fi pokrivenošću</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>"Provjerite DHCP postavke routera i žičanu vezu"</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
+</resources>

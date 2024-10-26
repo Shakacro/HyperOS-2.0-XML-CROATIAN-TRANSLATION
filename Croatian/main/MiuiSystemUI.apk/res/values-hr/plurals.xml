@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">prije 1 sat</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">prije %d sat</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Za %d sat</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Za %d min</item>
+        <item quantity="one">Za %d min</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="other">prije %d dana</item>
+        <item quantity="one">prije %d dan</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="other">prije %d min.</item>
+        <item quantity="one">prije %d min.</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="other">prije %d godina</item>
+        <item quantity="one">prije %d godine</item>
+    </plurals>
+    <plurals name="controls_number_of_favorites">
+        <item quantity="other">%s kontrola dodano.</item>
+        <item quantity="one">%s kontrola dodana.</item>
+    </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s aplikacija je aktivno</item>
+        <item quantity="one">%s aplikacija je aktivna</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Prije pola sata</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Za 1 sat</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Za pola sata</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Odmah</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 minutu</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Netočan PIN kod, preostalo %d pokušaja</item>
+        <item quantity="one">Netočan PIN kod, preostao %d pokušaj</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Netočan PUK kod, preostalo %d pokušaja</item>
+        <item quantity="one">Netočan PUK kod, preostao %d pokušaj</item>
+    </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">Potrebno je unijeti zaporku nakon %d hr neaktivnosti</item>
+        <item quantity="one">Potrebno je unijeti zaporku nakon %d h neaktivnosti</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">Potrebno je iscrtati uzorak nakon %d hr neaktivnosti</item>
+        <item quantity="one">Potrebno je iscrtati uzorak nakon %d hr neaktivnosti</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">Odabrano: %d</item>
+        <item quantity="one">Odabrano: %d</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">Još %d min do pune baterije​</item>
+        <item quantity="one">Još %d min do pune baterije​</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">Još %d min do pune baterije​</item>
+        <item quantity="one">Još %d min do pune baterije</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">Još %1$d hr %2$d min do pune baterije</item>
+        <item quantity="one">Još %1$d hr %2$d min do pune baterije</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Preostalo još %d sati</item>
+        <item quantity="one">Preostao još %d sat</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Preostalo još %d min.</item>
+        <item quantity="one">Preostalo još %d min.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Preostalo još %1$d hr %2$d min.</item>
+        <item quantity="one">Preostalo još %1$d hr %2$d min.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%dhr</item>
+        <item quantity="one">%dhr</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d hr %2$d min.</item>
+        <item quantity="one">%1$d hr %2$d min.</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
+        <item quantity="other">Preostalo još %d hr</item>
+        <item quantity="one">Preostao još %d hr</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
+        <item quantity="other">Preostalo još %d min.</item>
+        <item quantity="one">Preostala još %d min.</item>
+    </plurals>
+    <plurals name="keyguard_extreme_power_info_could_use_time_text">
+        <item quantity="other">Preostalo još %1$d h %2$d m</item>
+        <item quantity="one">Preostalo još %1$d h %2$d m</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Unesite SIM PIN, imate još %d preostalih pokušaja.</item>
+        <item quantity="one">Unesite SIM PIN, imate još %d preostali pokušaj prije nego što kontaktirate svog operatera kako biste otključali uređaj.</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message_multi_sim">
+         <item quantity="other">Unesite SIM %1$d PIN, imate još %2$d pokušaja.</item>
+         <item quantity="one">Unesite SIM %1$d PIN, imate još %2$d pokušaja.</item>
+		 </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">SIM je sada onemogućen. Unesite PUK kôd za nastavak. Imate još %d pokušaja, a ako ne uspijete, SIM će postati trajno neupotrebljiv. Kontaktirajte operatera za pojedinosti.</item>
+        <item quantity="one">SIM je sada onemogućen. Unesite PUK kôd za nastavak. Imate još %d pokušaj, a ako ne uspijete, SIM će postati trajno neupotrebljiv. Kontaktirajte operatera za pojedinosti.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+     <item quantity="other">Netočan SIM PIN kod, imate %d preostalih pokušaja.</item>
+      <item quantity="one">Netočan SIM PIN kod, imate još %d pokušaj prije nego što se morate obratiti svom operateru da otključa vaš uređaj.</item>   
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code_multi_sim">
+        <item quantity="other">Netočan PIN za SIM %1$d, imate još %2$d pokušaja.</item>
+         <item quantity="one">Netočan SIM %1$d PIN, imate još %2$d pokušaja.</item>
+		 </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+         <item quantity="other">Pogrešan SIM PUK. Preostalo pokušaja: %d</item>
+         <item quantity="one">Netočan SIM PUK. Preostalo pokušaja: %d</item>
+		 </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+         <item quantity="other">Uređaj nije otključan %d sati. Potvrdite zaporku.</item>
+         <item quantity="one">Uređaj nije otključan %d sati. Potvrdite zaporku.</item>
+		 </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+         <item quantity="other">Uređaj nije otključan %d sati. Potvrdite uzorak.</item>
+         <item quantity="one">Uređaj nije otključan %d sati. Potvrdite uzorak.</item>
+		 </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+         <item quantity="other">Uređaj nije otključan %d sati. Potvrdite PIN.</item>
+         <item quantity="one">Uređaj nije otključan %d sati. Potvrdite PIN.</item>
+		 </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+         <item quantity="other">Pokušajte ponovno za %d sek.</item>
+         <item quantity="one">Pokušajte ponovno za 1 sek.</item>
+		 </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Upravo sada</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">odabrano %d stavki</item>
+        <item quantity="one">odabrana %d stavka</item>
+    </plurals>
+	     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+     </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s, %2$s a %3$d drugih</item>
+        <item quantity="one">%1$s, %2$s a %3$d drugih</item>
+        <item quantity="few">%1$s, %2$s a %3$d drugih</item>
+        <item quantity="many">%1$s, %2$s a %3$d drugih</item>
+    </plurals>
+    <plurals name="notification_group_child_count">
+        <item quantity="other">Obavijesti: %1$d</item>
+        <item quantity="one">Obavijesti: %1$d</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">U skupini je još %s obavijesti.</item>
+        <item quantity="one">U skupini je još %s obavijest.</item>
+    </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">Kategorije: %d</item>
+        <item quantity="one">Kategorije: %d</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">1 od %s kategorija obavijesti iz ove aplikacije</item>
+         <item quantity="one">1 od %s kategorije obavijesti iz ove aplikacije</item>
+         <item quantity="few">1 od %s kategorija obavijesti iz ove aplikacije</item>
+         <item quantity="many">1 od %s kategorije obavijesti iz ove aplikacije</item>
+		 </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">prije %d min</item>
+        <item quantity="one">prije 1 minutu</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Pokušaj ponovno za %d min.</item>
+        <item quantity="one">Pokušaj ponovno za %d min.</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Pokušaj ponovno za %d sek.</item>
+        <item quantity="one">Pokušaj ponovno za %d sek.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="other">%d uređaja</item>
+        <item quantity="one">%d uređaj</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">Aktivno je %1$d prečaca iznad crte</item>
+         <item quantity="one">Aktivan je 1 prečac iznad crte</item>
+		 </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="other">%d hr</item>
+        <item quantity="one">%d hr</item>
+        <item quantity="two">%d hr</item>
+        <item quantity="few">%d hr</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minutu</item>
+        <item quantity="few">%d minuta</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+         <item quantity="other">Nedavne aplikacije: %d</item>
+         <item quantity="one">1 nedavna aplikacija</item>
+		 </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="other">Možete dodati do %d korisnika.</item>
+        <item quantity="one">Može se dodati samo jedan korisnik.</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Vedro</item>
+        <item quantity="one">Sunčano</item>
+    </plurals>
+	<plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Atmosferski tlak: %s hektopaskala</item>
+        <item quantity="one">Atmosferski tlak: %s hektopaskal</item>
+     </plurals>
+     <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Potrošeno %1$s kcal</item>
+        <item quantity="one">Potrošena %1$s kcal</item>
+     </plurals>
+     <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Cilj kalorija: %1$s kcal</item>
+        <item quantity="one">Cilj kalorija: %1$s kcal</item>
+     </plurals>
+     <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
+     </plurals>
+     <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Vrijeme aktivnosti: %1$s min</item>
+        <item quantity="one">Vrijeme aktivnosti: %1$s min</item>
+     </plurals>
+     <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Cilj aktivnosti: %1$s min</item>
+        <item quantity="one">Cilj aktivnosti: %1$s min</item>
+     </plurals>
+     <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s min</item>
+        <item quantity="one">%1$s/%2$s min</item>
+     </plurals>
+     <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Ustao unutar %1$s sati</item>
+        <item quantity="one">Ustao unutar %1$s sata</item>
+     </plurals>
+     <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Cilj stajanja: %1$s sati</item>
+        <item quantity="one">Cilj stajanja: %1$s sat</item>
+     </plurals>
+     <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s hrs</item>
+        <item quantity="one">%1$s/%2$s hr</item>
+     </plurals>
+     <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Broj trenutnih koraka: %1$s </item>
+        <item quantity="one">Broj trenutnih koraka: %1$s </item>
+     </plurals>
+     <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Cilj koraka: %1$s koraka</item>
+        <item quantity="one">Cilj koraka: %1$s korak</item>
+     </plurals>
+     <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s koraka</item>
+        <item quantity="one">%1$s/%2$s korak</item>
+     </plurals>
+     <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatura: %1$s stupnjeva, %2$s</item>
+        <item quantity="one">Temperatura: %1$s stupanj, %2$s</item>
+     </plurals>
+</resources>
