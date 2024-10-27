@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="uwb_scan_distance_entries">
+   <item>Daleko</item>
+   <item>Sredina</item>
+   <item>U blizini</item>
+ </string-array>
+</resources>
