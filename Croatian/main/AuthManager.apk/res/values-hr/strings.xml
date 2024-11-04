@@ -42,12 +42,16 @@
   <string name="HIPS_Perm_Intl_group_name_camera">Kamera</string>
   <string name="HIPS_Perm_Intl_group_name_contact">Kontakti</string>
   <string name="HIPS_Perm_Intl_group_name_location">Lokacija</string>
+  <string name="HIPS_Perm_Intl_group_name_read_note">Bilješke</string>
+  <string name="HIPS_Perm_Intl_group_name_read_record">Snimke</string>
   <string name="HIPS_Perm_Intl_group_name_storage">Pohrana</string>
   <string name="HIPS_Perm_Location">Lokacija</string>
   <string name="HIPS_Perm_Location_Desc">dobiti preciznu lokaciju (na temelju GPS-a i mreže)</string>
   <string name="HIPS_Perm_NEARBY_DEVICES">Povezivanje s uređajima u blizini</string>
   <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Otkriti i povezati se s uređajima u blizini</string>
   <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Otkriti i povezati se s uređajima u blizini putem Bluetootha i Wi-Fi-ja</string>
+  <string name="HIPS_Perm_operator_read_note">Pristup bilješkama</string>
+  <string name="HIPS_Perm_operator_read_record">Pristup snimkama</string>
   <string name="HIPS_Perm_PhoneID">Dobivanje informacija o uređaju</string>
   <string name="HIPS_Perm_PhoneID_Desc">pristupiti broju telefona, IMEI i IMSI-ju</string>
   <string name="HIPS_Perm_PhoneID_Desc_Q">Pristup broju telefona i statusu uređaja</string>
@@ -363,6 +367,8 @@
   <string name="permgroupdesc_read_media_visual">Želite li dopustiti %1$s pristup fotografijama i video zapisima pohranjenim na vašem uređaju?</string>
   <string name="permgroupdesc_read_media_visual_more">Želite li dopustiti %1$s pristup većem broju fotografija i videozapisa?</string>
   <string name="permgroupdesc_read_media_visual_u">Želite li dopustiti %1$s pristup fotografijama i videozapisima na ovom uređaju?</string>
+  <string name="permdesc_read_note">Želite li dopustiti %1$s pristup bilješkama?</string>
+  <string name="permdesc_read_record">Želite li dopustiti %1$s pristup snimkama?</string>
   <string name="permgroupdesc_recognition">Želite li dopustiti %1$s pristup podacima o zdravlju i aktivnosti?</string>
   <string name="permgroupdesc_sensors">Želite li dopustiti %1$s pristup podacima tjelesnih senzora?</string>
   <string name="permgroupdesc_sms">Želite li dopustiti %1$s čitanje ili slanje SMS-a?</string>

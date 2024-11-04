@@ -5,7 +5,11 @@
         <item quantity="one">Izgleda da je baterija odspojena. Uređaj će se isključiti u roku od %d sek. Obratite se korisničkoj podršci da biste riješili ovaj problem.</item>
     </plurals>
     <plurals name="file_type_detail_count">
-        <item quantity="other">Datoteka: %1$d</item>
+        <item quantity="other">%1$d datoteka</item>
         <item quantity="one">%1$d datoteka</item>
     </plurals>
+	 <plurals name="tethered_notification_multi_device_message">
+        <item quantity="other">Povezano je %1$s uređaja. Vaš bi se uređaj mogao zagrijati i trošiti više energije.</item>
+        <item quantity="one">Povezan je %1$s uređaj. Vaš bi se uređaj mogao zagrijati i trošiti više energije.</item>
+     </plurals>
 </resources>

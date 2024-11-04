@@ -1983,6 +1983,8 @@ za račun %s."</string>
 
 Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="satellite_notification_how_it_works">Kako radi</string>
+  <string name="satellite_notification_manual_summary">Slanje i primanje poruka bez mobilne ili Wi-Fi mreže</string>
+  <string name="satellite_notification_manual_title">Koristiti satelitsku razmjenu poruka?</string>
   <string name="satellite_notification_open_message">Otvori poruke</string>
   <string name="satellite_notification_summary">Možete slati i primati poruke bez mobilne ili Wi-Fi mreže</string>
   <string name="satellite_notification_title">Automatski povezan sa satelitom</string>

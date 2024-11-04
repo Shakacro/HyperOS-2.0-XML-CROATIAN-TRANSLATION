@@ -100,6 +100,8 @@
   <string name="clank">Zveket</string>
   <string name="close">Isključeno</string>
   <string name="close_app">Zatvori trenutnu aplikaciju</string>
+  <string name="config_quick_scanner_notification_content_text">Skenirajte QR kodove i izravno otvarajte web stranice</string>
+  <string name="config_quick_scanner_notification_title">Brzi skener</string>
   <string name="configure_input_methods">Odaberite tipkovnicu</string>
   <string name="confirm_cancel_task_files">Otkazati slanje datoteka na %1$s?</string>
   <string name="confirm_cancel_task_images">Otkazati slanje slika na %1$s?</string>
@@ -443,6 +445,7 @@
   <string name="presentation_private">Privatni broj</string>
   <string name="presentation_unknown">Nepoznat broj</string>
   <string name="projection_disable_camera_toast">"Ova aplikacija ne dopušta korištenje kamere drugog povezanog uređaja tijekom emitiranja. Prijeđite na svoj telefon."</string>
+  <string name="projection_prevent_chain_start_toast">Skakanje na ciljanu aplikaciju nije podržano</string>
   <string name="propotional_freeform_tip">"Izgleda da ova aplikacija u potpunosti ne podržava plutajuće prozore"</string>
   <string name="radar">Radar</string>
   <string name="raindrops">Kapi kiše</string>

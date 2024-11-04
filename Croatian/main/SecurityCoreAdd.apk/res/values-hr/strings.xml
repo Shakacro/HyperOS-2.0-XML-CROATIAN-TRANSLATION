@@ -616,6 +616,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="keyboard_layout_dialog_setup_button">Postavljanje rasporeda tipkovnice</string>
   <string name="keyboard_layout_dialog_switch_hint">Za prebacivanje pritisnite Ctrl+razmaknica</string>
   <string name="keyboard_layout_dialog_title">Odaberite raspored tipkovnice</string>
+  <string name="keyboard_layout_multiple_method_hint">Pritisnite Ctrl+Space za prebacivanje između rasporeda tipkovnice</string>
   <string name="keyboard_layout_picker_title">Rasporedi tipkovnice</string>
   <string name="keyboard_layout_thai">tajlandski</string>
   <string name="keyboard_layouts_label">Xiaomi tipkovnica</string>

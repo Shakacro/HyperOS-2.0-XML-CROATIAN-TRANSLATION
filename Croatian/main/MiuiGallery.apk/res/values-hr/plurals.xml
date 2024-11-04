@@ -301,6 +301,10 @@
         <item quantity="other">Preuzimanje stavki iz clouda (%2$d/%1$d)</item>
         <item quantity="one">Preuzimanje stavki iz clouda (%2$d/%1$d)</item>
     </plurals>
+	 <plurals name="drop_contain_several_same_name_file">
+        <item quantity="other">"Ne mogu spremiti. %d datoteke s ovim nazivom već postoje."</item>
+        <item quantity="one">"Ne mogu spremiti. %d datoteka s ovim nazivom već postoji."</item>
+     </plurals>
     <plurals name="face_count">
         <item quantity="other">Ukupno fotografija: %d</item>
         <item quantity="one">Ukupno %d fotografija</item>
@@ -416,6 +420,10 @@
         <item quantity="other">Videozapisi čekaju sinkronizaciju: %1$d</item>
         <item quantity="one">%1$d videozapis čeka sinkronizaciju</item>
     </plurals>
+	 <plurals name="other_group_name">
+        <item quantity="other">%1$s i još %2$d osoba</item>
+        <item quantity="one">%1$s i još %2$d osoba</item>
+     </plurals>
     <plurals name="photo_count">
         <item quantity="other">%d fotografija</item>
         <item quantity="one">%d fotografija</item>
@@ -424,6 +432,10 @@
         <item quantity="other">Ukupno: %1$d</item>
         <item quantity="one">Ukupno: %1$d</item>
     </plurals>
+	 <plurals name="photo_picker_title_format">
+        <item quantity="other">Odaberite %d fotografija</item>
+        <item quantity="one">Odaberite %d fotografiju</item>
+     </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d dana</item>
         <item quantity="one">%d dan</item>
@@ -472,6 +484,10 @@
         <item quantity="other">"%1$d datoteka (%2$d MB) još nisu preuzete. Preuzeti putem mobilnih podataka?"</item>
         <item quantity="one">"%1$d datoteka (%2$d MB) još nije preuzeta. Preuzeti putem mobilnih podataka?"</item>
     </plurals>
+	 <plurals name="picker_overview_page_title">
+        <item quantity="other">Odabrano %1$d stavki</item>
+        <item quantity="one">Odabrana %1$d stavka</item>
+     </plurals>
     <plurals name="picker_retry_image_confirm_message">
         <item quantity="other">"Ne mogu preuzeti %1$d datoteka. Pokušati ponovno?"</item>
         <item quantity="one">"Ne mogu preuzeti %1$d datoteku. Pokušati ponovno?"</item>
@@ -484,6 +500,10 @@
         <item quantity="other">"Preskočeno %d fotografija koje nisu na uređaju."</item>
         <item quantity="one">"Preskočena %d fotografija koja nije na uređaju."</item>
     </plurals>
+	 <plurals name="picker_title_format_allow_image_and_video">
+        <item quantity="other">Odaberite %1$d–%2$d stavki</item>
+        <item quantity="one">Odaberite %1$d–%2$d stavku</item>
+     </plurals>
 	<plurals name="picker_title_video_editor_component">
         <item quantity="other">Odaberite %d segmenta</item>
         <item quantity="one">Odaberite %d segment</item>
@@ -492,6 +512,10 @@
         <item quantity="other">Odaberite %1$d segmenta (%2$d)</item>
         <item quantity="one">Odaberite %1$d segment (%2$d)</item>
     </plurals>
+	 <plurals name="picker_title_specify_format_allow_image_and_video">
+        <item quantity="other">Odaberite %d stavki</item>
+        <item quantity="one">Odaberite %d stavku</item>
+     </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Pronađene nove fotografije: %1$d</item>
         <item quantity="one">Pronađena %1$d nova fotografija</item>
@@ -524,6 +548,10 @@
         <item quantity="other">Pronađeno %d stavki</item>
         <item quantity="one">Pronađena %d stavka</item>
     </plurals>
+	 <plurals name="search_title_new_ai">
+        <item quantity="other">Pronađeno %ditavka</item>
+        <item quantity="one">Pronađena %d stavka</item>
+     </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d instal. paketa (%3$s) od %1$s</item>
         <item quantity="one">%2$d instal. paket (%3$s) od %1$s</item>
@@ -790,6 +818,10 @@
      <plurals name="title_age_hint_year">
         <item quantity="other">%d godina</item>
         <item quantity="one">%d godina</item>
+     </plurals>
+	  <plurals name="universal_pick_bottom_bar_selected_content_format">
+        <item quantity="other">Prikaži %d odabranih stavki</item>
+        <item quantity="one">Prikaži %d odabranu stavku</item>
      </plurals>
 	      <plurals name="share_album_detail_photo_count">
         <item quantity="other">Učitano %d fotografija</item>

@@ -73,14 +73,15 @@
   <string name="camera_application_introduction">Ovu aplikaciju možete koristiti za snimanje fotografija i videozapisa.</string>
   <string name="camera_introduction">Kameru možete koristiti za snimanje fotografija i videozapisa.</string>
   <string name="carrier_introduction_china_rothko">Kako bismo poboljšali kvalitetu usluga koje vam se pružaju, programi koji se izvode na ovom uređaju (uključujući SystemHelper, RegService i usluge operatera) mogu slati informacije o ovom uređaju ili vašoj SIM kartici (uključujući IMEI , IMSI, MSISDN, MEID, ICCID, MAC adresa, verzija sustava, verzija Androida, model uređaja, osnovna hardverska konfiguracija i telefonski broj), kao i vaša približna lokacija (uključujući regiju, koordinate, identifikator susjedstva i ID bazne stanice) , svom operateru putem Wi-Fi-ja, mobilnih mreža ili SMS-a. Prilikom poziva, DCService će se spojiti na mrežu. Mobilni operateri jamče da će se ti podaci koristiti samo za analizu, poboljšanje kvalitete usluge ili pružanje prilagođenih usluga ili tehnologija te da se nikada neće dijeliti ni s kim na način koji bi mogao omogućiti vašu osobnu identifikaciju. Pojedinosti potražite u relevantnoj izjavi vašeg operatera. Možete se raspitati o svim povezanim naknadama za usluge izravno od svog operatera.</string>
-  <string name="carousel_cookies_content">&lt;Data&gt;Kada dodirnete slike i priče u Wallpaper Carouselu, njihove pune verzije otvorit će se u vašem pregledniku. Naš davatelj sadržaja treće strane od povjerenja tada može preporučiti dodatni sadržaj i oglase koji su prilago&amp;#273;eni vašim interesima. Ako pristanete aktivirati ovu značajku, oni će postaviti kolačiće u vaš preglednik, kao što je opisano u ovome &amp;lt;a href=\"%1$s\"&amp;gt;Cookie Policy&amp;lt;/a&amp;gt;. If you decline cookies, Wallpaper Carousel will still work but its content and recommendations might stop being relevant to you. You can always change your preferences in Settings.&lt;/Data&gt;</string>
+  <string name="carousel_cookies_content"><Data>Kada dodirnete slike i priče u Wallpaper Carouselu, njihove pune verzije otvorit će se u vašem pregledniku. Naš davatelj sadržaja treće strane od povjerenja tada može preporučiti dodatni sadržaj i oglase koji su prilagođeni vašim interesima. Ako pristanete aktivirati ovu značajku, oni će postaviti kolačiće u vaš preglednik, kao što je opisano u ovome &lt;a href=\"%1$s\">Politika korištenja kolačića&lt;/a>. Ako odbijete kolačiće, Wallpaper Carousel će i dalje raditi, ali vam njegov sadržaj i preporuke mogu prestati biti relevantni. Uvijek možete promijeniti svoje postavke u Postavkama.</Data></string>
   <string name="carousel_cookies_subtitle">Kolačići nam omogućuju da personaliziramo vaše iskustvo Zaklj. zaslona.</string>
   <string name="carousel_cookies_title">Personalizirani sadržaj i kolačići</string>
-  <string name="carousel_privacy">&lt;Data&gt;"Pročitajte i prihvatite našeg pouzdanog pružatelja treće strane &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; prije korištenja Wallpaper Carousela."&lt;/Data&gt;</string>
+  <string name="carousel_privacy"><Data>"Pročitajte i prihvatite našeg pouzdanog pružatelja treće strane &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> i &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> prije korištenja Wallpaper Carousela."</Data></string>
   <string name="carousel_setting">Postavite svoj Zaklj. zaslon</string>
   <string name="carousel_setting_sub">Wallpaper Carousel pokazat će vam nove priče svaki put kada otključate svoj uređaj</string>
   <string name="carrier_introduction_china">"Kako bi vam pružili bolje usluge, procesi koji se izvode na vašem uređaju (uključujući SystemHelper, RegService i Carrier Services) mogu povremeno slati podatke koji se odnose na vaš uređaj i SIM karticu (uključujući IMEI, IMSI, MSISDN, MEID, ICCID, MAC adresu, HyperOS verziju, Android verziju, model uređaja i osnovne hardverske specifikacije), kao i približne informacije o lokaciji (uključujući regiju, koordinate, identifikator područja i ID bazne stanice) operateru putem Wi-Fi-ja, mobilne podatkovne mreže ili besplatnog SMS-a. Prijevoznik obećava da će analizirati relevantne informacije samo radi poboljšanja kvalitete usluga ili pružanja prilagođenih usluga ili tehnologija i neće otkriti relevantne informacije trećim stranama u bilo kojem obliku koji vas osobno identificira. Posebna izjava prijevoznika ima prednost. U vezi troškova korištenja ove usluge posavjetujte se sa svojim operaterom."</string>
   <string name="check_box_label">&lt;Data&gt;"Uključivanjem ove značajke prihvaćate &amp;lt;a href=%1$s&amp;gt;Xiaomi usluge međusobnog povezivanja Services Privacy Policy&amp;lt;/a &amp;gt;."&lt;/Data&gt;</string>
+  <string name="check_box_label_new"><Data>"Možete koristiti Xiaomi Interconnectivity za kontrolu i prijenos podataka između uređaja. Prihvatite Xiaomi Interconnectivity &lt;a href=%1$s>Pravila o privatnosti&lt;/a > prije korištenja njegovih značajki. Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja:"</Data></string>
   <string name="check_network_status">"Nije moguće potvrditi račun zbog mrežne pogreške"</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clock_introduction">Ovu aplikaciju možete koristiti za prikaz vremena, kao i korištenje timera, svjetskog sata, štoperice, postavljanje alarma i još mnogo toga.</string>
@@ -150,6 +151,7 @@
   <string name="font_hint_normal">Povećaj veličinu teksta</string>
   <string name="font_settings_sub_title">Odaberi font sustava</string>
   <string name="font_settings_title">Postavke fonta</string>
+  <string name="font_size_title">Veličina teksta</string>
   <string name="font_use_case_text_example">Tijelo</string>
   <string name="font_use_case_title_example">Naslov</string>
   <string name="framework_introduction">Xiaomi Services Framework omogućuje vam upotrebu Xiaomi računa, Mi Push, Mi Stats i HyperOS BI.</string>
@@ -164,17 +166,37 @@
   <string name="home_settings_miui_home">Klasično</string>
   <string name="home_settings_poco_launcher">Ladica za aplikacije</string>
   <string name="home_settings_title">Odaberite zadani pokretač</string>
+  <string name="image_brain_configuration_service">Usluga konfiguracije Xiaomi Imaging Engine</string>
   <string name="ime_privacy_policy">Pravila o privatnosti za odabrane tipkovnice</string>
   <string name="ime_privacy_policy_no_network">Nema mrežne veze. Pogledajte Pravila o privatnosti za ovu tipkovnicu na %s.</string>
   <string name="ims_introduction">IMS usluga pruža osnovne komunikacijske mogućnosti i koristi se za audio i video pozive visoke rezolucije.</string>
   <string name="input_method_category">"Odaberite zadanu tipkovnicu koju ćete koristiti za pisanje poruka, bilješki i za sve ostalo. Također možete instalirati druge tipkovnice kasnije."</string>
   <string name="input_method_setting">Odaberite tipkovnicu</string>
   <string name="install_preinstall_app">Učitavanje aplikacija…</string>
-  <string name="intent_filter_verification_service">Intent Filter Verification Service</string>
+  <string name="intent_filter_verification_service">Usluga provjere filtra namjere</string>
   <string name="interconnection_communication_introduction">Xiaomi internetske komunikacijske usluge omogućuju vam otkrivanje, povezivanje i komunikaciju s drugim Xiaomi uređajima.</string>
   <string name="interconnection_service_global_item_title">Xiaomi usluge međusobnog povezivanja</string>
   <string name="interconnection_service_global_label">"&lt;Data>Xiaomi usluge međusobnog povezivanja omogućuje vašim uređajima međusobnu bežičnu interakciju. Uključivanjem ove značajke pristajete na Xiaomi usluge međusobnog povezivanja &lt;a href=%1$s>Pravila o privatnosti&lt;/a >.&lt;/Data>"</string>
+  <string name="interconnection_service_permission1">Uključiti i isključiti Bluetooth</string>
+  <string name="interconnection_service_permission10">Za otkrivanje uređaja u blizini</string>
+  <string name="interconnection_service_permission11">Prijenos podataka između uređaja</string>
+  <string name="interconnection_service_permission12">Za prijenos podataka između povezanih uređaja</string>
+  <string name="interconnection_service_permission13">Pristup sadržaju zaslona</string>
+  <string name="interconnection_service_permission14">Za pristup sadržaju zaslona tijekom snimanja ili emitiranja, uključujući osjetljive podatke kao što su zvuk, zaporke, zaporke za plaćanje, fotografije, poruke itd.</string>
+  <string name="interconnection_service_permission15">Pristup povijesti poziva</string>
+  <string name="interconnection_service_permission16">Za prijenos poziva između uređaja tijekom zrcaljenja zaslona</string>
+  <string name="interconnection_service_permission17">Pristup popisu instaliranih aplikacija</string>
+  <string name="interconnection_service_permission18">Za pristup popisu aplikacija instaliranih na mobilnom uređaju i zrcaljenje zaslona na računalima</string>
+  <string name="interconnection_service_permission2">Za povezivanje i prijenos podataka između dva uređaja</string>
+  <string name="interconnection_service_permission3">Uključiti i isključiti Wi-Fi</string>
+  <string name="interconnection_service_permission4">Za prijenos podataka između dva uređaja putem Wi-Fi-ja</string>
+  <string name="interconnection_service_permission5">Snimanje zvuka</string>
+  <string name="interconnection_service_permission6">Za snimanje zvuka uređaja prilikom emitiranja i zrcaljenja</string>
+  <string name="interconnection_service_permission7">Pristup i uređivanje fotografija i datoteka na vašem uređaju</string>
+  <string name="interconnection_service_permission8">Za emitiranje i prijenos sadržaja s ovog uređaja</string>
+  <string name="interconnection_service_permission9">Identifikator pristupnog uređaja</string>
   <string name="interconnection_service_summary_china">Xiaomi usluge međusobnog povezivanja omogućuju vašim uređajima međusobnu bežičnu interakciju. %1$s Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji vašeg sustava i modelu uređaja. Više informacija potražite na %2$s.</string>
+  <string name="interconnection_service_summary_china_new">%1$s Dostupne značajke Xiaomi Interconnectivity na vašem uređaju mogu se razlikovati zbog razlika u verzijama sustava i modelima uređaja. Više informacija potražite na našoj službenoj web stranici (%2$s).</string>
   <string name="interconnection_service_summary_china_fragment1">Ove usluge uključuju Mi Smart Play, emitiranje, prijenos aplikacije, početni zaslon+, dijeljeni međuspremnik, bežično povezivanje (uključujući mrežnu sinkronizaciju), kontrole na različitim uređajima, kameru na različitim uređajima i Mi Smart Hub. Da bi mogli normalno raditi, Xiaomi Interconnectivity Services moraju se povezati na internet i zahtijevaju sljedeća dopuštenja:</string>
   <string name="interconnection_service_summary_china_fragment10">Za pristup informacijama o uređajima u blizini</string>
   <string name="interconnection_service_summary_china_fragment11">Snimanje internog zvuka uređaja</string>
@@ -188,7 +210,7 @@
   <string name="interconnection_service_summary_china_fragment19">Primopredaja aplikacije i početni zaslon+:</string>
   <string name="interconnection_service_summary_china_fragment2">Mi Smart Play i emitiranje:</string>
   <string name="interconnection_service_summary_china_fragment20">Uključite ili isključite Bluetooth</string>
-	<string name="interconnection_service_summary_china_fragment21">Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha</string>
+  <string name="interconnection_service_summary_china_fragment21">Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha</string>
   <string name="interconnection_service_summary_china_fragment22">Uključiti ili isključiti Wi-Fi</string>
   <string name="interconnection_service_summary_china_fragment23">Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi-ja</string>
   <string name="interconnection_service_summary_china_fragment24">Pristup MAC adresi uređaja</string>
@@ -248,6 +270,8 @@
   <string name="ktposition_header">Dijeljenje informacija o lokaciji s hitnim spasilačkim agencijama</string>
   <string name="language_picker_other_languages_title">Više jezika</string>
   <string name="language_settings">Odaberi jezik</string>
+  <string name="layout_size_large">Veliki</string>
+  <string name="layout_size_normal">Normalni</string>
   <string name="locale_picker_other_locale_title">Više regija</string>
   <string name="locale_picker_title">Odaberite vašu regiju</string>
   <string name="location_U">U+ GPSnWPS</string>
@@ -525,6 +549,7 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
+  <string name="prompt_fingerprint">Napredna zaštita podataka uključena je za vaš račun. Postavite zaključavanje zaslona za ovaj uređaj.</string>
   <string name="privacy_content_one">"Preporuke za Wallpaper Carousel pokreće Taboola, naš pouzdani pružatelj sadržaja treće strane. Da bi pružio ovaj sadržaj, Taboola mora pristupiti i pohraniti neosobne podatke s vašeg uređaja, uključujući jezik vašeg sustava i vrstu preglednika. Možete saznati kako Taboola koristi prikupljene podatke u Taboolinim &lt;a href =%1$s&gt;Pravila o privatnosti&lt;/a&gt; i &lt;a href =%2$s&gt;Korisnički ugovor&lt;/a&gt;. Pročitajte i prihvatite uvjete i odredbe navedene u ovim dokumentima prije nego nastavite. Ako se ne slažete, usluge Wallpaper Carousel bit će deaktivirane."</string>
   <string name="privacy_policy">Pravila o privatnosti</string>
   <string name="privacy_provision_more">Saznajte više o zaštiti privatnosti</string>
@@ -536,7 +561,8 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="protect_persoanl_info_statement">Zaštititi ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.</string>
   <string name="provide_date_management_service">Ova vam usluga omogućuje provjeru datuma i upravljanje događajima.</string>
   <string name="provision_back">Natrag</string>
-  <string name="provision_inputmethod_policy_description">&lt;Data&gt;Pogledajte &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt; vaše odabrane tipkovnice.&lt;/Data&gt;</string>
+  <string name="provision_complete_text">Nastavi</string>
+  <string name="provision_inputmethod_policy_description"><Data>Pogledajte &lt;a href=%1$s>Pravila o privatnosti&lt;/a > vaše odabrane tipkovnice.</Data></string>
   <string name="provision_inputmethod_policy_description1">Pravila o privatnosti</string>
   <string name="provision_next">Dalje</string>
   <string name="provision_skip_underline">Preskoči</string>
@@ -565,6 +591,8 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="require_telephone_statement">Za pružanje osnovnih usluga potrebna su sljedeća dopuštenja:</string>
   <string name="safe_open_service">Sigurne otvorene usluge</string>
   <string name="safe_open_service_introduction">Sigurne otvorene usluge pomažu programerima i pružaju sigurnosne mogućnosti na razini sustava za zaštitu korisnika i njihove privatnosti.</string>
+  <string name="sample_text_summary">Xiaomi neumorno izrađuje nevjerojatne proizvode s poštenim cijenama kako bi svi u svijetu mogli uživati ​​u boljem životu kroz inovativnu tehnologiju.</string>
+  <string name="sample_text_title">Uzorak teksta:</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
@@ -575,10 +603,10 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="select_font_modele_tips">Uvijek možete odabrati novi font u Temama</string>
   <string name="send">Pošalji</string>
   <string name="service_agreement">"Pročitao sam i prihvatio uvjete i odredbe."</string>
-  <string name="service_company_adjust_content">Xunlei Network Services User Agreement</string>
-  <string name="service_fast_pairing_policy">&lt;Data&gt;Pročitajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Mi Link Privacy Policy&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
-  <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
-  <string name="service_location_share_policy">&lt;Data&gt;Pročitajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Location Services Privacy Statement&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="service_company_adjust_content">Korisnički ugovor za mrežne usluge Xunlei</string>
+  <string name="service_fast_pairing_policy"><Data>Pročitajte i prihvatite &lt;a href=%1$s>Mi Link Pravila o privatnosti&lt;/a > prije nego nastavite.</Data></string>
+  <string name="service_interconnection_communication">Xiaomi internetske komunikacijske usluge</string>
+  <string name="service_location_share_policy"><Data>Pročitajte i prihvatite &lt;a href=%1$s>Izjava o privatnosti usluga lokacije&lt;/a > prije nego nastavite.</Data></string>
   <string name="service_name_MIUIDaemon">Xiaomi račun</string>
   <string name="service_name_HyperOSDaemon">HyperOS Daemon</string>
   <string name="service_name_address_dialing">Kontakti i Telefon</string>
@@ -610,9 +638,9 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="service_name_service_framework">Mi Services Framework</string>
   <string name="service_name_systemdesktop">Dodatak za uslugu početnog zaslona</string>
   <string name="service_mi_account">Xiaomi račun</string>
-  <string name="service_policy">&lt;Data&gt;Pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
+  <string name="service_policy"><Data>Pročitajte i prihvatite naše &lt;a href=%1$s>Pravila o privatnosti&lt;/a >.</Data></string>
   <string name="service_policy_adjust_content">Xunlei Pravila o privatnosti</string>
-  <string name="service_policy_download">&lt;Data&gt;Pročitajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o privatnosti&amp;lt;/a &amp;gt; i &amp;lt;a href=%1$s&amp;gt;Xunlei Network Services User Agreement&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="service_policy_download"><Data>Pročitajte i prihvatite &lt;a href=%1$s>Xunlei Pravila o privatnosti&lt;/a > i &lt;a href=%1$s>Korisnički ugovor za mrežne usluge Xunlei&lt;/a > prije nego nastavite.</Data></string>
   <string name="service_privacy_index">Pravila o privatnosti</string>
   <string name="service_security_over_r"><Data>Pročitajte i prihvatite naša &lt;a href=%1$s>Pravila o privatnosti&lt;/a ></Data></string>
   <string name="service_sim_activation">Aktivacija SIM kartice</string>
@@ -646,6 +674,7 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="software_account_mismatch_summary">Provjera računa…</string>
   <string name="software_version_mismatch">Nepodržani softver</string>
   <string name="software_version_mismatch_summary">"Vaš uređaj ne podržava ovu verziju softvera. Korištenje može predstavljati sigurnosne rizike. Kontaktirajte svog prodajnog agenta za detalje."</string>
+  <string name="startup_page_text_hint">Otvorite da aktivirate uređaj</string>
   <string name="start_up_slogan">Gdje se sve stvari povezuju</string>
   <string name="summary_not_set">Nije postavljeno</string>
   <string name="sunday">Nedjelja</string>
@@ -656,11 +685,13 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="system_update_statement">Kako bismo izvršili ažuriranje sustava, moramo prikupiti IMEI uređaja, IMSI uređaja, identifikatore uređaja (OAID i šifrirani Android ID), Xiaomi račun, proizvođača uređaja, model uređaja, mrežnog operatera, uređaj memorija, verzija operativnog sustava, regija, jezik, povezanost, vrsta mreže i IP adresa.</string>
   <string name="system_update_title">Ažuriranja sustava</string>
   <string name="systemdesktop_introduction">Dodatak za uslugu početnog zaslona pruža vam osnovne značajke kao što su početni zaslon, korisničko sučelje sustava i snimke zaslona.</string>
+  <string name="study_full_screen_gesture_text">Naučite geste za navigaciju</string>
+  <string name="terms_and_statement_title">Odredbe i uvjeti</string>
   <string name="term_condition_detail">"Svakodnevno dobivajte zapanjujuće slike i uzbudljive priče na zaključanom zaslonu. Ova značajka neće koristiti vaše podatke za prilagodbu bez vašeg pristanka. Pročitajte i složite se s pružateljima sadržaja treće strane &lt;a href =%1$s&gt;Pravila o privatnosti&lt;/a&gt; i &lt;a href =%2$s&gt;Korisnički ugovor&lt;/a&gt; prije korištenja ove značajke."</string>
   <string name="terms_of_label_period">". "</string>
   <string name="terms_of_label_separator">", "</string>
   <string name="terms_of_label_space">" "</string>
-  <string name="terms_of_use">Uvjeti i Odredbe</string>
+  <string name="terms_of_use">Odredbe i uvjeti</string>
   <string name="terms_of_use_label_MSA">MSA</string>
   <string name="terms_of_use_label_Mistore">Mi Store</string>
   <string name="terms_of_use_label_RMS">Upravitelj dopuštenja</string>
@@ -673,7 +704,6 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="terms_of_use_label_finddevice">Pronađi uređaj</string>
   <string name="terms_of_use_label_game">Igre</string>
   <string name="terms_of_use_label_home">Poč. zaslon</string>
-  <string name="terms_of_use_label_htmlViewer">HTML Viewer</string>
   <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
   <string name="terms_of_use_label_info_assistant">Zaklj. aplikacija</string>
   <string name="terms_of_use_label_joyose">Joyose</string>
@@ -700,6 +730,7 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="terms_of_use_label_updater">Ažuriranje</string>
   <string name="terms_of_use_label_use_location_and_network_global">Prije korištenja sustava, pročitajte i prihvatite naš korisnički ugovor i Pravila o privatnosti, koji pokrivaju Xiaomi aplikacije unaprijed instalirane na vašem uređaju (npr. Galerija, Mi Glazba, Mi Preglednik, Mi Video, Teme itd.) . Štitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kada je vaš uređaj aktiviran, sljedeće usluge će se spojiti na mrežu i pristupiti vašoj lokaciji:</string>
   <string name="terms_of_use_label_use_network_china">Prije korištenja HyperOS-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, na mrežu će se povezati sljedeće usluge:</string>
+  <string name="terms_of_use_label_use_network_china_append">Kada je vaš uređaj aktiviran, sljedeće usluge će se povezati s mrežom:</string>
   <string name="terms_of_use_label_wallpaper">Slika pozadine</string>
   <string name="terms_of_use_label_webview">Web-prikaz sustava Android</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"

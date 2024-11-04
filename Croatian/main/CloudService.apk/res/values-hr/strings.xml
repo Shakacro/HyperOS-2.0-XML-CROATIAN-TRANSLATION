@@ -169,8 +169,11 @@
   <string name="e2ee_data_protection_update_security_key_title">Ažuriraj sigurnosni ključ</string>
   <string name="e2ee_device_delete">Ukloni uređaj</string>
   <string name="e2ee_device_delete_tip">"Kada uklonite ovaj uređaj sa svog Xiaomi računa, bit će odjavljen i nećete moći koristiti Xiaomi Cloud usluge, pretraživanje i druge značajke povezane s računom na njemu dok se ne prijavite ponovno."</string>
-  <string name="e2ee_device_exit_failed_tip">"Nije moguće odjaviti se. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
-  <string name="e2ee_device_exit_failed_toast">"Nije moguće odjaviti se. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+  <string name="e2ee_device_delete_warning_dialog_content">"Ovaj uređaj ne podržava naprednu zaštitu podataka, tako da se nećete moći prijaviti na svoj račun ako uključite ovu značajku. Ažurirajte ovaj uređaj na Xiaomi HyperOS 2 kako biste se mogli prijaviti na svoj račun."</string>
+  <string name="e2ee_device_delete_warning_dialog_title">"Ne mogu se prijaviti"</string>
+  <string name="e2ee_error_real_device">"Ovo okruženje nije sigurno. Pokušajte upotrijebiti drugi uređaj."</string>
+  <string name="e2ee_device_exit_failed_tip">"Ne mogu se odjaviti. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+  <string name="e2ee_device_exit_failed_toast">"Ne mogu se odjaviti. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="e2ee_device_exit_tip">%s je odjavljen</string>
   <string name="e2ee_device_management_subtitle">"Ovi uređaji još nisu potvrđeni kao pouzdani uređaji. Odjavite se sa svog Xiaomi računa na ovim uređajima prije uključivanja napredne zaštite podataka. "</string>
   <string name="e2ee_device_management_title">Upravljanje uređajima</string>
@@ -690,6 +693,7 @@ Provjerite koristite li povezani Xiaomi račun kao svoj MIUI račun."</string>
   <string name="other_lockscreen_forget_pin_dialog_title">Zaboravio sam zaključavanje zaslona</string>
   <string name="other_lockscreen_sub_title">"Unesite zaključavanje zaslona ovog uređaja da biste dovršili potvrdu"</string>
   <string name="other_lockscreen_title">"Unesite zaključavanje zaslona %s"</string>
+  <string name="other_lockscreen_update_password_error_hint">Nedavno ste promijenili zaključavanje zaslona? Pokušajte unijeti staro zaključavanje zaslona za provjeru.</string>
   <string name="pay_info_dialog_confirm_to_pay">Plati %s</string>
   <string name="pay_info_dialog_mibi_balance_prefix">Upotrijebi preostale Xiaomi kredite: %s</string>
   <string name="pay_info_dialog_title">Odaberite način plaćanja</string>
@@ -782,6 +786,10 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="revoke_privacy_content">"Ako nastavite, povući ćete suglasnost za &lt;a href=app://com.miui.cloudservice.gdpr.license&gt;Pravila o privatnosti&lt;/a&gt; za Pronađi uređaj. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Pronađi uređaj pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Pronađi uređaja. Sada povući suglasnost?"</string>
   <string name="revoke_privacy_failed">"Povlačenje suglasnosti nije uspjelo"</string>
   <string name="revoke_privacy_title">Povlačenje suglasnosti</string>
+  <string name="request_os_permissions_dialog_message">Xiaomi Cloud treba dopuštenje za pristup stavkama pohranjenim na vašem uređaju kako bi mogao identificirati nesinkronizirane stavke i njihovu količinu. Dodijeliti ovu dozvolu sada?</string>
+  <string name="request_os_permissions_dialog_neg_button">"Ne prihvaćam"</string>
+  <string name="request_os_permissions_dialog_pos_button">Prihvaćam</string>
+  <string name="request_os_permissions_dialog_title">Potrebna dopuštenja</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
@@ -980,6 +988,8 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="verify_camera_error_toast">"Nije moguće prepoznati pristupni ključ"</string>
+  <string name="verify_camera_google_permission_message">Xiaomi Cloud treba dopuštenja za kameru kako bi mogao skenirati vaš sigurnosni ključ. Ovo dopuštenje možete dati u postavkama.</string>
+  <string name="verify_camera_google_permission_positive_button">Razumijem</string>
   <string name="verify_camera_permission_message">Dopustite ovoj aplikaciji pristup kameri kako bi mogla skenirati vaš sigurnosni ključ. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="verify_camera_permission_negative_button">Odustani</string>
   <string name="verify_camera_permission_positive_button">Postavke</string>
@@ -1034,6 +1044,8 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="verify_warning_dialog_code_pc">Unesite ovaj kod na svoje računalo</string>
   <string name="verify_warning_dialog_code_web">Unesite ovaj kod na i.mi.com</string>
   <string name="verify_warning_dialog_message">%s želi uključiti end-to-end enkripciju za sve uređaje prijavljene na vaš Xiaomi račun. Ova značajka omogućit će vam jednostavan pristup šifriranim podacima u oblaku na svim uređajima. Dopustiti sada?</string>
+  <string name="verify_warning_verify_dialog_message">Unesite kontrolni kod na %s</string>
+  <string name="verify_warning_verify_dialog_title">Potvrdite Xiaomi račun</string>
   <string name="verify_warning_dialog_message_default">Vaš Xiaomi uređaj</string>
   <string name="verify_warning_dialog_message_pc">Napredna zaštita podataka je uključena. Dodijelite potrebna dopuštenja na svom računalu kako biste mogli pristupiti šifriranim podacima.</string>
   <string name="verify_warning_dialog_message_web">Napredna zaštita podataka je uključena. Dodijelite potrebna dopuštenja na i.mi.com kako biste mogli pristupiti šifriranim podacima.</string>
@@ -1065,6 +1077,15 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sada</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezivanje upravitelja preuzimanja nije uspjelo, provjerite stanje upravitelja preuzimanja u Upravljanju aplikacijama.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verziju %1$s
+Veličina: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verziju %1$s
+Veličina delta ažuriranja: %2$s"</string>
+  <string name="xiaomi_update_sdk_dialog_title">Dostupno je ažuriranje</string>
+  <string name="xiaomi_update_sdk_external_storage_unavailable">Pohrana nije dostupna, provjerite SD karticu.</string>
+  <string name="xiaomi_update_sdk_update_dialog_cancel">Ne sada</string>
+  <string name="xiaomi_update_sdk_update_dialog_ok">Ažuriraj</string>
   <string name="yes">Da</string>
   <string name="yesterday">Jučer</string>
 </resources>

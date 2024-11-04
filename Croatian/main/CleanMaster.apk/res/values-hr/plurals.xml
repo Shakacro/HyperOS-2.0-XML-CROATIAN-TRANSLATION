@@ -55,6 +55,10 @@
         <item quantity="other">%1$d stavki/sek. | Preostalo vrijeme: %2$s</item>
         <item quantity="one">%1$d stavka/sek. | Preostalo vrijeme: %2$s</item>
     </plurals>
+	 <plurals name="compress_duplicate_file_results">
+        <item quantity="other">Komprimirano %d kompleta dupliciranih datoteka</item>
+        <item quantity="one">Komprimiran %d komplet kompleta datoteka</item>
+     </plurals>
     <plurals name="days_ago">
         <item quantity="other">Prije %1$d dana</item>
         <item quantity="zero">Prije %1$d dana</item>
@@ -131,6 +135,10 @@
         <item quantity="other">Izbrisati %1$s fotografija sa svih uređaja ?</item>
         <item quantity="one">Izbrisati %1$s fotografiju sa svih uređaja ?</item>
     </plurals>
+	 <plurals name="expected_compress">
+        <item quantity="other">%d kompleta dupliciranih datoteka</item>
+        <item quantity="one">%d komplet dupliciranih datoteka</item>
+     </plurals>
     <plurals name="every_x_day">
         <item quantity="other">Svakih %d dana</item>
         <item quantity="one">Svaki %d dan</item>
@@ -155,6 +163,10 @@
         <item quantity="other">&lt;Data>Pronađeno &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> glasovnih poruka&lt;/Data></item>
         <item quantity="one">&lt;Data>Pronađena &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> glasovna poruka&lt;/Data></item>
     </plurals>
+	  <plurals name="groupCount">
+        <item quantity="other">%d kompleta</item>
+        <item quantity="one">%d komplet</item>
+     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
     </plurals>
@@ -237,6 +249,10 @@
         <item quantity="other">Preuzelo %1$d osoba</item>
         <item quantity="one">Preuzela %1$d osoba</item>
     </plurals>
+	 <plurals name="repeated_file_compression_dc_subtitle">
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> kompleta dupliciranih datoteka&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> komplet dupliciranih datoteka&lt;/Data></item>
+     </plurals>
     <plurals name="reset_app_selected_app">
         <item quantity="other">Odabrano je %d aplikacija za poništavanje</item>
         <item quantity="one">Odabrana je %d aplikacija za poništavanje</item>

@@ -418,7 +418,8 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
      <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
      <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-     <string name="monday">Ponedjeljak</string>
+     <string name="mms_title">MMS poruke</string>
+	  <string name="monday">Ponedjeljak</string>
      <string name="monday_short">Pon</string>
      <string name="monday_shortest">P</string>
      <string name="month_april">Travanj</string>

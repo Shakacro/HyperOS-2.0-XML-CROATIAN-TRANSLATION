@@ -29,6 +29,23 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 min</item>
     </plurals>
+	 <plurals name="ai_cannot_add_content_toast_text">
+        <item quantity="other">"Svaka bilješka ne smije premašiti %1$s znakova. Nije moguće dodati više sadržaja."</item>
+        <item quantity="one">"Svaka bilješka ne smije premašiti %1$s znak. Nije moguće dodati više sadržaja."</item>
+     </plurals>
+     <plurals name="ai_cannot_useAI_toast_text">
+        <item quantity="other">"Ne može se koristiti AI pisanje za bilješke više od %1$s znakova"</item>
+        <item quantity="one">"Ne može se koristiti AI pisanje za bilješke više od %1$s znaka"</item>
+     </plurals>
+     <plurals name="ai_correct_mistakes">
+        <item quantity="other">Ispravljeno %1$s pogrešaka</item>
+        <item quantity="one">Ispravljena %1$s pogreška</item>
+     </plurals>
+     <plurals name="ai_word_count_exceed_title">
+        <item quantity="other">"Nije moguće generirati sadržaj veći od %1$s znakova"</item>
+        <item quantity="one">"Nije moguće generirati sadržaj veći od %1$s znaka"</item>
+     </plurals>
+
     <plurals name="alert_message_delete">
         <item quantity="other">Izbrisati stavke: %1$s?</item>
         <item quantity="one">Izbrisati %1$s stavku?</item>

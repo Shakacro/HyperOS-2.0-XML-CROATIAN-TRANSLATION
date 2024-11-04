@@ -209,6 +209,9 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="ai_guard_settings_menu_bugreport">Povratne informacije</string>
   <string name="ai_guard_settings_menu_privacy_policy">Pravila o privatnosti</string>
   <string name="ai_guard_settings_menu_revoke_privacy_policy">Povlačenje privole</string>
+  <string name="ai_guard_post_brief_summary">Prepoznaje i upozorava na lažne pozive</string>
+  <string name="ai_guard_post_preference_summary">Pošalji upozorenje kada se otkrije sumnja na prijevaru ili krivotvorenje identiteta tijekom telefonskih poziva i WeChat ili QQ videopoziva</string>
+  <string name="ai_guard_post_preference_title">Sprečavanje AI prijevara</string>
   <string name="ai_guard_settings_permissions">Dozvole</string>
   <string name="ai_guard_settings_preference_summary">"Kada odgovarate na telefonski poziv ili videopoziv na WeChatu ili QQ, primit ćete upozorenje ako se otkrije sumnja na prijevaru ili krivotvorenje identiteta (tj. zamjena lica). Ovu značajku možete isključiti za pojedinačni poziv."</string>
   <string name="ai_guard_settings_preference_title">Zaštita AI poziva</string>
@@ -878,6 +881,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="ask_create_shortcut">Izraditi prečac Početnog zaslona?</string>
   <string name="audio_optimization_summary">Poboljšajte zvuk i smanjite okolnu buku u razgovorima</string>
   <string name="audio_optimization_summary_new">Optimizirajte kvalitetu zvuka slušalica tijekom igranja i smanjite buku tijekom poziva</string>
+  <string name="audio_optimization_summary_v2">Povećajte uranjanje tijekom igranja i optimizirajte smanjenje buke</string>
   <string name="audio_optimization_title">Poboljšani zvuk</string>
   <string name="auto_atsk_condition_battery_level_text_down">Kada baterija dosegne %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Kada je baterija napunjena do %s</string>
@@ -1274,6 +1278,11 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="boot_time_day">Uključi u: %2$s %1$dd</string>
   <string name="boot_time_day_tomorrow">Sutra u: %1$s</string>
   <string name="bottom_func_guide_default_text">Više značajki</string>
+  <string name="bottomsheet_action_collapse">Sažmi donji list</string>
+  <string name="bottomsheet_action_expand">Proširi donji list</string>
+  <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
+  <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručica za povlačenje</string>
+  <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
   <string name="bottom_notice_title">Povuci gore za otvaranje toolbox-a</string>
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="brand_diagnostic">Dijagnostika tipa mreže operatera</string>
@@ -1504,6 +1513,8 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cmcc_app_check_dialog_negative">Kasnije</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno pokreni</string>
   <string name="cmcc_app_check_dialog_title">Sustav je popravljen</string>
+  <string name="combine_permission_action_foreground">Dopusti tijekom korištenja aplikacije</string>
+  <string name="combine_permission_title">%1$s zahtijeva sljedeća dopuštenja</string>
   <string name="common_google_play_services_enable_button">Omogući</string>
   <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite usluge Google Playa.</string>
   <string name="common_google_play_services_enable_title">Omogućivanje usluga Google Playa</string>
@@ -1621,6 +1632,17 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cs_func_toast_pickup">Prebacite se na videopoziv da biste mogli koristiti ovu značajku</string>
   <string name="cs_func_unavailable_tips">Koristite ovu značajku tijekom poziva</string>
   <string name="cs_gesture_effect_title_hint">Podržane geste</string>
+  <string name="cs_gesture_effect_title">Prepoznavanje pokreta rukama</string>
+  <string name="cs_pickup_enhance">Poboljšano</string>
+  <string name="cs_pickup_private">Privatno</string>
+  <string name="cs_pickup_private_desc">Preuzmi zvuk samo od određenih korisnika</string>
+  <string name="cs_pickup_standard">Standardno</string>
+  <string name="cs_pickup_standard_desc">%1$d stupanj hvatanja zvuka</string>
+  <string name="cs_pickup_vioce_print_in_private_tips">Snimite svoj otisak glasa da biste mogli postaviti smanjenje buke na Privatno.</string>
+  <string name="cs_pickup_vioce_print_private_dialog_title">Snimi glasovni otisak</string>
+  <string name="cs_record_voice_title">Snimanje</string>
+  <string name="cs_voice_search">Glasovni otisak</string>
+  <string name="cs_vt_camera_title">Kamera za više uređaja</string>
   <string name="cs_gesture_effect_title_summry">Dodajte efekte reakcije tijekom videopoziva i prijenosa uživo pomoću pokreta rukama</string>
   <string name="cs_light_enhance_physical_options">Toplina boje</string>
   <string name="cs_light_enhance_physical_title">Svjetlina</string>
@@ -1660,8 +1682,9 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cta_close_dialog_content">"Ograničite li aplikaciji Sigurnost pristup internetu i informacijama o vašoj lokaciji, nećete moći primati upozorenja o potresu, ažurirati definicije virusa i informacije popisa blokiranih. Vaš će uređaj postati manje siguran. Svejedno ograničiti?"</string>
   <string name="cta_close_dialog_ok">Ograniči</string>
   <string name="cta_close_dialog_title">Ograničavanje pristupa</string>
+  <string name="cta_combine_permission_title">Dopuštenja</string>
   <string name="cta_dialog_negative">Izlaz</string>
-  <string name="cta_dialog_positive">Slažem se</string>
+  <string name="cta_dialog_positive">Prihvaćam</string>
   <string name="cta_dialog_title">Uvjeti i odredbe</string>
   <string name="cta_main_purpose">"Dobro došli u Sigurnost! Aplikaciju i njene module možete koristiti (uključujući HyperOS sigurnosne komponente i usluge sustava) da oslobodite prostor za pohranu, skenirate svoj uređaj na viruse, kontrolirate potrošnju baterije, optimizirate svoj uređaj za igranje igara , upravljate aplikacijama, primate rana upozorenja o potresima i još mnogo toga. HyperOS Sigurnosne komponente povezivat će se s internetom i obavljati sigurnosna skeniranja dok instalirate aplikacije i vršite plaćanja."</string>
   <string name="cta_main_purpose_new">"Dobro došli u Sigurnost! Aplikaciju i njene module možete koristiti (uključujući HyperOS sigurnosne komponente i usluge sustava) da oslobodite prostor za pohranu, skenirate svoj uređaj na viruse, kontrolirate potrošnju baterije, optimizirate svoj uređaj za igranje igara , upravljate aplikacijama, primate rana upozorenja o potresima i još mnogo toga. HyperOS Sigurnosne komponente povezivat će se s internetom i obavljati sigurnosna skeniranja dok instalirate aplikacije i vršite plaćanja."</string>
@@ -2577,6 +2600,7 @@ volonter"</string>
   <string name="gamebox_func_wlan_open">Wi-Fi je uključen</string>
   <string name="gamebox_game_center_app_not_find">Instalirajte najprije Igre</string>
   <string name="gamebox_hangup">Isključi zaslon</string>
+  <string name="gamebox_hangup_new">Isključi zaslon</string>
   <string name="gamebox_hangup_tips_content">Ova značajka omogućuje vam da isključite zaslon, ali igru zadržite u pozadini. On se automatski isključuje nakon otključavanja uređaja.</string>
   <string name="gamebox_hangup_tips_title">Uključi zaslon</string>
   <string name="gamebox_immersion">Interaktivan način</string>
@@ -3509,6 +3533,7 @@ podatkovnu vezu"</string>
   <string name="make_sure_package_type">Odaberite svoj podatkovni paket</string>
   <string name="man_add_application">Dodajte ručno autom. pokret. aplikacije</string>
   <string name="manage_hybrid_permissions">"Upravljanje dopuštenja aplikacija"</string>
+  <string name="manage_notification_access_title">Čitajte, odgovarajte i kontrolirajte obavijesti</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="manual_handle_title">DOSTUPNE ZNAČAJKE</string>
   <string name="manual_input_free_traffic">Postavi ograničenje uporabe podataka</string>
@@ -4362,6 +4387,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_fast_charge_switch_toast_message">Promjene će se primijeniti prilikom sljedećeg punjenja ovog uređaja</string>
   <string name="pc_fast_charge_temp_remider">"Uključite za automatsku regulaciju brzine punjenja. Ova značajka radi samo s punjačima koje isporučuje Xiaomi. Vaš bi se uređaj mogao zagrijati tijekom punjenja."</string>
   <string name="pc_fast_charge_title">Povećajte brzinu punjenja</string>
+  <string name="pc_first_use_error_tips">Izračun</string>
   <string name="pc_first_use_protect_title">Prvo korištenje</string>
   <string name="pc_going_to_exit_extreme_mode">Izlazak iz načina hibernacije</string>
   <string name="pc_going_to_exit_extreme_mode_summary">Vaš uređaj se puni. Način hibernacije je isključen.</string>
@@ -4459,6 +4485,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_settings_title">Baterija</string>
   <string name="pc_smart_charge_button_summary">Za produljenje trajanja baterije, sustav će naučiti kako punite svoj uređaj i zaustaviti punjenje kada razina baterije dosegne %1$s</string>
   <string name="pc_smart_charge_notify_summary_high_temp">Vaš uređaj se zagrijao. Punjenje će se zaustaviti kada razina baterije dosegne %1$s</string>
+  <string name="pc_smart_charge_notify_summary_high_temp_protect">Kako bi zaštitili vaš uređaj od pregrijavanja, punjenje će se zaustaviti kada razina baterije dosegne %1$s</string>
   <string name="pc_smart_charge_notify_summary_navagition">Navigacija… Punjenje će se zaustaviti kada razina baterije dosegne %1$s</string>
   <string name="pc_smart_charge_notify_summary_night_charge">Punjenje će prestati na %s</string>
   <string name="pc_smart_charge_pogo_project_dialog_content">"Za produljenje trajanja baterije, baterija ovog uređaja neće prijeći trenutnu razinu dok je povezan s automobilom."</string>
@@ -4508,6 +4535,9 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="perfermance_optimization_title">Optimizacija performansi</string>
   <string name="performance_frame_enhance_super_display_tips">"Poboljšani broj sličica u sekundi i super rezolucija ne mogu raditi u isto vrijeme. Uključivanje jednog od njih isključit će drugo."</string>
   <string name="performance_frame_insert_super_display_tips">"Pametan broj sličica u sekundi i super rezolucija ne mogu biti na snazi u isto vrijeme. Uključivanje jednog isključit će drugo."</string>
+  <string name="perm_desc_accessibility">Ovo je dopuštenje potrebno za pregled i kontrolu zaslona, ​​upravljanje aplikacijama i hardverskim senzorima prema vašim uputama i interakciju s aplikacijama u vaše ime.</string>
+  <string name="permdesc_coarse_location">Približna lokacija</string>
+  <string name="permdesc_fine_location">Lokacija</string>
   <string name="perm_intercept_content">Dati ovoj aplikaciji sljedeće dopuštenje: %1s?</string>
   <string name="perm_intercept_notification_title">Dopuštajući %1s korištenje obavijesti će omogućiti toj aplikaciji da izvrši sljedeće radnje:</string>
   <string name="perm_intercept_privacy_content">Ove radnje mogu razotkriti vaše osobne podatke. Odobriti dopuštenje (%1s) svejedno?</string>
@@ -4565,6 +4595,10 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_group_file_less_t">Ovo dopuštenje aplikacijama omogućuje pristup fotografijama, videozapisima, zvuku i drugim datotekama pohranjenim na ovom uređaju.</string>
   <string name="permission_group_image_video">Ovo dopuštenje aplikacijama omogućuje pristup fotografijama i videozapisima pohranjenim na ovom uređaju.</string>
   <string name="permission_group_location">Ovo dopuštenje aplikacijama omogućuje pristup informacijama o lokaciji putem mreže ili satelita.</string>
+  <string name="permission_group_note">Dajte ovo dopuštenje kako biste aplikaciji omogućili pristup stavkama iz Bilješki.</string>
+  <string name="permission_group_record">Dajte ovo dopuštenje kako biste aplikaciji omogućili pristup stavkama iz Snimača.</string>
+  <string name="permission_instruction_read_note">Pristup bilješkama</string>
+  <string name="permission_instruction_read_record">Pristup snimkama</string>
   <string name="permission_group_microphone">Ovo dopuštenje aplikacijama omogućuje korištenje mikrofona za snimanje zvuka.</string>
   <string name="permission_group_nearby_device">Ovo dopuštenje aplikacijama omogućuje otkrivanje i povezivanje s uređajima u blizini, kao i određivanje njihove lokacije.</string>
   <string name="permission_group_phone">Ovo dopuštenje aplikacijama omogućuje upućivanje, odgovaranje i prekidanje poziva, kao i pristup vašem telefonskom broju, statusu uređaja i informacijama o mobilnoj mreži.</string>
@@ -6779,6 +6813,7 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="system_permission_declare_no_say_no_analytics">"Ako ne želite odobriti ta dopuštenja, možete se odjaviti u Postavke &gt; Dodatne postavke &gt; Privatnost &gt; Program iskustva korisnika."</string>
   <string name="system_permission_declare_no_say_no_non_mandatory">"Ova aplikacija neće raditi bez potrebnih dopuštenja."</string>
   <string name="system_permission_declare_optional">"Da bismo vam pružili dodatne usluge dok koristite aplikaciju, možda će nam trebati sljedeća dopuštenja: %s. Uvijek možete prilagoditi svoje postavke dopuštenja u Postavkama."</string>
+  <string name="system_permission_declare_optional_default_grant"><Data>Kako bi pružila bolje korisničko iskustvo, ova aplikacija treba sljedeća dodatna dopuštenja: %1s. Za više pojedinosti o tome kako obrađujemo vaše osobne podatke, dodirnite &lt;a href=\"test\">ovdje&lt;/a>. Svojim dopuštenjima možete upravljati u bilo kojem trenutku u Postavkama.</Data></string>
   <string name="system_permission_declare_privacy_declare">"Zaštititi ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti. Imajte na umu da se aplikacija Sigurnost mora povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:"</string>
   <string name="system_permission_declare_privacy_no_network">Ovoj aplikaciji potrebna su sljedeća dopuštenja da bi mogla normalno raditi:</string>
   <string name="system_permission_declare_privacy_no_permission">"Imajte na umu da se aplikacija Sigurnost mora povezati s internetom i prikupiti potrebne osobne podatke kako bi vam pružili usluge. Mi ćemo zaštititi vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti."</string>
@@ -7118,14 +7153,15 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
   <string name="title_result_typeface">Veličina teksta &amp; debljina fonta</string>
   <string name="title_result_wlan">Wi-Fi</string>
   <string name="title_result_zen_mode">DND način</string>
+  <string name="title_request_perm_accessibility">Želite li dopustiti %1$s da upravlja vašim uređajem?</string>
   <string name="title_safe_mode">Uključite Sigurni način rada</string>
   <string name="title_saving_switch">Štednja podataka</string>
-  <string name="title_share_link">Podijeli URL</string>
+  <string name="title_share_link">Podijeli poveznicu</string>
   <string name="title_show_notification">Widget panela obavijesti</string>
   <string name="title_system_auto_download">Ažuriranja će se preuzeti automatski</string>
   <string name="title_telecom_operator">Automatski podesi</string>
-  <string name="title_usb_no">USB ukl. pogr. uključeno</string>
-  <string name="title_usb_yes">USB ukl. pogr. isključeno</string>
+  <string name="title_usb_no">USB otkl. pogr. uključeno</string>
+  <string name="title_usb_yes">USB otkl. pogr. isključeno</string>
   <string name="title_virus_cloudscan">Skeniraj Cloud viruse</string>
   <string name="title_virus_no">Otkriven virus</string>
   <string name="title_virus_update_no">Autom. ažuriranje definicija virusa isključeno</string>
@@ -7364,6 +7400,7 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="updating_diagnostic_botton">Analiza podataka…</string>
   <string name="upgrade_tvm_component_desc">Kako biste osigurali sigurnost svojih transakcija, ažurirajte dodatak Phone Key Component putem aplikacije Sigurnosti</string>
   <string name="upgrade_tvm_component_title">Ažuriraj dodatak Phone Key Component</string>
+  <string name="usage_access_title">Pristup statistici korištenja</string>
   <string name="usage_sorted_activity_lable">Uporaba podataka</string>
   <string name="usage_sorted_empty_text">Prazno</string>
   <string name="usage_sorted_loading_text">Samo trenutak…</string>

@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="sound_key">
+      <item>Kucanje</item>
+      <item>Alarm za dim</item>
+      <item>Plač bebe</item>
+      <item>Voda</item>
+      <item>Mačka</item>
+      <item>Pas</item>
+      <item>Alarm</item>
+      <item>Zvono na vratima</item>
+      <item>Protupožarni alarm</item>
+      <item>Vika</item>
+      <item>Staklo</item>
+      <item>Sirena</item>
+      <item>Kuhanje</item>
+      <item>Kašalj</item>	 
+	  </string-array>
     <string-array name="sound_source_entries">
-        <item>Mikrofon</item>
-        <item>Zvukovi sustava</item>
+       <item>Mikrofon</item>
+       <item>Zvukovi sustava</item>
     </string-array>
 </resources>

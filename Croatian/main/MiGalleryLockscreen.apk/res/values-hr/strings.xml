@@ -90,6 +90,7 @@
    <string name="apply_to_wallpaper">Postavi za sliku pozadine</string>
    <string name="apply_warning_content">"Koristite Super pozadinu. Ako promijenite pozadinu, ona će se postaviti i na početni i na zaključani zaslon. Želite li sada postaviti?"</string>
    <string name="apply_warning_content_with_aod">"Koristite Super pozadinu. Ako promijenite pozadinu, ona će se postaviti i na početni i na zaključani zaslon, a Always-on display može se vratiti na zadane postavke. Želite li sada primijeniti?" </string>
+   <string name="apply_warning_content_with_linked_wallpaper">"Trenutno koristite skup pozadina. Ako primijenite novu pozadinu, i početni zaslon i zaključani zaslon bit će zamijenjeni, a Always-on zaslon može se vratiti na prethodni stil. Želite li sada primijeniti?"</string>
    <string name="apply_warning_content_with_maml">"Koristite temu treće strane. Ako promijenite pozadinu, sat vašeg zaključanog zaslona može se vratiti na zadano. Želite li sada postaviti?"</string>
    <string name="apply_warning_title">Postavi pozadinu</string>
    <string name="applied_and_added_to_custom_wallpaper">"Uspješno dodano vašoj projekciji slajdova. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Prikaz&lt;/font>&lt;/a>"</string>

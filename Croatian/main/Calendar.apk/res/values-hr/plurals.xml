@@ -109,6 +109,14 @@
         <item quantity="other">%1$s godina</item>
         <item quantity="one">%1$s godina</item>
     </plurals>
+	 <plurals name="birthday_notification_text_days_later">
+        <item quantity="other">%1$s dana do %4$s (%5$s)</item>
+        <item quantity="one">%1$s dan do %4$s (%5$s)</item>
+     </plurals>
+	  <plurals name="count_down_days_unit">
+        <item quantity="other">dana</item>
+        <item quantity="one">dan</item>
+     </plurals>
     <plurals name="count_selected">
         <item quantity="other">Odabrano: %d</item>
         <item quantity="one">Odabrano: %d</item>
@@ -141,6 +149,14 @@
         <item quantity="other">%1$d dana</item>
         <item quantity="one">%1$d dan</item>
     </plurals>
+	 <plurals name="delete_select_dup_events_title">
+        <item quantity="other">"Pokušavate izbrisati događaje koji se ponavljaju. Izbrisati %d događaja sa svim njihovim ponavljanjima?"</item>
+        <item quantity="one">"Pokušavate izbrisati događaj koji se ponavlja. Izbrisati %d događaj sa svim njegovim ponavljanjima?"</item>
+     </plurals>
+     <plurals name="delete_select_event_title">
+        <item quantity="other">Izbrisati %d događaja?</item>
+        <item quantity="one">Izbrisati %d događaj?</item>
+     </plurals>
     <plurals name="edit_date_calculate_days_error_hint">
         <item quantity="other">Možete unijeti do %1$d dana</item>
         <item quantity="one">Možete unijeti do %1$d dan</item>
@@ -204,6 +220,14 @@
         <item quantity="other">%d pozivnica</item>
         <item quantity="one">%d pozivnica</item>
     </plurals>
+	 <plurals name="n_day_before">
+        <item quantity="other">prije %d dana</item>
+        <item quantity="one">prije %d dan</item>
+     </plurals>
+     <plurals name="n_day_later">
+        <item quantity="other">Za %d dana</item>
+        <item quantity="one">Za %d dan</item>
+     </plurals>
     <plurals name="n_weeks">
         <item quantity="other">%d</item>
         <item quantity="one">%d</item>
@@ -232,12 +256,16 @@
         <item quantity="other">još %d događaja</item>
         <item quantity="one">još %d događaj</item>
     </plurals>
+	 <plurals name="other_num_todo_events">
+        <item quantity="other">Još %d zadataka</item>
+        <item quantity="one">Još %d zadatak</item>
+     </plurals>
     <plurals name="recurrence_end_count">
-        <item quantity="other">Za događaja %d</item>
+        <item quantity="other">Za %d događaja</item>
         <item quantity="one">Za %d događaj</item>
     </plurals>
     <plurals name="recurrence_interval_daily">
-        <item quantity="other">Svaka %d dana</item>
+        <item quantity="other">Svakih %d dana</item>
         <item quantity="one">Svaki %d dan</item>
     </plurals>
     <plurals name="recurrence_interval_monthly">
@@ -249,7 +277,7 @@
         <item quantity="one">Svaki %d tjedan</item>
     </plurals>
     <plurals name="recurrence_interval_yearly">
-        <item quantity="other">Svakih %d godina</item>
+        <item quantity="other">Svake %d godine</item>
         <item quantity="one">Svaku %d godinu</item>
     </plurals>
     <plurals name="reminder_custom_unit_day">
@@ -320,6 +348,10 @@
         <item quantity="other">%d događaja danas</item>
         <item quantity="one">%d događaj danas</item>
     </plurals>
+	  <plurals name="today_num_events">
+        <item quantity="other">%d događaja</item>
+        <item quantity="one">%d događaj</item>
+     </plurals>
     <plurals name="travel_eta_advice">
         <item quantity="other">%2$s minuta vožnje do %1$s.</item>
         <item quantity="one">%2$s minuta vožnje do %1$s.</item>

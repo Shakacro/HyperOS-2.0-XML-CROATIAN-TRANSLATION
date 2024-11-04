@@ -130,6 +130,10 @@
         <item>4.</item>
         <item>zadnji</item>
     </string-array>
+	 <string-array name="passport_account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+     </string-array>
     <string-array name="panchang_weeks">
         <item>Nedjelja</item>
         <item>Ponedjeljak</item>
@@ -554,6 +558,15 @@
         <item>PET</item>
         <item>SUB</item>
     </string-array>
+	 <string-array name="week_header_name_phone_landscape">
+        <item>NED</item>
+        <item>PON</item>
+        <item>UTO</item>
+        <item>SRI</item>
+        <item>ČET</item>
+        <item>PET</item>
+        <item>SUB</item>
+     </string-array>
     <string-array name="widget_style_list">
         <item>Transparentna</item>
         <item>Bijela pozadina</item>

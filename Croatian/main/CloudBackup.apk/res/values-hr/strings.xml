@@ -378,6 +378,8 @@ Molimo pošaljite ovaj kod tehničaru."</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notification_channel_remind">Podsjetnik</string>
   <string name="notification_channel_service">Usluga</string>
+  <string name="oobe_no_available_backups">Nema dostupnih sigurnosnih kopija</string>
+  <string name="oobe_use_as_new_device">Dodirnite \"Dalje\" za korištenje kao novi uređaj.</string>
   <string name="ok">U redu</string>
   <string name="open_backup_switch">Promjeni Sig. kopije</string>
   <string name="open_wechat_dialog_message">"Sigurnosno kopiranje svih WeChat podataka će vrlo brzo zauzeti velike količine pohrane. Ako pohrana nije dovoljna, vaši se podaci neće sigurnosno kopirati u oblak i mogu biti izgubljeni. Svejedno uključiti?"</string>
@@ -416,6 +418,14 @@ Molimo pošaljite ovaj kod tehničaru."</string>
   <string name="request_permission_post_notification_title">Obavijesti</string>
   <string name="request_permissions_dialog_description">Odobrite dopuštenja za slanje obavijesti i podsjetnika kako biste mogli uživati u svim uslugama koje sigurnosna kopija u Cloudu nudi.</string>
   <string name="request_permissions_dialog_title">Potrebna su dopuštenja</string>
+  <string name="restore_32bit_apps_no_tango_page_primary_button">Nastavi</string>
+  <string name="restore_32bit_apps_no_tango_page_secondary_button">Otkaži vraćanje</string>
+  <string name="restore_32bit_apps_no_tango_page_sub_title">"Ove aplikacije nisu kompatibilne s %d-bitnom arhitekturom i ne mogu se vratiti na ovaj uređaj. Možete nastaviti s postupkom vraćanja, ali te će aplikacije biti preskočene"</string>
+  <string name="restore_32bit_apps_no_tango_page_title">Nekompatibilne aplikacije</string>
+  <string name="restore_32bit_apps_page_primary_button">Uključi</string>
+  <string name="restore_32bit_apps_page_secondary_button">Ne sada</string>
+  <string name="restore_32bit_apps_page_sub_title">"Ove aplikacije nisu kompatibilne s %d-bitnom arhitekturom. Dodirnite ispod da biste uključili način rada kompatibilnosti s aplikacijama za vraćanje ovih aplikacija"</string>
+  <string name="restore_32bit_apps_page_title">Način kompatibilnosti aplikacije</string>
   <string name="restore_app_order_finish">Gotovo</string>
   <string name="restore_app_order_loading">Samo trenutak…</string>
   <string name="restore_app_order_retry">Pokušaj ponovno</string>

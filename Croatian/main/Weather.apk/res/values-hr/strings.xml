@@ -40,6 +40,8 @@
   <string name="act_find_city_location_button_text">Dobivanje lokacije</string>
   <string name="act_find_city_location_title">Trenutna lokacija</string>
   <string name="act_find_city_hot_title">Dodaj</string>
+  <string name="act_find_city_major_city_title">Popularne lokacije</string>
+  <string name="act_find_city_search_history_title">Povijest pretraživanja</string>
   <string name="act_location_error_to_find_city">"Ne mogu dobiti podatke o lokaciji. Možete dodati lokaciju ručno."</string>
   <string name="act_set_city_find_side">Lociranje…</string>
   <string name="act_set_city_find_side_error">"Ne mogu locirati uređaj"</string>
@@ -128,6 +130,7 @@
   <string name="button_confirm_to_revoke_permission">Povuci</string>
   <string name="button_exit">"Ne prihvaćame"</string>
   <string name="button_not_allow">Odustani</string>
+  <string name="button_manage">Upravljaj</string>
   <string name="button_revoke_permission_fail">Razumijem</string>
   <string name="button_settings_cancel">Odustani</string>
   <string name="button_settings_confirm">Povuci</string>
@@ -138,6 +141,9 @@
   <string name="change_alert">Provjerite mrežnu vezu i pokušajte ponovno</string>
   <string name="china_version_first_start_network_msg">"Morate pristati na Xiaomi %1$s i %2$s da biste mogli koristiti aplikaciju Vrijeme. Vrijeme mora pristupiti vašoj lokaciji i povezati se s internetom kako bi normalno radio. Slažete li se?"</string>
   <string name="city_exceeded_warning">"Nije moguće dodati više lokacija. Uklonite lokaciju prije dodavanja nove."</string>
+  <string name="city_exceeded_tips">"Ne mogu dodati više lokacija. Uklonite neke lokacije prije dodavanja nove."</string>
+  <string name="city_exceeded_tips_title">"Ne mogu dodati lokaciju"</string>
+  <string name="content_desc_activity_main_already_add_city">Dodane lokacije</string>
   <string name="clearable_edittext_clear_description">Očisti</string>
   <string name="close">Zatvori</string>
   <string name="common_loading_text">Samo trenutak…</string>
@@ -185,6 +191,7 @@ Prije nastavka pročitajte i prihvatite novu verziju %2$s."</string>
   <string name="dialog_score_very_bad">Vrlo nezadovoljan</string>
   <string name="dialog_score_very_good">Vrlo zadovoljan</string>
   <string name="dialog_title_score">Ocijenite aplikaciju</string>
+  <string name="dislike_alert_dialog_title">Zašto ne želite vidjeti ovaj sadržaj?</string>
   <string name="download_rsc_tips">Učitavanje pozadinskog zvuka…</string>
   <string name="dynamic_weather">Vrijeme</string>
   <string name="edit_city">Upravljajte gradovima</string>

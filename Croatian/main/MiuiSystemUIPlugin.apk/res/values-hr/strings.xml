@@ -56,13 +56,13 @@
   <string name="airplane">Zrakoplov</string>
   <string name="airplane_mode">Zrakoplov</string>
   <string name="already_in_small_freeform">Neke se aplikacije otvaraju u plutajućim prozorima</string>
-  <string name="am">AM</string>
   <string name="app_name">Dodatak UI sustava</string>
   <string name="auto_brightness_off">Automatska svjetlina je isključena</string>
   <string name="auto_brightness_on">Automatska svjetlina je uključena</string>
   <string name="auto_disable_screenbuttons_disable_toast_text">Navigacijske tipke onemogućene, dvaput dodirnite bilo koju tipku da ih ponovno uključite.</string>
   <string name="auto_disable_screenbuttons_enable_toast_text">Navigacijske tipke omogućene</string>
   <string name="bootloader">Fastboot</string>
+  <string name="brightness_setting_panel_title">Panel postavki svjetline</string>
   <string name="bt_is_off">Bluetooth je isključen</string>
   <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Prekoračeno je ograničenje broja znakova %1$d od %2$d</string>
@@ -184,6 +184,9 @@
   <string name="miplay_accessibility_play">Reproduciraj</string>
   <string name="miplay_accessibility_prev">Prethodna pjesma</string>
   <string name="miplay_accessibility_seekbar">Traka napretka</string>
+  <string name="miplay_accessibility_video_fastForward">Premotaj %d sekundi unaprijed</string>
+  <string name="miplay_accessibility_video_rewind">Premotaj %d sekundi unatrag</string>
+  <string name="miplay_service_error_not_support">"Ova radnja nije podržana"</string>
   <string name="miplay_accessibility_volume">Glasnoća</string>
   <string name="miplay_bluetooth_share_des_text">"Korisnici slušalica Xiaomi: otvorite kućište za punjenje ili pritisnite i držite tipku kućišta %ds
 Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth postavkama, a zatim se povežite"</string>
@@ -357,9 +360,9 @@ Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth p
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
   <string name="multi_desktop_mode">Radna stanica</string>
   <string name="no_avaliable_application">Nema dostupnih aplikacija</string>
-  <string name="noon">PM</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notification_control_center">Obavijesti &amp; Centar za kontrolu</string>
+  <string name="notification_status_bar">Obavijesti &amp; traka statusa</string>
   <string name="offline">Izvan mreže</string>
   <string name="online">Online</string>
   <string name="open_system_optimization">Prvo uključite optimizaciju sustava</string>
@@ -390,6 +393,7 @@ Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth p
   <string name="qs_open_night_mode_alert_summary">"Određene postavke zaslona nisu kompatibilne s Tamnim načinom. Međutim, one će se vratiti kada isključite Tamni način."</string>
   <string name="quick_controls_subtitle">Dodavanje kontrola za povezane uređaje</string>
   <string name="quick_controls_title">Kontrole uređaja</string>
+  <string name="quick_settings_aitranslate_label_new">Prevedi</string>
   <string name="quick_settings_aisubtitles_label">MI AI titlovi</string>
   <string name="quick_settings_aitranslate_label">MI AI Translate</string>
   <string name="quick_settings_autobrightness_label">Autom. svjetlina</string>
@@ -431,6 +435,8 @@ Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth p
   <string name="quick_settings_toast_drag_to_enable_custom_tile">Za dodavanje stavke, dodirnite i zadržite je, a zatim je odvucite na gornji dio ploče.</string>
   <string name="quick_settings_uwbsh_label">Xiaomi Magic Control</string>
   <string name="quick_settings_vibrate_label">Vibracija</string>
+  <string name="quick_settings_voice_trans_label">Tumačenje zvuka</string>
+  <string name="quick_settings_voice_trans_label_new">Tumač</string>
   <string name="quick_settings_vowifi_label">Wi-Fi pozivi</string>
   <string name="quick_settings_vowifi_sim1_label">Wi-Fi pozivi SIM1</string>
   <string name="quick_settings_vowifi_sim2_label">Wi-Fi pozivi SIM2</string>
@@ -491,6 +497,7 @@ Duže izlaganje glasnim zvukovima može uzrokovati probleme sa sluhom."</string>
   <string name="tuesday_shortest">U</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="volume_adjust_panel_title">Panel podešavanja glasnoće</string>
   <string name="volume_dialog_accessibility_dismissed_message">Kontrole glasnoće skrivene</string>
   <string name="volume_dialog_accessibility_shown_message">%s kontrole glasnoće prikazane. Povucite prema gore da biste ih odbacili.</string>
   <string name="wednesday">Srijeda</string>

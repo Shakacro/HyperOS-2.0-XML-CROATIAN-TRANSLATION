@@ -120,12 +120,11 @@
     <string name="m3c_time_picker_minute">Minuta</string>
     <string name="m3c_time_picker_minute_selection">Odaberite minute</string>
     <string name="m3c_time_picker_minute_suffix">%1$d min</string>
-    <string name="m3c_time_picker_minute_text_field">za minute</string>
+    <string name="m3c_time_picker_minute_text_field">za minutu</string>
     <string name="m3c_time_picker_period_toggle_description">Odaberite prijepodne ili poslijepodne</string>
     <string name="m3c_time_picker_pm">Poslijepodne</string>
     <string name="m3c_tooltip_long_press_label">Prikaži opis</string>
     <string name="m3c_tooltip_pane_description">Opis</string>
-    <string name="midnight">Noć</string>
     <string name="miniresolver_open_in_personal">Želite li otvoriti aplikaciju %s na osobnom profilu?</string>
     <string name="miniresolver_open_in_work">Želite li otvoriti aplikaciju %s na poslovnom profilu?</string>
     <string name="miniresolver_use_personal_browser">Koristi osobni preglednik</string>
@@ -147,6 +146,8 @@
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
     <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
     <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+	 <string name="miuix_indexer_collect">Zbirke</string>
+	 <string name="miuix_indexer_selected">Odabrano %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povucite dolje za osvježavanje</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Uspješno osvježeno</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje…</string>

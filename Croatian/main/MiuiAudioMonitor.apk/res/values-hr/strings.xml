@@ -32,6 +32,8 @@
   <string name="app_name">Asistent za snimanje</string>
   <string name="assistant_note_one">Prečac statusne trake pojavit će se tijekom glasovnih poziva</string>
   <string name="assistant_note_two">Dodirnite prečac za snimanje poziva</string>
+  <string name="button_disagree">Odustani</string>
+  <string name="button_record_start">Snimanje</string>
   <string name="call_assistant">VoIP pomoćnik</string>
   <string name="call_in_progress">poziv u tijeku</string>
   <string name="call_recording_notification_complete_one">Uspješno snimljeno. Dodirnite za prikaz.</string>
@@ -46,13 +48,16 @@
   <string name="close">Zatvori</string>
   <string name="copy">Kopiraj</string>
   <string name="cta_HIPS_Perm_Location_Desc">Za snimanje poziva i zvuka</string>
-​ <string name="cta_main_purpose">"Dobro došli u Snimač glasovnih poziva! Ovu aplikaciju možete koristiti za snimanje glasovnih poziva upućenih u aplikacijama trećih strana. Ova aplikacija će pristupiti nazivima pozivatelja kako bi imenovala spremljene snimke.
+​  <string name="cta_main_purpose">"Dobro došli u Snimač glasovnih poziva! Ovu aplikaciju možete koristiti za snimanje glasovnih poziva upućenih u aplikacijama trećih strana. Ova aplikacija će pristupiti nazivima pozivatelja kako bi imenovala spremljene snimke.
 Imajte na umu da je kršenje prava na privatnost drugih ljudi protuzakonito. Ne smijete koristiti informacije dobivene putem ove značajke za narušavanje privatnosti drugih. Ako gore navedene podatke koristite nezakonito, preuzimate sve pravne rizike koji iz toga proizlaze.
 "</string>
   <string name="custom_define_perference_title">Pojedinosti o dopuštenjima</string>
   <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Za snimanje poziva i zvuka</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za spremanje snimaka</string>
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
+  <string name="desc_privacy_policy_cn">"Uz Snimač glasovnih poziva možete snimati glasovne pozive upućene u aplikacijama trećih strana. Ova će aplikacija pristupiti nadimcima pozivatelja kako bi imenovala spremljene snimke.
+Imajte na umu da je kršenje prava na privatnost drugih ljudi protuzakonito. Ne smijete koristiti informacije dobivene putem ove značajke za narušavanje privatnosti drugih. Ako gore navedene podatke koristite nezakonito, preuzimate sve pravne rizike koji iz toga proizlaze."</string>
+  <string name="desc_privacy_policy_global">"Lokalni zakoni koji se primjenjuju na vas ili bilo koju drugu stranu u ovom pozivu mogu zahtijevati da svi pristanu na snimanje razgovora. Vi ste odgovorni za poštivanje takvih zakona i Xiaomi neće biti odgovoran za bilo kakvo kršenje zakona zbog vaših radnji ili propusta. Snimanje poziva koristite odgovorno. Snimke se pohranjuju samo na vašem uređaju i Xiaomi im neće imati pristup. Početi snimati sada?"</string>
   <string name="expand_button_title">Napredno</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
@@ -153,6 +158,7 @@ Imajte na umu da je kršenje prava na privatnost drugih ljudi protuzakonito. Ne 
   <string name="time_picker_dialog_title">Set time</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
+  <string name="title_record_call">Snimi poziv</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tuesday">Utorak</string>

@@ -416,6 +416,10 @@
         <item quantity="other">%d novih obavijesti</item>
         <item quantity="one">%d nova obavijest</item>
     </plurals>
+	 <plurals name="musical_rhythm_app_summary">
+        <item quantity="other">%1$d aplikacija uključujući %2$s</item>
+        <item quantity="one">%1$d aplikacija uključujući %2$s</item>
+     </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d ograničenja</item>
         <item quantity="one">%1$d ograničenje</item>
@@ -424,6 +428,10 @@
         <item quantity="other">%1$d kanala obavijesti.</item>
         <item quantity="one">%1$d kanal obavijesti.</item>
     </plurals>
+	 <plurals name="notification_frequency_summary">
+        <item quantity="other">Otprilike %d stavki dnevno</item>
+        <item quantity="one">Otprilike %d stavka dnevno</item>
+     </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d kategorija</item>
         <item quantity="one">%d kategorija</item>
@@ -543,6 +551,10 @@
     <plurals name="search_application_count">
         <item quantity="other">Traži aplikacije</item>
     </plurals>
+	 <plurals name="search_app_hint">
+        <item quantity="other">Traži %d aplikacija</item>
+        <item quantity="one">Traži %d aplikaciju</item>
+     </plurals>
     <plurals name="seconds">
         <item quantity="other">%s sekundi</item>
         <item quantity="one">%s sekunda</item>

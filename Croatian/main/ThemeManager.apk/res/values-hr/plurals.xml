@@ -61,6 +61,9 @@
         <item quantity="other">"%1$d stavki nije dodano na vaš račun"</item>
         <item quantity="one">"%1$d stavka nije dodana na vaš račun"</item>
     </plurals>
+	 <plurals name="ai_generate_progress">
+        <item quantity="other">Ovo će trajati oko %s sek.</item>
+     </plurals>
     <plurals name="aod_batch_has_update_text">
         <item quantity="other">Dostupna su ažuriranja za teme: %1$d</item>
         <item quantity="one">Dostupno je ažuriranje za %1$d temu</item>

@@ -35,8 +35,12 @@
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="activity_not_found">Nijedna aplikacija ne može podržati ovu radnju</string>
   <string name="activity_not_found_uri">Nijedna aplikacija ne može podržati ovu radnju</string>
+  <string name="ad_banner_recommend_text">Moglo bi vam se svidjeti</string>
   <string name="ad_close_button_text">Promocija</string>
+  <string name="ad_flag_text">OGLAS</string>
   <string name="ad_notification_title">Nevažne poruke</string>
+  <string name="ad_settings">Postavke oglasa</string>
+  <string name="ad_switch">Preporuke</string>
   <string name="addBlackList">Dodaj na popis blokiranih</string>
   <string name="add_attachment">Dodaj privitak</string>
   <string name="add_contact">Kontakt</string>
@@ -52,21 +56,35 @@
   <string name="add_timing">Vrijeme</string>
   <string name="add_to_block_by_number">"Dodano %s
 na popis blokiranih"</string>
-   <string name="add_to_block_by_number_failed">"Nije moguće dodati %s na popis blokiranih.
+  <string name="add_to_block_by_number_failed">"Nije moguće dodati %s na popis blokiranih.
 Pokušajte ponovno."</string>
   <string name="add_to_block_by_tag">"Poruke koje sadrže \"%s\"
 dodane na popis blokiranih"</string>
-   <string name="add_to_block_by_tag_failed">"Nije moguće dodati poruke koje sadrže \"%s\" na popis blokiranih.
+  <string name="add_to_block_by_tag_failed">"Nije moguće dodati poruke koje sadrže \"%s\" na popis blokiranih.
 Pokušajte ponovno."</string>
+  <string name="add_to_block_cta_failed">Dodijelite Sigurnosti potrebna dopuštenja da biste mogli dodavati stavke na popis blokiranih</string>
   <string name="add_to_browser_favorite_failed">"Ne mogu dodati"</string>
   <string name="add_to_browser_favorite_success">Uspješno dodano</string>
-  <string name="add_to_block_cta_failed">Dodijelite Sigurnosti potrebna dopuštenja da biste mogli dodavati stavke na popis blokiranih</string>
+  <string name="add_to_calender">Dodaj u Kalendar</string>
   <string name="add_video">Dodaj videozapis</string>
   <string name="adding_attachments">Pričekajte završetak dodavanja stavki u dijaprojekciju.</string>
   <string name="adding_attachments_title">Dodavanje privitaka</string>
   <string name="adding_recipients">Dodavanje primatelja…</string>
+  <string name="after_installing_Google_SMS_banner_information">Otvorite Google Poruke za dijeljenje fotografija visoke kvalitete, W-Fi chat i više</string>
+  <string name="after_installing_Google_SMS_banner_title">Prebacite se na Google Poruke</string>
+  <string name="agree_and_open">Prihvaćam</string>
+  <string name="ai_smart_message_content"><Data>Sažetak AI poruka oslanja se na Smart Messaging za pružanje svojih značajki. Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> da nastavite.</Data></string>
+  <string name="ai_smart_message_titile">Uključite pametne poruke</string>
+  <string name="ai_summary_description">Neka umjetna inteligencija sažima duge poruke kako bi vam prikazala ključne informacije. Ova značajka malo će povećati potrošnju energije.</string>
+  <string name="ai_summary_dialog_content"><Data>"Sažetak AI poruka pruža pametne sažetke ključnih informacija iz dugih poruka. Xiaomi mora pristupiti sadržaju poruke kako bi omogućio ovu značajku, ali Xiaomi neće pohraniti te informacije.&lt;br />&lt;br />Pročitajte i prihvatite naš &lt;a href=\"%1$s\">AI Message Summary User Agreement&lt;/a> i &lt;a href=\"%2$s\">AI Message Summary Privacy Policy&lt;/a> prije korištenja ove usluge."</Data></string>
+  <string name="ai_summary_dialog_title">Potrebna su dopuštenja</string>
+  <string name="ai_summary_privacy_content">"Kada koristite sažetak AI poruka, sadržaj sažetka (uključujući sve privatne podatke u njemu) obradit će Xiaomi, ali Xiaomi neće pohraniti te podatke."</string>
+  <string name="ai_summary_privacy_tip"><Data>Pročitajte &lt;a href=\"%1$s\">AI Message Summary Privacy Policy&lt;/a> da biste razumjeli kako upravljamo vašim podacima. Za više informacija o ovoj usluzi pročitajte &lt;a href=\"%2$s\">AI Message Summary User Agreement&lt;/a>.</Data></string>
+  <string name="ai_summary_privacy_title">Izjava o privatnosti</string>
   <string name="aim_show_card">Prikaži karticu</string>
   <string name="aim_show_original">Prikaži poruku</string>
+  <string name="alert_ai_sum_close_content">"Ako isključite Smart Messaging, nećete moći koristiti sažetak AI poruka."</string>
+  <string name="alert_ai_sum_close_title">Isključiti Smart Messaging?</string>
   <string name="alert_dlg_cancel_button">Odustani</string>
   <string name="alert_dlg_ok_button">U redu</string>
   <string name="allow">U redu</string>
@@ -112,6 +130,7 @@ Pokušajte ponovno."</string>
   <string name="backup_progress_favorite_messages">Sigurnosno kopiranje omiljenih poruka…</string>
   <string name="backup_success_all_messages">Sigurnosno kopiranje uspješno</string>
   <string name="backup_success_favorite_messages">Uspješno sigurnosno kopirane omiljene poruke</string>
+  <string name="banking">Bankarenje</string>
   <string name="banner_btn_install">Instaliraj</string>
   <string name="banner_btn_not_now">Ne sad</string>
   <string name="banner_btn_open">Otvori</string>
@@ -119,10 +138,12 @@ Pokušajte ponovno."</string>
   <string name="batch_deleting_message_progress_message">Brisanje odabrane poruke(a)</string>
   <string name="batch_deleting_progress_message">Brisanje odabranih niti poruke(a)</string>
   <string name="bcc_label">"Bcc: "</string>
+  <string name="billing">Računi</string>
   <string name="block_messaging_entry_title">Blokirani SMS-ovi</string>
   <string name="block_number_message">Taj će broj telefona biti dodan na popis za blokiranje. Sve poruke poslane s ovog broja bit će blokirane.</string>
   <string name="block_support_text">Podržano od strane Antiy.</string>
   <string name="block_tag_message">Sve poruke poslane od %s bit će blokirane. Možda nećete moći primati kontrolne kodove ili račune koje vam je poslala ova usluga.</string>
+  <string name="boarding_time">Vrijeme ukrcavanja</string>
   <string name="bookmark">Dodano u favorite</string>
   <string name="bookmark_confirm_delete_message">Želite li ukloniti odabrane poruke iz favorita?</string>
   <string name="bookmark_empty">Nema poruka</string>
@@ -153,29 +174,33 @@ Pokušajte ponovno."</string>
   <string name="cannot_send_message">"Ne mogu poslati ovu poruku""</string>
   <string name="cannot_send_message_reason">Poruka nema važećeg primatelja.</string>
   <string name="cannot_send_mms">"Satelitske komunikacije ne podržavaju MMS"</string>
+  <string name="card_insert_to_contact">Uvezi kontakt</string>
   <string name="carry_current_location">Uključi trenutnu lokaciju</string>
   <string name="carry_vital_signs">Uključi vitalne znakove</string>
-  <string name="card_insert_to_contact">Uvezi kontakt</string>
   <string name="change_duration_activity">Promjena trajanja</string>
   <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašilo je %1$d od %2$d</string>
+  <string name="charge_link">Provjera transakcije</string>
+  <string name="charge_tip_dialog_for_id">Odlazna SMS poruka je potrebna za aktiviranje Mi Poruka. Vaš mobilni operater će vam naplatiti tu poruku.</string>
+  <string name="charge_tip_dialog_for_in">Za aktivaciju Pametnih poruka potrebna je odlazna SMS poruka. Vaš operater će vam naplatiti ovu poruku.</string>
+  <string name="charge_tip_dialog_make_sure">Razumijem</string>
   <string name="chatbot_info_title">Osnovne informacije</string>
   <string name="chatbot_list_title">5G Poruke</string>
   <string name="chatbot_main_title">Mini aplikacije</string>
   <string name="check_all">Odaberitete sve</string>
+  <string name="check_pnr">Provjeri PNR</string>
   <string name="chip_text">Tekst isječka</string>
-  <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
-  <string name="context_menu_access_link">Otvori poveznicu</string>
-  <string name="context_menu_call_phone">Poziv</string>
-  <string name="context_menu_copy_link">Kopiraj poveznicu</string>
   <string name="class_0_message_activity">Poruka klase 0</string>
   <string name="classifing">Grupiranje poruka…</string>
+  <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="click_to_update">Dodirnite za provjeru ažuriranja</string>
   <string name="click_to_view">Dodirni za prikaz</string>
   <string name="close">Zatvori</string>
-  <string name="cloud_space_not_enough">Cloud pohrana je puna. Nadogradite svoje članstvo za sinkronizaciju najnovijih stavki.</string>
+  <string name="close_c2c_dialog_tips">"Poštovani korisniče,
+Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To ni na koji način neće utjecati na slanje i primanje SMS-a koje dopušta Vaš mobilni operater. Žalimo zbog nastalih neugodnosti i radujemo se što ćemo Vam poboljšati iskustvo proizvoda našim budućim ažuriranjima."</string>
   <string name="cloud_recommend_view_tip">Uključite sinkronizaciju s Xiaomi Cloudom za vraćanje važnih poruka u bilo kojem trenutku</string>
+  <string name="cloud_space_not_enough">Cloud pohrana je puna. Nadogradite svoje članstvo za sinkronizaciju najnovijih stavki.</string>
   <string name="cloud_state_disabled">Uključite sinkronizaciju s Xiaomi Cloudom da sinkronizirate poruke</string>
   <string name="cloud_state_sync_finished">Sinkr. s Xiaomi Cloudom</string>
   <string name="cloud_state_syncing">Sinkr. s Xiaomi Cloud…</string>
@@ -187,6 +212,10 @@ Pokušajte ponovno."</string>
   <string name="cmcc_privacy">China Mobile Carrier Privacy Agreement</string>
   <string name="cn_privacy_dialog_title">Pažnja</string>
   <string name="cn_privacy_update_dialog_title">Ažurirana Pravila o privatnosti</string>
+  <string name="coach">Prtljaga</string>
+  <string name="columbus_ad_flag_text">OGLAS</string>
+  <string name="columbus_skip_ad">Preskoči</string>
+  <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Playa. Pokušajte ponovo.</string>
   <string name="complain_message_title">Prijavi</string>
   <string name="compressing">Slika je prevelika. Sažimanje…</string>
   <string name="confirm">U redu</string>
@@ -215,13 +244,16 @@ Pokušajte ponovno."</string>
   <string name="confirm_upload_sms">Učitajte poruke da biste poboljšali funkcionalnost popisa blokiranja</string>
   <string name="contact_card_unknown_contact">Nepoznati kontakt</string>
   <string name="contact_not_exists">"Ta osoba nije u vašim kontaktima."</string>
+  <string name="context_menu_access_link">Otvori poveznicu</string>
   <string name="context_menu_add_calendar">Dodaj u Kalendar</string>
   <string name="context_menu_add_contact">Dodaj u Kontakte</string>
   <string name="context_menu_add_to_browser_favorite">Dodaj u oznake preglednika</string>
   <string name="context_menu_browse_web">Pretraži</string>
   <string name="context_menu_call">Poziv</string>
+  <string name="context_menu_call_phone">Poziv</string>
   <string name="context_menu_contact">Kontakt: %1$s</string>
   <string name="context_menu_copy">Kopiraj</string>
+  <string name="context_menu_copy_link">Kopiraj poveznicu</string>
   <string name="context_menu_copy_notice">Kopirano u međuspremnik</string>
   <string name="context_menu_new_contact">Novi kontakt</string>
   <string name="context_menu_send_mail">Pošalji E-poštu</string>
@@ -244,11 +276,13 @@ Pokušajte ponovno."</string>
   <string name="copy_message_success">Uspješno kopirano</string>
   <string name="copy_message_text">Kopiraj tekst</string>
   <string name="copy_message_text_success">Tekst uspješno kopiran!</string>
+  <string name="copy_otp_success">Uspješno kopirano</string>
   <string name="copy_to_sdcard">Spremi privitak</string>
   <string name="copy_to_sdcard_fail">Ne mogu spremiti privitak</string>
   <string name="copy_to_sdcard_success">Privitak spremljen kao %s</string>
   <string name="copy_verification_code_tip">Uspješno kopirano</string>
   <string name="current_data_version">Verzija Mi Poruka</string>
+  <string name="date">Datum</string>
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
   <string name="debug_about_mms">O MMS-u</string>
   <string name="debug_category_db">Baza podataka</string>
@@ -272,6 +306,7 @@ Pokušajte ponovno."</string>
   <string name="delete_wild_sims">Izbriši brojeve</string>
   <string name="delete_wild_sims_confirm">Sve poruke koje pripadaju odabranim brojevima biti će izbrisane u ovom telefonu. Možete ih vratiti na i.mi.com.</string>
   <string name="delete_wild_sims_title">Izbriši odabrane brojeve</string>
+  <string name="deliver_status">Izvješća o isporuci</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
   <string name="delivery_toast_body">Poruku je primio %s.</string>
   <string name="dialog_agree">Slažem se</string>
@@ -284,12 +319,13 @@ Pokušajte ponovno."</string>
   <string name="dialog_message_mx">Mi Poruka vam omogućuje slanje poruka drugim Xiaomi korisnicima bez naplate troškova. Odlazna SMS poruka potrebna je za aktivaciju Mi Poruke. Vaš mobilni operater će vam naplatiti tu poruku. Morate prihvatiti naše \"%1$s\" i \"%2$s\" prije korištenja Mi Poruka.</string>
   <string name="dialog_message_networking">Poruke se trebaju povezati s internetom i pristupiti vašoj lokaciji kako bi pružili Smart Messaging, prepoznati ID-a pošiljatelja i druge usluge. Prihvaćate?</string>
   <string name="dialog_message_networking_rcs">China Mobile Messaging vam omogućuje slanje poruka drugim korisnicima China Mobilea bez naplate troškova. Morate prihvatiti naše \"%1$s\" and \"%2$s\" prije korištenja China Mobile Messaging. Poruke se trebaju povezati s internetom i pristupiti vašoj lokaciji kako bi pružili Smart Messaging, prepoznati ID-a pošiljatelja i druge usluge. Prihvaćate?</string>
+  <string name="dialog_message_rcs">China Mobile Messaging vam omogućuje slanje poruka drugim korisnicima China Mobilea na kineskom kopnu bez naplate. Morate prihvatiti \"%1$s\" prije korištenja China Mobile Messaging.</string>
   <string name="dialog_quit">Izlaz</string>
   <string name="dialog_revoke">Povuci</string>
   <string name="dialog_sim_locked_confirm">U redu</string>
   <string name="dialog_sim_locked_message">"Vaša SIM kartica nije potpuno funkcionalna s ovim telefonom jer nije u skladu s odredbama i uvjetima vaše pretplate. Ako imate bilo kakvih pitanja ili trebate više informacija o ovom pitanju, kontaktirajte Xiaomi servisne centre ili trgovinu koja vam je prodala uređaj."</string>
-  <string name="dialog_smart_message_privacy_tips">Usluge Smart poruka nudi Dianhuabang. Prije upotrebe Smart poruka morate se složiti sa \"%1$s\". Smart poruke moraju se povezati s internetom i pristupiti vašoj lokaciji kako bi radile normalno. Slažete li se?</string>
   <string name="dialog_sim_locked_message_translation_for_pad">"Vaša SIM kartica nije potpuno funkcionalna s ovim uređajem jer nije u skladu s odredbama i uvjetima vaše pretplate. Ako imate bilo kakvih pitanja ili trebate više informacija o ovom pitanju, obratite se Xiaomi servisne centre ili trgovinu koja vam je prodala proizvode."</string>
+  <string name="dialog_smart_message_privacy_tips">Usluge Smart poruka nudi Dianhuabang. Prije upotrebe Smart poruka morate se složiti sa \"%1$s\". Smart poruke moraju se povezati s internetom i pristupiti vašoj lokaciji kako bi radile normalno. Slažete li se?</string>
   <string name="dialog_title_correct_as_ad">Premjesti u promotivne poruke</string>
   <string name="dialog_title_correct_as_normal">Premjesti u redovite poruke</string>
   <string name="dialog_title_fake_cell_detect_error">Ispravi</string>
@@ -303,11 +339,17 @@ Pokušajte ponovno."</string>
   <string name="discard_slideshow">Odbaciti dijaprojekciju</string>
   <string name="dissolve_group">Otkaži chat</string>
   <string name="dl_failure_notification">Preuzimanje poruke od %1$s za %2$s nije bilo moguće.</string>
+  <string name="dock_agree">Postavi</string>
+  <string name="dock_content_text">Vratite ikonu početnog zaslona aplikacije Poruka na zadani položaj kako biste je brzo i jednostavno pronašli. Sada postaviti na početni zaslon?</string>
+  <string name="dock_disagree">Ne sada</string>
   <string name="done">Gotovo</string>
+  <string name="downlink_dialog_illegal_phoneno_tip">Unesite važeći telefonski broj</string>
+  <string name="downlink_dialog_input_phoneno_tip">Unesite svoj telefonski broj</string>
   <string name="download">Preuzmi</string>
   <string name="download_later">""Preuzimanje u ovom trenutku nije moguće. Pokušajte ponovno kasnije.""</string>
   <string name="download_miui_calendar_detail">Preuzmite Kalendar kako biste mogli dodavati događaje i podsjetnike u kalendar. Otvoriti GetApps sada?</string>
   <string name="download_miui_calendar_title">Preuzmi Kalendar</string>
+  <string name="download_pending">Preuzimanje videozapisa…</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_file_can_not_play">Pričekajte dok se ne završi preuzimanje</string>
   <string name="draft">Skica</string>
@@ -315,12 +357,13 @@ Pokušajte ponovno."</string>
   <string name="duration_sec">Trajanje (%s sek)</string>
   <string name="duration_selector_title">"Trajanje slajda"</string>
   <string name="duration_zero">Trajanje mora biti više od 0 sekundi</string>
+  <string name="earlier">Ranije</string>
   <string name="edit">Uredi</string>
   <string name="edit_phrase">Uredi izraz</string>
   <string name="edit_slide_activity">Uredi slajd</string>
   <string name="edit_slideshow_activity">Uredi dijaprojekciju</string>
   <string name="emergency_label">Kontakt za hitne slučajeve</string>
-  <string name="empty" />
+  <string name="empty"/>
   <string name="enable_classify_tip_dialog_content">Ovo će ponovno pokrenuti aplikaciju Poruke. Svjedeno nastaviti?</string>
   <string name="enable_location_service">Potrebna su dopuštenja</string>
   <string name="enabled">Uključeno</string>
@@ -328,6 +371,7 @@ Pokušajte ponovno."</string>
   <string name="enter_edit_mode">Izbrisati</string>
   <string name="error_code_label">"Pogreška koda: "</string>
   <string name="error_field_required">Potrebno</string>
+  <string name="error_generic">Ne mogu reproducirati videozapis</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="error_incorrect_otp">Netočan kod</string>
   <string name="error_invalid_otp">Neispravan kod</string>
@@ -336,6 +380,7 @@ Pokušajte ponovno."</string>
   <string name="error_state">Nekonzistentno stanje</string>
   <string name="error_state_text">Stanje niti i primatelja nije dosljedno. Snimite izvješće o bugu i prijavite ga putem stranice http://go/droidanizer</string>
   <string name="error_timed_msg">Ne mogu zakazati vrijeme ranije</string>
+  <string name="esim_card">eSIM</string>
   <string name="ex_type_guide">Informacija</string>
   <string name="ex_type_mx">Mi Poruka</string>
   <string name="ex_type_sms">SMS/MMS</string>
@@ -343,8 +388,49 @@ Pokušajte ponovno."</string>
   <string name="exceed_message_size_limitation">Dosegnuto je ograničenje veličine poruke.</string>
   <string name="exceed_message_size_limitation_add_slide">Veličina poruke nije dovoljna da dodate slajd</string>
   <string name="exceed_message_text_limitation">Dosegnuto je ograničenje veličine poruke.</string>
+  <string name="exo_controls_fastforward_description">Brzo unaprijed</string>
+  <string name="exo_controls_fullscreen_description">Prikaz na cijelom zaslonu</string>
+  <string name="exo_controls_hide">Sakrij kontrole playera</string>
+  <string name="exo_controls_next_description">Sljedeći zapis</string>
+  <string name="exo_controls_pause_description">Pauza</string>
+  <string name="exo_controls_play_description">Reproduciraj</string>
+  <string name="exo_controls_previous_description">Prethodni zapis</string>
+  <string name="exo_controls_repeat_all_description">Ponovi sve</string>
+  <string name="exo_controls_repeat_off_description">Bez ponavljanja</string>
+  <string name="exo_controls_repeat_one_description">Ponovi jedno</string>
+  <string name="exo_controls_rewind_description">Unatrag</string>
+  <string name="exo_controls_show">Prikaži kontrole playera</string>
+  <string name="exo_controls_shuffle_off_description">Nasumična reproduk. isključena</string>
+  <string name="exo_controls_shuffle_on_description">Nasumična reproduk. uključena</string>
+  <string name="exo_controls_stop_description">Zaustavi</string>
+  <string name="exo_controls_vr_description">VR način</string>
+  <string name="exo_download_completed">Preuzimanje je dovršeno</string>
+  <string name="exo_download_description">Preuzmi</string>
+  <string name="exo_download_downloading">Preuzimanje</string>
+  <string name="exo_download_failed">Preuzimanje nije uspjelo</string>
+  <string name="exo_download_notification_channel_name">Preuzimanja</string>
+  <string name="exo_download_removing">Uklanjanje preuzimanja</string>
+  <string name="exo_item_list">%1$s, %2$s</string>
+  <string name="exo_track_bitrate">%1$.2f Mbps</string>
+  <string name="exo_track_mono">Mono</string>
+  <string name="exo_track_resolution">%1$d × %2$d</string>
+  <string name="exo_track_role_alternate">Alternativna verzija</string>
+  <string name="exo_track_role_closed_captions">Verzija s titlovima</string>
+  <string name="exo_track_role_commentary">Verzija s komentarima</string>
+  <string name="exo_track_role_supplementary">Dopunska verzija</string>
+  <string name="exo_track_selection_auto">Automatski</string>
+  <string name="exo_track_selection_none">Ništa</string>
+  <string name="exo_track_selection_title_audio">Audiozapis</string>
+  <string name="exo_track_selection_title_text">Tekst</string>
+  <string name="exo_track_selection_title_video">Videozapis</string>
+  <string name="exo_track_stereo">Stereo</string>
+  <string name="exo_track_surround">Okružujući zvuk</string>
+  <string name="exo_track_surround_5_point_1">5.1-kanalni okružujući zvuk</string>
+  <string name="exo_track_surround_7_point_1">7.1-kanalni okružujući zvuk</string>
+  <string name="exo_track_unknown">Nepoznato</string>
   <string name="expand_button_title">Napredno</string>
   <string name="expire_on">Ističe: %s</string>
+  <string name="expiry_time">Vrijedi do</string>
   <string name="exporting_progress_private_message">Izvoz poruka iz privatnog sandučića</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="fail_to_add_attachment">"Ne mogu dodati privitak"</string>
@@ -359,12 +445,14 @@ Pokušajte ponovno."</string>
   <string name="fake_cell_checking_hint">Sigurnosna provjera…</string>
   <string name="fake_cell_safe_hint">Ova poruka je sigurna</string>
   <string name="fake_cell_timeout_hint">"Ne mogu provjeriti sigurnost"</string>
+  <string name="fare">Cijena</string>
   <string name="favorite_at_time">Dodano u favorite: %1s</string>
+  <string name="fcm_fallback_notification_channel_label">Razno</string>
   <string name="fdn_check_failure">Poruke možete slati samo brojevima za fiksno biranje.</string>
   <string name="feature_mx">Mi Poruka</string>
-  <string name="feature_mx_summary"><b>Mi Poruka vam omogućuje slanje poruka drugim korisnicima Mi Poruka putem interneta bez naplate</b>. Za aktivaciju ove usluge potrebna je odlazna SMS poruka. Vaš operater će vam naplatiti ovu poruku. Pročitajte i prihvatite naše <font color="#B3000000"><a href="http://url1">Korisnički ugovor</a></font> i <font color="#B3000000"><a href="http://url2">Pravila o privatnosti</a></font> prije korištenja ove značajke.</string>
+  <string name="feature_mx_summary">&lt;b&gt;Mi Poruka vam omogu&amp;#263;uje slanje poruka drugim korisnicima Mi Poruka putem interneta bez naplate&lt;/b&gt;. Za aktivaciju ove usluge potrebna je odlazna SMS poruka. Va&amp;#353; operater &amp;#263;e vam naplatiti ovu poruku. Pro&amp;#269;itajte i prihvatite na&amp;#353;e &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Korisni&amp;#269;ki ugovor&lt;/a&gt;&lt;/font&gt; i &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; prije kori&amp;#353;tenja ove zna&amp;#269;ajke.</string>
   <string name="feature_smart_sms">Smart Messaging</string>
-  <string name="feature_smart_sms_summary"><b>Smart Messaging omogućuje prepoznavanje ID-a pošiljatelja i pametne izbornike</b>". Smart Messaging djelomično osigurava Yulore. Pročitajte i prihvatite Yulore "<font color="#B3000000"><a href="http://url3">Pravila o privatnosti</a></font> prije korištenja ove značajke.</string>
+  <string name="feature_smart_sms_summary">&lt;b&gt;Smart Messaging omogu&amp;#263;uje prepoznavanje ID-a po&amp;#353;iljatelja i pametne izbornike&lt;/b&gt;". Smart Messaging djelomi&amp;#269;no osigurava Yulore. Pro&amp;#269;itajte i prihvatite Yulore "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; prije kori&amp;#353;tenja ove zna&amp;#269;ajke.</string>
   <string name="festival_sms_loading">Učitavanje…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">"Izrađeno: "</string>
@@ -374,6 +462,7 @@ Pokušajte ponovno."</string>
   <string name="file_size">"Veličina: "</string>
   <string name="file_title">"Naziv: "</string>
   <string name="file_width_height">"Veličina: "</string>
+  <string name="flight">Let</string>
   <string name="force_touch_new_message_title">Nove poruka</string>
   <string name="forward_from">Proslijeđeno od:</string>
   <string name="forward_message_select_title">Proslijedi poruku</string>
@@ -394,7 +483,7 @@ Pokušajte ponovno."</string>
   <string name="full_group">"Chat kojem ste se pridružili je pun"</string>
   <string name="general_hint_title">Pažnja</string>
   <string name="go_close">Postavke</string>
-  <string name="google_message_promo_content">Xiaomi preporučuje prelazak na Googleove poruke. Omogućuje vam slanje SMS poruka na Wi-Fi mreži, dijeljenje visokokvalitetnih medija i još mnogo toga. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Saznajte više</a></font></string>
+  <string name="google_message_promo_content">Xiaomi preporučuje prelazak na Googleove poruke. Omogućuje vam slanje SMS poruka na Wi-Fi mreži, dijeljenje visokokvalitetnih medija i još mnogo toga. &lt;font color="#B3000000"&gt;&lt;a href="https://support.google.com/messages/answer/6089066"&gt;Saznajte vi&amp;#353;e&lt;/a&gt;&lt;/font&gt;</string>
   <string name="google_message_promo_title">Nadogradite svoju aplikaciju za razmjenu poruka</string>
   <string name="group_already_kicked_hint">"Ne mogu slati poruke. Nisi član ovog grupnog razgovora."</string>
   <string name="group_chat_chairman_delete_hint">"Vi ste sada upravitelj ovog razgovora. Najbolje je odabrati novog voditelja chata prije nego što napustite. Svejedno prekinuti ovaj chat?"</string>
@@ -438,8 +527,8 @@ Pokušajte ponovno."</string>
   <string name="has_invalid_recipient">Nevažeći primatelj(i): %1$s</string>
   <string name="heduohao_sub_sim_card">Sub</string>
   <string name="hidden_sender_address">Skrivena adresa pošiljatelja</string>
-  <string name="hold_hand_with_sending">Slanje SMS-a. Budite mirni.</string>
   <string name="hint_not_login">"Usluga nije dostupna. Provjerite mrežne postavke i pokušajte ponovno."</string>
+  <string name="hold_hand_with_sending">Slanje SMS-a. Budite mirni.</string>
   <string name="hold_to_talk">Zadrži za razgovor</string>
   <string name="home_tab_ad">Promotivne</string>
   <string name="home_tab_common">Redovite</string>
@@ -453,9 +542,8 @@ Pokušajte ponovno."</string>
   <string name="hybrid_pull_to_refresh_release_label">Otpusti za osvježiti…</string>
   <string name="hybrid_service_unavailiable">"Usluga nije dostupna"</string>
   <string name="hybrid_try_again">Pokušajte ponovno</string>
-  <string name="icon_content_description">Ikona dijaloškog okvira</string>
-  <string name="item_view_role_description">Kartica</string>
   <string name="i_know">Razumijem</string>
+  <string name="icon_content_description">Ikona dijaloškog okvira</string>
   <string name="ignore">Ne sada</string>
   <string name="imageview_ad">Oglas</string>
   <string name="importing_progress_private_message">Uvoz…</string>
@@ -471,6 +559,9 @@ Pokušajte ponovno."</string>
   <string name="is_composing">Tipka…</string>
   <string name="item_over_quantity">Odaberitete do %d poruka koje sadrže informacije o lokaciji</string>
   <string name="item_shortage">Odaberitete najmanje %d poruke koje sadrže informacije o lokaciji</string>
+  <string name="item_view_role_description">Kartica</string>
+  <string name="json_card_img_retry">Pokušajte ponovo</string>
+  <string name="json_card_img_retry_error">Provjerite svoju mrežnu vezu i pokušajte ponovno</string>
   <string name="kicked_out_group">Izbrisani ste iz razgovora</string>
   <string name="kilobyte">KB</string>
   <string name="label_alias">Moj alias</string>
@@ -490,6 +581,7 @@ Pokušajte ponovno."</string>
   <string name="leave_mms_tips_context_browser">Izaći iz Poruka i otvoriti Preglednik?</string>
   <string name="leave_mms_tips_context_email">Izaći iz Poruka i otvoriti E-poštu?</string>
   <string name="leave_mms_tips_context_map">Izaći iz Poruka i otvoriti Karte?</string>
+  <string name="link_open_failed">Nije pronađena aplikacija za obradu ove radnje.</string>
   <string name="loading_all_messages">Samo trenutak…</string>
   <string name="loading_conversations">Samo trenutak…</string>
   <string name="loading_mms">Samo trenutak…</string>
@@ -595,14 +687,14 @@ Provjerite svoju SIM karticu."</string>
   <string name="miuix_appcompat_select_all">Odaberite sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberite sve</string>
   <string name="miuix_appcompat_select_item">Odaberite stavke</string>
+  <string name="miuix_indexer_collect">Zbirke</string>
+  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_item_view_role_description">Kartica</string>
   <string name="miuix_navigator_category_group_collapse">Sažmi</string>
   <string name="miuix_navigator_category_group_expand">Proširi</string>
   <string name="miuix_navigator_content_switch_description">Prikaži bočnu traku</string>
   <string name="miuix_navigator_multiple_choice">Odaberite</string>
   <string name="miuix_navigator_navigator_switch_description">Sakrij bočnu traku</string>
-  <string name="miuix_indexer_collect">Zbirke</string>
-  <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -629,6 +721,7 @@ Ova poruka biti neželjena."</string>
   <string name="mms_smart_msg_privacy_policy">Pravila o privatnosti za pametne poruke</string>
   <string name="mms_title">Poruke</string>
   <string name="mms_user_agreement">Korisnički ugovor</string>
+  <string name="mobile_charge">Nadoplata</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -690,7 +783,7 @@ Ova poruka biti neželjena."</string>
   <string name="msglist_more_refreshing">Osvježavam…</string>
   <string name="msglist_no_more_to_refresh">Sve je već ažurno</string>
   <string name="msglist_release_to_more">Otpustite da bi vidjeli više</string>
-    <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
+  <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
@@ -735,9 +828,6 @@ Ova poruka biti neželjena."</string>
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Obavijest o MMS-u</string>
   <string name="mx2_type_description">[%s]</string>
-  <string name="mx_activate_status_desc_query_activte_info_translation_for_pad">Provjera informacija o SIM kartici…</string>
-  <string name="mx_dspt_listview_translation_for_pad">"Šaljite poruke drugim Xiaomi uređajima bez naplate kada ste povezani na internet"</string>
-  <string name="mx_dspt_translation_for_pad">"Šaljite poruke drugim Xiaomi uređajima bez naplate kada ste povezani na internet"</string>
   <string name="mx_activate_allow_notice">Odlazna SMS poruka može biti potrebna za za aktiviranje besplatnih poruka i govornih usluga. Vaš mobilni operater će vam naplatiti tu poruku. Osim toga, kada je ova značajka uključena, potrebna je mala količina mobilnih podataka za provjeru je li drugi korisnik na mreži. Slažete li se?</string>
   <string name="mx_activate_dlg_title">Aktiviraj Mi Poruke</string>
   <string name="mx_activate_dlg_title_ex">Aktiviraj Mi Poruke &amp; Glas</string>
@@ -757,6 +847,7 @@ Ova poruka biti neželjena."</string>
   <string name="mx_activate_status_desc_fail">"Ne mogu aktivirati Mi Poruke"</string>
   <string name="mx_activate_status_desc_prepare_sending_sms">Šaljem SMS aktivacije…</string>
   <string name="mx_activate_status_desc_query_activte_info">Provjeravam detalje SIM kartice…</string>
+  <string name="mx_activate_status_desc_query_activte_info_translation_for_pad">Provjera informacija o SIM kartici…</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Broj telefona koji ste unijeli nije važeći</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">"Ne mogu aktivirati Mi Poruke"</string>
   <string name="mx_auto_resend_mms">Automatski ponovno pošalji MMS</string>
@@ -769,8 +860,10 @@ Ova poruka biti neželjena."</string>
   <string name="mx_current_status">Postavke</string>
   <string name="mx_dspt">"Šaljite SMS i MMS poruke drugim Xiaomi uređajima bez nastanka troškova kada ste povezani na Wi-Fi."</string>
   <string name="mx_dspt_listview">Šaljite poruke drugim Xiaomi korisnicima bez nastanka troškova</string>
+  <string name="mx_dspt_listview_translation_for_pad">"Šaljite poruke drugim Xiaomi uređajima bez naplate kada ste povezani na internet"</string>
   <string name="mx_dspt_provision">Mi Poruke omogućuju vam da šaljete poruke drugim Xiaomi korisnicima preko interneta bez nastanka troškova. Odlazna SMS poruka može biti potrebna za ponovno aktiviranje Mi Poruka. Vaš mobilni operater će vam naplatiti tu poruku. Osim toga, kada je ova značajka uključena, potrebna je mala količina mobilnih podataka za provjeru je li drugi korisnik na mreži. Slažete li se?</string>
   <string name="mx_dspt_provision_ex2">Pravila o privatnosti</string>
+  <string name="mx_dspt_translation_for_pad">"Šaljite poruke drugim Xiaomi uređajima bez naplate kada ste povezani na internet"</string>
   <string name="mx_enable">Mi Poruka</string>
   <string name="mx_enable_ex">Mi Poruka &amp; Glas</string>
   <string name="mx_enable_popup_msg">Mi Poruke omogućuju vam da šaljete poruke drugim Xiaomi uređajima bez nastanka troškova</string>
@@ -785,6 +878,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="mx_msg">Mi Poruke</string>
   <string name="mx_msg_pageview_setting_title">Postavke Mi Poruka</string>
   <string name="mx_offline">Bez mreže</string>
+  <string name="mx_on_esim">Mi Poruke eSIM</string>
   <string name="mx_on_sim_1">Mi Poruka sa SIM utora 1</string>
   <string name="mx_on_sim_2">Mi Poruka sa SIM utora 2</string>
   <string name="mx_online">Aktivirano</string>
@@ -793,8 +887,8 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="mx_reactivate">Ponovno aktivirajte Mi Poruke</string>
   <string name="mx_recommend_msg">Dodirnite da uključite Mi Poruke</string>
   <string name="mx_stranger_recommend_msg">Dodirni za blokiranje Mi Poruka od nepoznatih brojeva</string>
-  <string name="my_location">Moja lokacija:</string>
   <string name="mx_type_guide">Šaljite poruke drugim HyperOS uređajima bez nastanka troškova</string>
+  <string name="my_location">Moja lokacija:</string>
   <string name="need_download">Sinkroniziram…</string>
   <string name="net_sms_subscribed">Uspješno pretplaćeno</string>
   <string name="net_sms_unsubscribe">Pretplata otkazana</string>
@@ -814,8 +908,8 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="next_chairman">Novi voditelj razgovora</string>
   <string name="no">Odustani</string>
   <string name="no_block_button_msg">"Ne blokiraj poruke s ovog broja"</string>
-  <string name="no_conversations">Nema razgovora</string>
   <string name="no_conversation_selected">Odaberitete razgovor za prikaz</string>
+  <string name="no_conversations">Nema razgovora</string>
   <string name="no_delivery_report">Nema izvješća o isporuci</string>
   <string name="no_dialogue_yet">Odaberitete razgovor</string>
   <string name="no_longer_recommend">"Ne prikazuj ponovno "</string>
@@ -855,10 +949,15 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="open_edit_sms_panel">Otvori ploču uređivanja SMS-a</string>
   <string name="open_now">Postavke</string>
   <string name="open_url_with_web">Otvoriti ovu poveznicu u Pregledniku?</string>
+  <string name="otp">Kod</string>
+  <string name="otp_copy">Kopiraj</string>
   <string name="over_max_mms_size">MMS poruka je prevelika.</string>
   <string name="overwrite_edited_content">Uređeni sadržaj će biti prebrisan, nastaviti?</string>
   <string name="packages_select_sim_cards_title">Odaberitete SIM karticu</string>
+  <string name="passenger_title">Putnik</string>
   <string name="password_toggle_content_description">Pokaži zaporku</string>
+  <string name="pay_bill">Plati</string>
+  <string name="payment_failed">Ne mogu dovršiti plaćanje</string>
   <string name="perm_purpose_mms_account">Za pristup informacijama o računu</string>
   <string name="perm_purpose_mms_storage">Za spremanje MMS privitaka</string>
   <string name="perm_purpose_rcs_account">"Za prikazivanje vodiča za početnike novim korisnicima"</string>
@@ -882,8 +981,10 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pick_video_size_desc">RCS omogućuje komprimiranje videozapisa prije slanja. Komprimirati videozapis ili poslati izvorne datoteke?</string>
   <string name="play">Reproduciraj</string>
   <string name="playing_failed">"Ne mogu reproducirati"</string>
-  <string name="prefDefault_ringtone_repeat">1</string>
+  <string name="pnr">PNR</string>
+  <string name="pop_text">"Neka vaš uređaj bude povezan s punjačem. Brže će organizirati poruke kada je ekran isključen."</string>
   <string name="pref_advanced_settings_title">Napredne postavke</string>
+  <string name="pref_ai_summary">Sažetak AI poruke</string>
   <string name="pref_allow_network_access_summary">Uključite da biste dobili najnovije informacije o isporuci i drugim uslugama.</string>
   <string name="pref_cell_broadcast">Emitiranje mreže</string>
   <string name="pref_collapse_sp_messages_summary">Automatski grupiraj SMS obavijesti zajedno</string>
@@ -968,9 +1069,9 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="pref_title_perm_call">Upućivati pozive</string>
   <string name="pref_title_perm_camera">Koristiti kameru</string>
   <string name="pref_title_perm_location">Lokacija</string>
+  <string name="pref_title_perm_read_audio">Pristup audio datotekama</string>
   <string name="pref_title_perm_read_call_log">Pristupiti povijesti poziva</string>
   <string name="pref_title_perm_read_contacts">Pristupiti kontaktima</string>
-  <string name="pref_title_perm_read_audio">Pristup audio datotekama</string>
   <string name="pref_title_perm_read_files">Pristup datotekama i dokumentima</string>
   <string name="pref_title_perm_read_images_video">Pristup fotografijama i videozapisima</string>
   <string name="pref_title_perm_read_mms">Pročitati SMS</string>
@@ -1004,6 +1105,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
   <string name="privacy_dialog_error_service">Došlo je do pogreške poslužitelja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="privacy_dialog_text_policy_link">Pravila o privatnosti</string>
   <string name="privacy_dialog_tips_revoke" formatted="false">"Ako nastavite, povući ćete suglasnost na Pravila o privatnosti tvrtke %s. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da %s pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga %s. Povući sada suglasnost?"</string>
+  <string name="privacy_dialog_tips_revoke_1">Nastavkom povlačite svoju suglasnost na Pravila o privatnosti Mi Poruka. Prestat ćemo s prikupljanjem Vaših osobnih podataka. Već prikupljene podatke ćemo izbrisati unutar određenog vremenskog roka u skladu s važaćim zakonima osim ako nije drugačije određeno. Budući da Mi Poruke i Pametno prepoznavanje ID pošiljatelja pružaju svoje usluge na temelju prikupljenih osobnih podataka, Vaše povlačenje suglasnosti shvatit će se kao odbijanje tih usluga.</string>
   <string name="privacy_dialog_tips_update" formatted="false">"%s Pravila o privatnosti su ažurirana:
 %s
 Pročitajte i prihvatite novu verziju Pravila o privatnosti prije nego što nastavite."</string>
@@ -1034,6 +1136,7 @@ Pročitajte i prihvatite novu verziju Pravila o privatnosti prije nego što nast
   <string name="privacy_state_revoked_revoked">Povuci</string>
   <string name="privacy_state_revoked_switch">Povlačenje suglasnosti</string>
   <string name="privacy_state_revoked_synopsis">Isključivanjem povlačite svoju suglasnost na Pravila o privatnosti poruka.</string>
+  <string name="privacy_state_revoked_synopsis_1">Povucite suglasnost na Pravila o privatnosti Mi Poruka</string>
   <string name="privacy_term">Pravila o privatnosti</string>
   <string name="private_entry_available">Otpusti za otvaranje privatne mape</string>
   <string name="private_entry_default">Povuci dolje za otvaranje privatne mape</string>
@@ -1042,6 +1145,7 @@ Pročitajte i prihvatite novu verziju Pravila o privatnosti prije nego što nast
   <string name="private_protect">Zaštita privatnosti</string>
   <string name="private_settings">Postavke</string>
   <string name="processing">Obrada…</string>
+  <string name="progress_text">Organiziranje poruka…(%s)</string>
   <string name="prompt_otp">Kod</string>
   <string name="prompt_phone">Broj telefona</string>
   <string name="prompt_summary">RCS vam omogućuje besplatnu razmjenu poruka, fotografija, videozapisa i stvaranje grupnih razgovora.</string>
@@ -1066,6 +1170,33 @@ Pročitajte i prihvatite novu verziju Pravila o privatnosti prije nego što nast
   <string name="rcs_auto_resume_only_by_wifi">Nastavi s prijenosima samo kada je povezano na Wi-Fi</string>
   <string name="rcs_backup">Sigurnosna kopija</string>
   <string name="rcs_backup_task_running">Sada se sigurnosno kopiraju ili vraćaju neke stavke. Pričekajte da se ti zadaci završe prije pokretanja novih.</string>
+  <string name="rcs_bw_allow">Dopusti</string>
+  <string name="rcs_bw_app_not_found">Aplikacija nije pronađena</string>
+  <string name="rcs_bw_cancel">Odustani</string>
+  <string name="rcs_bw_close">Zatvori</string>
+  <string name="rcs_bw_download_desc">Pričekajte dok se preuzima</string>
+  <string name="rcs_bw_download_title">5G preglednik za razmjenu poruka</string>
+  <string name="rcs_bw_link_copied">Veza je kopirana</string>
+  <string name="rcs_bw_menu_copy">Kopiraj vezu</string>
+  <string name="rcs_bw_menu_jump">Otvori u pregledniku</string>
+  <string name="rcs_bw_menu_refresh">Osvježi</string>
+  <string name="rcs_bw_menu_search">Traži unutar stranice</string>
+  <string name="rcs_bw_menu_share">Pošalji u kontakte</string>
+  <string name="rcs_bw_network_error_desc" formatted="false">Poruka o pogrešci (%d,%s)</string>
+  <string name="rcs_bw_network_error_title">Nije moguće otvoriti stranicu</string>
+  <string name="rcs_bw_open_file_failed">Pristup datotekama nije uspio</string>
+  <string name="rcs_bw_permission_tip_audio">Zatražite pristup svom mikrofonu</string>
+  <string name="rcs_bw_permission_tip_location">Zatražite pristup svojoj lokaciji</string>
+  <string name="rcs_bw_permission_tip_media_id">Zatražite pristup informacijama o svom uređaju</string>
+  <string name="rcs_bw_permission_tip_midi">Zatražite pristup svom MIDI uređaju</string>
+  <string name="rcs_bw_permission_tip_video">Zahtjev za korištenje vaše web kamere</string>
+  <string name="rcs_bw_preview_image">provjerite fotografiju</string>
+  <string name="rcs_bw_refuse">Odbij</string>
+  <string name="rcs_bw_retry">Dodirnite zaslon za ponovno učitavanje</string>
+  <string name="rcs_bw_save_image">Spremi sliku</string>
+  <string name="rcs_bw_share_image">Dijeli slike</string>
+  <string name="rcs_bw_share_title_http_tip">Web stranicu omogućio %s</string>
+  <string name="rcs_bw_start_app_failed">Otvaranje aplikacije nije uspjelo</string>
   <string name="rcs_cfs_dialog_content">"Poruke se ne mogu isporučiti putem RCS-a. Poslati SMS poruku umjesto toga?"</string>
   <string name="rcs_cfs_dialog_title">Alternativni prijenos poruke</string>
   <string name="rcs_chat_bot_instruction">O vlasniku</string>
@@ -1171,6 +1302,7 @@ Pogledajte one preporučene!"</string>
   <string name="rcs_message_title">RCS Poruka</string>
   <string name="rcs_more_bar_title">Više informacija</string>
   <string name="rcs_msg">5G Poruke</string>
+  <string name="rcs_msg_privacy_policy">Pravila o privatnosti 5G poruka</string>
   <string name="rcs_my_black_chatbot_title">Popis blokiranih</string>
   <string name="rcs_not_login">Niste prijavljeni na mobilnu mrežu</string>
   <string name="rcs_not_login_google">Nisam prijavljen na RCS</string>
@@ -1223,6 +1355,7 @@ Pogledajte one preporučene!"</string>
   <string name="rcs_summary_auto_resend_mms">"Pretvorite 5G multimedijske poruke u SMS nakon što originalna poruka nije mogla biti poslana. Vaš operater će vam naplatiti ovu poruku."</string>
   <string name="rcs_summary_auto_resend_sms">"Pretvorite 5G tekstualne poruke u SMS nakon što originalna poruka nije mogla biti poslana. Vaš operater će vam naplatiti ovu poruku."</string>
   <string name="rcs_summary_silence_message">Utišaj obavijesti o porukama kada desktop klijent radi</string>
+  <string name="rcs_summary_silence_message_translation_for_pad">Utišaj obavijesti o poruci kada desktop klijent radi</string>
   <string name="rcs_unable_send_file">"Nije moguće poslati ovu datoteku"</string>
   <string name="rcs_unavailable">"Ne mogu koristiti 5G Messaging sada. Kineska SIM Mobile kartica nije vaša zadana podatkovna kartica."</string>
   <string name="rcs_up_not_online">RCS je isključen. Provjerite mrežne postavke i pokušajte ponovo.</string>
@@ -1235,6 +1368,9 @@ Pogledajte one preporučene!"</string>
   <string name="recipient_label">"Primatelj: "</string>
   <string name="recipients_contain_sub_sim_number">"Izgleda da postoji sekundarni broj SIM-a među primateljima. Pošaljite ovu poruku pomoću sekundarne SIM kartice."</string>
   <string name="recipients_over_size">Previše primatelja.</string>
+  <string name="recommend_ad_summary">Kad su prilagođeni oglasi isključeni, i dalje ćete vidjeti istu količinu oglasa kao kad je značajka uključena, ali vam neće biti toliko relevantni</string>
+  <string name="recommend_ad_switch">Prilagođeni oglasi</string>
+  <string name="recommend_agree">Prihvaćam</string>
   <string name="recommend_bar_cancel">Zanemari</string>
   <string name="recommend_bar_message_mx">Mi Poruka vam omogućuje slanje poruka drugim Xiaomi korisnicima bez naplate troškova.</string>
   <string name="recommend_bar_message_mx_rcs">Mi Poruka vam omogućuje slanje poruka drugim Xiaomi korisnicima i korisnicima China Mobile bez naplate troškova.</string>
@@ -1244,11 +1380,35 @@ Pogledajte one preporučene!"</string>
   <string name="recommend_bar_title_mx_rcs">Mi Poruka</string>
   <string name="recommend_bar_title_smart_message">Smart poruke</string>
   <string name="recommend_both_dialog_title">Dobrodošli u Poruke!</string>
+  <string name="recommend_close">Isključi</string>
   <string name="recommend_dialog_message">Možete uključiti Mi Poruke i Smart poruke za pristup dodatnim značajkama.</string>
+  <string name="recommend_disagree">Ne prihvaćam</string>
+  <string name="recommend_free_internet_message">Besplatno internet dopisivanje</string>
+  <string name="recommend_free_mi">Mi Poruke</string>
+  <string name="recommend_free_smart_server">Pametno prepoznavanje ID pošiljatelja</string>
   <string name="recommend_mx_dialog_title">Dobrodošli u Mi Poruke!</string>
   <string name="recommend_mx_setting_summary">Mi Poruke omogućuju vam slanje poruka drugim korisnicima Mi Poruka putem interneta bez dodatnog troška.</string>
   <string name="recommend_smart_sms_dialog_title">Dobrodošli u Smart poruke!</string>
   <string name="recommend_smart_sms_setting_summary">Smart poruke pružaju prepoznavanje ID-a pošiljatelja i pametne izbornike.</string>
+  <string name="recommend_tip_1">Poruke bolje rade kada su Mi Poruke uključene. Mi Poruke Vam omogućuje Vam slanje besplatnih SMS i MMS poruka preko interneta i automatsko prepoznavanje ID pošiljatelja.</string>
+  <string name="recommend_tip_10">Prepoznajte ID pošiljatelja automatski uz prikaz imena i profilne slike pouzdanih prodavača</string>
+  <string name="recommend_tip_12">Postavke besplatnog internet dopisivanja</string>
+  <string name="recommend_tip_13">Šaljite besplatne SMS i MMS poruke drugim Xiaomi uređajima preko interneta</string>
+  <string name="recommend_tip_14">Ako ugasite ovu značajku, nećete moći slati SMS i MMS-ove drugim Xiaomi uređajima bez naplate kada niste povezani na internet. Svejedno ugasiti?</string>
+  <string name="recommend_tip_15">Pametno prepoznavanje ID pošiljatelja</string>
+  <string name="recommend_tip_16">Ako ugasite ovu značajku, Poruke neće moći prepoznati ID pošiljatelja automatski, niti će Vam moći prikazati ime i profilnu sliku pouzdanih prodavača. Svejedno ugasiti?</string>
+  <string name="recommend_tip_2">Besplatno internet dopisivanje omogućuje Vam slanje SMS i MMS poruka drugim Xiaomi uređajima bez naplate kada nista povezani na internet.</string>
+  <string name="recommend_tip_3">Plaćene tekstualne poruke će biti poslane Vašem mobilnom operateru za aktivaciju besplatnog internet dopisivanja, Pronađi uređaj, sinkronizaciju s cloudom i ostale povezane usluge.</string>
+  <string name="recommend_tip_4">Mi Poruke mogu prepoznati ID pošiljatelja automatski i tako Vam omogućuju da vidite imena i profilne slike pouzdanih prodavača.</string>
+  <string name="recommend_tip_5">Pametno prepoznavanje ID pošiljatelja omogućuje da Vaš ulazni pretinac bude pregledniji i pomaže Vam prepoznati pouzdane prodavače.</string>
+  <string name="recommend_tip_6">Gore navedene usluge pružamo Vam uz tehničku podršku Youtubea.</string>
+  <string name="recommend_tip_7">Pročitajte i prihvatite naš &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Korisni&amp;#269;ki ugovor&lt;/a&gt;&lt;/font&gt; i &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; kao i &lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Yulore Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; prije kori&amp;#353;tenja Mi Poruka.</string>
+  <string name="recommend_tip_8">Pročitajte i prihvatite naš &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Korisni&amp;#269;ki ugovor&lt;/a&gt;&lt;/font&gt; i &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; kao i &lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Yulore Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; prije kori&amp;#353;tenja besplatnog internet dopisivanja koje Vam donose Mi Poruke.</string>
+  <string name="recommend_tip_9">Pročitajte i prihvatite naš &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Korisni&amp;#269;ki ugovor&lt;/a&gt;&lt;/font&gt; i &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; kao i &lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Yulore Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; prije kori&amp;#353;tenja Pametnog prepoznavanja ID po&amp;#353;iljatelja.</string>
+  <string name="recommend_tip_9_2">Pročitajte i prihvatite naš &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Korisni&amp;#269;ki ugovor&lt;/a&gt;&lt;/font&gt; i &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt; prije kori&amp;#353;tenja na&amp;#353;ih usluga.</string>
+  <string name="recommend_tip_default">Postavite Xiaomi Poruke kao zadanu aplikaciju za razmjenu poruka kako biste dobili sve sigurnosne prednosti koje nudimo</string>
+  <string name="recommend_tip_other">Pogledajte druge aplikacije za slanje poruka</string>
+  <string name="recommend_tip_smart">Zaštita privatnosti. Pametno prepoznavanje.</string>
   <string name="recording_failed">"Ne mogu snimiti"</string>
   <string name="refill_now">Nadoplati sada</string>
   <string name="refreshing">Osvježavanje…</string>
@@ -1287,8 +1447,8 @@ Pogledajte one preporučene!"</string>
   <string name="restore_success_all_messages">Uspješno vraćeno</string>
   <string name="restore_success_favorite_messages">Uspješno vraćene omiljene poruke</string>
   <string name="restore_to_phone_memory_failed">"Ne mogu vratiti"</string>
-  <string name="restored_to_phone_memory_translation_for_pad">Vraćeno</string>
   <string name="restored_to_phone_memory">Vraćeno</string>
+  <string name="restored_to_phone_memory_translation_for_pad">Vraćeno</string>
   <string name="rms_audio_body">[Audio]</string>
   <string name="rms_audio_file_duration_too_long">"Ne mogu poslati zvuk dulji od 180 sek."</string>
   <string name="rms_audio_file_length_too_large">"Ne mogu poslati zvuk veći od %1$d MB"</string>
@@ -1354,14 +1514,15 @@ Pogledajte one preporučene!"</string>
   <string name="search_path_mms">Postavke/Aplikacije sustava/Poruke</string>
   <string name="search_setting_description">Tekst u vašim porukama</string>
   <string name="search_show_more_results">Pikaži više</string>
-  <string name="search_title_mms">Slanje poruka</string>
   <string name="search_sms">Traži poruke</string>
+  <string name="search_title_mms">Slanje poruka</string>
+  <string name="seats">Sjedište</string>
   <string name="second_mms_introduction">Prebacite se na drugi prostor da biste mogli vidjeti privatne poruke</string>
   <string name="second_mms_introduction_translation_for_pad">Prebacite se na Second space da biste mogli vidjeti privatne poruke</string>
   <string name="second_mms_switch">Promjeni</string>
   <string name="secs">sek</string>
-  <string name="security_alert_desc"><font color="#7f000000">"Pošiljatelj nije u vašim kontaktima.
- "</font></string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Po&amp;#353;iljatelj nije u va&amp;#353;im kontaktima.
+ "&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">Prijavi ovaj broj</string>
   <string name="security_alert_dialog_desc">Pošalji ovaj broj (%s) i poruke Xiaomi-u na pregled.</string>
   <string name="security_alert_dialog_title">Prijavi</string>
@@ -1372,6 +1533,7 @@ Pogledajte one preporučene!"</string>
   <string name="select_different_audio">Odaberitete drugi zvuk.</string>
   <string name="select_different_picture">Odaberitete drugu sliku.</string>
   <string name="select_different_video">Odaberitete drugi videozapis.</string>
+  <string name="select_duration_time_other">Ostalo</string>
   <string name="select_link_title">Odabir radnje</string>
   <string name="select_local_audio">Odaberite lokalni zvuk</string>
   <string name="select_local_video">Odaberite lokalni videozapis</string>
@@ -1397,8 +1559,8 @@ Pogledajte one preporučene!"</string>
   <string name="send_signature_confirm_dialog_message">Nema teksta u vašim porukama. Sigurno želite poslati samo potpis?</string>
   <string name="send_signature_confirm_dialog_title">Pošalji poruku</string>
   <string name="send_sms">Pošalji poruku</string>
-  <string name="send_success">Uspješno poslano</string>
   <string name="send_sms_with_location">Dopustite ovoj aplikaciji pristup vašoj lokaciji kako biste mogli slati poruke uključujući vašu lokaciju. Ovo dopuštenje možete dati u postavkama.</string>
+  <string name="send_success">Uspješno poslano</string>
   <string name="send_to">Prima: </string>
   <string name="sent_at_time">Poslano: %1s</string>
   <string name="sent_label">"Poslano: "</string>
@@ -1411,6 +1573,22 @@ Pogledajte one preporučene!"</string>
   <string name="set">Postavi</string>
   <string name="set_chairman">Postavi kao upravitelj</string>
   <string name="set_phone_number">Postavi</string>
+  <string name="setting_default_banner_btn">Postavke</string>
+  <string name="setting_default_banner_message">Postavite Xiaomi aplikaciju Poruke kao zadanu aplikaciju za razmjenu poruka kako biste mogli koristiti sve njezine značajke</string>
+  <string name="setting_default_banner_title">Pažnja</string>
+  <string name="setting_default_dialog_btn_cancel">Odustani</string>
+  <string name="setting_default_dialog_btn_conform">Postavke</string>
+  <string name="setting_default_dialog_title">Želite li sada postaviti Xiaomi aplikaciju Poruke kao zadanu aplikaciju za razmjenu poruka?</string>
+  <string name="setting_default_guide1_block_sms">Blokirajte neželjene SMS poruke</string>
+  <string name="setting_default_guide1_free_net_message">Mi Poruke</string>
+  <string name="setting_default_guide1_smart_number">Prepoznavanje ID-a pošiljatelja</string>
+  <string name="setting_default_guide1_tip">Postavite Xiaomi aplikaciju Poruke kao zadanu aplikaciju za razmjenu poruka kako biste mogli koristiti sve njezine značajke</string>
+  <string name="setting_default_guide2_id_tip">Postavite Xiaomi aplikaciju Poruke kao zadanu aplikaciju za razmjenu poruka kako biste mogli koristiti Mi Poruke</string>
+  <string name="setting_default_guide2_in_tip">Postavite Xiaomi aplikaciju Poruke kao zadanu aplikaciju za razmjenu poruka kako biste mogli blokirati neželjene SMS poruke</string>
+  <string name="setting_default_guide_btn_go_set">Postavi</string>
+  <string name="setting_internet_message">Besplatno internet dopisivanje</string>
+  <string name="setting_internet_message_on_simIndex">Besplatno internet dopisivanje (SIM %d)</string>
+  <string name="setting_smart_server">Pametno prepoznavanje ID pošiljatelja</string>
   <string name="share">Podijeli</string>
   <string name="share_img">Podijeli</string>
   <string name="shortcut_new_msg">Nova poruka</string>
@@ -1418,7 +1596,7 @@ Pogledajte one preporučene!"</string>
   <string name="show_all_messages">Prikaži sve poruke</string>
   <string name="show_delivery_status">Prikaži Izvješća o isporuci</string>
   <string name="show_sender">Prikaži detalje pošiljatelja</string>
-  <string name="sim_activation_service_retry_main_purpose">Aktivacija SIM-a mora biti uključena da bi Mi Poruka normalno radila. Aktivaciju SIM-a možete uključiti u Postavke > Upravljanje aplikacijama.</string>
+  <string name="sim_activation_service_retry_main_purpose">Aktivacija SIM-a mora biti uključena da bi Mi Poruka normalno radila. Aktivaciju SIM-a možete uključiti u Postavke &gt; Upravljanje aplikacijama.</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
   <string name="sim_card_cloud">%s (Mi Poruka)</string>
@@ -1431,6 +1609,7 @@ Pogledajte one preporučene!"</string>
   <string name="sim_manage_messages_title">SMS poruke na SIM kartici</string>
   <string name="sim_not_support_mms">"Ova SIM kartica ne podržava MMS"</string>
   <string name="sim_view">Prikaži</string>
+  <string name="skip_ad">Preskoči</string>
   <string name="slide_number">Slajd %d</string>
   <string name="slide_show_part">Dio %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Povuci gore za poništavanje</string>
@@ -1475,10 +1654,12 @@ Pogledajte one preporučene!"</string>
   <string name="status_received">Primljeno</string>
   <string name="status_rejected">Odbijeno</string>
   <string name="status_unread">Nepročitano</string>
+  <string name="stay_open">Nastavi</string>
   <string name="stick">Označi</string>
   <string name="stick_conversation">Označi trenutni razgovor</string>
   <string name="sticked">Uspješno označeno</string>
   <string name="sticked_conversation">Razgovor je već označen</string>
+  <string name="still_close">Isključi</string>
   <string name="storage_dialog_attachments">MMS privitci:</string>
   <string name="storage_dialog_available_space">Dostupan prostor:</string>
   <string name="storage_dialog_database">Baza podataka:</string>
@@ -1569,6 +1750,9 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
+  <string name="ticket_link">Pregled karte</string>
+  <string name="ticket_type_flight">Let</string>
+  <string name="ticket_type_train">Vlak</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
@@ -1593,6 +1777,7 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
   <string name="to_address_label">"Prima: "</string>
   <string name="to_label">"Prima "</string>
   <string name="to_send_wrapper">Poslano će biti u %s</string>
+  <string name="to_xiaomi_account_login">Prijavite se</string>
   <string name="toast_failed_to_close_priv_auth">"Autorizaciju nije moguće opozvati. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="toast_new_not_show_microphone_perm_req">Dopustite aplikaciji Poruke pristup mikrofonu za korištenje ove značajke</string>
   <string name="toast_not_show_account_perm_req">Dopustite aplikaciji Poruke pristup računima pohranjenim na vašem uređaju za korištenje ove značajke</string>
@@ -1615,6 +1800,9 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
   <string name="too_many_recipients">Poruka ima previše primatelja (%1$s). Granica broja primatelja iznosi: %2$s.</string>
   <string name="too_many_unsent_mms">"Ovu poruku trenutačno nije moguće poslati. Postoji previše neposlanih multimedijskih poruka."</string>
   <string name="top_conversation">Zakačen razgovor</string>
+  <string name="total_due">Ukupno</string>
+  <string name="track_order">Pratite narudžbu</string>
+  <string name="train">Vlak</string>
   <string name="try_to_send">Pokušaj poslati</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
@@ -1634,6 +1822,9 @@ Ako se ne slažete davati takva dopuštenja ili dijeliti i slati vaše osobne po
 Broj pokušaja: %s."</string>
   <string name="undelivered_msg_dialog_title">Neisporučena poruka</string>
   <string name="undelivered_sms_dialog_body">Ovu poruku nije moguće poslati.</string>
+  <string name="uninstall_Google_SMS_banner_information"><Data>Odmah instalirajte za dijeljenje fotografija visoke kvalitete, Wi-Fi chat i više. &lt;a href=\"%1$s\">Saznajte više&lt;/a></Data></string>
+  <string name="uninstall_Google_SMS_banner_title">Instalirajte Google Poruke</string>
+  <string name="unknown">Nedostupno</string>
   <string name="unknown_num">Nepoznati broj</string>
   <string name="unknown_sender">Imate novu poruku</string>
   <string name="unstick">Odznači</string>
@@ -1650,7 +1841,7 @@ Broj pokušaja: %s."</string>
   <string name="url_fraud_risky_alert">"Web stranica koju pokušavate posjetiti može biti opasna. To bi moglo oštetiti vaš uređaj i podatke. Svejedno posjetiti?
  %s"</string>
   <string name="url_fraud_title">Web stranica je možda lažna</string>
-  <string name="url_fraud_visit"><u>Posjeti svejedno</u></string>
+  <string name="url_fraud_visit">&lt;u&gt;Posjeti svejedno&lt;/u&gt;</string>
   <string name="url_result_safe">Ova poveznica je sigurna</string>
   <string name="url_scan_again">Provjeri ponovno</string>
   <string name="url_scanning">Provjera poveznice…</string>
@@ -1667,6 +1858,7 @@ Broj pokušaja: %s."</string>
   <string name="view_bookmark">Prikaži originalnu poruku</string>
   <string name="view_group_detail_title">Prikaži detalje razgovora</string>
   <string name="view_message_details">Prikaži detalje razgovora</string>
+  <string name="view_my_prof">Prikaži moju RCS kontakt karticu</string>
   <string name="vital_signs_cta_body">"Podaci o vitalnim znakovima (uključujući broj otkucaja srca, SpO₂ i informacije o zdravstvenoj kartici) preuzeti su iz Mi Fitnessa. Označavanjem ispod označavate da pristajete na pristup i korištenje ovih podataka.
 Zadržat će se samo prvih 50 znakova svake stavke medicinske kartice radi kontrole duljine poruke."</string>
   <string name="vital_signs_cta_title">Vitalni znakovi</string>
@@ -1687,7 +1879,6 @@ Zadržat će se samo prvih 50 znakova svake stavke medicinske kartice radi kontr
   <string name="vital_signs_wait_body">Pristup podacima. Ovo bi moglo potrajati minutu.</string>
   <string name="vital_signs_wait_skip">Preskoči</string>
   <string name="vital_signs_wait_title">Podaci o vitalnim znakovima</string>
-  <string name="view_my_prof">Prikaži moju RCS kontakt karticu</string>
   <string name="voice_report_anytime">Uvijek</string>
   <string name="voice_report_off">Isključeno</string>
   <string name="voice_report_wiredon">Sa slušalicama</string>
@@ -1698,11 +1889,14 @@ Zadržat će se samo prvih 50 znakova svake stavke medicinske kartice radi kontr
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
-  <string name="wrong_mms_version_msg">"Instalirajte verziju Poruke koja je kompatibilna s vašim uređajem i sustavom."</string>
-  <string name="wrong_mms_version_title">Pogreška verzije</string>
   <string name="wild_msg_processing">Obrada…</string>
   <string name="wild_msg_title">Odaberitete brojeve telefona za sinkr.</string>
-  <string name="xiaomi_account_service_retry_main_purpose">Usluge Xiaomi računa moraju biti uključene da bi ova značajka normalno radila. Usluge Xiaomi računa možete uključiti u Postavke > Upravljanje aplikacijama.</string>
+  <string name="wrong_mms_version_msg">"Instalirajte verziju Poruke koja je kompatibilna s vašim uređajem i sustavom."</string>
+  <string name="wrong_mms_version_title">Pogreška verzije</string>
+  <string name="xiaomi_account_login_content">"Zbog relevantnih zakona i propisa, za korištenje značajki povezanih s umjetnom inteligencijom potrebna je potvrda ID-a.
+Prijavite se na svoj Xiaomi račun kako biste mogli koristiti ovu značajku."</string>
+  <string name="xiaomi_account_login_title">Prijavite se Xiaomi računom</string>
+  <string name="xiaomi_account_service_retry_main_purpose">Usluge Xiaomi računa moraju biti uključene da bi ova značajka normalno radila. Usluge Xiaomi računa možete uključiti u Postavke &gt; Upravljanje aplikacijama.</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sada</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
@@ -1714,150 +1908,4 @@ Zadržat će se samo prvih 50 znakova svake stavke medicinske kartice radi kontr
   <string name="zero_sms_feedback_message">Prijavljene poruke učitavaju se na naše poslužitelje zajedno s telefonskim brojevima njihovih pošiljatelja. Ove se poruke koriste samo za poboljšanje funkcionalnosti Liste blokiranih.</string>
   <string name="zero_sms_feedback_success">Uspješno prijavljeno</string>
   <string name="zero_sms_feedback_title">Prijavi</string>
-  <string name="ad_banner_recommend_text">Moglo bi vam se svidjeti</string>
-  <string name="ad_flag_text">OGLAS</string>
-  <string name="ad_settings">Postavke oglasa</string>
-  <string name="ad_switch">Preporuke</string>
-  <string name="add_to_calender">Dodaj u Kalendar</string>
-  <string name="after_installing_Google_SMS_banner_information">Otvorite Google Poruke za dijeljenje fotografija visoke kvalitete, W-Fi chat i više</string>
-  <string name="after_installing_Google_SMS_banner_title">Prebacite se na Google Poruke</string>
-  <string name="banking">Bankarenje</string>
-  <string name="billing">Računi</string>
-  <string name="boarding_time">Vrijeme ukrcavanja</string>
-  <string name="charge_link">Provjera transakcije</string>
-  <string name="charge_tip_dialog_for_id">Odlazna SMS poruka je potrebna za aktiviranje Mi Poruka. Vaš mobilni operater će vam naplatiti tu poruku.</string>
-  <string name="charge_tip_dialog_for_in">Za aktivaciju Pametnih poruka potrebna je odlazna SMS poruka. Vaš operater će vam naplatiti ovu poruku.</string>
-  <string name="charge_tip_dialog_make_sure">Razumijem</string>
-  <string name="check_pnr">Provjeri PNR</string>
-  <string name="close_c2c_dialog_tips">"Poštovani korisniče,
-Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To ni na koji način neće utjecati na slanje i primanje SMS-a koje dopušta Vaš mobilni operater. Žalimo zbog nastalih neugodnosti i radujemo se što ćemo Vam poboljšati iskustvo proizvoda našim budućim ažuriranjima."</string>
-  <string name="coach">Prtljaga</string>
-  <string name="columbus_ad_flag_text">OGLAS</string>
-  <string name="columbus_skip_ad">Preskoči</string>
-  <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Playa. Pokušajte ponovo.</string>
-  <string name="copy_otp_success">Uspješno kopirano</string>
-  <string name="date">Datum</string>
-  <string name="deliver_status">Izvješća o isporuci</string>
-  <string name="dialog_message_rcs">China Mobile Messaging vam omogućuje slanje poruka drugim korisnicima China Mobilea na kineskom kopnu bez naplate. Morate prihvatiti \"%1$s\" prije korištenja China Mobile Messaging.</string>
-  <string name="dock_agree">Postavi</string>
-  <string name="dock_content_text">Vratite ikonu početnog zaslona aplikacije Poruka na zadani položaj kako biste je brzo i jednostavno pronašli. Sada postaviti na početni zaslon?</string>
-  <string name="dock_disagree">Ne sada</string>
-  <string name="downlink_dialog_illegal_phoneno_tip">Unesite važeći telefonski broj</string>
-  <string name="downlink_dialog_input_phoneno_tip">Unesite svoj telefonski broj</string>
-  <string name="download_pending">Preuzimanje videozapisa…</string>
-  <string name="earlier">Ranije</string>
-  <string name="error_generic">Ne mogu reproducirati videozapis</string>
-  <string name="esim_card">eSIM</string>
-  <string name="exo_controls_fastforward_description">Brzo unaprijed</string>
-  <string name="exo_controls_fullscreen_description">Prikaz na cijelom zaslonu</string>
-  <string name="exo_controls_hide">Sakrij kontrole playera</string>
-  <string name="exo_controls_next_description">Sljedeći zapis</string>
-  <string name="exo_controls_pause_description">Pauza</string>
-  <string name="exo_controls_play_description">Reproduciraj</string>
-  <string name="exo_controls_previous_description">Prethodni zapis</string>
-  <string name="exo_controls_repeat_all_description">Ponovi sve</string>
-  <string name="exo_controls_repeat_off_description">Bez ponavljanja</string>
-  <string name="exo_controls_repeat_one_description">Ponovi jedno</string>
-  <string name="exo_controls_rewind_description">Unatrag</string>
-  <string name="exo_controls_show">Prikaži kontrole playera</string>
-  <string name="exo_controls_shuffle_off_description">Nasumična reproduk. isključena</string>
-  <string name="exo_controls_shuffle_on_description">Nasumična reproduk. uključena</string>
-  <string name="exo_controls_stop_description">Zaustavi</string>
-  <string name="exo_controls_vr_description">VR način</string>
-  <string name="exo_download_completed">Preuzimanje je dovršeno</string>
-  <string name="exo_download_description">Preuzmi</string>
-  <string name="exo_download_downloading">Preuzimanje</string>
-  <string name="exo_download_failed">Preuzimanje nije uspjelo</string>
-  <string name="exo_download_notification_channel_name">Preuzimanja</string>
-  <string name="exo_download_removing">Uklanjanje preuzimanja</string>
-  <string name="exo_item_list">%1$s, %2$s</string>
-  <string name="exo_track_bitrate">%1$.2f Mbps</string>
-  <string name="exo_track_mono">Mono</string>
-  <string name="exo_track_resolution">%1$d × %2$d</string>
-  <string name="exo_track_role_alternate">Alternativna verzija</string>
-  <string name="exo_track_role_closed_captions">Verzija s titlovima</string>
-  <string name="exo_track_role_commentary">Verzija s komentarima</string>
-  <string name="exo_track_role_supplementary">Dopunska verzija</string>
-  <string name="exo_track_selection_auto">Automatski</string>
-  <string name="exo_track_selection_none">Ništa</string>
-  <string name="exo_track_selection_title_audio">Audiozapis</string>
-  <string name="exo_track_selection_title_text">Tekst</string>
-  <string name="exo_track_selection_title_video">Videozapis</string>
-  <string name="exo_track_stereo">Stereo</string>
-  <string name="exo_track_surround">Okružujući zvuk</string>
-  <string name="exo_track_surround_5_point_1">5.1-kanalni okružujući zvuk</string>
-  <string name="exo_track_surround_7_point_1">7.1-kanalni okružujući zvuk</string>
-  <string name="exo_track_unknown">Nepoznato</string>
-  <string name="expiry_time">Vrijedi do</string>
-  <string name="fare">Cijena</string>
-  <string name="fcm_fallback_notification_channel_label">Razno</string>
-  <string name="flight">Let</string>
-  <string name="json_card_img_retry">Pokušajte ponovo</string>
-  <string name="json_card_img_retry_error">Provjerite svoju mrežnu vezu i pokušajte ponovno</string>
-  <string name="link_open_failed">Nije pronađena aplikacija za obradu ove radnje.</string>
-  <string name="mobile_charge">Nadoplata</string>
-  <string name="mx_on_esim">Mi Poruke eSIM</string>
-  <string name="otp">Kod</string>
-  <string name="otp_copy">Kopiraj</string>
-  <string name="passenger_title">Putnik</string>
-  <string name="pay_bill">Plati</string>
-  <string name="payment_failed">Ne mogu dovršiti plaćanje</string>
-  <string name="pnr">PNR</string>
-  <string name="privacy_dialog_tips_revoke_1">Nastavkom povlačite svoju suglasnost na Pravila o privatnosti Mi Poruka. Prestat ćemo s prikupljanjem Vaših osobnih podataka. Već prikupljene podatke ćemo izbrisati unutar određenog vremenskog roka u skladu s važaćim zakonima osim ako nije drugačije određeno. Budući da Mi Poruke i Pametno prepoznavanje ID pošiljatelja pružaju svoje usluge na temelju prikupljenih osobnih podataka, Vaše povlačenje suglasnosti shvatit će se kao odbijanje tih usluga.</string>
-  <string name="privacy_state_revoked_synopsis_1">Povucite suglasnost na Pravila o privatnosti Mi Poruka</string>
-  <string name="recommend_ad_summary">Kad su prilagođeni oglasi isključeni, i dalje ćete vidjeti istu količinu oglasa kao kad je značajka uključena, ali vam neće biti toliko relevantni</string>
-  <string name="recommend_ad_switch">Prilagođeni oglasi</string>
-  <string name="recommend_agree">Prihvaćam</string>
-  <string name="recommend_close">Isključi</string>
-  <string name="recommend_disagree">Ne prihvaćam</string>
-  <string name="recommend_free_internet_message">Besplatno internet dopisivanje</string>
-  <string name="recommend_free_mi">Mi Poruke</string>
-  <string name="recommend_free_smart_server">Pametno prepoznavanje ID pošiljatelja</string>
-  <string name="recommend_tip_1">Poruke bolje rade kada su Mi Poruke uključene. Mi Poruke Vam omogućuje Vam slanje besplatnih SMS i MMS poruka preko interneta i automatsko prepoznavanje ID pošiljatelja.</string>
-  <string name="recommend_tip_10">Prepoznajte ID pošiljatelja automatski uz prikaz imena i profilne slike pouzdanih prodavača</string>
-  <string name="recommend_tip_12">Postavke besplatnog internet dopisivanja</string>
-  <string name="recommend_tip_13">Šaljite besplatne SMS i MMS poruke drugim Xiaomi uređajima preko interneta</string>
-  <string name="recommend_tip_14">Ako ugasite ovu značajku, nećete moći slati SMS i MMS-ove drugim Xiaomi uređajima bez naplate kada niste povezani na internet. Svejedno ugasiti?</string>
-  <string name="recommend_tip_15">Pametno prepoznavanje ID pošiljatelja</string>
-  <string name="recommend_tip_16">Ako ugasite ovu značajku, Poruke neće moći prepoznati ID pošiljatelja automatski, niti će Vam moći prikazati ime i profilnu sliku pouzdanih prodavača. Svejedno ugasiti?</string>
-  <string name="recommend_tip_2">Besplatno internet dopisivanje omogućuje Vam slanje SMS i MMS poruka drugim Xiaomi uređajima bez naplate kada nista povezani na internet.</string>
-  <string name="recommend_tip_3">Plaćene tekstualne poruke će biti poslane Vašem mobilnom operateru za aktivaciju besplatnog internet dopisivanja, Pronađi uređaj, sinkronizaciju s cloudom i ostale povezane usluge.</string>
-  <string name="recommend_tip_4">Mi Poruke mogu prepoznati ID pošiljatelja automatski i tako Vam omogućuju da vidite imena i profilne slike pouzdanih prodavača.</string>
-  <string name="recommend_tip_5">Pametno prepoznavanje ID pošiljatelja omogućuje da Vaš ulazni pretinac bude pregledniji i pomaže Vam prepoznati pouzdane prodavače.</string>
-  <string name="recommend_tip_6">Gore navedene usluge pružamo Vam uz tehničku podršku Youtubea.</string>
-  <string name="recommend_tip_7">Pročitajte i prihvatite naš <font color="#B3000000"><a href="http://url1">Korisnički ugovor</a></font> i <font color="#B3000000"><a href="http://url2">Pravila o privatnosti</a></font> kao i <font color="#B3000000"><a href="http://url3">Yulore Pravila o privatnosti</a></font> prije korištenja Mi Poruka.</string>
-  <string name="recommend_tip_8">Pročitajte i prihvatite naš <font color="#B3000000"><a href="http://url1">Korisnički ugovor</a></font> i <font color="#B3000000"><a href="http://url2">Pravila o privatnosti</a></font> kao i <font color="#B3000000"><a href="http://url3">Yulore Pravila o privatnosti</a></font> prije korištenja besplatnog internet dopisivanja koje Vam donose Mi Poruke.</string>
-  <string name="recommend_tip_9">Pročitajte i prihvatite naš <font color="#B3000000"><a href="http://url1">Korisnički ugovor</a></font> i <font color="#B3000000"><a href="http://url2">Pravila o privatnosti</a></font> kao i <font color="#B3000000"><a href="http://url3">Yulore Pravila o privatnosti</a></font> prije korištenja Pametnog prepoznavanja ID pošiljatelja.</string>
-  <string name="recommend_tip_9_2">Pročitajte i prihvatite naš <font color="#B3000000"><a href="http://url1">Korisnički ugovor</a></font> i <font color="#B3000000"><a href="http://url2">Pravila o privatnosti</a></font> prije korištenja naših usluga.</string>
-  <string name="recommend_tip_default">Postavite Xiaomi Poruke kao zadanu aplikaciju za razmjenu poruka kako biste dobili sve sigurnosne prednosti koje nudimo</string>
-  <string name="recommend_tip_other">Pogledajte druge aplikacije za slanje poruka</string>
-  <string name="recommend_tip_smart">Zaštita privatnosti. Pametno prepoznavanje.</string>
-  <string name="seats">Sjedište</string>
-  <string name="select_duration_time_other">Ostalo</string>
-  <string name="setting_default_banner_btn">Postavke</string>
-  <string name="setting_default_banner_message">Postavite Xiaomi aplikaciju Poruke kao zadanu aplikaciju za razmjenu poruka kako biste mogli koristiti sve njezine značajke</string>
-  <string name="setting_default_banner_title">Pažnja</string>
-  <string name="setting_default_dialog_btn_cancel">Odustani</string>
-  <string name="setting_default_dialog_btn_conform">Postavke</string>
-  <string name="setting_default_dialog_title">Želite li sada postaviti Xiaomi aplikaciju Poruke kao zadanu aplikaciju za razmjenu poruka?</string>
-  <string name="setting_default_guide1_block_sms">Blokirajte neželjene SMS poruke</string>
-  <string name="setting_default_guide1_free_net_message">Mi Poruke</string>
-  <string name="setting_default_guide1_smart_number">Prepoznavanje ID-a pošiljatelja</string>
-  <string name="setting_default_guide1_tip">Postavite Xiaomi aplikaciju Poruke kao zadanu aplikaciju za razmjenu poruka kako biste mogli koristiti sve njezine značajke</string>
-  <string name="setting_default_guide2_id_tip">Postavite Xiaomi aplikaciju Poruke kao zadanu aplikaciju za razmjenu poruka kako biste mogli koristiti Mi Poruke</string>
-  <string name="setting_default_guide2_in_tip">Postavite Xiaomi aplikaciju Poruke kao zadanu aplikaciju za razmjenu poruka kako biste mogli blokirati neželjene SMS poruke</string>
-  <string name="setting_default_guide_btn_go_set">Postavi</string>
-  <string name="setting_internet_message">Besplatno internet dopisivanje</string>
-  <string name="setting_internet_message_on_simIndex">Besplatno internet dopisivanje (SIM %d)</string>
-  <string name="setting_smart_server">Pametno prepoznavanje ID pošiljatelja</string>
-  <string name="skip_ad">Preskoči</string>
-  <string name="ticket_link">Pregled karte</string>
-  <string name="ticket_type_flight">Let</string>
-  <string name="ticket_type_train">Vlak</string>
-  <string name="total_due">Ukupno</string>
-  <string name="track_order">Pratite narudžbu</string>
-  <string name="train">Vlak</string>
-  <string name="uninstall_Google_SMS_banner_information"><Data>Odmah instalirajte za dijeljenje fotografija visoke kvalitete, Wi-Fi chat i više. &lt;a href=\"%1$s\">Saznajte više&lt;/a></Data></string>
-  <string name="uninstall_Google_SMS_banner_title">Instalirajte Google Poruke</string>
-  <string name="unknown">Nedostupno</string>
 </resources>
