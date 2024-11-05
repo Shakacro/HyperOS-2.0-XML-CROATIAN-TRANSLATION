@@ -75,6 +75,8 @@
   <string name="call_record_wait_label">Na čekanju</string>
   <string name="call_recording">Snimanje poziva u tijeku</string>
   <string name="call_recording_deny_permission_msg">"Ne mogu snimati. Najprije odobrite dopuštenja u postavkama."</string>
+  <string name="call_recording_disclaimer_msg">"Primjenjivi zakon u jurisdikciji u kojoj se nalazite vi ili drugi sudionici poziva može zahtijevati da sve strane pristanu na snimanje. Dužni ste se pridržavati takvih zakona, a Xiaomi neće biti odgovoran za bilo kakve nezakonite korištenje ove značajke. Snimke poziva pohranjuju se samo na vašem uređaju i Xiaomi im ne može pristupiti."</string>
+  <string name="call_recording_disclaimer_title">Odricanje od odgovornosti</string>
   <string name="call_recording_error_low_storage">Nema dovoljno mjesta na SD kartici</string>
   <string name="call_recording_error_privacy">"Nije moguće snimati u Gost načinu rada"</string>
   <string name="call_recording_error_sd_access">Pogreška pristupa SD kartice</string>
@@ -294,6 +296,10 @@
   <string name="notification_on_hold">Na čekanju</string>
   <string name="notification_ongoing_call">Poziv u tijeku</string>
   <string name="notification_requesting_video_call">Dolazni zahtjev za videopoziv</string>
+  <string name="offline_call_chat_text">Komunikacija između uređaja</string>
+  <string name="offline_call_rssi_great_text">Jak signal</string>
+  <string name="offline_call_rssi_poor_text">Slab signal</string>
+  <string name="offline_call_rssi_poor_toast">Slab Bluetooth signal. To može utjecati na kvalitetu poziva.</string>
   <string name="ok">U redu</string>
   <string name="on_call_recording">Snimanje</string>
   <string name="onscreenEndCallText">Kraj</string>

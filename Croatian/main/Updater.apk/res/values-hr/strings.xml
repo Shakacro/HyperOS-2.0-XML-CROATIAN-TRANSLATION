@@ -60,7 +60,7 @@
   <string name="autosetmode">Ažuriraj postavke</string>
   <string name="backup_data">Sigurnosno kopirajte stavke</string>
   <string name="backup_data_content">"Prebacivanje na drugu verziju sustava trajno će izbrisati sve podatke na ovom uređaju. Napravite sigurnosnu kopiju svih važnih stavki prije nego nastavite. Možete preskočiti ovaj korak ako ste ih već sigurnosno kopirali."</string>
-  <string name="battery_islow">Priključite punjač</string>
+  <string name="battery_islow">&lt;font color=#f37981>Priključite punjač&lt;/font></string>
   <string name="battery_islow_desc">Baterija je preslaba za instalaciju nove verzije ROM-a, priključite punjač i pokušajte ponovo kasnije!</string>
   <string name="beta_build">Beta</string>
   <string name="beta_icon_show_title">O beta verziji</string>
@@ -259,7 +259,7 @@
   <string name="fetch_notification_download_starting">Počinje</string>
   <string name="fetching_data">Dohvaćanje veze za preuzimanje, pričekajte…</string>
   <string name="file_path_download_error_msg">"Ne mogu odabrati pakete ažuriranja koji su među vašim preuzimanjima. Premjestite datoteku u korijenski direktorij i pokušajte ponovno."</string>
-  <string name="file_path_error_btn">Shvaćam</string>
+  <string name="file_path_error_btn">Razumijem</string>
   <string name="file_path_error_msg">Provjerite sadrži li put do paketa ažuriranja samo slova i brojke.</string>
   <string name="file_path_error_title">Neispravan put</string>
   <string name="finalize_title">Dovršavanje %s</string>

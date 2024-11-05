@@ -264,6 +264,7 @@ dd.MM."</string>
   <string name="kg_doodle_text_not_support_wallpaper_tip">"Ova pozadina ne podržava crteže"</string>
   <string name="kg_edit_cancel_dialog_content">Odbaciti sve promjene?</string>
   <string name="kg_edit_cancel_dialog_title">Odbaciti promjene?</string>
+  <string name="kg_effects_not_support_gallery_tip">"Ne mogu postaviti efekte pri korištenju dijaprojekcije pozadine"</string>
   <string name="kg_effects_tip_button">Razumijem</string>
   <string name="kg_effects_tip_desc">"Efekt dubinske oštrine ne može se kombinirati s filtrima. Korištenje jednog od njih zamijenit će drugi."</string>
   <string name="kg_effects_tip_not_support">"Nije moguće primijeniti efekte na dinamičke pozadine"</string>
@@ -343,6 +344,8 @@ dd.MM."</string>
   <string name="kg_template_description_rhombus">Vrijeme je važno. Neka se broji.</string>
   <string name="kg_template_preview_content_description">Pregled zaključanog zaslona</string>
   <string name="kg_template_title_classic">Klasično</string>
+  <string name="kg_template_title_classic_phone">Prizor</string>
+  <string name="kg_template_title_magazine_phone">Ljudi</string>
   <string name="kg_template_title_eastern_art">Istočnjačka estetika</string>
   <string name="kg_template_title_magazine">Časopis</string>
   <string name="kg_template_title_mine">Zaključani zaslon</string>

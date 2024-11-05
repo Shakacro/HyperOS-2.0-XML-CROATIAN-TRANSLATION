@@ -172,12 +172,14 @@
   <string name="material_minute_suffix">%1$s min</string>
   <string name="material_slider_range_end">Kraj raspona</string>
   <string name="material_slider_range_start">Početak raspona</string>
+  <string name="material_slider_value">Vrijednost</string>
   <string name="material_timepicker_clock_mode_description">Prebacite se na način rada sata za unos vremena.</string>
   <string name="material_timepicker_hour">Sat</string>
   <string name="material_timepicker_minute">Minuta</string>
   <string name="material_timepicker_select_time">Odaberite vrijeme</string>
   <string name="material_timepicker_text_input_mode_description">Prebacite se na način unosa teksta za unos vremena.</string>
   <string name="msg_cancel">Odustani</string>
+  <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništiti sve</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
@@ -361,6 +363,9 @@
   <string name="unpin_specific_target">Otkvači sudionika %1$s</string>
   <string name="usb_device_resolve_prompt_warn">Ta aplikacija nema dopuštenje za snimanje, no mogla bi primati zvuk putem ovog USB uređaja.</string>
   <string name="use_a_different_app">Upotrijebite neku drugu aplikaciju</string>
+  <string name="use_once">Koristi jednom</string>
+  <string name="use_provider_for_all_description">Ovaj upravitelj zaporki za %1$s pohranit će vaše zaporke i pristupne ključeve kako bi vam pomogao da se lakše prijavite</string>
+  <string name="use_provider_for_all_title">Koristiti %1$s za sve vaše prijave?</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">Sri</string>

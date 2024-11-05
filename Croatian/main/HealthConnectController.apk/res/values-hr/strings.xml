@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Dijeli s</string>
     <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
+	 <string name="accessibility_work_profile_app_description">Radni %s</string>
     <string name="action_drag_label_move_bottom">Premjesti na dno</string>
     <string name="action_drag_label_move_down">Premjesti dolje</string>
     <string name="action_drag_label_move_top">Premjesti na vrh</string>
@@ -74,7 +75,7 @@
     <string name="auto_delete_title">Automatsko brisanje</string>
     <string name="automatic_export_off">Isključeno</string>
     <string name="automatic_export_on">Uključeno</string>
-    <string name="automatic_export_status">%1$s • %2$s</string>
+    <string formatted="false" name="automatic_export_status">%s • %s</string>
     <string name="automatic_export_switch_text">Upotreba zakazanog izvoza</string>
     <string name="back_button">Natrag</string>
     <string name="back_extension">Leđna ekstenzija</string>
@@ -350,6 +351,7 @@ To znači da ta aplikacija više ne može pristupati podacima pohranjenim u Heal
     <string name="enter_deletion_button_content_description">Započni brisanje</string>
     <string name="entry_details_title">Pojedinosti o unosu</string>
     <string name="error_icon_content_description">Pogreška</string>
+	 <string name="error_a11y_label">Pogreška: invalid</string>
     <string name="exercise_class">Sat tjelovježbe</string>
     <string name="exercise_laps_header">Krugovi</string>
     <string name="exercise_lowercase_label">vježbanje</string>
@@ -388,7 +390,8 @@ To znači da ta aplikacija više ne može pristupati podacima pohranjenim u Heal
     <string name="export_invalid_storage">Odaberite aplikaciju za pohranu u oblaku za izvoz svojih podataka</string>
     <string name="export_next_button">Dalje</string>
     <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
-    <string name="feet_inches_format">%1$s%2$s⁠</string>
+    <string name="export_and_import_title">Izvoz i uvoz</string>
+	 <string name="feet_inches_format">%1$s%2$s⁠</string>
     <string name="feet_inches_format_long">%1$s %2$s</string>
     <string name="fencing">Mačevanje</string>
     <string name="fitness_permissions">Fitness i wellness</string>
@@ -424,6 +427,7 @@ To znači da ta aplikacija više ne može pristupati podacima pohranjenim u Heal
     <string name="heart_rate_long_value">{count,plural, =1{1 otkucaj u minuti}one{# otkucaj u minuti}few{# otkucaja u minuti}other{# otkucaja u minuti}}</string>
     <string name="heart_rate_lowercase_label">puls</string>
     <string name="heart_rate_read_content_description">Očitavanje pulsa</string>
+	 <string name="heart_rate_series_range_long">od %1$s do %2$s</string>
     <string name="heart_rate_uppercase_label">Puls</string>
     <string name="heart_rate_value">{count,plural, =1{1 o/min}one{# o/min}few{# o/min}other{# o/min}}</string>
     <string name="heart_rate_variability_lowercase_label">varijabilnost pulsa</string>
@@ -484,7 +488,13 @@ To znači da ta aplikacija više ne može pristupati podacima pohranjenim u Heal
     <string name="import_confirmation_dialog_title">Želite li uvesti ovu datoteku?</string>
     <string name="import_data">Uvoz podataka</string>
     <string name="import_data_description">Vratite podatke iz prethodno izvezene datoteke</string>
-    <string name="import_error_banner_title">Nije bilo moguće vratiti podatke</string>
+    <string name="import_decrypt_footer_body_text">Ako još uvijek imate svoj stari telefon, možete ponovno izvesti svoje podatke s novom zaporkom</string>
+    <string name="import_decryption_description">Vaša zaporka za šifriranje potrebna je za uvoz vaših Health Connect podataka</string>
+    <string name="import_decryption_forgotten_password_link_text">Zaboravljena lozinka?</string>
+    <string name="import_decryption_title">Upišite lozinku</string>
+    <string name="import_password_hint">Zaporka</string>
+    <string name="import_wrong_file_error_banner_title">"Nije moguće vratiti podatke"</string>
+	 <string name="import_error_banner_title">Nije bilo moguće vratiti podatke</string>
     <string name="import_in_progress_toast_text">Vraćanje je u tijeku</string>
     <string name="import_invalid_storage">Odaberite aplikaciju za pohranu u oblaku za uvoz podataka</string>
     <string name="import_next_button">Dalje</string>
@@ -567,6 +577,9 @@ To znači da ta aplikacija više ne može pristupati podacima pohranjenim u Heal
     <string name="material_hour_suffix">%1$s h</string>
     <string name="material_minute_selection">Odaberite minute</string>
     <string name="material_minute_suffix">%1$s min</string>
+	 <string name="material_slider_range_end">Kraj raspona</string>
+    <string name="material_slider_range_start">Početak raspona</string>
+    <string name="material_slider_value">Vrijednost</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
     <string name="material_timepicker_hour">Sat</string>
@@ -661,6 +674,9 @@ Kliknite Nastavi da biste ponovo otvorili aplikaciju i nastavili prijenos podata
     <string name="mountain_climber">Planinar</string>
     <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
     <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
+    <string name="mtrl_checkbox_state_description_checked">Označeno</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Djelomično označeno</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Nije označeno</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
     <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
     <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
@@ -812,7 +828,8 @@ To ne utječe na druga dopuštenja koja ova aplikacija može imati, kao što su 
     <string name="power_uppercase_label">Snaga</string>
     <string name="power_write_content_description">Bilježenje snage</string>
     <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
-    <string name="priority_dialog_message">Ako više aplikacija dodaje podatke koji se odnose na %s, Health Connect daje prednost aplikaciji koja je najviša na popisu. Povucite aplikacije da biste im promijenili raspored.</string>
+    <string name="previously_opened">Prethodno otvoreno</string>
+	 <string name="priority_dialog_message">Ako više aplikacija dodaje podatke koji se odnose na %s, Health Connect daje prednost aplikaciji koja je najviša na popisu. Povucite aplikacije da biste im promijenili raspored.</string>
     <string name="priority_dialog_positive_button">Spremi</string>
     <string name="priority_dialog_title">Postavljanje prioriteta za aplikacije</string>
     <string name="protein">Proteini</string>
@@ -899,6 +916,8 @@ To ne utječe na druga dopuštenja koja ova aplikacija može imati, kao što su 
     <string name="search_keywords_home">fitness, wellness</string>
     <string name="search_keywords_permissions">dopuštenja</string>
     <string name="search_menu_title">Pretraži</string>
+	 <string name="searchview_clear_text_content_description">Izbriši tekst</string>
+    <string name="searchview_navigation_content_description">Natrag</string>
     <string name="see_all_categories">Pogledajte sve kategorije</string>
     <string name="see_all_compatible_apps">Pogledajte sve kompatibilne aplikacije</string>
     <string name="see_all_compatible_apps_description">Pronađite aplikacije na Google Playu</string>

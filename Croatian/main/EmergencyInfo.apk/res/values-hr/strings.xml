@@ -166,6 +166,8 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="bluetooth_battery_level_untethered_left_lea_support">Povezano (podržava zajedničko slušanje). Lijeva strana: %1$s baterije</string>
   <string name="bluetooth_battery_level_untethered_right">Desna strana: %1$s baterije</string>
   <string name="bluetooth_battery_level_untethered_right_lea_support">Povezano (podržava zajedničko slušanje). Desna strana: %1$s baterije.</string>
+  <string name="bluetooth_bc_profile_summary_connected">Povezan na BA poslužitelj</string>
+  <string name="bluetooth_bc_profile_summary_use_for">Koristi za BA</string>
   <string name="bluetooth_connected">Povezano: %1$s</string>
   <string name="bluetooth_connected_battery_level">Povezano, baterija %1$s%2$s</string>
   <string name="bluetooth_connected_no_a2dp">Povezano (bez medija): %1$s</string>
@@ -699,6 +701,8 @@ Svatko može pročitati ove informacije s vašeg zaključanog zaslona i birati v
   <string name="screen_zoom_summary_very_large">Veće</string>
   <string name="search_menu">Pretražite postavke</string>
   <string name="search_menu_title">Pretraži</string>
+  <string name="searchview_clear_text_content_description">Izbriši tekst</string>
+  <string name="searchview_navigation_content_description">Natrag</string>
   <string name="select_application">Odaberite aplikaciju</string>
   <string name="select_logd_size_dialog_title">Odaberite veličinu međuspremnika zapisnika</string>
   <string name="select_logd_size_title">Veličine međuspremnika zapisnika</string>
@@ -752,6 +756,10 @@ Svatko može pročitati ove informacije s vašeg zaključanog zaslona i birati v
   <string name="storage_category">Pohrana</string>
   <string name="strict_mode">Omogućen strogi način</string>
   <string name="strict_mode_summary">Zaslon bljeska kada operacije apl. u glavnoj niti dugo traju.</string>
+  <string name="sud_back_button_label">Natrag</string>
+  <string name="sud_more_button_label">Više</string>
+  <string name="sud_next_button_label">Dalje</string>
+  <string name="sud_skip_button_label">Preskoči</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="system_update_settings_list_item_title">Ažuriranja sustava</string>
   <string name="tab_title_contacts">Kontakti</string>

@@ -1284,7 +1284,6 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručica za povlačenje</string>
   <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
   <string name="bottom_notice_title">Povuci gore za otvaranje toolbox-a</string>
-  <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="brand_diagnostic">Dijagnostika tipa mreže operatera</string>
   <string name="brightness_auto_adjust_off">Osvjetljenje će ostati stalno u svim okruženjima</string>
   <string name="brightness_auto_adjust_on">Optimizirajte razinu osvjetljenja za dostupnim svjetlom</string>
@@ -3290,8 +3289,8 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="icon_text_size_giga_byte">%.1fGB</string>
   <string name="icon_text_size_max">9.9GB</string>
   <string name="icon_text_size_mega_byte">%dMB</string>
+  <string name="location_services_title">Usluge lokacije</string>
   <string name="ignore_special_app">Iz svog plana izuzmite podatke koje koriste odabrane aplikacije</string>
-  <string name="im">IM</string>
   <string name="image_protect_auto_del">%s pokušava izbrisati slike</string>
   <string name="image_protect_del_pic_tips">Obavijesti o izbrisanim slikama</string>
   <string name="image_protect_del_success">Uspješno izbrisano</string>

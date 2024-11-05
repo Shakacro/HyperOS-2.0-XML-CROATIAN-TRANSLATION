@@ -108,8 +108,8 @@
 	<string name="bt_error_btn_ok">"U redu"</string>
 	<string name="bt_share_picker_label">"Bluetooth"</string>
 	<string name="bt_sm_2_1">Na USB pohrani nema dovoljno prostora za spremanje datoteke koju šalje pošiljatelj \"%1$s\"</string>
-	<string name="bt_sm_2_1_default">Na SD kartici nema dovoljno prostora za spremanje datoteke koju šalje \"%1$s\"</string>
-	<string name="bt_sm_2_1_nosdcard">Na USB pohrani nema dovoljno prostora za spremanje datoteke koju šalje \"%1$s\"</string>
+	<string name="bt_sm_2_1_default">Na SD kartici nema dovoljno prostora za spremanje datoteke."</string>
+	<string name="bt_sm_2_1_nosdcard">Na USB pohrani nema dovoljno prostora za spremanje datoteke."</string>
 	<string name="bt_sm_2_2">Potrebno prostora: %1$s</string>
 	<string name="bt_toast_1">Datoteka će biti primljena. Napredak provjerite na panelu Obavijesti.</string>
 	<string name="bt_toast_2">Datoteka ne može biti primljena.</string>

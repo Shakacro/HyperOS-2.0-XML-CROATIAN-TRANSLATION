@@ -1136,11 +1136,10 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="disable_cfnrc_forbidden">Vaš mobilni operater ne podržava onemogućavanje preusmjeravanja poziva ako je vaš telefon nedostupan.</string>
   <string name="disable_cfnry_forbidden">Vaš mobilni operater ne podržava onemogućavanje preusmjeravanja poziva ako se na vaš telefon nitko ne javi.</string>
   <string name="disable_cfu_notification_summary">SIM %d više nije u roamingu. Preporučujemo da isključite prosljeđivanje poziva za ovu SIM karticu.</string>
-  <string name="disable_esim_dialog_summary">"SIM %s će se aktivirati ako sada deaktivirate eSIM.
-Svejedno deaktivirati eSIM?"</string>
-  <string name="disable_esim_dialog_title">Deaktiviranje eSIM-a</string>
-  <string name="disable_esim_error_toast_message">"Nije moguće deaktivirati eSIM"</string>
-  <string name="disable_esim_progress_activating_message">Deaktiviranje eSIM-a…</string>
+  <string name="disable_esim_dialog_summary">"Ako isključite eSIM, nećete moći koristiti eSIM. Svejedno isključiti?"</string>
+  <string name="disable_esim_dialog_title">Isključi eSIM</string>
+  <string name="disable_esim_error_toast_message">"Nije moguće isključiti eSIM"</string>
+  <string name="disable_esim_progress_activating_message">Isključivanje eSIM-a…</string>
   <string name="disable_fdn">Isključi FDN</string>
   <string name="disable_fdn_ok">Uključi FDN</string>
   <string name="disable_overlays">Isključi dijeljenje mem.</string>

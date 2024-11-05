@@ -68,6 +68,10 @@
         <item quantity="other">Dostupna su ažuriranja za teme: %1$d</item>
         <item quantity="one">Dostupno je ažuriranje za %1$d temu</item>
     </plurals>
+	 <plurals name="author_follow">
+        <item quantity="other">%d pratitelja</item>
+        <item quantity="one">%d pratitelj</item>
+     </plurals>
     <plurals name="aod_batch_updating_text">
         <item quantity="other">Ažuriranje %1$d tema</item>
         <item quantity="one">Ažuriranje %1$d teme</item>

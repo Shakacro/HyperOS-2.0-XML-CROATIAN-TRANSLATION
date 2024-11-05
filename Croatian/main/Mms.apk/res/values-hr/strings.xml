@@ -1865,7 +1865,7 @@ Zadržat će se samo prvih 50 znakova svake stavke medicinske kartice radi kontr
   <string name="vital_signs_data_allergy">Alergije: %s</string>
   <string name="vital_signs_data_disease">Kronična stanja: %s</string>
   <string name="vital_signs_data_high_bpm">Visoki HR, najnovije: %1$d–%2$d BPM (%3$s–%4$s)</string>
-  <string name="vital_signs_data_high_bpm_multi">Visoki HR više puta u zadnjih sat vremena. Najnovije: %1$d–%2$d BPM (%3$s–%4$s)</string>
+  <string formatted="false" name="vital_signs_data_high_bpm_multi">Visoki HR više puta u zadnjih sat vremena. Najnovije: %1$d%–2$d BPM (%3$s–%4$s)</string>
   <string name="vital_signs_data_low_bpm">Nizak HR, najnovije: %1$d–%2$d BPM (%3$s–%4$s)</string>
   <string name="vital_signs_data_low_bpm_multi">Nizak HR više puta u zadnjih sat vremena. Najnovije: %1$d–%2$d BPM (%3$s–%4$s)</string>
   <string name="vital_signs_data_low_spo2">Nizak SpO₂, najnovije: %1$d%%–%2$d%% (%3$s–%4$s)</string>

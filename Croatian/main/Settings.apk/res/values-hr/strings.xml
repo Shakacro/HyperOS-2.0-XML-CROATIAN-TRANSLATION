@@ -12236,8 +12236,8 @@ Dvaput dodirnite za otvaranje Nedavno."</string>
   <string name="software_version">Verzija softvera</string>
   <string name="solid_text">Koristi niskofrekventnu taktilnu povratnu informaciju i odgovarajuće vizualne prijelaze za stvaranje čvrstog, moćnog iskustva pokreta</string>
   <string name="sometimes_running">Ponekad se izvodi (%s)</string>
+  <string name="sort_avg_use">Poredaj po prosječnoj upotrebi</string>
   <string name="sort_by_frequency">Poredaj po učestalosti</string>
-  <string name="sort_by_time">Poredaj po vremenu</string>
   <string name="sort_by_time">Poredaj po vremenu</string>
   <string name="sort_max_use">Poredaj po maksimalnoj upotrebi</string>
   <string name="sort_order_alpha">Poredaj prema nazivu</string>
@@ -13854,6 +13854,7 @@ i Mi Mover uključen"</string>
   <string name="uicc_mount">Učitaj UICC memoriju</string>
   <string name="uicc_mount_summary"/>
   <string name="uicc_unmount_inform_text">UICC memorija će biti isključena.</string>
+  <string name="unchecked_app_title">Svjetlosni efekti isključeni</string>
   <string name="unadapt_embedded">"Paralelni prozori nisu dostupni"</string>
   <string name="under_keyguard">Na isključenom zaslonu</string>
   <string name="unified_battery_saver_page_intro">Štedite energiju kako bi baterija telefona trajala dulje između punjenja</string>

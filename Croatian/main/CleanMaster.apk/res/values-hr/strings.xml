@@ -690,6 +690,9 @@
   <string name="notification_memory_clean_button_text">Povećaj</string>
   <string name="notification_memory_clean_hint">Dodirnite da povećate brzinu</string>
   <string name="notification_memory_clean_used_size">%s memorije zauzeto</string>
+  <string name="notifications_permission_confirm">Dopusti</string>
+  <string name="notifications_permission_decline">"Ne dopusti"</string>
+  <string name="notifications_permission_title">Dopustiti aplikaciji da vam šalje obavijesti?</string>
   <string name="notification_qq_clean_hint">Smeće usporava vaš uređaj</string>
   <string name="notification_qq_clean_text">"Izbrišite QQ smeće"</string>
   <string name="notification_size_1.5_GB">%.1f</string>
@@ -710,6 +713,10 @@
   <string name="notification_wechat_clean_middle_level_text_b">"WeChatov otpad usporava aplikaciju"</string>
   <string name="notification_whatsapp_clean_button_text">Izbriši</string>
   <string name="notification_whatsapp_clean_size">WhatsApp predmemorija dosegla %s</string>
+  <string name="offline_dialog_image_description">Ikona</string>
+  <string name="offline_dialog_text">"Hvala na interesu.
+Podijelit ćemo više kada ponovno budete na mreži."</string>
+  <string name="offline_notification_title_with_advertiser">Ponovo ste na mreži! Nastavite učiti o %s</string>
   <string name="offline_notification_text">Dodirnite za otvaranje oglasa</string>
   <string name="offline_notification_title">Pogledajte oglas koji ste spremili dok ste bili izvan mreže</string>
   <string name="offline_opt_in_confirm">U redu</string>

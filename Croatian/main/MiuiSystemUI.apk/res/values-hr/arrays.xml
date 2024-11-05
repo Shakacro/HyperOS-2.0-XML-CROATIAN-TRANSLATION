@@ -83,6 +83,10 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+		   <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Upotreba odabira sustava (zadano)</item>
@@ -91,12 +95,10 @@
         <item>Qualcomm® aptX™ audio</item>
         <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
-    </string-array>
-    <string-array name="bluetooth_audio_active_device_summaries">
-        <item></item>
-        <item>" | Aktivno"</item>
-        <item>" | Aktivno (mediji)"</item>
-        <item>" | Aktivno (telefon)"</item>
+		   <item>LC3</item>
+        <item>Opus</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (zadano)</item>
@@ -113,7 +115,10 @@
         <item>Onemogućeno</item>
         <item>Omogućeno filtrirano</item>
         <item>Omogućeno</item>
-    </string-array>
+        <item>Omogućeno \"Zaglavlja filtrirana\"</item>
+        <item>Omogućeno \"Paketi medija filtrirani\"</item>
+		   <item>Omogućeno \"Profili filtrirani\"</item>
+	 </string-array>
 	 <string-array name="bt_hci_snoop_log_filters_entries">
         <item>Zadrži samo ACL zaglavlja</item>
         <item>Filtriraj A2DP medijske pakete</item>

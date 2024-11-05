@@ -79,6 +79,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="add_ringtone">Dodaj melodiju zvona</string>
   <string name="advanced_customize_mode">Napredno prilagođavanje</string>
   <string name="agreement_desc">Korisnički ugovor (obavezno)</string>
+  <string name="ai_apply_wallpaper">Primjeni</string>
+  <string name="ai_cannot_scrolling_with_the_screen">"Nije moguće uključiti pomicanje za ovu pozadinu"</string>
   <string name="ai_delete_wallpaper">Izađi</string>
   <string name="ai_generate">Generirano sa AI</string>
   <string name="ai_generate_action">Generiraj</string>
@@ -281,6 +283,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="card_no_network">"Ne mogu se povezati s mrežom. Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="card_retry">Pokušaj ponovno</string>
   <string name="carefully_chosen_wallpaper">Preporuka urednika</string>
+  <string name="carousel_no_set_wallpaper_effects">"Nije moguće postaviti efekte kada je Wallpaper Carousel uključen"</string>
   <string name="change_host_hint">Promijeni domaćina</string>
   <string name="change_wallpaper">Slika pozadine</string>
   <string name="channel_featured_page">Istaknuto</string>

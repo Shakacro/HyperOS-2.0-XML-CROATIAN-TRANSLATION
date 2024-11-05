@@ -69,6 +69,7 @@ vaše uređaje?"</string>
  <string name="appcirculate_toast_success_2">Emitiranje u privatnom načinu…</string>
  <string name="appcirculate_toast_success_3">Emitiranje…</string>
  <string name="ask_for_using_camera">Otključajte uređaj za davanje dopuštenja</string>
+ <string name="ask_for_using_camera_car">"Glavni zaslon EV-a pristupa feedu kamere ovog uređaja. Otključajte za upravljanje opcijama."</string>
  <string name="audio_record_des">Za prijenos zvuka s vašeg mobilnog uređaja na vanjske monitore</string>
  <string name="auth_MIUI_and_phone_model">"Ova je stranica dostupna samo za
 MIUI 13 Beta testere."</string>
@@ -86,11 +87,22 @@ Prijavite se na svoj Xiaomi račun u Postavke &gt; Xiaomi račun za sinkronizaci
  <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
  <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručica za povlačenje</string>
  <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
+ <string name="call_notification_answer_action">Odgovori</string>
+ <string name="call_notification_answer_video_action">Videozapis</string>
+ <string name="call_notification_decline_action">Odbij</string>
+ <string name="call_notification_hang_up_action">Prekini vezu</string>
+ <string name="call_notification_incoming_text">Dolazni poziv</string>
+ <string name="call_notification_ongoing_text">Poziv u tijeku</string>
+ <string name="call_notification_screening_text">Provjera dolaznog poziva</string>
  <string name="camera_associate_connecting">Povezivanje s kamerom</string>
  <string name="camera_associate_disconnecting">Prekid veze s kamerom telefona</string>
  <string name="camera_associate_failed">"Nije moguće povezati se s kamerom"</string>
  <string name="camera_associate_success">Kamera povezana</string>
  <string name="camera_choose_device">Promijenite kamere</string>
+ <string name="camera_composed_button">Kombiniraj</string>
+ <string name="camera_composed_no_device">"Čini se da uređaj nije u blizini"</string>
+ <string name="camera_composed_title">"Kombinirajte s kamerom ovog uređaja"</string>
+ <string name="camera_composed_using_title">Kombinirane kamere</string>
  <string name="camera_connecting">"%s želi koristiti kameru ovog uređaja"</string>
  <string name="camera_disassociate">Veza s kamerom prekinuta</string>
  <string name="camera_title">Traženje dostupnih uređaja…</string>
@@ -466,6 +478,10 @@ Vaši uređaji?"</string>
  <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
  <string name="device_busy">Uređaj je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
  <string name="device_desc_trust">Pouzdani uređaji</string>
+ <string name="device_permission_authorize_dialog_message_car_pad">"Dopustite svom EV-u da koristi kameru vašeg tableta kako bi mogao vidjeti feed drugog reda."</string>
+ <string name="device_permission_authorize_dialog_title_car_pad">Dajte dopuštenja na svom tabletu</string>
+ <string name="device_permission_dialog_message_car_pad">Otvorite Postavke > Međusobno povezivanje > Međusobno povezivanje i dopuštenja > Kamera i dajte dopuštenja da biste mogli koristiti ovu značajku.</string>
+ <string name="device_permission_dialog_title_car_pad">Dajte dopuštenja na svom tabletu</string>
  <string name="device_permission_authorize_dialog_message">Kad se ovo dopuštenje da, ovaj uređaj će moći koristiti %s za snimanje fotografija i videozapisa.</string>
  <string name="device_permission_authorize_dialog_title">Dodijeli dopuštenja za kameru na %s</string>
  <string name="device_permission_dialog_message">Otvorite Postavke > Međusobno povezivanje > Međusobno povezivanje i dopuštenja na %s i najprije dodijelite dopuštenja kameri.</string>
@@ -523,6 +539,7 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
  <string name="dual_wifi_warning_global">Uključite dvostruki Wi-Fi i pokušajte ponovno</string>
  <string name="enable_screen_projection_summary">Emitiraj sadržaj zaslona na vanjski monitor</string>
  <string name="enable_screen_projection_summary_new">Emitirajte zaslon mobilnog uređaja na obližnje televizore i druge vanjske monitore</string>
+ <string name="enable_screen_projection_summary_pad">Emitirajte zaslon tableta na obližnji TV ili drugi uređaj</string>
  <string name="err_toast_msg_audio_support_support_only">Ovaj uređaj podržava samo prijenos audio reprodukcije. Pokušajte povući audio karticu.</string>
  <string name="err_toast_msg_default">"Ova radnja nije podržana"</string>
  <string name="err_toast_msg_mirror_and_bluetooth_support_only">"Nije moguće prenijeti reprodukciju zvuka"</string>
@@ -760,7 +777,8 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
  <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
  <string name="km_synergy_error">"Veza je istekla. Provjerite jesu li Bluetooth i Wi-Fi uključeni na oba uređaja i jesu li unutar dometa veze."</string>
  <string name="km_synergy_error_china">"Veza je istekla. Provjerite jesu li Bluetooth i Wi-Fi uključeni na oba uređaja i jesu li unutar dometa veze."</string>
- <string name="local_device_camera">This device</string>
+ <string name="local_camera_device">Ovaj uređaj</string>
+ <string name="local_device_camera">Ovaj uređaj</string>
  <string name="local_hotspot_opening">"Isključite hotspot ovog uređaja i pokušajte ponovno"</string>
  <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
  <string name="material_hour_24h_suffix">%1$s sati</string>
@@ -780,6 +798,9 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
  <string name="message_connection_interrupted">Provjerite jesu li vaše računalo i tablet unutar dometa veze i jesu li Bluetooth i Wi-Fi uključeni. Za nastavak ponovno pokrenite zadatak na računalu.</string>
  <string name="message_install">Instalirajte Mi Canvas da biste mogli skicirati na više uređaja.</string>
  <string name="message_update">Ažurirajte Mi Canvas da biste mogli skicirati na više uređaja.</string>
+ <string name="mihome_camera_device_not_available">"Nije moguće povezati više uređaja"</string>
+ <string name="mihome_camera_device_offline">"Nije moguće povezati se. Kamera je izvan mreže."</string>
+ <string name="mihome_camera_device_sleep">Izađite iz stanja mirovanja i pokušajte ponovno</string>
  <string name="miplay_accessibility_cast">Odaberite uređaj</string>
  <string name="miplay_accessibility_cover">Naslovna stranica</string>
  <string name="miplay_accessibility_next">Sljedeća pjesma</string>
@@ -1271,6 +1292,8 @@ Pročitajte i prihvatite naš &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a 
  <string name="screen_projection_characteristics">Posebne značajke</string>
  <string name="screen_projection_characteristics_cast_summary">Emitirajte sadržaj zaslona na obližnji TV</string>
  <string name="screen_projection_characteristics_hang_up_summary_new">Isključite zaslon mobilnog uređaja tijekom emitiranja kako biste uštedjeli bateriju i izbjegli pregrijavanje</string>
+ <string name="screen_projection_characteristics_hang_up_summary_pad">Isključite zaslon tijekom emitiranja kako biste smanjili potrošnju energije i pregrijavanje</string>
+ <string name="screen_projection_characteristics_small_window_summary_pad">"Prikaži aplikaciju koju emitiraš kao plutajući prozor i normalno koristi druge aplikacije na svom tabletu"</string>
  <string name="screen_projection_characteristics_off_screen_summary">Možete nastaviti emitirati kada je ekran vašeg uređaja isključen. Ova značajka smanjuje potrošnju energije.</string>
  <string name="screen_projection_characteristics_off_screen_title">Emitiraj s isključenim zaslonom</string>
  <string name="screen_projection_characteristics_privacy_protect_summary">"Ne prikazuj plutajuće obavijesti, dolazne pozive i druge privatne stavke na vanjskim monitorima."</string>
@@ -1384,6 +1407,7 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
  <string name="tuesday_short">Uto</string>
  <string name="tuesday_shortest">U</string>
  <string name="unlock_screen_to_authorize_camera">"%s želi koristiti kameru ovog uređaja"</string>
+ <string name="unlock_screen_to_authorize_camera_car">"%s pristupa kameri ovog uređaja"</string>
  <string name="update">Ažuriraj</string>
  <string name="upgrade_app_name_version">%1$s | %2$s</string>
  <string name="upgrade_cancel">Odustani</string>

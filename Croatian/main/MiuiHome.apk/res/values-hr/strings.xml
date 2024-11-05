@@ -1099,5 +1099,7 @@ Veličina: %2$s"</string>
 Veličina Delta ažuriranja: %2$s"</string>
    <string name="xiaomi_update_sdk_dialog_title">Dostupno je ažuriranje!</string>
    <string name="xiaomi_update_sdk_external_storage_unavailable">Pohrana nije dostupna, provjerite SD karticu.</string>
+   <string name="xiaomi_update_sdk_update_dialog_cancel">Ne sada</string>
+   <string name="xiaomi_update_sdk_update_dialog_ok">Ažuriraj</string>
   <string name="yesterday">Jučer</string>
 </resources>

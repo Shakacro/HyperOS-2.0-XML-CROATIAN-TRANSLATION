@@ -722,6 +722,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">Baterija vašeg uređaja je prazna. Ulazak u stanje hibernacije za %1$d sek.</item>
         <item quantity="one">Baterija vašeg uređaja je prazna. Ulazak u stanje hibernacije za %1$d sek.</item>
     </plurals>
+	  <plurals name="pc_extreme_mode_count_down_title_new">
+        <item quantity="other">Prazna baterija. Vaš će uređaj prijeći u stanje hibernacije za %1$d sekundi. Performanse i snaga signala mogu biti malo smanjeni.</item>
+        <item quantity="one">Prazna baterija. Vaš će uređaj prijeći u stanje hibernacije za %1$d sekundi. Performanse i snaga signala mogu biti malo smanjeni.</item>
+     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dana</item>
         <item quantity="one">%s dan</item>

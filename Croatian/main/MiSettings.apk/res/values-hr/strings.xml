@@ -774,6 +774,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="pcl_forget_password_unbind_email_cancel">Odustani</string>
   <string name="pcl_guide_open_control">Uključi</string>
   <string name="pcl_header_text_less_than_half">Premalo. Povucite malo dalje.</string>
+  <string name="pcl_input_invalid_char">Unesite samo važeće znakove</string>
   <string name="pcl_input_password_hint_text">Unesite zaporku</string>
   <string name="pcl_install_app_message">%s pokušava instalirati aplikaciju</string>
   <string name="pcl_login_and_add_account">Dodaj</string>
