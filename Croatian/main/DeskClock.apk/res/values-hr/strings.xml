@@ -60,13 +60,13 @@
   <string name="aod_timer_running">Timer je pokrenut</string>
   <string name="app_label">Sat</string>
   <string name="auto_silence_entries1">Nikad</string>
-  <string name="auto_silence_entries2"><xliff refersto="1" id="MINUTES">%d</xliff> minutu</string>
-  <string name="auto_silence_entries3"><xliff refersto="5" id="MINUTES">%d</xliff> minuta</string>
-  <string name="auto_silence_entries4"><xliff refersto="10" id="MINUTES">%d</xliff> minuta</string>
-  <string name="auto_silence_entries5"><xliff refersto="15" id="MINUTES">%d</xliff> minuta</string>
-  <string name="auto_silence_entries6"><xliff refersto="20" id="MINUTES">%d</xliff> minuta</string>
-  <string name="auto_silence_entries7"><xliff refersto="25" id="MINUTES">%d</xliff> minuta</string>
-  <string name="auto_silence_entries8"><xliff refersto="30" id="MINUTES">%d</xliff> minuta</string>
+  <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> minutu</string>
+  <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> minuta</string>
+  <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> minuta</string>
+  <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> minuta</string>
+  <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> minuta</string>
+  <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> minuta</string>
+  <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> minuta</string>
   <string name="auto_silence_summary">Postavite vrijeme nakon kojeg će se alarmi i odbrojavanja isključiti</string>
   <string name="auto_silence_title">Autom. utišaj</string>
   <string name="back">Izlaz</string>
@@ -147,14 +147,10 @@
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="force_start_permission_desc">"Omogući normalno funkcioniranje alarma čak i kada ste zatvorili aplikaciju"</string>
   <string name="force_start_permission_title">Autom. pokretanje</string>
-  <string name="force_touch_add_alarm">Dodaj alarm</string>
-  <string name="force_touch_enter_stopwatch">Štoperica</string>
-  <string name="force_touch_enter_timer">Timer</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="go_back">Natrag</string>
-  <string name="holiday_update">Dostupno je ažuriranje državnih praznika</string>
   <string name="holiday_update_fail">"Ne mogu ažurirati"</string>
   <string name="holiday_update_loading">Ažuriranje…</string>
   <string name="holiday_update_success">Sve stavke su ažurne</string>
@@ -178,7 +174,7 @@
   <string name="label_input_hint">Unesi tekst</string>
   <string name="label_pref_summary">Tekst ovoga alarma</string>
   <string name="lap">Krug</string>
-  <string name="lap_num">Krug</string>
+  <string name="lap_index">%02d</string>
   <string name="last_step">Natrag</string>
   <string name="legal_off_day">Državni praznik</string>
   <string name="legal_off_day_message">" (Alarm se neće isključiti tijekom radnih dana)"</string>
@@ -189,11 +185,6 @@
   <string name="life_post_setting">Jutarnje izvješće</string>
   <string name="life_post_setting_FBE_remind">Zbog ograničenja sustava, informacije o vremenu u jutarnjem izvješću možda se neće prikazivati ispravno nakon ponovnog pokretanja</string>
   <string name="life_post_setting_close_title">Isključi jutrnja izvješća</string>
-  <string name="life_post_setting_open_background_subtitle">Prikaži sliku pozadine za povezane alarme</string>
-  <string name="life_post_setting_open_background_title">Prikaži sliku pozadine</string>
-  <string name="life_post_setting_open_desc">Isključite ponavljanje alarma između 04:00 i 10:00 da biste slušali informacije o vremenu</string>
-  <string name="life_post_setting_open_subtitle">Primaj informacije o vremenu kad isključite alarme između 4:00 i 9:30</string>
-  <string name="life_post_setting_open_summary">Uključi informacije o vremenu u prvom isključenom alarmu između 4:00 i 10:00</string>
   <string name="life_post_setting_open_summary_new">Uključi informacije o vremenu u prvom isključenom alarmu između %1$s i %2$s</string>
   <string name="life_post_setting_open_title">Primaj jutarnja izvješća</string>
   <string name="life_post_setting_wake_up_list_title">Povijest buđenja</string>
@@ -265,7 +256,7 @@
   <string name="module_unzipping">Raspakiranje zvuka…</string>
   <string name="module_update_success_control">Razumijem</string>
   <string name="module_weather_ringtone_download_data_new">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat mora preuzeti ≈%d MB datoteka zvuka da bi to radilo. Preuzeti sada?</string>
-  <string name="module_weather_ringtone_download_data_privacy_new" formatted="false"><Data>Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat se mora povezati s internetom za preuzimanje ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvuka. Prije korištenja Sata također morate pročitati i prihvatiti naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
+  <string formatted="false" name="module_weather_ringtone_download_data_privacy_new"><Data>Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat se mora povezati s internetom za preuzimanje ≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB zvuka. Prije korištenja Sata također morate pročitati i prihvatiti naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
   <string name="module_weather_ringtone_download_wifi">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat treba preuzeti datoteke zvuka da bi to radilo. Preuzeti sada?</string>
   <string name="module_weather_ringtone_download_wifi_privacy"><Data>Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Sat se mora povezati s internetom za preuzimanje zvuka. Prije korištenja Sata također morate pročitati i prihvatiti naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> and &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
   <string name="module_weather_ringtone_introduce">Vremenski alarm odabire različite melodije zvona prema trenutnom vremenu. Također vam omogućuje slušanje trenutnih informacija o vremenu ujutro.</string>
@@ -278,7 +269,7 @@
   <string name="module_week_ringtone_introduce">Alarm prirode reproducira različite zvukove ovisno o datumu.</string>
   <string name="module_week_ringtone_update_data_new">Alarm prirode reproducira različite zvukove ovisno o datumu. Sat treba preuzeti ≈%d MB datoteka zvuka da bi to radilo. Preuzeti sada?</string>
   <string name="module_white_noise_download_data_new">Sat treba preuzeti datoteke zvuka za timere ambijentalne buke. Za ovo preuzimanje bit će potrebno ≈%d MB mobilnih podataka. Preuzeti sada?</string>
-  <string name="module_white_noise_download_data_privacy_new" formatted="false"><Data>"Za preuzimanje datoteke zvuka za timere ambijentalne buke (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) i pružiti personalizirane usluge, Sat se treba povezati s internetom. Prije korištenja Sata također morate pročitati i prihvatiti naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> and &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>. You're using mobile data now. Prihvaćate?"</Data></string>
+  <string formatted="false" name="module_white_noise_download_data_privacy_new"><Data>"Za preuzimanje datoteke zvuka za timere ambijentalne buke (≈&lt;xliff:g id=FLOW refersto=30>%d&lt;/xliff:g> MB) i pružiti personalizirane usluge, Sat se treba povezati s internetom. Prije korištenja Sata također morate pročitati i prihvatiti naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> and &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>. You're using mobile data now. Prihvaćate?"</Data></string>
   <string name="module_white_noise_download_wifi">Sat treba preuzeti datoteke zvuka za timere ambijentalne buke. Preuzeti sada?</string>
   <string name="module_white_noise_download_wifi_privacy"><Data>Kako bi preuzeo datoteke zvuka za timere ambijentalne buke i pružio personalizirane usluge, Sat se treba povezati s internetom. Prije korištenja Sata također morate pročitati i prihvatiti naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> and &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a>. Prihvaćate?</Data></string>
   <string name="monday">Ponedjeljak</string>
@@ -370,9 +361,9 @@
   <string name="not_set_temporarily">Ne hvala</string>
   <string name="not_update">Ne sada</string>
   <string name="notification_adv_time_entries1">U postavljeno vrijeme</string>
-  <string name="notification_adv_time_entries2"><xliff refersto="15" id="MINUTES">%d</xliff> minuta unaprijed</string>
-  <string name="notification_adv_time_entries3"><xliff refersto="30" id="MINUTES">%d</xliff> minuta unaprijed</string>
-  <string name="notification_adv_time_entries4"><xliff refersto="1" id="HOUR">%d</xliff> sat unaprijed</string>
+  <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minuta unaprijed</string>
+  <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minuta unaprijed</string>
+  <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> sat unaprijed</string>
   <string name="notification_adv_time_entries5">Ništa</string>
   <string name="notification_permission_desc">"Ako ne odobrite dopuštenja za obavijesti, nećete moći isključiti alarme kada zazvone. Odobriti sada?"</string>
   <string name="notification_permission_dialog_content">Dopustite ovoj aplikaciji slanje obavijesti kako bi primala obavijesti o alarmu. Ovo dopuštenje možete dati u postavkama.</string>
@@ -399,11 +390,6 @@
   <string name="read_internal_storage">Pristup pohrani</string>
   <string name="remark_hint">Unesite oznaku</string>
   <string name="repeat_count">Puta</string>
-  <string name="repeat_count_value_five_new">%d</string>
-  <string name="repeat_count_value_one_new">%d</string>
-  <string name="repeat_count_value_ten_new">%d</string>
-  <string name="repeat_count_value_three_new">%d</string>
-  <string name="repeat_count_value_two_new">%d</string>
   <string name="reset">Poništi</string>
   <string name="ringtone_all">Sve melodije zvona</string>
   <string name="ringtone_dew">Jutarnja rosa</string>
@@ -439,7 +425,7 @@
   <string name="skip_alarm_once_hint">Isključi jednom na %s</string>
   <string name="sleep_analysis">Statistika</string>
   <string name="sleep_analysis_chart_date_format">dd.MM.</string>
-  <string name="sleep_date_provider_text_new">Podatke o spavanju pruža Mi Fitness</string>
+  <string name="sleep_date_provider_text_new">Podatke o spavanju pruža Xiaomi Health</string>
   <string name="sleep_duration">"Trajanje spavanja: "</string>
   <string name="sleep_duration_avg_text_diff">Prosječno trajanje spavanja (%1$s-%2$s)</string>
   <string name="sleep_duration_no_data">Još nema dovoljno podataka</string>
@@ -452,12 +438,9 @@
   <string name="sleep_notification_desc">Pridržavajte se svog rasporeda za spavanje</string>
   <string name="sleep_notification_title">Vrijeme je za odlazak u krevet</string>
   <string name="sleep_record">Pratite san</string>
-  <string name="sleep_record_desc">Uključite za početak snimanja podataka o stanju spavanja</string>
-  <string name="sleep_record_desc_detailed">Funkcionalnost praćenja spavanja pruža Xiaomi Health. Nakon uključivanja, Xiaomi Health automatski bilježi vaše spavanje na temelju vaše upotrebe telefona, statistike aktivnosti i vremena spavanja i buđenja koje ste postavili, prikazujući vam statistiku u obliku grafikona. Kako biste točnije pratili spavanje, dopustite Xiaomi Healthu da se automatski pokrene. Svi povezani podaci bit će pohranjeni lokalno na vašem uređaju radi lakšeg upravljanja.
-</string>
-  <string name="sleep_record_desc_detailed_new">Praćenje spavanja osigurava značajka Mi Fitness Sleep. Ako uključite ovu značajku, Mi Fitness će automatski prikupljati i prikazati podatke o vašem spavanju na temelju korištenja vašeg telefona, aktivnosti i vremena spavanja i buđenja koje ste postavili. Za preciznije praćenje sna, dopustite Mi Fitness-u da se automatski pokrene.</string>
-  <string name="sleep_record_no_data">Vaša će se statistika prikazati ovdje 
-nakon što Xiaomi Health analizira dovoljno podataka</string>
+  <string name="sleep_record_desc">Uključite za početak snimanja podataka o spavanju</string>
+  <string name="sleep_record_desc_detailed_new">Praćenje spavanja omogućuje značajka Xiaomi Health Sleep. Ako uključite ovu značajku, Xiaomi Health će automatski prikupljati i prikazivati ​​podatke o vašem spavanju na temelju vaše upotrebe telefona, aktivnosti i vremena spavanja i buđenja koje ste postavili. Za točnije praćenje sna, dopustite Xiaomi Healthu da se automatski pokrene.</string>
+  <string name="sleep_record_no_data">Vaša statistika pojavit će se ovdje nakon što Xiaomi Health analizira dovoljno podataka</string>
   <string name="sleep_remind">Podsjetnik za ići na spavanje</string>
   <string name="sleep_time">Vrijeme spavanja</string>
   <string name="sleep_wake_time">%1$s-%2$s</string>
@@ -466,7 +449,6 @@ nakon što Xiaomi Health analizira dovoljno podataka</string>
   <string name="snooze_duration">Odgoda</string>
   <string name="snooze_duration_title">Odgoda</string>
   <string name="snooze_duration_value">Interval (minuta)</string>
-  <string name="star_wy_alarm_speech">Upoznajte Mario MASVA</string>
   <string name="start">Start</string>
   <string name="status_bar_alarm_alert">Alarm zvoni</string>
   <string name="stopwatch_running_notification">Štoperica</string>
@@ -504,18 +486,18 @@ nakon što Xiaomi Health analizira dovoljno podataka</string>
   <string name="timer_got_it_new">Utišaj</string>
   <string name="timer_is_paused">Timer je pauziran</string>
   <string name="timer_keep_screen_on">Zadrži zaslon uključenim</string>
+  <string name="timer_pause_notification">Pauzirano</string>
+  <string name="timer_pause_timer">Pauziraj Timer</string>
+  <string name="timer_ringtone">Zvuk Timera</string>
+  <string name="timer_running">Timer je pokrenut</string>
+  <string name="timer_running_notification">Timer</string>
   <string name="timer_screen_on">Zaslon ostaje uključen</string>
   <string name="timer_screen_turn_on">Zadrži zaslon uključenim</string>
-  <string name="timezone_null_massage">Ovdje nema ništa</string>
-  <string name="timer_pause_notification">Pauzirano</string>
-  <string name="timer_running_notification">Timer</string>
-  <string name="timer_pause_timer">Pauziraj timer</string>
-  <string name="timer_ringtone">Melodija timera</string>
-  <string name="timer_running">Timer je pokrenut</string>
   <string name="timer_start_alarm">"Vrijeme je isteklo!"</string>
   <string name="timer_start_timer">Pokreni timer</string>
   <string name="timer_title">Timer</string>
   <string name="timezone_exist_error_message">"Već prikazujete tu vremensku zonu"</string>
+  <string name="timezone_null_massage">Ovdje nema ništa</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tuesday">Utorak</string>
@@ -553,16 +535,16 @@ nakon što Xiaomi Health analizira dovoljno podataka</string>
   <string name="world_edit_actionbar_subtitle">Widget će prikazati prvih %d lokacija</string>
   <string name="world_edit_actionbar_title">Odaberite lokacije</string>
   <string name="world_edit_local_default">"Lokalno vrijeme | "</string>
-  <string name="worldcolock_time_date_new">dd.MM.</string>
   <string name="worldclock_edit_label">Svjetski sat</string>
   <string name="worldclock_input_hint_text">Unesite grad</string>
-  <string name="worldclock_local_time">Lokalno vrijeme</string>
+  <string name="worldclock_local_time">"Lokalno vrijeme "</string>
   <string name="worldclock_search_city">Odaberite grad</string>
   <string name="worldclock_second_time_new">%s</string>
   <string name="worldclock_title">Sat</string>
   <string name="worldclock_world_time">Vremenske zone</string>
   <string name="worldcolock_date_display_prefix">Trenutno: </string>
   <string name="worldcolock_time_date">dd.MM.yyyy</string>
+  <string name="worldcolock_time_date_new">dd.MM.</string>
   <string name="worldcolock_timezone_date">dd.MM.</string>
   <string name="worldcolock_timezone_local">Isto kao i lokalno vrijeme</string>
   <string name="xiaoai_ringtone_title">Mi AI melodije zvona</string>
