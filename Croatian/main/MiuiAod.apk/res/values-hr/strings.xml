@@ -152,6 +152,7 @@ dd.MM."</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+  <string name="full_aod_not_support_reason_depth_video">"Nije moguće postaviti isti stil kao zaključani zaslon kada se koristi efekt dubine videozapisa"</string>
   <string name="full_aod_not_support_reason_super_wallpaper">"Always-on zaslon sa Super pozadinama ne može biti u skladu sa zaključanim zaslonom"</string>
   <string name="full_aod_not_support_reason_template">"Always-on zaslon s crtežima ne može biti u skladu sa zaključanim zaslonom"</string>
   <string name="full_aod_not_support_reason_third_theme">"Always-on zaslon s temama treće strane ne može biti u skladu sa zaključanim zaslonom"</string>
@@ -311,7 +312,7 @@ dd.MM."</string>
   <string name="kg_guidance_dialog_title">Potpuno novi personalizirani zaključani zaslon</string>
   <string name="kg_hierarchy_loading_tip">Otkrivanje slojeva…</string>
   <string name="kg_hierarchy_not_support_avoid_tip">Prilagodite položaj pozadine kako bi efekt dubine bio vidljiv</string>
-  <string name="kg_hierarchy_not_support_gallery_tip">"Nije moguće primijeniti efekte dubine na stavke dijaprojekcije"</string>
+  <string name="kg_hierarchy_not_support_gallery_tip">"Nije moguće uključiti efekt dubine kada se koristi dijaprojekcija pozadine"</string>
   <string name="kg_hierarchy_not_support_third_party_wallpaper_service_tip">"Pozadine trećih strana ne podržavaju efekte dubine"</string>
   <string name="kg_hierarchy_not_support_wallpaper_tip">"Ova pozadina ne podržava efekt dubine"</string>
   <string name="kg_hierarchy_switch_label">Efekt dubine</string>

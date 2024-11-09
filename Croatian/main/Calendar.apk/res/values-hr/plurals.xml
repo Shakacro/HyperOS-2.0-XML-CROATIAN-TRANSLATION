@@ -48,13 +48,13 @@
         <item quantity="other">prije 1 sat</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">prije 1 sat</item>
+        <item quantity="other">prije %d sat</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Prije pola sata</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Za 1 sat</item>
+        <item quantity="other">Za %d sat</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Za pola sata</item>
@@ -63,15 +63,15 @@
         <item quantity="other">Odmah</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">za %d min</item>
-        <item quantity="one">za 1 min</item>
+        <item quantity="other">Za %d min</item>
+        <item quantity="one">Za %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Upravo sada</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">prije %d min</item>
-        <item quantity="one">prije 1 min</item>
+        <item quantity="one">prije %d min</item>
     </plurals>
     <plurals name="after_num_minutes">
         <item quantity="other">Za %d min</item>
@@ -82,8 +82,8 @@
         <item quantity="one">%1$s dan</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Godišnjica: %2$d godina od %1$s za 3 dana</item>
-        <item quantity="one">Godišnjica: %2$d godina od %1$s za 3 dana</item>
+        <item quantity="other">Godišnjica: %3$d godina od %2$s za %1$d dana</item>
+        <item quantity="one">Godišnjica: %3$d godina od %2$s za %1$d dan</item>
     </plurals>
     <plurals name="anniversary_notify_title">
         <item quantity="other">Godišnjica: %2$d godina od %1$s</item>
