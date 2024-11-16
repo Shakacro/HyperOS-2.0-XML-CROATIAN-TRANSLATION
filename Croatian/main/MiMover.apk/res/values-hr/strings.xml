@@ -422,7 +422,6 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="main_receiver_title">Novi</string>
   <string name="main_sender_summary">Dodirnite za slanje stavki</string>
   <string name="main_sender_summary_pad">Dodirnite za slanje stavki</string>
-  <string name="main_sender_summary">Dodirnite za slanje stavki</string>
   <string name="main_sender_title">Stari</string>
   <string name="manual_connection_content1">%d. Dodirnite \"Poveži se na novi uređaj ručno\" na starom uređaju.</string>
   <string name="manual_connection_content2">%d. Odaberite sljedeći Wi-Fi hotspot.</string>
