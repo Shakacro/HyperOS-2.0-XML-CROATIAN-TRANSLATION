@@ -206,7 +206,10 @@
 	<string name="elder_mode_title">Zaštita starije osobe</string>
 	<string name="empty_app">Nema aplikacija</string>
 	<string name="enhance_mode_close_feedback">Hvala što koristite poboljšanu zaštitu</string>
-   <string name="enhance_mode_feedback_reason">Zašto isključujete ovu značajku?</string>
+	<string name="enhance_mode_close_tip">Mi Protect ostat će uključen čak i ako isključite poboljšanu zaštitu.</string>
+  <string name="enhance_mode_feedback_reason">Zašto isključujete ovu značajku?</string>
+   <string name="enhance_mode_intro">Podržava samo instalaciju aplikacija koje su prošle pregled od strane GetApps</string>
+   <string name="enhance_mode_open_tip">Prvo uključite Mi Protect</string>
    <string name="enhance_safe_guard_mode_description">Instalirajte samo aplikacije koje su prošle GetApps testove kako biste zaštitili svoj uređaj od virusa i zlonamjernog softvera</string>
    <string name="enhance_safe_guard_title">Uključite poboljšanu zaštitu da biste izbjegli rizične aplikacije</string>
    <string name="enhance_safe_mode">Poboljšana zaštita</string>
@@ -289,6 +292,11 @@
 	<string name="install_app_loading">Provjera instalacijskog paketa…</string>
 	<string name="install_apps_user_restriction_dlg_text">Ovom korisniku nije dopušteno instaliranje aplikacija</string>
 	<string name="install_completed_pure_open_tip_title">Uključite Mi Protect kako biste blokirali rizične aplikacije i osigurali svoju sigurnost.</string>
+	<string name="install_failed_secure_frp">"Radi vaše sigurnosti Android ne dopušta instaliranje aplikacija odmah nakon resetiranja uređaja ako je vaš Google račun još uvijek prijavljen."</string>
+  <string name="install_failed_secure_frp_suggestion">"1. korak: dodirnite \"Osnovne Google usluge\" i uključite ih.
+2. korak: dodajte Google račun s kojim ste bili prijavljeni prije nego što ste resetirali uređaj.
+%1$s"</string>
+   <string name="install_failed_secure_frp_suggestion_clickable">Otvori postavke</string>
 	<string name="install_hint_enhanced_mode_hint">Poboljšana zaštita</string>
    <string name="install_hint_enhanced_mode_hint_desc">"Poboljšana zaštita je uključena. Ova je aplikacija zamijenjena verzijom koja je prošla naše sigurnosne testove. Ako i dalje želite instalirati ovu verziju, dodirnite \"︙\" i odaberite \"Dopusti jednom\" . "</string>
    <string name="install_hint_enhanced_mode_hint_desc_clickable">Saznajte više</string>
@@ -534,6 +542,7 @@
 	<string name="open">Uključi</string>
 	<string name="open_and_exit">Uključi</string>
    <string name="open_enhanced_protection">Uključite poboljšanu zaštitu</string>
+   <string name="open_safe_mode">Uključi</string>
 	<string name="open_app_install_safe_check">Provjerite aplikacije prije instalacije</string>
 	<string name="open_app_install_safe_des">Provjerite moguće rizike i sigurnosne probleme u aplikacijama prije instalacije</string>
 	<string name="open_now">Uključi</string>
@@ -774,6 +783,7 @@
 	<string name="permission_name_write_calendar">Dodavati i uređivati događaje u kalendaru</string>
 	<string name="permission_name_write_external_storage">Spremanje stavki u pohranu uređaja</string>
 	<string name="permission_num">%1$s</string>
+	<string name="permissoion_management">Dopuštenja</string>
 	<string name="please_input_install_app_name">Unesite naziv aplikacije</string>
 	<string name="please_input_phone_password">Unesite Zaklj. zaslona</string>
 	<string name="please_input_phone_password_short">Unesite Zaklj. zaslona</string>
@@ -930,6 +940,7 @@
 	<string name="security_mode_open_notification_action_button">Detalji</string>
 	<string name="security_mode_open_notification_msg">Vaš uređaj je zaštićen</string>
 	<string name="security_mode_open_notification_title">Mi Protect je uključen</string>
+	<string name="security_mode_open_title">Dobro došli</string>
 	<string name="security_mode_renamed">Mi Protect je preimenovan</string>
 	<string name="security_mode_renamed_ok">Razumijem</string>
 	<string name="send">Pošalji</string>
@@ -989,24 +1000,28 @@ dolaze"</string>
 	<string name="set_management_measures">Postavite mjere zaštite</string>
 	<string name="settings">Postavke</string>
 	<string name="settings_security_mode_recent_install_app">Nedavno instalirano: %1$s</string>
+	<string name="settings_security_mode_service_detailed_msg_1">Zaštita od rizičnih aplikacija</string>
+   <string name="settings_security_mode_service_detailed_msg_2">Praćenje ponašanja aplikacije</string>
+   <string name="settings_security_mode_service_detailed_msg_3">Zaštita privatnosti</string>
+   <string name="settings_security_mode_service_detailed_msg_4">Instalirajte sigurne aplikacije</string>
 	<string name="settings_security_mode_service_list_title_off_msg">Uključite Mi Protect kako biste uživali u sljedećim značajkama:</string>
 	<string name="settings_security_mode_service_list_title_on_msg">Mi Protect pruža sljedeće značajke</string>
 	<string name="settings_security_mode_service_msg_0">Nove mjere protiv prijevara i zaštite privatnosti</string>
-	<string name="settings_security_mode_service_msg_1">Provjerite aplikacije iz nepoznatih izvora prije instalacije</string>
-	<string name="settings_security_mode_service_msg_2">Kontrolirajte i ograničite štetnu aktivnost aplikacije</string>
-	<string name="settings_security_mode_service_msg_3">Kontrola dopuštenja povezanih s privatnošću</string>
-	<string name="settings_security_mode_service_msg_4">Provjerite sigurnosne probleme u okruženju plaćanja</string>
-	<string name="settings_security_mode_service_opening_msg_1">Zaštita od rizičnih aplikacija</string>
+   <string name="settings_security_mode_service_msg_1">Identificira i ograničava nepoznate izvore instalacije kako bi spriječio zlonamjerne aplikacije da ugroze vašu sigurnost</string>
+   <string name="settings_security_mode_service_msg_2">Osigurava da je postupak instalacije aplikacije bez rizika i jamči stabilnost sustava</string>
+   <string name="settings_security_mode_service_msg_3">Održava ručno pregledanu bazu podataka rizika aplikacije za procjenu razina rizika</string>
+   <string name="settings_security_mode_service_msg_4">Strogo kontrolira dopuštenja aplikacija kako bi spriječio pretjerane zahtjeve koji mogu narušiti vašu privatnost</string>	
+   <string name="settings_security_mode_service_opening_msg_1">Zaštita od rizičnih aplikacija</string>
 	<string name="settings_security_mode_service_opening_msg_2">Praćenje ponašanja aplikacije</string>
 	<string name="settings_security_mode_service_opening_msg_3">Sigurnost plaćanja</string>
 	<string name="settings_security_mode_service_opening_msg_4">Zaštita privatnosti</string>
 	<string name="settings_security_mode_service_opening_msg_5">Zaštita od prijevare</string>
 	<string name="settings_security_mode_service_title_0">Instalirajte sigurne aplikacije</string>
-	<string name="settings_security_mode_service_title_1">Zaštita od rizičnih aplikacija</string>
-	<string name="settings_security_mode_service_title_2">Praćenje ponašanja aplikacije</string>
-	<string name="settings_security_mode_service_title_3">Zaštita privatnosti</string>
-	<string name="settings_security_mode_service_title_4">Sigurnost plaćanja</string>
-	<string name="settings_security_mode_status_off_msg">Isključeno</string>
+   <string name="settings_security_mode_service_title_1">Pregled izvora aplikacije</string>
+   <string name="settings_security_mode_service_title_2">Nadgledanje instalacije</string>
+   <string name="settings_security_mode_service_title_3">Identifikacija rizičnih aplikacija</string>
+   <string name="settings_security_mode_service_title_4">Upravljanje dopuštenjima za privatnost</string>
+   <string name="settings_security_mode_status_off_msg">Isključeno</string>
 	<string name="settings_security_mode_status_on_msg">Mi Protect je uključen</string>
 	<string name="settings_security_mode_title_off_msg">Mi Protect</string>
 	<string name="side_sheet_accessibility_pane_title">Bočna stranica</string>

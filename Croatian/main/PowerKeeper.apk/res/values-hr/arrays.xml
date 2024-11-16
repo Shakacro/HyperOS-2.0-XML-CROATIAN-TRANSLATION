@@ -56,7 +56,7 @@
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Vlastito</item>
-        <item>MIUI Štednja baterije</item>
+        <item>Štednja baterije</item>
     </string-array>
     <string-array name="hmode_app_classify2">
         <item>Aktivne aplikacije</item>

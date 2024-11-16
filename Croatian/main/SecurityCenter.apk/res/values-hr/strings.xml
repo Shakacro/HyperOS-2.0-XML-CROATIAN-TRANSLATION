@@ -1666,9 +1666,17 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cs_title_smart_subtitle">Transkripcija podnaslova</string>
   <string name="cs_title_ultraclear">Ultra HD način</string>
   <string name="cs_tool_box_max_screen_guide_case_1">Isprobajte simultano prevođenje i druge alate za konferencijske pozive u novom alatnom okviru za pozive</string>
+  <string name="cs_tool_box_max_screen_guide_case_1_new">Isprobajte simultano prevođenje, uljepšanje i druge alate za konferencijske pozive u novom alatnom okviru za pozive</string>
   <string name="cs_tool_box_max_screen_guide_case_2">Isprobajte niz značajki konferencijskog poziva u novom alatnom okviru za pozive</string>
+  <string name="cs_tool_box_max_screen_guide_case_2_new">Isprobajte uljepšanje i druge alate za konferencijske pozive u novom alatu za pozive</string>
+  <string name="cs_tool_box_max_screen_guide_case_3_new">Isprobajte niz značajki konferencijskog poziva u novom alatnom okviru za pozive</string>
+  <string name="cs_tool_box_max_screen_guide_case_4_new">Isprobajte simultano prevođenje i druge alate za konferencijske pozive u novom alatu za pozive</string>
   <string name="cs_tool_box_phone_guide_case_1">Isprobajte simultano prevođenje i druge značajke u novom alatnom okviru za pozive</string>
+  <string name="cs_tool_box_phone_guide_case_1_new">Isprobajte simultano prevođenje, uljepšanje i više u novom alatnom okviru za pozive</string>
   <string name="cs_tool_box_phone_guide_case_2">Isprobajte niz značajki u novom alatnom okviru za pozive</string>
+  <string name="cs_tool_box_phone_guide_case_2_new">Isprobajte uljepšanje i druge značajke u novom alatnom okviru za pozive</string>
+  <string name="cs_tool_box_phone_guide_case_3_new">Isprobajte niz sjajnih značajki u novom alatnom okviru za pozive</string>
+  <string name="cs_tool_box_phone_guide_case_4_new">Isprobajte simultano prevođenje i druge značajke u novom alatnom okviru za pozive</string>
   <string name="cs_voice_print">Snimi glasovni otisak</string>
   <string name="cs_vt_camera_toast_case1">Otvori kameru u trenutnoj aplikaciji</string>
   <string name="cs_vt_camera_toast_case2">Nema kompatibilnih uređaja u blizini</string>
@@ -2992,7 +3000,7 @@ vašeg igranja"</string>
   <string name="gd_setting_conversation">Konferencijski alati</string>
   <string name="gd_setting_conversation_desc">Pruža niz značajki za korištenje u audio i video pozivima preko cijelog zaslona</string>
   <string name="gd_setting_dock_activity_title">Bočna kutija s alatima</string>
-  <string name="gd_setting_dock_call_summary">Značajke za glasovne i videopozive (npr. dopunsko svjetlo)</string>
+  <string name="gd_setting_dock_call_summary_new">Koristite uljepšanje i druge značajke tijekom audio i video poziva preko cijelog zaslona</string>
   <string name="gd_setting_dock_call_title">Kutija s alatima za pozive</string>
   <string name="gd_setting_dock_game_summary">Poboljšajte prikaz i performanse tijekom igranja igrica</string>
   <string name="gd_setting_dock_game_summary_new">Poboljšajte prikaz i performanse tijekom igranja igrica</string>
@@ -4371,7 +4379,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_extreme_mode_setting_summary">Produžite vrijeme čekanja kada je baterija izuzetno slaba</string>
   <string name="pc_extreme_mode_setting_title">Hibernacija</string>
   <string name="pc_extreme_mode_title">Način hibernacije</string>
-  <string name="pc_fast_charge_notifi_action_text_off">Stop</string>
+  <string name="pc_fast_charge_notifi_action_text_off">Zaustavi</string>
   <string name="pc_fast_charge_notifi_action_text_on">Povećaj</string>
   <string name="pc_fast_charge_notifi_power_threshold_title">Postavite razinu napunjenosti baterije za podsjetnike</string>
   <string name="pc_fast_charge_notifi_summary">Punjenje do %s brže nego inače…</string>
@@ -4393,6 +4401,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_going_to_extreme_mode">Ulazak u stanje hibernacije</string>
   <string name="pc_handle_battery_level">Zahvat</string>
   <string name="pc_have_no_battery_issue">Nema problema</string>
+  <string name="pc_health_charge_protect_noti_summary_title">Uređaj će se prestati puniti kada razina baterije dosegne %1$s</string>
   <string name="pc_hide_more_power_rank_apps">Sakrij</string>
   <string name="pc_hidemode_normal">Uravnoteženo</string>
   <string name="pc_hidemode_normal_title">Uravnoteženo</string>

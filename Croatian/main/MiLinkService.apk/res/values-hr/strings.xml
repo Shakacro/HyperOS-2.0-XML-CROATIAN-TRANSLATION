@@ -112,7 +112,7 @@ Prijavite se na svoj Xiaomi račun u Postavke &gt; Xiaomi račun za sinkronizaci
  <string name="camera_permission_dialog_message">"Dopusti ovoj aplikaciji korištenje kamere ovog uređaja. Ovu dozvolu možete dati u Postavkama."</string>
  <string name="camera_permission_dialog_negative">Odustani</string>
  <string name="camera_permission_dialog_positive">Postavke</string>
- <string name="camera_permission_dialog_title">Potrebne su dozvole</string>
+ <string name="camera_permission_dialog_title">Potrebna su dopuštenja</string>
  <string name="camera_permission_timeout_toast">Veza je istekla. Pokušajte ponovno.</string>
  <string name="camera_picker_title">Kamera za više uređaja</string>
  <string name="car_device_camera_name">%1$s prednja kamera</string> 
@@ -1124,7 +1124,7 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
  <string name="passport_register_restricted">Previše je računa povezano s ovim brojem. Pokušajte s drugim.</string>
  <string name="passport_relogin_notice">Morate se ponovo prijaviti</string>
  <string name="passport_request_agree">Dopusti</string>
- <string name="passport_request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeće dozvole za normalan rad:&lt;br>&lt;br>&lt;b>Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b>&lt;br>&lt;br>Ako ne pristanete na davanje takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije, ali će njezine osnovne funkcije i dalje biti dostupne biti dostupna vama. Uvijek možete ograničiti dopuštenja ili opozvati svoju autorizaciju u postavkama."</string>
+ <string name="passport_request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeće dopuštenja za normalan rad:&lt;br>&lt;br>&lt;b>Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b>&lt;br>&lt;br>Ako ne pristanete na davanje takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije, ali će njezine osnovne funkcije i dalje biti dostupne biti dostupna vama. Uvijek možete ograničiti dopuštenja ili opozvati svoju autorizaciju u postavkama."</string>
  <string name="passport_request_cancel">Odustani</string>
  <string name="passport_request_error_invalid_token">"Nije moguće potvrditi"</string>
  <string name="passport_request_error_network">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
@@ -1247,7 +1247,7 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
  <string name="privacy_setting_show_lelink_policy">Pogledajte HappyCast Pravila o privatnosti</string>
  <string name="privacy_setting_show_policy">Pogledajte Pravila o privatnosti</string>
  <string name="privacy_setting_show_user_agreement">Pogledajte Korisnički ugovor</string>
- <string name="privacy_text_1"><Data>"Dobro došli u Casting! Emitiranje omogućuje projiciranje stavki sa zaslona vašeg telefona na veći vanjski monitor.
+ <string name="privacy_text_1"><Data>"Dobro došli u Emitiranje! Emitiranje omogućuje projiciranje stavki sa zaslona vašeg telefona na veći vanjski monitor.
 Štitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Neke značajke pruža treći pružatelj usluga HappyCast. Prije korištenja ove značajke, pročitajte i prihvatite &lt;a href=%2$s>HappyCast Pravnu izjavu&lt;/a> i &lt;a href=%1$s>HappyCast Pravila o privatnosti&lt;/a>.
 Kako bi mogla normalno raditi, ova se aplikacija mora povezati na internet i zahtijeva sljedeća dopuštenja kako bi prikupila vaše osobne podatke:"</Data></string>
   <string name="privacy_text_2"><Data>"Ako ne pristajete dati takva dopuštenja ili dijeliti i učitati svoje osobne podatke, nećete moći koristiti ovu aplikaciju. U takvim slučajevima možete deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
@@ -1261,7 +1261,7 @@ Pročitajte i prihvatite naš &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a 
  <string name="privacy_update_dialog_positive_btn">Prihvaćam</string>
  <string name="privacy_update_dialog_quit">Izlaz</string>
  <string name="private_protect">Zaštitite privatnost</string>
- <string name="prompt_camera_associate_failed">"Nije moguće povezati se"</string>
+ <string name="prompt_camera_associate_failed">"Ne mogu se povezati"</string>
  <string name="prompt_camera_disassociate">Prekinuto</string>
  <string name="prompt_camera_guide">Kamera %s je dostupna</string>
  <string name="prompt_camera_ocuppied">Kamera je zauzeta</string>

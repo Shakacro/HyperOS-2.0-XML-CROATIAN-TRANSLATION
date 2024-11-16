@@ -206,7 +206,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="err_type_suggestion">Prijedlozi</string>
   <string name="err_type_system">Sustav</string>
   <string name="err_type_system_summary">Memorija, performanse, itd.</string>
-  <string name="err_type_systemapp">MIUI Aplik.</string>
+  <string name="err_type_systemapp">Aplikacije sustava</string>
   <string name="err_type_translate">Jezik</string>
   <string name="err_type_xiaomi_family">Mi Home</string>
   <string name="err_type_xiaomi_service">Služba za korisnike</string>
@@ -245,7 +245,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
 %1$d. U kojoj aplikaciji ili na kojoj stranici ste naišli na problem?
 %2$d. Nakon kojih radnji koje ste izveli se pojavio problem?
 %3$d. Dajte nam dodatne informacije koje bi nam mogle pomoći da riješimo problem."</string>
-  <string name="feedback_description_hint_suggestion">Recite nam kako želite poboljšati MIUI.</string>
+  <string name="feedback_description_hint_suggestion">Recite nam kako želite poboljšati HyperOS.</string>
   <string name="feedback_description_hint_suggestion_pad">Recite nam kako se možemo poboljšati.</string>
   <string name="feedback_description_label">Opis</string>
   <string name="feedback_description_suggest_hint">Želio bih da dodate novu značajku () jer mi treba ().</string>

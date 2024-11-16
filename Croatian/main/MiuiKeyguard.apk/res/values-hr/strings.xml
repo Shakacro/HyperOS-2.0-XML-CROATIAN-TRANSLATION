@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="accessibility_enter_lock_wallpaper">Dodirni da otvorite Glazba</string>
+    <string name="accessibility_enter_lock_wallpaper">Dodirni da otvorite Glazbu</string>
     <string name="app_name">Zaklj. zaslon</string>
     <string name="btn_camera">Slikajte svoje lice</string>
     <string name="change_to_ac_charging">Promjenjeno na žičano punjenje</string>
@@ -19,7 +19,7 @@
     <string name="experimental_validate_progress">Prijava…</string>
     <string name="experimental_validate_thanks">Hvala!</string>
     <string name="experimental_validate_username">Korisničko ime</string>
-    <string name="experimental_validate_warning">Hvala vam što nam pomažete učiniti MIUI boljim!</string>
+    <string name="experimental_validate_warning">Hvala vam što nam pomažete učiniti HyperOS boljim!</string>
     <string name="face_data_input_camera_fail">"Ne mogu učitati kameru"</string>
     <string name="face_data_input_camera_ok">Učitavanje kamere…</string>
     <string name="face_data_input_cancel">Odustani</string>

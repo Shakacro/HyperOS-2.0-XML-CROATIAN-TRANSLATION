@@ -2703,7 +2703,7 @@ Tu značajku možete isključiti u Postavke &gt; Bluetooth &gt; Upareni uređaji
   <string name="bt_audio_share_switch_title">Dijeli zvuk</string>
   <string name="bt_audiorepair_dialog_open_success">Uspješno popravljeno. Pričekajte dok se uređaj ponovno ne poveže.</string>
   <string name="bt_audiorepair_dialog_openok">Popravi</string>
-  <string name="bt_audiorepair_open_dialog_summary">"MIUI će otkriti i riješiti probleme koji uzrokuju probleme Bluetooth audia. Tijekom ovog postupka Bluetooth će se ponovo pokrenuti. Ne napuštajte ovu stranicu dok ne vidite rezultate."</string>
+  <string name="bt_audiorepair_open_dialog_summary">"HyperOS će otkriti i riješiti probleme koji uzrokuju probleme Bluetooth audia. Tijekom ovog postupka Bluetooth će se ponovo pokrenuti. Ne napuštajte ovu stranicu dok ne vidite rezultate."</string>
   <string name="bt_audiorepair_open_dialog_title">Popravite probleme zvuka</string>
   <string name="bt_audiorepair_pre_title">Popravite probleme zvuka</string>
   <string name="bt_audiorepair_summary">Popravite probleme zvuka na povezanim Bluetooth uređajima</string>
@@ -3211,8 +3211,8 @@ Razgovjetni pozivi funkcioniraju u Wi-Fi pozivima i na većini mreža, ali nisu 
   <string name="close_hotspot_hint">Isključi prijenosni hotspot prije emitiranja</string>
   <string name="close_install_and_connect">Ne hvala</string>
   <string name="close_lid_display_settings_title">Nakon preklapanja</string>
-  <string name="close_miui_optimization_title">Isključi MIUI optimizaciju</string>
-  <string name="close_optimization_message">Možda će utjecati na izgled teksta, račune i ostale dijelove MIUI-a nakon isključivanja ove značajke.</string>
+  <string name="close_miui_optimization_title">Isključi optimizaciju sustava</string>
+  <string name="close_optimization_message">Možda će utjecati na izgled teksta, račune i ostale dijelove sustava nakon isključivanja ove značajke.</string>
   <string name="close_optimization_option">Isključi</string>
   <string name="close_privacy_thumbnail_blur_title">"Pregledi nisu zamućeni"</string>
   <string name="close_sdcard_optimization_title">Isključi optimiziranje SD kartice</string>
@@ -3817,8 +3817,8 @@ Ako ga prekinete, izgubiti ćete neke ili sve svoje podatke."</string>
   <string name="dark_mode_display_enable_summary">Prebacite se na slabo osvijetljeno korisničko sučelje koje prikazuje uglavnom tamne površine</string>
   <string name="dark_mode_font_background_title">Automatski prilagodi tekst i pozadinu</string>
   <string name="dark_mode_power_save_alert_dialog_confirm">Razumijem</string>
-  <string name="dark_mode_power_save_alert_dialog_message">"Ako isključite MIUI optimizaciju i uključite Štednju baterije, tamni način rada automatski će se uključiti.
-Da biste isključili tamni način rada, isključite Štednju baterije ili uključite MIUI optimizaciju u Postavkama &gt; Opcije za razvojne programere &gt; MIUI optimizacija."</string>
+  <string name="dark_mode_power_save_alert_dialog_message">"Ako isključite optimizaciju sustava i uključite Štednju baterije, tamni način rada automatski će se uključiti.
+Da biste isključili tamni način rada, isključite Štednju baterije ili uključite optimizaciju sustava u Postavkama &gt; Opcije za razvojne programere &gt; optimizacija sustava."</string>
   <string name="dark_mode_power_save_alert_dialog_title">Tamni način</string>
   <string name="dark_mode_settings">Opcije tamnog načina</string>
   <string name="dark_mode_time_settings">Raspored tamnog načina rada</string>
@@ -4243,17 +4243,17 @@ Ta postavka utječe na sve korisnike telefona."</string>
   <string name="device_mall_card_title">Provjerite dostupne pogodnosti</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_more">Prikaži više</string>
-  <string name="device_miui_version">MIUI verzija</string>
-  <string name="device_miui_version_for_POCO">MIUI verzija (Za POCO)</string>
-  <string name="device_miui_version_parameters">MIUI verzija</string>
-  <string name="device_miui_version_update">Dostupno je MIUI ažuriranje</string>
+  <string name="device_miui_version">HyperOS verzija</string>
+  <string name="device_miui_version_for_POCO">HyperOS verzija (Za POCO)</string>
+  <string name="device_miui_version_parameters">HyperOS verzija</string>
+  <string name="device_miui_version_update">Dostupno je ažuriranje sustava</string>
   <string name="device_name">Naziv uređaja</string>
   <string name="device_name_input_error">"Ne mogu spremiti naziv uređaja"</string>
   <string name="device_name_input_hint">Unesi naziv</string>
   <string name="device_name_input_overlength">Tekst koji ste unijeli je predugačak</string>
   <string name="device_name_usage_point">Ostali uređaji u blizini mogu vidjeti ovaj naziv.</string>
   <string name="device_oaid">ID uređaja</string>
-  <string name="device_oaid_desc">Umjesto vašeg stvarnog identifikatora, MIUI će aplikacijama treće strane pružiti virtualni ID (PAID). Sprečava aplikacije da prate vaše ponašanje i postavke i štiti vašu privatnost.</string>
+  <string name="device_oaid_desc">Umjesto vašeg stvarnog identifikatora, HyperOS će aplikacijama treće strane pružiti virtualni ID (PAID). Sprečava aplikacije da prate vaše ponašanje i postavke i štiti vašu privatnost.</string>
   <string name="device_oaid_title">Virtualni ID</string>
   <string name="device_of_someone">"%1$s's %2$s"</string>
   <string name="device_opcust_version">Prilagođena verzija</string>
@@ -4315,7 +4315,7 @@ Da biste pokušali riješiti taj problem, možete zaustaviti aplikaciju %1$s i s
 Da biste riješili taj problem, možete isključiti lokaciju za tu aplikaciju."</string>
   <string name="dialog_location_ok">Isključi</string>
   <string name="dialog_location_title">Isključiti lokaciju?</string>
-  <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
+  <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je HyperOS spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
   <string name="dialog_network_priority_title">Prioritet</string>
   <string name="dialog_no">"Ne"</string>
   <string name="dialog_not_show_again">Ne prikazuj ponovno</string>
@@ -4580,7 +4580,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="double_twist_for_camera_suggestion_title">Brže snimanje selfieja</string>
   <string name="doublepress_summary">Reprodukcija i pauziranje reprodukcije</string>
   <string name="doublepress_title">Izvršite pokret dvostrukog pritiska</string>
-  <string name="download_current_rom">Nabavite najnoviju MIUI verziju</string>
+  <string name="download_current_rom">Nabavite najnoviju HyperOS verziju</string>
   <string name="downloaded_sim_category_title">eSIM</string>
   <string name="downloaded_sims_category_title">eSIM-ovi</string>
   <string name="downloading_description">Preuzimanje…</string>
@@ -4679,7 +4679,7 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="dual_wifi_switching_prompt">Prebacivanje između mreža</string>
   <string name="dual_wifi_switching_summary">Dvopojasno povećanje Wi-Fi brzine treba koristiti dva različita Wi-Fi pojasa. Ako se povežete s drugom glavnom mrežom, pomoćna veza će se izgubiti.</string>
   <string name="dump_log">Dobivanje zapisa vezane uz probleme</string>
-  <string name="dump_log_summary">"Ova značajka je dizajnirana za generiranje %s zapisa u beta verzijama MIUI. Koristite je s oprezom.
+  <string name="dump_log_summary">"Ova značajka je dizajnirana za generiranje %s zapisa u beta verzijama HyperOS-a. Koristite je s oprezom.
 Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="dump_log_title">O ovoj značajci</string>
   <string name="duration_less_than_one_minute">Manje od jedne minute</string>
@@ -6807,7 +6807,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="launcher_auto_fill_empty_title">Autom. popuni prazna mjesta</string>
   <string name="launcher_icon">Ikone</string>
   <string name="launcher_icon_management">Upravljanje prečacima Poč. zaslona</string>
-  <string name="launcher_settings_title">MIUI Pokretač</string>
+  <string name="launcher_settings_title">Pokretač</string>
   <string name="launcher_title">Poč. zaslon &amp; Nedavno</string>
   <string name="launching_cit">Pokrećem CIT…</string>
   <string name="launching_pho">Otvaranje podataka o uređaju…</string>
@@ -8110,7 +8110,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
   <string name="miui_desktop_mode_settings">Radna stanica</string>
   <string name="miui_device_control_description">Prikaži aplikacije koje podržavaju kontrole uređaja kako bi mogle kontrolirati kompatibilne pametne kućne uređaje</string>
-  <string name="miui_experience_optimization">Uključite MIUI optimizaciju</string>
+  <string name="miui_experience_optimization">Uključite optimizaciju sustava</string>
   <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Odustani</string>
   <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">"Za najbolje rezultate pri korištenju otključavanja licem, nemojte dopustiti da vaš uređaj automatski prilagođava svjetlinu zaslona"</string>
   <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">U redu</string>
@@ -8141,7 +8141,7 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_lab_feature_applied">Postavljeno</string>
   <string name="miui_lab_feature_off">Isključeno</string>
   <string name="miui_lab_feature_on">Uključeno</string>
-  <string name="miui_lab_features">MIUI laboratorijske značajke</string>
+  <string name="miui_lab_features">HyperOS laboratorijske značajke</string>
   <string name="miui_lab_gallery_search_desc">Poboljšano pretraživanje slika</string>
   <string name="miui_lab_gallery_search_title">Pronađi fotografije u Galeriji</string>
   <string name="miui_lab_gesture_desc">Za navigaciju koristite geste umjesto tipki</string>
@@ -8151,7 +8151,7 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_lab_install_drive_mode_error">"Ne mogu instalirati, pokušajte ponovo."</string>
   <string name="miui_lab_install_drive_mode_summary">"Način rada za automobil je aplikacija sustava. Instalacija ne zahtijeva internetsku vezu."</string>
   <string name="miui_lab_install_drive_mode_title">Instaliraj način rada za automobil</string>
-  <string name="miui_lab_settings">MIUI laboratorij</string>
+  <string name="miui_lab_settings">HyperOS laboratorij</string>
   <string name="miui_lab_slogan">Naučite. Istražite. Otkrijte.</string>
   <string name="miui_lab_super_resolution_desc">Učini slike oštrijima</string>
   <string name="miui_lab_super_resolution_title">Super rezolucija</string>
@@ -8163,7 +8163,7 @@ Nastavite pristupiti dodatnim postavkama."</string>
   <string name="miui_nfc_dialog_positive">Odustani</string>
   <string name="miui_nfc_dialog_title">Isključivanje NFC-a</string>
   <string name="miui_nfc_mi_pay_summary">Mi Pay, transportne kartice, ključ kartice</string>
-  <string name="miui_optimization_disabled">Isključi MIUI optimizaciju</string>
+  <string name="miui_optimization_disabled">Isključi optimizaciju sustava</string>
   <string name="miui_screen_config_title">Postavke Poč. zaslona</string>
   <string name="miui_screensaver_show_time">"Trajanje"</string>
   <string name="miui_screensaver_show_time_select_title">Postavi trajanje prezentacije</string>
@@ -9381,8 +9381,8 @@ Aplikacija će također moći uključiti ili isključiti značajku DND i promije
   <string name="open_demo_mode_warning_message">Kada je Demo način uključen, sat u traci stanja će se zaustaviti, baterija i ikone signala prikazat će se kao pune. Možete isključiti Demo način rada ili ponovo pokrenuti uređaj da biste to promijenili.</string>
   <string name="open_game_accelerate">Uključi Game Turbo</string>
   <string name="open_haptic_feedback">Haptička povratna informacija</string>
-  <string name="open_miui_optimization_title">Uključi MIUI optimizaciju</string>
-  <string name="open_optimization_message">Uključite optimizaciju da biste uživali u uglađenom i bržem UI.</string>
+  <string name="open_miui_optimization_title">Uključi optimizaciju sustava</string>
+  <string name="open_optimization_message">Uključite optimizaciju da biste uživali u uglađenom i bržem korisničkom sučelju.</string>
   <string name="open_optimization_option">Uključi</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Odustani</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Isključi</string>
@@ -11073,8 +11073,8 @@ Da biste se koristili prikvačivanjem aplikacije: \u0009
   <string name="se_wallet_hce">Koristi HCE Novčanik</string>
   <string name="se_wallet_uicc">SIM %1$s Novčanik</string>
   <string name="se_wallet_uicc_jp">"SIM %1$s Novčanik (Nije moguće odabrati automatski)"</string>
-  <string name="search_about_settings">"O uređaju;Naziv uređaja;Broj modela;Android verzija;MIUI verzija;CPU;RAM;Unutarnja memorija;Osnovna verzija;Kernel verzija;Broj verzije;Status;Pravne informacije "</string>
-  <string name="search_accelerometer_title">Autom. zakreni zaslon;Rotiraj zaslon;Orijentacija;Portrait;Landscape</string>
+  <string name="search_about_settings">"O uređaju;Naziv uređaja;Broj modela;Android verzija;HyperOS verzija;CPU;RAM;Unutarnja memorija;Osnovna verzija;Kernel verzija;Broj verzije;Status;Pravne informacije "</string>
+  <string name="search_accelerometer_title">Autom. zakreni zaslon;Rotiraj zaslon;Orijentacija;Portret;Landscape</string>
   <string name="search_access_control">Postavke privatnosti;Postavke sigurnosti;Gost;Gost način</string>
   <string name="search_accessibility">Dostupnost</string>
   <string name="search_accessibility_captioning_title">Naslovi</string>
@@ -13864,7 +13864,7 @@ i Mi Mover uključen"</string>
   <string name="uninstall_device_admin">Deinstaliraj aplikaciju</string>
   <string name="uninstall_dlg_msg">Deinstaliranje će ukloniti sve podatke aplikacije.</string>
   <string name="uninstall_dlg_title">Deinstalirati sada?</string>
-  <string name="uninstall_protected_dlg_msg">Deinstaliranje aplikacija sustava može spriječiti neke MIUI komponente da rade ispravno. Deinstalirati svejedno?</string>
+  <string name="uninstall_protected_dlg_msg">Deinstaliranje aplikacija sustava može spriječiti neke komponente sustava da rade ispravno. Deinstalirati svejedno?</string>
   <string name="uninstall_protected_dlg_title">Deinstaliranje aplikacija sustava</string>
   <string name="uninstall_text">Deinstaliraj</string>
   <string name="uninstall_wifi_master_key">Deinstaliraj Wi-Fi Master ključ</string>
@@ -14039,8 +14039,8 @@ Sa ovog profila bit će uklonjeni i vaši spremljeni otisci prstiju i nećete mo
   <string name="uplmn_settings_summary">Definirajte preferirane PLMN-ove u redoslijedu prioriteta</string>
   <string name="uplmn_settings_title">Korisnik kontrolira PLMN</string>
   <string name="upload_audio_log">Započni dobivanje audio zapisa</string>
-  <string name="upload_debug_log_detail">"Pomozite poboljšati doživljaj HyperOS uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, MIUI sustav i stabilnost aplikacije i još mnogo toga.
-Podaci koje ćete poslati sadržavat će opće podatke o vašem uređaju i načinu na koji ga upotrebljavate (npr. Razina baterije, aktivnost sustava i aplikacija i pogreške). Podaci će se koristiti za poboljšanje MIUI uređaja.
+  <string name="upload_debug_log_detail">"Pomozite poboljšati doživljaj HyperOS uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, HyperOS sustav i stabilnost aplikacije i još mnogo toga.
+Podaci koje ćete poslati sadržavat će opće podatke o vašem uređaju i načinu na koji ga upotrebljavate (npr. Razina baterije, aktivnost sustava i aplikacija i pogreške). Podaci će se koristiti za poboljšanje HyperOS uređaja.
 Isključivanje ove značajke ne utječe na sposobnost uređaja da šalje podatke potrebne za osnovne usluge kao što su ažuriranja sustava i sigurnost."</string>
   <string name="upload_debug_log_summary">Dijelite podatke kako biste nam pomogli poboljšati HyperOS.</string>
   <string name="upload_debug_log_title">Korištenje i dijagnostika</string>
@@ -14279,7 +14279,7 @@ Oslobodite prostor ili prenesite samo važne stavke."</string>
   <string name="use_personalized_ad_service">Personalizirana Preporuka oglasa</string>
   <string name="use_personalized_ad_service_for_global">Prilagodite oglase</string>
   <string name="use_personalized_ad_service_summary">Kad su isključene preporuke za prilagođene oglase, i dalje ćete vidjeti istu količinu oglasa kao i kad je značajka uključena. Oglasi, međutim, više neće biti relevantni jer se neće temeljiti na vašim osobnim željama.</string>
-  <string name="use_personalized_ad_service_summary_for_global">"Kada su preporuke prilagođenih oglasa isključene, i dalje ćete vidjeti istu količinu oglasa u aplikacijama MIUI sustava kao i kada je značajka uključena. Oglasi s Xiaomi i platformi trećih strana, međutim, bit će više neće biti relevantni jer se neće temeljiti na vašim osobnim preferencijama."</string>
+  <string name="use_personalized_ad_service_summary_for_global">"Kada su preporuke prilagođenih oglasa isključene, i dalje ćete vidjeti istu količinu oglasa u aplikacijama HyperOS sustava kao i kada je značajka uključena. Oglasi s Xiaomi i platformi trećih strana, međutim, bit će više neće biti relevantni jer se neće temeljiti na vašim osobnim preferencijama."</string>
   <string name="use_privacy_password_immediate">Koristi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Koristi jezike sustava</string>
   <string name="use_system_preference">Koristi postavke sustava (zadano)</string>
@@ -15266,7 +15266,7 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_property">Wi-Fi svojstva</string>
   <string name="wifi_protection_on">Uključeno</string>
   <string name="wifi_protection_settings_title">Zaštita od Wi-Fi probe zahtjeva</string>
-  <string name="wifi_protection_tip">MIUI će zaštititi vaše osobne podatke od Wi-Fi probe zahtjeva koji dolaze od nasumičnih MAC adresa i Wi-Fi probe sniffers-a kada vaš uređaj traži Wi-Fi mreže.</string>
+  <string name="wifi_protection_tip">HyperOS će zaštititi vaše osobne podatke od Wi-Fi probe zahtjeva koji dolaze od nasumičnih MAC adresa i Wi-Fi probe sniffers-a kada vaš uređaj traži Wi-Fi mreže.</string>
   <string name="wifi_quick_toggle_summary">Uključi Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_region_summary">Zahtijeva ponovno pokretanje Wi-Fi-ja da bi stupilo na snagu</string>
@@ -15431,22 +15431,22 @@ Dodirnite "<b>Natrag</b> za povezivanje s drugom Wi-Fi mrežom."</string>
   <string name="wifi_share_add_summary">"Kada dijelite vaše javne mreže, možete također upotrebljavati mreže drugih korisnika"</string>
   <string name="wifi_share_connect">Poveži</string>
   <string name="wifi_share_connected_summary">"Povezani ste na javnu Wi-Fi mrežu koju je podijelio drugi korisnik"</string>
-  <string name="wifi_share_connected_title">MIUI dijeljeni Wi-Fi</string>
+  <string name="wifi_share_connected_title">HyperOS dijeljeni Wi-Fi</string>
   <string name="wifi_share_count">Podijeljeno %d mreža</string>
   <string name="wifi_share_current_network">Trenutna mreža</string>
   <string name="wifi_share_know">"Razumijem"</string>
   <string name="wifi_share_list_empty">Nisu pronađene dijeljene mreže.</string>
   <string name="wifi_share_login">Podijeli Wi-Fi mrežu</string>
-  <string name="wifi_share_login_summary">Ako je ovo javna mreža, možete je podijeliti s drugim MIUI korisnicima.</string>
-  <string name="wifi_share_notification_summary">MIUI vas je povezao na javnu Wi-Fi mrežu.</string>
+  <string name="wifi_share_login_summary">Ako je ovo javna mreža, možete je podijeliti s drugim HyperOS korisnicima.</string>
+  <string name="wifi_share_notification_summary">HyperOS vas je povezao na javnu Wi-Fi mrežu.</string>
   <string name="wifi_share_other_network">Ostale mreže</string>
   <string name="wifi_share_qrcode_finish">Gotovo</string>
   <string name="wifi_share_qrcode_summary">Za dijeljenje, skenirajte QR kod iznad</string>
   <string name="wifi_share_qrcode_title">Dijeli Wi-Fi mrežu</string>
   <string name="wifi_share_show_network">Prikaži mreže</string>
-  <string name="wifi_share_summary1">MIUI korisnici mogu međusobno dijeliti javne Wi-Fi mreže (kafići, restorani, hoteli, itd.).</string>
-  <string name="wifi_share_summary2">" Kad drugi MIUI korisnik podijeli mrežu, možete se izravno povezati bez zaporke."</string>
-  <string name="wifi_share_summary3">Također možete podijeliti svoju javnu Wi-Fi mrežu s drugim MIUI korisnicima.</string>
+  <string name="wifi_share_summary1">HyperOS korisnici mogu međusobno dijeliti javne Wi-Fi mreže (kafići, restorani, hoteli, itd.).</string>
+  <string name="wifi_share_summary2">" Kad drugi HyperOS korisnik podijeli mrežu, možete se izravno povezati bez zaporke."</string>
+  <string name="wifi_share_summary3">Također možete podijeliti svoju javnu Wi-Fi mrežu s drugim HyperOS korisnicima.</string>
   <string name="wifi_share_turn_off">Isključeno</string>
   <string name="wifi_share_turn_on">Uključeno</string>
   <string name="wifi_share_upload">"Podijeli"</string>

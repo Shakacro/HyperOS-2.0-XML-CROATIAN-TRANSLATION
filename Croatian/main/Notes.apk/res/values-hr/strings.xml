@@ -58,6 +58,7 @@
   <string name="ai_complete_summary_title">Sažetak</string>
   <string name="ai_content_generates_reminders">Ovaj sadržaj generirao je AI i pruža se samo kao referenca.</string>
   <string name="ai_generate_stop_button">Zaustavi</string>
+  <string name="ai_generating_check">Lektura teksta…</string>
   <string name="ai_generating_title">Generiranje…</string>
   <string name="ai_insert_original_text">Umetni original</string>
   <string name="ai_invitation_text_agree">Prihvaćam</string>
@@ -83,7 +84,10 @@
   <string name="ai_text_widget_summary">Sažetak</string>
   <string name="ai_text_widget_summary_settings">Poboljšajte svoje pisanje i generirajte tekst bilo kada, bilo gdje</string>
   <string name="ai_text_widget_title">Pisanje umjetnom inteligencijom</string>
-  <string name="ai_unsupport_directive_title">"Ne mogu izvršiti ovu naredbu"</string>
+  <string name="ai_title_stop_extension">Proširenje zaustavljeno</string>
+  <string name="ai_title_stop_polish">Poliranje zaustavljeno</string>
+  <string name="ai_title_stop_summary">Sažimanje zaustavljeno</string>
+  <string name="ai_unsupport_directive_title">"Ne mogu izvršiti ovu radnju"</string>
   <string name="ai_when_mistake_title">Došlo je do greške. Pokušajte ponovno.</string>
   <string name="ai_writing_invite_beta_testing_content">Ova značajka koristi velike mogućnosti modela za lektoriranje, proširenje, sažetak i poliranje vašeg teksta. Također možete unijeti upite i pustiti AI da piše umjesto vas. Dodirnite \"Slažem se\" da isprobate!</string>
   <string name="ai_writing_invite_beta_testing_title">Beta testiranje AI pisanja</string>

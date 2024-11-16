@@ -254,6 +254,7 @@
   <string name="bind_simcard_no_dual">"Ne mogu pronaći dvostruku SIM karticu"</string>
   <string name="bind_simcard_not_set">Nije postavljeno</string>
   <string name="bind_simcard_title">Zadana SIM kartica za pozive</string>
+  <string name="bluetooth_chat">Komunikacija između uređaja</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth veza je prekinuta</string>
   <string name="blurbJoinContactDataWith">Odaberite kontakt koji želite pridružiti imenu %s:</string>
   <string name="btn_split_contact">Odvoji</string>

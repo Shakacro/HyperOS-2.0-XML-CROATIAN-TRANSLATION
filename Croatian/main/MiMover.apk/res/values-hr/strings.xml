@@ -86,6 +86,7 @@
   <string name="ble_connect_failed_title">"Ne mogu se povezati"</string>
   <string name="ble_connect_request_hint">Čini se da drugi uređaj koristi Mi Mover u blizini. Povezati se sada?</string>
   <string name="ble_discovery_connect_request_title">Otkriven je uređaj u blizini</string>
+  <string name="ble_discovery_connect_request_title_pad">Otkriven je uređaj u blizini</string>
   <string name="ble_enter_connect_timeout_summary">"Ne mogu se povezati na novi uređaj duže vrijeme. Povežite se ručno."</string>
   <string name="ble_enter_connect_timeout_title">Isteklo je vrijeme veze</string>
   <string name="ble_enter_verify_code_title">Unesite kod</string>
@@ -129,7 +130,7 @@
   <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" već pruža usluge sigurnosne kopije sustava. Deinstalirajte ga i ponovno pokrenite uređaj kako biste mogli koristiti Mi Mover.</string>
   <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">"Čini se da je QQ Downloader rezervna usluga vašeg sustava. Deinstalirajte ga i ponovno pokrenite uređaj da biste mogli koristiti Mi Mover."</string>
   <string name="cannot_use_mi_huanji_button">Razumijem</string>
-  <string name="cannot_use_mi_huanji_summary">Čini se kako MIUI upravo radi sigurnosne kopije stavki. Prekinite izradi sigurnosnih kopija u toku ili ponovno pokrenite Vaš uređaj kako biste dozvolili Mi Mover-u da započne prijenos.</string>
+  <string name="cannot_use_mi_huanji_summary">Čini se kako MIUI upravo radi sigurnosne kopije stavki. Prekinite izradi sigurnosnih kopija u toku ili ponovno pokrenite Vaš uređaj kako biste dozvolili Mi Moveru da započne prijenos.</string>
   <string name="cannot_use_mi_huanji_title">Trenutno nije moguće prenjeti</string>
   <string name="check_phone_error_title">Sinkronizacija je isključena</string>
   <string name="check_phone_io_error">"Ne mogu se povezati na mrežu".</string>
@@ -168,13 +169,13 @@ Posjetite https://appleid.apple.com/#!&amp;page=signin za isključivanje"</strin
   <string name="connect_wifi_tip">Povezivanje s mrežom nije uspjelo. Povežite se s Wi-Fi mrežom za uvoz stavki iz iClouda.</string>
   <string name="connecting">Povezivanje…</string>
   <string name="connection_tips_activity_label">Pronalaženje izvore problema</string>
-  <string name="connection_tips_other_message">"1. Provjerite da je na vašem novom uređaju Mi Mover ažuriran. Možete preuzeti najnoviju verziju Mi Mover-a u GetApps na sljedećoj poveznici: %1$s.
-2. Ukoliko se hotspot novog uređaja ne pokazuje na Mi Mover-u, otvorite Wi-Fi postavke i provjerite vidite li ga tamo. Ako ga vidite, nemojte ga dodirivati. 
+  <string name="connection_tips_other_message">"1. Provjerite da je na vašem novom uređaju Mi Mover ažuriran. Možete preuzeti najnoviju verziju Mi Movera u GetApps na sljedećoj poveznici: %1$s.
+2. Ukoliko se hotspot novog uređaja ne pokazuje na Mi Moveru, otvorite Wi-Fi postavke i provjerite vidite li ga tamo. Ako ga vidite, nemojte ga dodirivati. 
 3. Vratite se na Mi Mover i dodirnite ime hotspota."</string>
   <string name="connection_tips_other_message_global">Ako nikako ne možete pronaći hotspot na starom uređaju, vratite se na početnu stranicu na novom uređaju, odaberite \"Ja sam pošiljatelj\" i pokušajte ponovno.</string>
   <string name="connection_tips_other_title">Ako je Vaš stari uređaj Android telefon treće strane:</string>
   <string name="connection_tips_other_title_global">Poveži dva uređaja:</string>
-  <string name="connection_tips_owner_message">Mi Mover unaprijed je instalirana na svim uređajima koji koriste MIUI 11. Ukoliko Vaš uređaj koristi stariju MIUI verziju, možete preuzeti najnoviju verziju Mi Mover-a na sljedećem linku: %1$s.</string>
+  <string name="connection_tips_owner_message">Mi Mover unaprijed je instalirana na svim uređajima koji koriste MIUI 11. Ukoliko Vaš uređaj koristi stariju MIUI verziju, možete preuzeti najnoviju verziju Mi Movera na sljedećem linku: %1$s.</string>
   <string name="connection_tips_owner_message_global">Provjerite da je Mi Mover na Vašem starom uređaju ažuriran. Bilo kada ju možete preuzeti na Trgovini Play ili izravno s naše poveznice: %1$s.</string>
   <string name="connection_tips_owner_title">Ako je Vaš stari uređaj Mi telefon:</string>
   <string name="connection_tips_owner_title_global">Instalirajte najnoviju verziju Mi Mover:</string>
@@ -182,7 +183,7 @@ Posjetite https://appleid.apple.com/#!&amp;page=signin za isključivanje"</strin
   <string name="contacts">Kotakti</string>
   <string name="contacts_permission_desc">Za prijenos kontakata na druge uređaje</string>
   <string name="copy">Kopiraj</string>
-  <string name="current_user_not_supported_summary">Trenutne postavke sustava ograničuju prijenos podataka kod korištenja Mi Mover-a.</string>
+  <string name="current_user_not_supported_summary">Trenutne postavke sustava ograničuju prijenos podataka kod korištenja Mi Movera.</string>
   <string name="current_user_not_supported_title">Nije moguće prenijeti stavke</string>
   <string name="data_read_white_permission_desc">Za prijenos stavki na druge uređaje</string>
   <string name="date_picker_dialog_title">Postavi datum</string>
@@ -195,13 +196,13 @@ Posjetite https://appleid.apple.com/#!&amp;page=signin za isključivanje"</strin
   <string name="dialog_airplane_mode_content">"Mi Mover ne može raditi kada je uključen Zrakoplovni način. Prvo ga isključite u postavkama."</string>
   <string name="dialog_airplane_mode_title">Isključite Zrakoplovni način</string>
   <string name="dialog_backup_password_cancel">Odustani</string>
-  <string name="dialog_backup_password_change_machine_tips">Nećete moći prenijeti sigurnosne kopije zaštićene lozinkom. Isključite sigurnosnu zaporku prije upotrebe Mi Mover-a.</string>
+  <string name="dialog_backup_password_change_machine_tips">Nećete moći prenijeti sigurnosne kopije zaštićene lozinkom. Isključite sigurnosnu zaporku prije upotrebe Mi Movera.</string>
   <string name="dialog_backup_password_verify">U redu</string>
   <string name="dialog_connect_ap_timeout_button">Poveži</string>
   <string name="dialog_connect_ap_timeout_message">Čini se da povezivanje automatski traje predugo. Pokušajte se ručno povezati.</string>
   <string name="dialog_connect_ap_timeout_title">Poveži ručno</string>
   <string name="dialog_forbidden_use_tips">"Verzija sustava koju koristite je zastarjela. Ažurirajte svoj uređaj da biste mogli koristiti Mi Mover."</string>
-  <string name="dialog_rating_desc_ask">Što mislite o Mi Mover-u?</string>
+  <string name="dialog_rating_desc_ask">Što mislite o Mi Moveru?</string>
   <string name="dialog_rating_desc_less">Dajte nam nekoliko prijedloga kako bismo poboljšali našu aplikaciju</string>
   <string name="dialog_rating_desc_perfect">Hvala! Ocijeniti i Mi Mover u GetApps-u?</string>
   <string name="dialog_rating_title">Ocijeni Mi Mover</string>
@@ -280,8 +281,8 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="guest_connect_dialog_fail_message">"Ne mogu se povezati. Pokušajte ponovo."</string>
   <string name="guest_hint_connect_new_device">Odaberite novi uređaj</string>
   <string name="guest_install_app_hint_ensure">Preuzmi</string>
-  <string name="guest_install_app_hint_summary">Nova verzija Mi Mover-a nije kompatibilna sa Mi Mi Mover-om instaliranom na ovom uređaju. Preuzmite i instalirajte novu verziju.</string>
-  <string name="guest_install_app_hint_title">Preuzmite novu verziju Mi Mover-a</string>
+  <string name="guest_install_app_hint_summary">Nova verzija Mi Movera nije kompatibilna sa Mi Mi Mover-om instaliranom na ovom uređaju. Preuzmite i instalirajte novu verziju.</string>
+  <string name="guest_install_app_hint_title">Preuzmite novu verziju Mi Movera</string>
   <string name="guest_manual_connect_link_text">Povežite se s novim uređajem ručno</string>
   <string name="guest_unfinished_task_alert_btn_negative">Započni ponovo</string>
   <string name="guest_unfinished_task_alert_btn_positive">Nastavi</string>
@@ -295,10 +296,10 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="host_boot_installation_content">"1. Odite u Postavke na Vašem starom uređaju.
 2. Unesite \"Mi Mover\" u traku za pretraživanje.
 3. Dodirnite \"Mi Mover\" u rezultatima pretraživanja."</string>
-  <string name="host_boot_installation_dialog_message">Verzija Mi Mover-a instalirana na Vašem starom uređaju nije kompatibilana s verzijom Mi Mover-a instaliranim ovdje. Ažurirajte Mi Mover na Vašem starom uređaju.</string>
+  <string name="host_boot_installation_dialog_message">Verzija Mi Movera instalirana na Vašem starom uređaju nije kompatibilana s verzijom Mi Movera instaliranim ovdje. Ažurirajte Mi Mover na Vašem starom uređaju.</string>
   <string name="host_boot_installation_first_title">Otvorite Mi Mover na Vašem starom uređaju</string>
-  <string name="host_boot_installation_message">Odaberite stranicu koju vidite na Vašem starom uređaju. Ako koristite stariju verziju Mi Mover-a, reći ćemo Vam kako ju možete ažurirati.</string>
-  <string name="host_boot_installation_second_title">Potvrdite verziju Mi Mover-a</string>
+  <string name="host_boot_installation_message">Odaberite stranicu koju vidite na Vašem starom uređaju. Ako koristite stariju verziju Mi Movera, reći ćemo Vam kako ju možete ažurirati.</string>
+  <string name="host_boot_installation_second_title">Potvrdite verziju Mi Movera</string>
   <string name="host_boot_installation_step_one_messege">Odite na Postavke, upišite \"Mi Mover\" na traci za pretraživanje i dodirnite \"Mi Mover\" u rezultatima pretrage.</string>
   <string name="host_boot_installation_step_one_title">1. Otvorite Mi Mover na svojem starom uređaju</string>
   <string name="host_boot_installation_step_two_title">2. Odaberite stranicu koju vidite na svojem starom uređaju.</string>
@@ -306,7 +307,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="host_connect_timeout_tip">Ne mogu se povezati duže vrijeme</string>
   <string name="host_dialog_install_button">Instalirajte na drugi uređaj</string>
   <string name="host_dialog_known_button">Razumijem</string>
-  <string name="host_dialog_message">Provjerite je li najnovija inačica Mi Mover-a instalirana na drugom uređaju; Inače se dva uređaja možda neće moći povezati.</string>
+  <string name="host_dialog_message">Provjerite je li najnovija inačica Mi Movera instalirana na drugom uređaju; Inače se dva uređaja možda neće moći povezati.</string>
   <string name="host_dialog_title">Ne mogu se povezati duže vrijeme</string>
   <string name="host_install_hint">"Mi Mover nije instaliran?"</string>
   <string name="host_manual_connect_link_text">Vaš stari uređaj predugo traži hotspot, pokušajte ponovno ručno.</string>
@@ -319,6 +320,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="host_verify_lock_retry">Potvrdite Zaklj. zaslona</string>
   <string name="host_verify_lock_summary">"Ovo će postati Zaklj. zaslona vašeg novog uređaja"</string>
   <string name="host_verify_lock_title">"Unesite Zaklj. zaslona vašeg starog uređaja"</string>
+  <string name="host_verify_lock_waiting">Provjera…</string>
   <string name="hsa_code_null">Polje za potvrdu ne može biti prazno</string>
   <string name="hsa_input_tip">Vaš Apple ID upotrebljava autorizaciju s dva faktora. Unesite kontrolni kod.</string>
   <string name="hsa_send_again">Pošalji ponovno</string>
@@ -342,7 +344,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="icloud_need_traffic_message">Sada niste povezani na Wi-Fi. Koristiti mobilne podatke za uvoz stavki s iClouda?</string>
   <string name="icloud_need_traffic_title">Koristi mobilne podatke</string>
   <string name="icloud_need_wifi_message">Niste povezani s Wi-Fi mrežom. Za uvoz podataka iz iClouda, povežite se s Wi-Fi mrežom.</string>
-  <string name="icloud_need_wifi_new_message">Povežite se na Wi-Fi kako biste mogli uvoziti stavke s iPhonea.</string>
+  <string name="icloud_need_wifi_new_message">Povežite se na Wi-Fi kako biste mogli uvoziti stavke s Apple uređaja.</string>
   <string name="icloud_need_wifi_new_title">Poveži se na Wi-Fi</string>
   <string name="icloud_need_wifi_title">Poveži se na Wi-Fi</string>
   <string name="icloud_new_connect_wifi">Poveži</string>
@@ -370,7 +372,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="install_app_to_another_phone_content_global">Instalirajte Mi Mover</string>
   <string name="install_button">Instaliraj</string>
   <string name="install_complete_count_down_time">Uspješno instalirano. Prijenos počinje (%1$d)</string>
-  <string name="install_mi_cloud_app_summary">Skenirajte ovaj QR kôd sa svojim iPhoneom kako biste preuzeli i instalirali aplikaciju.</string>
+  <string name="install_mi_cloud_app_summary">Skenirajte ovaj QR kôd sa svojim Apple uređajem kako biste preuzeli i instalirali aplikaciju.</string>
   <string name="install_mi_cloud_app_title">Instalirajte Xiaomi Cloud</string>
   <string name="install_new_app_link_text">Instalirajte Mi Mover na svoj novi uređaj kako biste se mogli povezati. Dodirnite za instaliranje.</string>
   <string name="instruction">Važne sigurnosne informacije</string>
@@ -413,13 +415,16 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="main_button_quit">Prekid</string>
   <string name="main_chooser_item_android_mi">Uvezi sa Xiaomi telefona</string>
   <string name="main_chooser_item_android_others">Uvezi s drugog Android uređaja</string>
-  <string name="main_chooser_item_ios">Uvezi s iPhone uređaja</string>
+  <string name="main_chooser_item_ios">Uvezi s Apple uređaja</string>
   <string name="main_chooser_title">Odaberite stari uređaj</string>
   <string name="main_receiver_summary">Dodirnite za primanje stavki</string>
+  <string name="main_receiver_summary_pad">Dodirnite za primanje stavki</string>
   <string name="main_receiver_title">Novi</string>
   <string name="main_sender_summary">Dodirnite za slanje stavki</string>
+  <string name="main_sender_summary_pad">Dodirnite za slanje stavki</string>
+  <string name="main_sender_summary">Dodirnite za slanje stavki</string>
   <string name="main_sender_title">Stari</string>
-  <string name="manual_connection_content1">%d. Dotaknite \"Poveži se na novi uređaj ručno\" na starom uređaju.</string>
+  <string name="manual_connection_content1">%d. Dodirnite \"Poveži se na novi uređaj ručno\" na starom uređaju.</string>
   <string name="manual_connection_content2">%d. Odaberite sljedeći Wi-Fi hotspot.</string>
   <string name="manual_connection_content3">%d. Unesite ovu zaporku na stari uređaj za povezivanje.</string>
   <string name="manual_connection_hint">Dodirnite \"Poveži se ručno\" na vašem starom uređaju.</string>
@@ -427,12 +432,11 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="manual_connection_title">Povežite stari uređaj na ovaj hotspot</string>
   <string name="message_request_manage_external_storage_perm">Mi Mover treba pristupiti svim datotekama na ovom uređaju kako bi ih mogao premjestiti sa vašeg starog uređaja na novi.</string>
   <string name="message_request_package_stats_perm">Mi Mover treba ovo dopuštenje da bi saznao koje su aplikacije instalirane na uređaju i prebacio ih na drugi.</string>
-  <string name="midnight">AM</string>
-  <string name="miui_need_location_permission_summary">Dopustite Mi Mover-u da pristupi vašoj lokaciji kako bi pronašli uređaje u blizini. Nećete moći koristiti Mi Mover ako ne odobrite ovo dopuštenje.</string>
+  <string name="miui_need_location_permission_summary">Dopustite Mi Moveru da pristupi vašoj lokaciji kako bi pronašli uređaje u blizini. Nećete moći koristiti Mi Mover ako ne odobrite ovo dopuštenje.</string>
   <string name="miui_need_location_permission_title">Omogući pristup lokaciji</string>
-  <string name="miui_need_open_high_accuracy_summary">Dopustite Mi Mover-u da pristupi vašoj lokaciji u načinu \"Visoka preciznost\" kako bi pronašli uređaje u blizini. Nećete moći koristiti Mi Mover ako ne odobrite ovo dopuštenje.</string>
+  <string name="miui_need_open_high_accuracy_summary">Dopustite Mi Moveru da pristupi vašoj lokaciji u načinu \"Visoka preciznost\" kako bi pronašli uređaje u blizini. Nećete moći koristiti Mi Mover ako ne odobrite ovo dopuštenje.</string>
   <string name="miui_need_open_high_accuracy_title">Omogući pristup točnim informacijama o lokaciji</string>
-  <string name="miui_wait_link_message_1">"Tipka \"Ja sam pošiljatelj\" nalazi se s desne strane početne stranice Mi Mover-a."</string>
+  <string name="miui_wait_link_message_1">"Tipka \"Ja sam pošiljatelj\" nalazi se s desne strane početne stranice Mi Movera."</string>
   <string name="miui_wait_link_title_1">"%d. Dodirnite \"Ja sam pošiljatelj\" i pričekajte trenutak."</string>
   <string name="miui_wait_link_title_2">%d. Odaberite ovaj hotspot na starom uređaju za povezivanje.</string>
   <string name="miuix_access_state_desc">Odabrano</string>
@@ -512,7 +516,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="name">Ime</string>
   <string name="name_password_not_consistent">Apple ID i zaporka koje ste unijeli ne podudaraju se</string>
   <string name="need_location_permission_confirm">Postavke</string>
-  <string name="need_location_permission_summary">Dopustite Mi Mover-u da pristupi vašoj lokaciji kako bi mogli pronaći uređaje u blizini.</string>
+  <string name="need_location_permission_summary">Dopustite Mi Moveru da pristupi vašoj lokaciji kako bi mogli pronaći uređaje u blizini.</string>
   <string name="need_location_permission_title">Potrebno je dopuštenje</string>
   <string name="need_more_memory_cacel">Odustani</string>
   <string name="need_more_memory_confirm">Čistač</string>
@@ -524,7 +528,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="new_app_name">Nova verzija</string>
   <string name="new_main_activity_label">Mi Mover</string>
   <string name="new_provision_title">Prenesite stavke</string>
-  <string name="new_trans_intro_desc_2">Ne morate unijeti zaporku u novoj verziju Mi Mover-a. Samo otvorite Mi Mover na Vašem starom uređaju, dodirnite \"Šaljem\" i dodirnite ime hotspota na koji se želite priključiti.</string>
+  <string name="new_trans_intro_desc_2">Ne morate unijeti zaporku u novoj verziju Mi Movera. Samo otvorite Mi Mover na Vašem starom uređaju, dodirnite \"Šaljem\" i dodirnite ime hotspota na koji se želite priključiti.</string>
   <string name="new_trans_intro_desc_3">Mi Mover treba prostor za pohranu kako bi napravila paketa za prijenos na Vašem starom uređaju prije slanja na novi. Oslobidite prostor za pohranu za nastavak.</string>
   <string name="new_trans_intro_desc_4">Moguće da postoji problem s kompatibilnošću uređaja, sistema ili verzije aplikacije koji sprečava neke aplikacije da se uspješno prenesu.</string>
   <string name="new_trans_intro_desc_5">Neke aplikacije (npr. financijske usluge i alati za plaćanje) ne dozvoljavaju prijenos zaporki iz sigurnosnih razloga.</string>
@@ -540,12 +544,12 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="new_trans_intro_question_4">%d. Zašto se sve aplikacije ne prenose uspješno?</string>
   <string name="new_trans_intro_question_5">%d. Zašto zaporke računa nekih aplikacija trećih strana nisu uspješno prenesene?</string>
   <string name="new_trans_intro_question_6">%d. Zašto se podaci aplikacija trećih strana ne mogu prenijeti?</string>
-  <string name="new_trans_intro_question_7">%d. Ukoliko izađem iz Mi Mover-a usred prijenosa, hoći li morati sljedeći put sve ispočetka?</string>
+  <string name="new_trans_intro_question_7">%d. Ukoliko izađem iz Mi Movera usred prijenosa, hoći li morati sljedeći put sve ispočetka?</string>
   <string name="new_trans_intro_question_8">%d. Zašto na novom uređaju nemam WeChat povijest?</string>
   <string name="new_wait_link_first">"1. Otvorite Mi Mover na starom uređaju.
 2. Dodirnite \"Ja sam pošiljatelj\" i pričekajte trenutak.
 3. Odaberite sljedeći hotspot na novom uređaju."</string>
-  <string name="new_wait_link_message_2">"Tipka \"Ja sam pošiljatelj\" nalazi se s desne strane početne stranice Mi Mover-a."</string>
+  <string name="new_wait_link_message_2">"Tipka \"Ja sam pošiljatelj\" nalazi se s desne strane početne stranice Mi Movera."</string>
   <string name="new_wait_link_title_2">"1. Dodirnite \"Ja sam pošiljatelj\" i pričekajte trenutak."</string>
   <string name="new_wait_link_title_3">2. Odaberite sljedeći Wi-Fi hotspot na starom uređaju.</string>
   <string name="next">Sljedeće</string>
@@ -562,7 +566,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="not_support_data_link">"Stavke koje se ne mogu prenijeti"</string>
   <string name="not_support_data_summary1">"Transportne i pristupne kartice ne mogu se prenijeti; teme i pozadine se mogu prenijeti na nekim modelima"</string>
   <string name="not_support_data_summary2">Neke aplikacije postavljaju stroge sigurnosne mjere kako bi spriječile prijenos podataka aplikacija. Takve aplikacije mogu obuhvaćati bankarske aplikacije ili financijske usluge.</string>
-  <string name="not_support_data_summary3">"Zbog sistemskih ograničenja, stavke iz Drugog prostora ne mogu se prenijeti pomoću Mi Mover-a."</string>
+  <string name="not_support_data_summary3">"Zbog sistemskih ograničenja, stavke iz Drugog prostora ne mogu se prenijeti pomoću Mi Movera."</string>
   <string name="not_support_data_summary4">"Dvojne aplikacije i njihovi podaci također se ne mogu prenijeti. Ipak možete prenijeti odgovarajuće glavne aplikacije."</string>
   <string name="not_support_data_summary_2">Neke aplikacije ne mogu biti prenesene zbog ograničenja privatnosti Trgovine Play.</string>
   <string name="not_support_data_title">"Stavke koje se ne mogu prenijeti"</string>
@@ -629,7 +633,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="permission_about_contacts">Potrebno je dopuštenje za uređivanje kontakata i povijesti poziva</string>
   <string name="permission_about_storage">Potrebno je dopuštenje za pristup pohrani uređaja</string>
   <string name="permission_about_storage_pad">Potrebno je dopuštenje za pristup pohrani uređaja</string>
-  <string name="permission_alert_message_usage_access">Mi Mover mora pristupiti statistikama korištenja aplikacija. Dajte Mi Mover-u potrebna dopuštenja u Postavkama.</string>
+  <string name="permission_alert_message_usage_access">Mi Mover mora pristupiti statistikama korištenja aplikacija. Dajte Mi Moveru potrebna dopuštenja u Postavkama.</string>
   <string name="permission_alert_title">Potrebno je dopuštenje</string>
   <string name="permission_bluetooth_summary">Pronalaženje dostupnih uređaja u blizini</string>
   <string name="permission_bluetooth_title">Uključivanje i isključivanje Bluetootha</string>
@@ -643,7 +647,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="permission_grant_request">Da bi mogao prenijeti ovu stavku, Mi Moveru treba dopuštenje \"%1$s\".</string>
   <string name="permission_locale_summary">Za povezivanje obližnjih uređaja</string>
   <string name="permission_locale_title">Pristup lokaciji</string>
-  <string name="permission_location_content">"Dopustite Mi Mover-u pristup vašoj lokaciji kako bi se mogao povezati s vašim starim uređajem. Ako ne dopustite pristup lokaciji, nećete moći prenijeti stavke."</string>
+  <string name="permission_location_content">"Dopustite Mi Moveru pristup vašoj lokaciji kako bi se mogao povezati s vašim starim uređajem. Ako ne dopustite pristup lokaciji, nećete moći prenijeti stavke."</string>
   <string name="permission_message_summary">Za prijenos poruka na novi uređaj</string>
   <string name="permission_message_title">Pristup SMS sadržaju</string>
   <string name="permission_request_title">\"%1$s\" dopuštenje je potrebno</string>
@@ -697,6 +701,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="quit_now">Prekini</string>
   <string name="rate">Ocijenite našu aplikaciju</string>
   <string name="receiver">Primi</string>
+  <string name="receiver_finish_detail">Prijenos stavki</string>
   <string name="receiver_finish_detail_button">Prikaži izvješće</string>
   <string name="receiver_finish_detail_fail">"Ne mogu poslati"</string>
   <string name="receiver_finish_detail_success">Poslane stavke</string>
@@ -779,7 +784,7 @@ Oslobodite barem %s."</string>
   <string name="select_all_description">Odaberi sve</string>
   <string name="select_android_summary">Huawei, OPPO, vivo, i više</string>
   <string name="select_android_title">Android</string>
-  <string name="select_apple_summary">iPhone</string>
+  <string name="select_apple_summary">Apple uređaj</string>
   <string name="select_apple_title">Apple</string>
   <string name="select_empty">Prvo odaberite stavke za uvoz</string>
   <string name="select_item">Odaberi stavke</string>
@@ -850,14 +855,14 @@ Oslobodite barem %s."</string>
   <string name="switching_to_5g">Prebacujem na 5 GHz mrežu…</string>
   <string name="sync_data_to_mi_cloud_content1">%d. Dodirnite \"Sinkr. sada\" na kartici \"Kontakti\".</string>
   <string name="sync_data_to_mi_cloud_content2">%d. Dodirnite \"Pohrani sada\" na kartici \"Fotografije\".</string>
-  <string name="sync_data_to_mi_cloud_summary">Otvorite Xiaomi Cloud na svom iPhoneu i slijedite ove korake za sinkronizaciju podataka. Dodirnite donji gumb kada je sinkronizacija dovršena.</string>
+  <string name="sync_data_to_mi_cloud_summary">Otvorite Xiaomi Cloud na svom Apple uređaju i slijedite ove korake za sinkronizaciju podataka. Dodirnite donju tipku kada je sinkronizacija dovršena.</string>
   <string name="sync_data_to_mi_cloud_title">Sinkr. podatke</string>
   <string name="sync_one_time_sync">Dodirnite za sinkr. ( %1$s )</string>
   <string name="system_app_is_restore">Vraćanje stavki sustava…</string>
   <string name="system_app_restore_completed">Uspješno vraćeno</string>
-  <string name="system_app_restore_completed_detail">Sve stavke sustava uspješno su vraćene</string>
+  <string name="system_app_restore_completed_detail">Sve stavke sustava su uspješno vraćene</string>
   <string name="system_app_restore_failed">Dogodila se pogreška</string>
-  <string name="system_app_restore_failed_detail">"Nije moguće vratiti stavke sustava. Provjerite mrežne postavke i nemojte ponovno pokrenuti ili isključiti uređaj sve dok se stavke ne vrate u potpunosti. Dodirnite gumb u nastavku da biste pokušali ponovo."</string>
+  <string name="system_app_restore_failed_detail">"Nije moguće vratiti stavke sustava. Provjerite mrežne postavke i nemojte ponovno pokrenuti ili isključiti uređaj sve dok se stavke ne vrate u potpunosti. Dodirnite tipku u nastavku da biste pokušali ponovo."</string>
   <string name="system_restore">Vrati stavke</string>
   <string name="task_backup_cancel_progress">Otkazivanje…</string>
   <string name="task_canceled_all_local">Otkazano</string>
@@ -866,10 +871,7 @@ Oslobodite barem %s."</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
-  <string name="time_concentrator"/>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
-  <string name="time_picker_label_hour">H</string>
-  <string name="time_picker_label_minute">M</string>
   <string name="time_spent">Vrijeme: %1$s</string>
   <string name="tips_button_hint">Prvo provjerite svaku stavku za potvrdu</string>
   <string name="tips_cover_content">Ovi podaci (uključujući povijest razgovora) bit će prebrisani ako nastavite.</string>
@@ -903,16 +905,16 @@ Oslobodite barem %s."</string>
   <string name="title_request_write_settings_perm">Dopusti promjenu postavki sustava</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
-  <string name="trans_apple">Povežite svoj iPhone</string>
+  <string name="trans_apple">Povežite svoj Apple uređaj</string>
   <string name="trans_apple_button_cancel">Otkaži prijenos</string>
   <string name="trans_apple_button_cancel_hint">Želite li sada otkazati prijenos?</string>
   <string name="trans_apple_button_cancel_negative">"Nemoj otkazati"</string>
   <string name="trans_apple_button_cancel_positive">Otkaži prijenos</string>
   <string name="trans_apple_button_reconnect">Ponovo se povežite</string>
   <string name="trans_apple_hint">"Nemojte napuštati ovu stranicu niti koristiti Wi-Fi dok se prijenos ne dovrši."</string>
-  <string name="trans_apple_hint_1_content">"Preuzmite Mi Mover iz App Storea ili skenirajte ovaj QR kod pomoću aplikacije Kamera na svom iPhoneu."</string>
+  <string name="trans_apple_hint_1_content">"Preuzmite Mi Mover iz App Storea ili skenirajte ovaj QR kod pomoću aplikacije Kamera na svom Apple uređaju."</string>
   <string name="trans_apple_hint_1_title">%d. Instalirajte Mi Mover</string>
-  <string name="trans_apple_hint_2_content">Otvorite Mi Mover na svom iPhoneu, dodirnite \"Dodirnite za slanje stavki\" i skenirajte QR kod.</string>
+  <string name="trans_apple_hint_2_content">Otvorite Mi Mover na svom Apple uređaju, dodirnite \"Dodirnite za slanje stavki\" i skenirajte QR kod.</string>
   <string name="trans_apple_hint_2_title">%d. Spojite uređaje</string>
   <string name="trans_apple_hint_china">"Ne napuštajte ovu stranicu niti koristite Wi-Fi dok se prijenos ne završi."</string>
   <string name="trans_apple_interrupt_sub">Dodirnite u nastavku za ponovno povezivanje.</string>
@@ -936,7 +938,7 @@ Preuzmite i instalirajte Mi Mover."</string>
   <string name="trans_show_qr_code_label_for_pad">Otvorite Mi Mover na starom uređaju</string>
   <string name="trans_sync_transfer_data_list">Odaberite stavke koje želite prenijeti na stari uređaj</string>
   <string name="trans_sync_transfer_data_list_apple">"Odaberite stavke za prijenos
-na vašem iPhoneu"</string>
+na vašem Apple uređaju"</string>
   <string name="trans_sync_transfer_data_list_hint">Samo trenutak…</string>
   <string name="trans_sync_transfer_data_list_summary_for_pad">Odaberite stavke na starom uređaju i dodirnite \"Pošalji\".</string>
   <string name="trans_time_format_second">Manje od 1 minute</string>

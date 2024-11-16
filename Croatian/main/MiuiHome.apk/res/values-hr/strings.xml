@@ -160,7 +160,7 @@
   <string name="app_drawer_tip_title">"Feed sadržaja zamijenili smo ladicom za aplikacije."</string>
   <string name="app_edit_icon">Uredi ikonu</string>
   <string name="app_install_state">Instalirano</string>
-  <string name="application_name">MIUI Pokretač</string>
+  <string name="application_name">Pokretač</string>
   <string name="apply">Postavi</string>
   <string name="apply_action">Postavi</string>
   <string name="apply_as_lock_screen">Postavi za Zaklj. zaslon</string>
@@ -418,7 +418,7 @@
   <string name="gadget_photo_label">Slika</string>
   <string name="gadget_power_clear_button_label">Duboko čišćenje</string>
   <string name="gadget_search_label">Traženje</string>
-  <string name="gadget_weather_app_not_installed">Dodirnite za preuzimanje MIUI Vrijeme aplikacije</string>
+  <string name="gadget_weather_app_not_installed">Dodirnite za preuzimanje Vrijeme aplikacije</string>
   <string name="gadget_weather_aqi_title">"Kvaliteta zraka: "</string>
   <string name="gadget_weather_download_message">Morate preuzeti sadržaj aplikacije: %1$s, veličine: %2$s. Ponovno pokrenite aplikaciju nakon završetka preuzimanja.</string>
   <string name="gadget_weather_download_start">Preuzimanje</string>
@@ -579,7 +579,7 @@ Poboljšana sigurnost."</string>
   <string name="menu_trans_effect">Efekat prijelaza</string>
   <string name="menu_wallpaper">Slika pozadine</string>
   <string name="menu_workspace_preview">Pregledi Početnog zaslona</string>
-  <string name="mi_wallpaper">MIUI Teme</string>
+  <string name="mi_wallpaper">Teme</string>
   <string name="minus_one_screen">Zaklj. aplikacija</string>
   <string name="minus_one_screen_none">Ništa</string>
   <string name="miui_screen_config_title">Postavke Početnog zaslona</string>
@@ -714,6 +714,8 @@ Poboljšana sigurnost."</string>
   <string name="navigation_guide_back_summary_pad">Povucite prstom od bočne strane prema sredini zaslona</string>
   <string name="navigation_guide_back_summary_spec_pad">Povucite prstom od ruba do sredine zaslona</string>
   <string name="navigation_guide_back_title">Natrag</string>
+  <string name="navigation_guide_circle_search_summary">Pritisnite i držite indikator na cijelom zaslonu da biste koristili Zaokruži za pretraživanje</string>
+  <string name="navigation_guide_circle_search_title">Zaokruži za pretraživanje</string>
   <string name="navigation_guide_back_title_spec_with_quotation_pad">Natrag</string>
   <string name="navigation_guide_dialog_dont_show_again">"Ne prikazuj ponovo"</string>
   <string name="navigation_guide_dialog_ok">Nauči</string>
@@ -821,7 +823,7 @@ Poboljšana sigurnost."</string>
   <string name="pref_icon_shadow_summary">Prikaži učinak refleksije sjene ikona i ladice favorita</string>
   <string name="pref_icon_shadow_title">Sjena ikona</string>
   <string name="pref_keep_in_memory_summary">Držite Pokretač pokrenut kada je memorija niska</string>
-  <string name="pref_keep_in_memory_title">Zaključaj MIUI u memoriju</string>
+  <string name="pref_keep_in_memory_title">Zaključaj sustav u memoriju</string>
   <string name="pref_keep_layout_summary">"Promjena izgleda Početni zaslona neće utjecati na međusobni položaj ikona"</string>
   <string name="pref_keep_layout_title">Zaključaj položaj ikona</string>
   <string name="pref_render_in_truecolor_summary">Isključivanje ove opcije će poboljšati učinkovitost crtanja</string>

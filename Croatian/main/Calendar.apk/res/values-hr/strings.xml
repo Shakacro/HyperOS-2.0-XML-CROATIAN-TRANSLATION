@@ -1093,7 +1093,7 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="setting">Postavke</string>
   <string name="setting_about_calendar_version">Verzija Kalendara:</string>
   <string name="setting_about_imei">IMEI:</string>
-  <string name="setting_about_miui_version">MIUI Verzija:</string>
+  <string name="setting_about_miui_version">Verzija sustava:</string>
   <string name="setting_about_summary">Verzija: </string>
   <string name="setting_accounts">Računi kalendara</string>
   <string name="setting_change_language">Odaberite jezik kalendara</string>

@@ -74,7 +74,11 @@ Pokušajte ponovno."</string>
   <string name="after_installing_Google_SMS_banner_title">Prebacite se na Google Poruke</string>
   <string name="agree_and_open">Prihvaćam</string>
   <string name="ai_smart_message_content"><Data>Sažetak AI poruka oslanja se na Smart Messaging za pružanje svojih značajki. Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> da nastavite.</Data></string>
-  <string name="ai_smart_message_titile">Uključite pametne poruke</string>
+  <string name="ai_smart_message_titile">Uključite Smart Messaging</string>
+  <string name="ai_sum_internal_test_agree">Prihvaćam</string>
+  <string name="ai_sum_internal_test_content">Sažetak AI poruka koristi velike mogućnosti modela za sažimanje poruka i prikazivanje ključnih informacija. Uključivanje ove značajke malo će povećati potrošnju energije.</string>
+  <string name="ai_sum_internal_test_disagree">"Ne prihvaćam"</string>
+  <string name="ai_sum_internal_test_title">Sažetak beta testne AI poruke</string>
   <string name="ai_summary_description">Neka umjetna inteligencija sažima duge poruke kako bi vam prikazala ključne informacije. Ova značajka malo će povećati potrošnju energije.</string>
   <string name="ai_summary_dialog_content"><Data>"Sažetak AI poruka pruža pametne sažetke ključnih informacija iz dugih poruka. Xiaomi mora pristupiti sadržaju poruke kako bi omogućio ovu značajku, ali Xiaomi neće pohraniti te informacije.&lt;br />&lt;br />Pročitajte i prihvatite naš &lt;a href=\"%1$s\">AI Message Summary User Agreement&lt;/a> i &lt;a href=\"%2$s\">AI Message Summary Privacy Policy&lt;/a> prije korištenja ove usluge."</Data></string>
   <string name="ai_summary_dialog_title">Potrebna su dopuštenja</string>

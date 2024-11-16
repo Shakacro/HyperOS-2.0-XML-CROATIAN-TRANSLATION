@@ -19,10 +19,9 @@
     <string name="barcode_install_back">Natrag</string>
     <string name="barcode_install_cancel">Odustani</string>
     <string name="barcode_install_confirm">Instaliraj</string>
-    <string name="barcode_system_unmatch">Ažurirajte MIUI prije nego instalirate Skener</string>
+    <string name="barcode_system_unmatch">Ažurirajte sustav prije nego instalirate Skener</string>
     <string name="barcode_to_install">Instaliraj Skener za nastavak</string>
     <string name="barcode_uninstalled">Skener je deinstaliran</string>
-    <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
     <string name="cancel">Odustani</string>
     <string name="cannot_download">Mogu se preuzeti samo \"http\" ili \"https\" poveznice</string>
     <string name="category_preference_activity_title">Traži kategorije</string>
@@ -222,7 +221,7 @@
     <string name="update_version_alpha">Alpha</string>
     <string name="update_version_dev">Beta</string>
     <string name="update_version_stable">Stabilno</string>
-    <string name="updated_title">MIUI je ažuran</string>
+    <string name="updated_title">Sustav je ažuran</string>
     <string name="voice_search_hint_quotation_end">\"</string>
     <string name="voice_search_hint_quotation_start">\"</string>
     <string name="voice_search_hint_title">"Pokušajte reći: "</string>
