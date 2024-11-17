@@ -42,11 +42,10 @@
   <string name="add">Dodaj</string>
   <string name="address">Adresa:</string>
   <string name="adjustment_area">Prilagodi</string>
-  <string name="agree_app_use">Skeniranje QR kodova i drugih slika (neke će značajke možda zahtijevati pristup vašoj lokaciji)</string>
+  <string name="agree_app_use">Skenirajte QR kodove i prepoznajte slike. Neke značajke trebaju pristupiti lokaciji, koristiti kameru ili napraviti snimke zaslona</string>
   <string name="agree_btn">Prihvaćam</string>
-  <string name="agree_camera_permission_message">Za korištenje kamere za skeniranje stavki</string>
+  <string name="agree_camera_permission">Za skeniranje kodova i posjetnica, prepoznavanje teksta i objekata, stvaranje dokumenata, prijevod i povratne informacije</string>
   <string name="agree_contact_permission">Za stvaranje kontakata</string>
-  <string name="agree_storage_permission_message">Za pristup i uvoz slika galerije i spremanje datoteka</string>
   <string name="all_text">Cijeli tekst</string>
   <string name="already_ocr_result">Automatski odabrane stavke</string>
   <string name="always">Uvijek</string>
@@ -70,11 +69,11 @@
   <string name="button_revoke_privacy_consent">Povlačenje suglasnosti</string>
   <string name="calender">Kalendar</string>
   <string name="call_anyone">Poziv</string>
-  <string name="call_phone_permissions_text">Dopustite aplikaciji Skener upućivanje poziva kako bi mogao koristiti ovu značajku.</string>
+  <string name="call_phone_permissions_text">Odobrite pristup dopuštenjima poziva kako biste mogli koristiti Skener. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="calories_logo_text">AI podršku pruža Health Hope</string>
   <string name="calories_request_interface_text">AI podrška</string>
   <string name="camera_error_title">Pogreška kamere</string>
-  <string name="camera_permissions_text">Dopustite aplikaciji Skener pristup kameri kako bi mogao koristiti ovu značajku.</string>
+  <string name="camera_permissions_text">Odobrite dopuštenje za pristup kameri kako biste mogli koristiti skener. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="camera_stealth_mode_message">Povezivanje s kamerom nije moguće. Ako je potrebna kamera, isključite Prikriveni način rada.</string>
   <string name="camera_stealth_mode_title">Prikriveni način rada je omogućen</string>
   <string name="can_only_be_English_Chinese">Jezik mrežnog prevođenja može biti samo engleski i pojednostavljeni kineski</string>
@@ -144,9 +143,9 @@
   <string name="confirm">U redu</string>
   <string name="connect_to_wifi">Poveži se s tom mrežom</string>
   <string name="connect_wifi">Poveži se s tom mrežom</string>
-  <string name="connect_wifi_no_local_premissions">Povežite se s ovom mrežom (potrebne su dozvole za lokaciju)</string>
+  <string name="connect_wifi_no_local_premissions">Povežite se s ovom mrežom (potrebna su dopuštenja za lokaciju)</string>
   <string name="contact_details">QR kod:</string>
-  <string name="content_desktop_uninstall">"Skener je sistemska aplikacija. Nakon što deinstalirate aplikaciju, nećete moći koristiti srodne funkcije u Mi Pregledniku, Kameri, Mi AI, Kontaktima i drugim sistemskim uslugama."</string>
+  <string name="content_desktop_uninstall">"Skener je aplikacija sustava. Nećete moći koristiti preglednik, kameru, Super Mi AI, kontakte i druge sustava aplikacije ako ga deinstalirate."</string>
   <string name="continue_access_web_url">Idi na web stranicu</string>
   <string name="continue_to_website">Idi na web stranicu</string>
   <string name="continue_video">Skeniraj</string>
@@ -182,7 +181,7 @@
   <string name="document_color_picture">Boja</string>
   <string name="document_color_picture_tip">Pretvaranje u boju…</string>
   <string name="document_crop_title">Obreži dokumenat</string>
-  <string name="document_default_location">"Datoteke će biti spremljene u "</string>
+  <string name="document_default_location">Datoteke će biti spremljene u:</string>
   <string name="document_effect">Efekti</string>
   <string name="document_grayscale">Crnobijelo</string>
   <string name="document_grayscale_tip_msg">Pretvaranje u crno-bijelo…</string>
@@ -281,7 +280,7 @@
   <string name="friday_shortest">P</string>
   <string name="function">Značajke</string>
   <string name="general_error">"Ne mogu prepoznati"</string>
-  <string name="general_feed_back">Izvješće</string>
+  <string name="general_feed_back">Prijavi</string>
   <string name="general_feedback">Prijavi pogrešan rezultat</string>
   <string name="general_location">Omogućite Skeneru da pristupi vašoj lokaciji da bi dobio usluge temeljene na lokaciji</string>
   <string name="general_location_dialog">Neke značajke prepoznavanja predmeta pruža Dianping. Ako želite prepoznati predmete u trgovinama, Dianping mora upotrijebiti fotografije koje napravite dok koristite ovu značajku, zajedno s podacima o njihovoj lokaciji, kako bi vam pružio relevantne rezultate.</string>
@@ -365,10 +364,10 @@
   <string name="local_ocr_recognition">Lokalno OCR prepoznavanje</string>
   <string name="local_ocr_recognition_str">Prebačeno na izvanmrežni prijevod</string>
   <string name="location_permission_message">Za povezivanje na Wi-Fi</string>
-  <string name="location_permissions_text">Dopustite pristup lokaciji u Postavkama da biste mogli koristiti ovu značajku.</string>
+  <string name="location_permissions_text">Odobrite dopuštenje za pristup lokaciji kako biste mogli koristiti Skener. Ovo dopuštenje možete dati u Postavkama.</string>
   <string name="logistics">Ekspresna dostava</string>
   <string name="logout_service">Povlačenje suglasnosti</string>
-  <string name="low_version_tip">Ažurirajte sustav da možete koristiti Skener.</string>
+  <string name="low_version_tip">Ažurirajte Skener na najnoviju verziju da biste ga mogli koristiti.</string>
   <string name="mihome_goto_install">Instaliraj</string>
   <string name="mihome_goto_update">Ažuriraj</string>
   <string name="mihome_install_message">Instalirajte i prvo se prijavite u aplikaciju Mi Home.</string>
@@ -378,7 +377,7 @@
   <string name="mipayin_dialog_more">Više</string>
   <string name="mipayin_dialog_title">Otvori sa</string>
   <string name="miracast_connect">Emitiraj</string>
-  <string name="miracast_connect_fail">"Ne mogu emitirati, pokušajte ponovo"</string>
+  <string name="miracast_connect_fail">"Nije moguće emitirati. Pokušajte ponovno."</string>
   <string name="miracast_connecting">Emitiranje…</string>
   <string name="miracast_details">Skenirajte QR kod za emitiranje</string>
   <string name="miracast_message">Emitirati na %s?</string>
@@ -482,10 +481,10 @@
   <string name="no_one_phone">Unesite važeći broj telefona</string>
   <string name="no_payment_software_installed">Nije instaliran softver za plaćanje. Prvo instalirajte Mi Pay, WeChat ili Alipay.</string>
   <string name="no_storage">Nema unutarnje pohrane</string>
-  <string name="no_support_multi_window">"Mi AI Scanner ne podržava podijeljeni zaslon ili plutajuće prozore"</string>
+  <string name="no_support_multi_window">"Skener ne podržava podijeljeni zaslon ili plutajuće prozore"</string>
   <string name="no_support_to_translate_type">"Ovaj jezik nije podržan"</string>
-  <string name="not_camera_permissions_hint">Dajte dopuštenja kameri da biste mogli koristiti ovu značajku.</string>
   <string name="not_identification_form">"Ne mogu prepoznati tablicu. Odaberite ponovo i počnite ispočetka."</string>
+  <string name="not_camera_permissions_hint">Odobrite dopuštenja kameri da biste mogli koristiti ovu značajku.</string>
   <string name="not_insert_contact">"Ne mogu dodati kontakt"</string>
   <string name="not_network">"Ne mogu se povezati s mrežom. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="not_permissions_hint">Dopustite pristup kameri da biste mogli koristiti ovu značajku.</string>
@@ -659,7 +658,7 @@
   <string name="query_tracking">Isporuka</string>
   <string name="query_tracknum">Provjerite narudžbu ekspresne dostave</string>
   <string name="qureyGoods">Traži proizvode</string>
-  <string name="read_contacts_permissions_text">Dopustite aplikaciji Skener pristup kontaktima kako bi mogli koristiti ovu značajku.</string>
+  <string name="read_contacts_permissions_text">Odobrite dopuštenje za pristup Kontaktima kako biste mogli koristiti Skener. Ovo dopuštenje možete dati u Postavkama.</string>
   <string name="recognition_form_fail_10010">"Pogreška 010: Ne mogu prepoznati. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="recognition_form_fail_1003">"Pogreška 003: Ne mogu prepoznati. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="recognition_form_fail_1005">"Pogreška 005: Ne mogu prepoznati. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
@@ -674,11 +673,11 @@
   <string name="recognition_form_fail_50021100">"Pogreška 1100: Ne mogu prepoznati. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="recognition_form_fail_50021102">"Ne mogu prepoznati tablicu. Odaberite ponovno i počnite ispočetka."</string>
   <string name="recognition_form_fail_504">Zahtjev je istekao. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
-  <string name="recognition_historical_date_create_time">"Napravljeno "</string>
-  <string name="recognition_historical_no_document">Ovdje još ništa.</string>
-  <string name="recognition_historical_no_form">Ovdje još ništa.</string>
+  <string name="recognition_historical_date_create_time">Napravljeno:</string>
+  <string name="recognition_historical_no_document">Ovdje nema ništa.</string>
+  <string name="recognition_historical_no_form">Ovdje nema ništa.</string>
   <string name="recognition_historical_no_ppt">Ovdje nema ništa</string>
-  <string name="recognition_historical_no_text">Ovdje još ništa.</string>
+  <string name="recognition_historical_no_text">Ovdje nema ništa.</string>
   <string name="recognition_history">Povijest</string>
   <string name="recognize">Skeniraj</string>
   <string name="recognize_fail">"Ne mogu pročitati kod"</string>
@@ -689,7 +688,7 @@
   <string name="reshoot">Pokušajte ponovno</string>
   <string name="result_of_identifying_text_is_empty">"Tekst nije prepoznat"</string>
   <string name="satisfaction_research">Anketa o zadovoljstvu korisnika</string>
-  <string name="satisfaction_research_questionnaire">Dodirnite poveznicu za anketu u nastavku da nam kažete što mislite o Mi AI Scanneru&lt;br&gt;&lt;font color=\"#0D84FF\"&gt;%s&lt;/font&gt;&lt;br&gt;</string>
+  <string name="satisfaction_research_questionnaire">Dodirnite poveznicu za anketu u nastavku da nam kažete što mislite o Skeneru&lt;br&gt;&lt;font color=\"#0D84FF\"&gt;%s&lt;/font&gt;&lt;br&gt;</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">S</string>
   <string name="saturday_shortest">S</string>
@@ -769,14 +768,14 @@ Umjesto toga skenirajte nešto drugo."</string>
   <string name="setting_choose_every_time">Uvijek pitaj</string>
   <string name="setting_default_function">Zadana značajka</string>
   <string name="setting_fifth_banner_content">Skenirajte tablice za izradu Excel dokumenata</string>
-  <string name="setting_first_banner_content">Vidite više i učinite više uz Mi AI Scanner</string>
-  <string name="setting_first_banner_title">Mi AI skener (Skener)</string>
+  <string name="setting_first_banner_content">Vidite više i učinite više uz Skener</string>
+  <string name="setting_first_banner_title">Skener</string>
   <string name="setting_fourth_banner_content">Skeniraj i kopiraj tekst s fotografija</string>
   <string name="setting_function_sort">Sortiranje značajki</string>
   <string name="setting_mipay">Mipay</string>
   <string name="setting_preference_pay">Željeni način plaćanja</string>
   <string name="setting_preference_weixin_process_method">WeChat kodovi</string>
-  <string name="setting_second_banner_content">Mi AI može prepoznati biljke, životinje, automobile i ljude</string>
+  <string name="setting_second_banner_content">Skener može prepoznati biljke, životinje, automobile i ljude</string>
   <string name="setting_seventh_banner_content">Skenirajte papirnate dokumente za izradu PDF-ova visoke razlučivosti</string>
   <string name="setting_sixth_banner_content">Skenirajte PowerPoint prezentacije da biste vodili bilješke</string>
   <string name="setting_third_banner_content">Pronađite slične proizvode i pogledajte informacije o marki i cijeni</string>
@@ -789,15 +788,15 @@ Umjesto toga skenirajte nešto drugo."</string>
   <string name="share_error">"Ne mogu podijeliti"</string>
   <string name="share_format">Podijeli kao</string>
   <string name="share_utils_title">Podijeli s</string>
-  <string name="shop_price_high">Cijena (od visoke do niske)</string>
-  <string name="shop_price_low">Cijena (niska prema visokoj)</string>
+  <string name="shop_price_high">Cijena (od više do niže)</string>
+  <string name="shop_price_low">Cijena (od niže do više)</string>
   <string name="shopping_searching">Traženje…</string>
   <string name="shopping_title">Snimite fotografiju proizvoda</string>
   <string name="shopping_vendor_info">Powered by Taobao</string>
   <string name="similarity">%s podudaranja</string>
   <string name="smart_scan_code">Pametni skener</string>
   <string name="spaceIsLow_content">Nema dovoljno prostora na unutarnjoj pohrani. Oslobodite nešto prostora.</string>
-  <string name="storage_permissions_text">Dopustite aplikaciji Skener pristup pohrani uređaja kako biste mogli koristiti ovu značajku.</string>
+  <string name="storage_permissions_text">Odobrite dopuštenje za pristup pohrani uređaja kako biste mogli koristiti Skener. Ovo dopuštenje možete dati u Postavkama.</string>
   <string name="storage_permissions_use">Pristup i uređivanje stavki spremljenih u pohranu uređaja</string>
   <string name="storage_string">Pristup pohrani</string>
   <string name="store_feedback_prompt">Prvo unesite povratne informacije</string>
@@ -826,7 +825,7 @@ Umjesto toga skenirajte nešto drugo."</string>
   <string name="tel">Telefon</string>
   <string name="text_extraction_demo_dialog_title">Dodirnite za prepoznavanje i kopiranje teksta</string>
   <string name="text_general_guide_btn_tips">Razumijem</string>
-  <string name="text_general_guide_tips_first">Skeniraj i prepoznaj objekte</string>
+  <string name="text_general_guide_tips_first">Skenirajte i prepoznajte objekte</string>
   <string name="text_general_guide_tips_second">Skenirajte kodove, prepoznajte biljke i pronađite slične proizvode</string>
   <string name="text_search">Pretražite</string>
   <string name="text_to_be_translated_cannot_be_empty">Skener treba tekst za prijevod</string>
@@ -838,7 +837,7 @@ Umjesto toga skenirajte nešto drugo."</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="title">Naslov:</string>
-  <string name="title_desktop_uninstall">Deinstalirati Skener?</string>
+  <string name="title_desktop_uninstall">Deinstalirati \"Skener\"?</string>
   <string name="to_date">Danas</string>
   <string name="to_install_title">Ovaj QR kôd preusmjerava vas na deinstaliranu aplikaciju. Preuzeti sada ovu aplikaciju?</string>
   <string name="to_message">Sadržaj SMS-a</string>
@@ -949,7 +948,7 @@ Umjesto toga skenirajte nešto drugo."</string>
   <string name="xiaoai_dialog">"Pokušajte reći što 
   želite skenirati sa Mi AI"</string>
   <string name="xiaoai_text">Tipka</string>
-  <string name="xiaoai_vision">Mi AI skener</string>
+  <string name="xiaoai_vision">Skener</string>
   <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sada</string>
   <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
   <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>

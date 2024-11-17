@@ -275,6 +275,12 @@
    <string name="like">Dodaj u favorite</string>
    <string name="liked">Dodano u favorite</string>
    <string name="lks_cta_dont_mention">"Ne prikazuj više"</string>
+   <string name="lks_apply_wallpaper_dlg_apply">Primijeni</string>
+   <string name="lks_apply_wallpaper_dlg_apply_success_toast">Uspješno primijenjeno</string>
+   <string name="lks_apply_wallpaper_dlg_cancel">Odustani</string>
+   <string name="lks_apply_wallpaper_dlg_title">Primijeniti ovu pozadinu?</string>
+   <string name="lks_click_for_new_wallpaper">Dodirnite za prikaz nove pozadine</string>
+   <string name="lks_click_to_add_to_carousel">Dodirnite za dodavanje dijaprojekciji</string>
    <string name="lks_cta_ok">Prihvaćam</string>
    <string name="lks_cta_reject">"Ne prihvaćam"</string>
    <string name="lks_cta_summary1">Wallpaper Carousel pruža sljedeće značajke:</string>
@@ -890,6 +896,8 @@ mm"</string>
    <string name="sst_morning_greeting_title">Primaj jutarnje pozdrave</string>
    <string name="sst_morning_history_desc">Pogledajte prethodne jutarnje pozdrave</string>
    <string name="sst_morning_history_title">Povijest jutarnjih pozdrava</string>
+   <string name="sst_my_wallpaper_desc">Pogledajte pozadine s Wallpaper Carousela</string>
+   <string name="sst_my_wallpaper_title">Moje pozadine</string>
    <string name="sst_new_feature">Nove značajke</string>
    <string name="sst_no_favor_wallpaper_hint">Nema slika pozadina u Favoritima</string>
    <string name="sst_privacy_policy_title">Pravila o privatnosti</string>
