@@ -729,6 +729,7 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="advanced_battery_title">Potrošnja baterije</string>
   <string name="advanced_gesture">Prilagođene geste</string>
   <string name="advanced_screen_paper_mode_title">Način čitanja</string>
+  <string name="advanced_screen_paper_mode_title_new">Udobnost za oči</string>
   <string name="advanced_section_header">Općenito</string>
   <string name="advanced_security_title">Dodatne postavke</string>
   <string name="advanced_settings">Napredne postavke</string>
@@ -1517,6 +1518,7 @@ Posljednji put pokrenuto %2$s"</string>
   <string name="back_navigation_animation_summary">Omogućuje animaciju kad korisnik napravi povratnu kretnju.</string>
   <string name="back_sensitivity_dialog_message">Veća osjetljivost može utjecati na pokrete u aplikacijama uz rub zaslona.</string>
   <string name="back_sensitivity_dialog_title">Osjetljivost stražnje strane</string>
+  <string name="back_strap_image_simplified_text">Kada je uređaj licem prema dolje s isključenim zaslonom, pozadinsko svjetlo prikazat će podsjetnike za obavijesti</string>
   <string name="back_tap">Dodir iza</string>
   <string name="back_triple_tap">Trostruki dodir iza</string>
   <string name="background_activity_disabled_dialog_text">"Aplikacija nije postavljena za optimizaciju baterije, pa je ne možete ograničiti.
@@ -3138,6 +3140,7 @@ Ako je to dopuštenje uključeno, aplikacija će biti dostupna kao opcija svaki 
   <string name="choose_keyguard_clock_summary">"Ova postavka ne funkcionira s temama trećih strana"</string>
   <string name="choose_lock_pattern_header_text">Postavi uzorak</string>
   <string name="choose_network_title">Odabir mreže</string>
+  <string name="choose_nothing_payment">Nije postavljeno</string>
   <string name="choose_profile">Odabir profila</string>
   <string name="choose_sim_activating">Aktivacija…</string>
   <string name="choose_sim_could_not_activate">Trenutačno se ne može aktivirati</string>
@@ -5209,6 +5212,7 @@ okrenut prema vanjskom zaslonu"</string>
   <string name="face_unlock_success_stay_screen_title">Ostani na Zaklj. zaslonu nakon otključavanja</string>
   <string name="face_unlock_title">Možete otključati telefon svojim licem. Iz sigurnosnih razloga ta opcija zahtijeva dodatno zaključavanje zaslona.</string>
   <string name="face_unlock_when_slt_on_toast">Nije moguće koristiti otključavanje licem kada se koristi Tiantong Satellite komunikacija</string>
+  <string name="factory_reset_loading">Vraćanje na tvorničke postavke…</string>
   <string name="factory_reset_summary">"Izbriši sve podatke iz unutarnje memorije telefona"</string>
   <string name="fahrenheit_temperature_unit">Fahrenheit (°F)</string>
   <string name="fail">Nije uspjelo</string>
@@ -5437,6 +5441,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="flash_notifications_keywords">bljeskanje, svjetlo, nagluhost, gubitak sluha</string>
   <string name="flash_notifications_note">Bljeskajuće obavijesti koristite oprezno ako ste osjetljivi na svjetlo</string>
   <string name="flash_notifications_preview">Pregled</string>
+  <string name="flash_notifications_settings_title">Obavijesti bljeskalicom</string>
   <string name="flash_notifications_summary">Koristite bljeskalicu fotoaparata ili pokažite zrake boja na zaslonu dok stižu obavijesti ili uređaj zvoni</string>
   <string name="flash_notifications_summary_off">Isključeno</string>
   <string name="flash_notifications_summary_on_camera">Uključeno/bljeskalica fotoaparata</string>
@@ -5466,7 +5471,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="floating_window_switch_label">Uključi plutajuće prozore</string>
   <string name="floating_window_switch_label_disable">Isključi plutajuće prozore</string>
   <string name="fluency_mode">Animacije sustava</string>
-   <string name="fluency_mode_enabled_name">Optimizirajte performanse</string>
+  <string name="fluency_mode_enabled_name">Optimizirajte performanse</string>
   <string name="fluency_mode_confirm_and_reboot">Ponovno pokreni</string>
   <string name="focus_summary">Koristite prilagođeni format obavijesti za isticanje važnih informacija</string>
   <string name="focus_title">Svjetlo obavijesti</string>
@@ -10753,6 +10758,7 @@ Ta postavka utječe na sve korisnike ovog telefona."</string>
   <string name="sar">Podaci o izloženosti RF zračenju</string>
   <string name="satellite_call_assistant">Postavke poziva</string>
   <string name="satellite_imei_title">IMEI3</string>
+  <string name="satellite_management_title">Satelitska mreža</string>
   <string name="satellite_network_title">Značajke satelitskog poziva</string>
   <string name="satellite_setting">Razmjena satelitskih poruka</string>
   <string name="satellite_setting_disabled_summary">Šaljite i primajte tekstualne poruke putem satelita. Nije uključeno u vaš račun.</string>
@@ -15709,6 +15715,8 @@ Pohrana vjerodajnica možda nije omogućena"</string>
   <string name="wireless_off">Isključeno</string>
   <string name="wireless_on">Uključeno</string>
   <string name="wireless_opened">Uključeno</string>
+  <string name="wireless_secondary_display">Proširenje bežičnog zaslona</string>
+  <string name="wireless_secondary_display_description">Koristite svoj tablet kao proširenje bežičnog zaslona za obližnje računalo</string>
   <string name="wireless_tip">"Koristite svoj telefon za bežično punjenje drugih uređaja.
 
  Ova značajka će se automatski isključiti ako punjenje ne počne u roku od 90 sekundi."</string>

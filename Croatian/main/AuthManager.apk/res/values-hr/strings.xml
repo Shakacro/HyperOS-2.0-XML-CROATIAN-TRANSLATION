@@ -184,6 +184,8 @@
   <string name="cetus_invisible_mode_notice_location">"U anonimnom ste načinu. Trenutno ne možete koristiti usluge lokacije."</string>
   <string name="cetus_invisible_mode_notice_tip">Dodirnite za isključivanje anonimnog načina u postavkama</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
+  <string name="clip_notification_close_summary">Želite li prestati primati podsjetnike kada aplikacija pristupi međuspremniku?</string>
+  <string name="clip_notification_close_title">Isključi podsjetnike za pristup međuspremniku</string>
   <string name="clipboard_ai_allow_once">Dopušteno %1$s da automatski pristupi stavkama u međuspremniku</string>
   <string name="clipboard_data">"Sadržaj: "</string>
   <string name="clipboard_data_request">%1$s pokušava pristupiti stavkama u međuspremniku</string>
@@ -319,6 +321,7 @@
   <string name="not_set">Nije postavljeno</string>
   <string name="notification_click_tip">Dodirnite za prikaz detalja</string>
   <string name="ok">U redu</string>
+  <string name="overlay_read_clip_toast">\"%1$s\" je pristupio međuspremniku</string>
   <string name="perm_action_allow">Dopusti</string>
   <string name="perm_action_deny">Nikad ne dopusti</string>
   <string name="perm_educate_post_notification">Obavijesti mogu biti popraćene zvukom i vibracijom dok se pojavljuju u Panelu obavijesti i na ikonama početnog zaslona. Postavke obavijesti možete promijeniti u Postavkama.</string>
@@ -336,6 +339,7 @@
   <string name="permdesc_location_background">Želite li dopustiti %1$s pristup informacijama o lokaciji u pozadini?</string>
   <string name="permdesc_microphone">Želite li dopustiti %1$s da koristi mikrofon za snimanje zvuka?</string>
   <string name="permdesc_nearby_devices">Želite li dopustiti %1$s da otkrije i poveže se s uređajima u blizini?</string>
+  <string name="permdesc_nearby_wifi_devices">Dopustite ovoj aplikaciji povezivanje s uređajima u blizini putem Wi-Fi mreže, emitiranje na njih i određivanje njihove relativne lokacije.</string>
   <string name="permdesc_post_notification">Želite li dopustiti %1$s objavljivanje obavijesti?</string>
   <string name="permdesc_process_outgoing_call">Želite li dopustiti %1$s da odgovori i prekine pozive?</string>
   <string name="permdesc_read_calendar">Želite li dopustiti %1$s pristup i uređivanje kalendarskih događaja?</string>

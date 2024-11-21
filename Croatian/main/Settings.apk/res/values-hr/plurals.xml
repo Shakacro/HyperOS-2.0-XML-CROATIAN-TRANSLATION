@@ -417,8 +417,8 @@
         <item quantity="one">%d nova obavijest</item>
     </plurals>
 	 <plurals name="musical_rhythm_app_summary">
-        <item quantity="other">%1$d aplikacija uključujući %2$s</item>
-        <item quantity="one">%1$d aplikacija uključujući %2$s</item>
+        <item quantity="other">%2$d aplikacija uključujući %1$s</item>
+        <item quantity="one">%2$d aplikacija uključujući %1$s</item>
      </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d ograničenja</item>

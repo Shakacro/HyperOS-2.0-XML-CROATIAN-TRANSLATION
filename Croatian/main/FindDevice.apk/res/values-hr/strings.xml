@@ -123,6 +123,8 @@
   <string name="lock_msg_phone">Kontakt informacije: %s</string>
   <string name="login_extra_steps">Provjera prijave</string>
   <string name="login_failed">"Ne mogu se prijaviti. %s."</string>
+  <string name="notification_locate_device">Lociranje uređaja</string>
+  <string name="notification_open_find">Pronađi uređaj je uključeno</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>

@@ -34,6 +34,14 @@
   <string name="ai_dialog_postive_button_text">Dopusti</string>
   <string name="ai_dialog_text">"Sažetak obavijesti AI pruža pametne sažetke ključnih informacija iz obavijesti. Xiaomi mora pristupiti sadržaju obavijesti i obraditi ga kako bi pružio ovu značajku, ali Xiaomi neće pohranjivati ​​te informacije."</string>
   <string name="ai_dialog_title">Dopusti pristup obavijestima</string>
+  <string name="ai_enhanced_summary">Primajte pametne sažetke obavijesti i poruka</string>
+  <string name="ai_enhanced_title">AI Informacije</string>
+  <string name="ai_internal_test_negative_text">"Ne prihvaćam"</string>
+  <string name="ai_internal_test_positive_text">Prihvaćam</string>
+  <string name="ai_internal_test_text">Sažetak obavijesti AI koristi mogućnosti velikih modela za sažimanje obavijesti i prikazivanje ključnih informacija. Uključivanje ove značajke malo će povećati potrošnju energije.</string>
+  <string name="ai_internal_test_title">Sažetak beta testa AI obavijesti</string>
+  <string name="ai_notification_illustrate_text">"AI informiranje odabire najvažnije informacije u obavijestima i porukama i prikazuje ih na popisu za pregled.
+Xiaomi će obraditi sadržaj obavijesti i poruka (uključujući sve privatne podatke u njima), ali nećemo pohraniti te podatke."</string>
   <string name="ai_notification_summary">Sažetak AI obavijesti pruža pametne sažetke ključnih informacija iz obavijesti. Ova značajka malo će povećati potrošnju energije.</string>
   <string name="ai_notification_title">Sažetak AI obavijesti</string>
   <string name="aon_message">Kako bi se utvrdilo gleda li više osoba u zaslon, ova će značajka pristupiti prednjoj kameri kada se prikaže plutajuća obavijest. Prikupljene slike koriste se samo za analizu na uređaju broja ljudi koji gledaju u ekran. Kada se otkrije više osoba, sadržaj obavijesti bit će skriven prema zadanim postavkama.</string>
@@ -60,7 +68,7 @@
   <string name="copy">Kopiraj</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="default_list_type">Poredaj po vremenu primitka</string>
-  <string name="dialog_privacy_text_with_link"><Data>Pročitajte i prihvatite naša &lt;a href=https://privacy.mi.com/AISummary/zh_CN/>AI Briefing Pravila o privatnosti&lt;/a></Data> <Data> i &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>AI Briefing Pravila o privatnosti&lt;/a> prije korištenja ove značajke.</Data></string>
+  <string name="dialog_privacy_text_with_link"><Data>Pročitajte i prihvatite &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>AI Briefing User Agreement&lt;/a></Data><Data> i &lt;a href=https://privacy.mi.com/AISummary/zh_CN/>AI Briefing Pravila o privatnosti&lt;/a> prije korištenja ove značajke.</Data></string>
   <string name="disable_description_content">"Obavijesti su aplikacija sustava. Ako je onemogućite, nećete moći upravljati obavijestima aplikacije. Svejedno onemogućiti?"</string>
   <string name="disable_description_title">Onemogućiti aplikaciju sustava?</string>
   <string name="disable_float_notification">"Plutajuće obavijesti nisu dopuštene"</string>

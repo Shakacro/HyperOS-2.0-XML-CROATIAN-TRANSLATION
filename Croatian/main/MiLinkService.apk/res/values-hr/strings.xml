@@ -21,7 +21,7 @@
  <string name="abc_search_hint">Pretražite…</string>
  <string name="abc_searchview_description_clear">Izbriši upit</string>
  <string name="abc_searchview_description_query">Upit za pretraživanje</string>
- <string name="abc_searchview_description_search">Pretraživanje</string>
+ <string name="abc_searchview_description_search">Pretraži</string>
  <string name="abc_searchview_description_submit">Pošalji upit</string>
  <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
  <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
@@ -227,6 +227,21 @@ za zrcaljenje zaslona ovog tableta"</string>
  <string name="circulate_card_tv_gesture_slide">Povucite za pomicanje kursora</string>
  <string name="circulate_card_tv_gesture_slide_title">Kklizni za kontrolu</string>
  <string name="circulate_card_tv_my_app">Više aplikacija</string>
+ <string name="circulate_card_tv_full_screen">Cijeli zaslon</string>
+ <string name="circulate_card_tv_notes_button_cancel">Odustani</string>
+ <string name="circulate_card_tv_notes_button_confirm">Pošalji</string>
+ <string name="circulate_card_tv_notes_edittext_hint">Unesite do %d znakova</string>
+ <string name="circulate_card_tv_notes_edittext_success_toast">Primijenjena TV ljepljiva bilješka</string>
+ <string name="circulate_card_tv_notes_edittext_toast">Bilješke mogu imati do %d znakova</string>
+ <string name="circulate_card_tv_notes_send_error">"Nije moguće poslati. Provjerite mrežnu vezu i pokušajte ponovno."</string>
+ <string name="circulate_card_tv_notes_subtitle">"Unesite bilješku koja će se prikazati na čuvaru zaslona TV-a"</string>
+ <string name="circulate_card_tv_notes_text">TV ljepljiva bilješka</string>
+ <string name="circulate_card_tv_notes_title">TV ljepljiva bilješka</string>
+ <string name="circulate_card_tv_pip_state_send_error">Došlo je do pogreške. Provjerite mrežnu vezu i pokušajte ponovno.</string>
+ <string name="circulate_card_tv_screen">Uloge</string>
+ <string name="circulate_card_tv_screen_state">Emitiranje</string>
+ <string name="circulate_card_tv_small_screen">Slika u slici</string>
+ <string name="circulate_card_tv_stop_screen">Zaustavi emitiranje</string>
  <string name="circulate_card_tv_open_app_content_desc">%1$s. Dodirnite za otvaranje na TV-u.</string>
  <string name="circulate_card_tv_privacy_protection">Privatnost</string>
  <string name="circulate_card_tv_remote_control">Daljinski</string>
@@ -766,6 +781,11 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
  <string name="hyper_mind_xiaomi">Xiaomi</string>
  <string name="i_see">Razumijem</string>
  <string name="image_transfer_failed">"Nije moguće prenijeti sliku"</string>
+ <string name="introduction_to_accessibility_message">"Međupovezanost vam omogućuje kontrolu i prijenos podataka između uređaja.
+
+Uključite značajke pristupačnosti kako biste spriječili da druge aplikacije koriste mikrofon kada koristite Međusobno povezivanje.
+
+Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pristupačnosti. Budite uvjereni da Interconnectivity neće povrijediti nijedno od vaših prava kada koristite ove značajke."</string>
  <string name="install">Instaliraj</string>
  <string name="invisible_mode_dialog_content">"Ne možete koristiti emitiranje kada ste anonimni. Prvo isključite anonimni način."</string>
  <string name="invisible_mode_dialog_content_audio_relay">"Ne mogu prenijeti reprodukciju kada ste anonimni. Prvo isključite anonimni način."</string>
@@ -866,7 +886,6 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
  <string name="month_august">Kolovoz</string>
  <string name="month_august_short">Kol</string>
  <string name="month_august_shortest">K</string>
- <string name="month_day_format">MMM dd</string>
  <string name="month_december">Prosinac</string>
  <string name="month_december_short">Pro</string>
  <string name="month_december_shortest">P</string>
@@ -898,10 +917,10 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
  <string name="month_september_short">Ruj</string>
  <string name="month_september_shortest">R</string>
  <string name="more">Više</string>
- <string name="mr_button_content_description">Emitacija</string>
- <string name="mr_cast_button_connected">Cast. Povezano</string>
- <string name="mr_cast_button_connecting">Cast. Povezivanje</string>
- <string name="mr_cast_button_disconnected">Emitiraj. Isključeno</string>
+ <string name="mr_button_content_description">Emitiranje</string>
+ <string name="mr_cast_button_connected">Emitiranje. Povezano</string>
+ <string name="mr_cast_button_connecting">Emitiranje. Povezivanje</string>
+ <string name="mr_cast_button_disconnected">Emitiranje. Isključeno</string>
  <string name="mr_cast_dialog_title_view_placeholder">Nema dostupnih informacija</string>
  <string name="mr_chooser_searching">Pronalaženje uređaja</string>
  <string name="mr_chooser_title">Prebaci na</string>
@@ -931,8 +950,8 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
  <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
  <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
  <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
- <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
- <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
+ <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
+ <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
  <string name="mtrl_picker_announce_current_range_selection">Odabir datuma početka: %1$s – Odabir datuma završetka: %2$s</string>
  <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
  <string name="mtrl_picker_announce_current_selection_none">ništa</string>
@@ -948,7 +967,7 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
  <string name="mtrl_picker_invalid_format_use">Koristi: %1$s</string>
  <string name="mtrl_picker_invalid_range">Pogrešan raspon.</string>
  <string name="mtrl_picker_navigate_to_current_year_description">Idi do tekuće godine %1$d</string>
- <string name="mtrl_picker_navigate_to_year_description">Navigacija do godine %1$s</string>
+ <string name="mtrl_picker_navigate_to_year_description">Prijelaz na godinu %1$s</string>
  <string name="mtrl_picker_out_of_range">Izvan raspona: %1$s</string>
  <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
  <string name="mtrl_picker_range_header_only_start_selected">%1$s – Datum završetka</string>
@@ -1107,7 +1126,7 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
  <string name="passport_network_error_hint">Provjerite poveznicu i pokušajte ponovo ili kopirajte poveznicu i otvorite je u svom pregledniku.</string>
  <string name="passport_network_timeout">"Nije moguće povezati se na mrežu. Pokušajte ponovo."</string>
  <string name="passport_next">Dalje</string>
- <string name="passport_no_account">Nisam prijavljen</string>
+ <string name="passport_no_account">Niste prijavljeni</string>
  <string name="passport_open_settings">Postavke</string>
  <string name="passport_page_load_failed">"Ne mogu otvoriti stranicu"</string>
  <string name="passport_password_login_btn">Prijavite se</string>
@@ -1373,6 +1392,9 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
  <string name="synergy_casting">"Ne možete emitirati dok Screen Combo radi"</string>
  <string name="synergy_text">Međupovezanost</string>
  <string name="talk_back_device_battery_quantity">Baterija %s</string>
+ <string name="temperature_warning_dialog_message">Ovaj uređaj je pregrijan. Pričekajte da se ohladi prije dijeljenja feeda kamere.</string>
+ <string name="temperature_warning_dialog_positive_button">Shvaćam</string>
+ <string name="temperature_warning_dialog_title">"Ne mogu koristiti kameru na različitim uređajima"</string>
  <string name="test_package_upgrade">"Nije moguće ažurirati na Beta verziju"</string>
  <string name="thursday">Četvrtak</string>
  <string name="thursday_short">Čet</string>
@@ -1406,6 +1428,8 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
  <string name="tuesday">Utorak</string>
  <string name="tuesday_short">Uto</string>
  <string name="tuesday_shortest">U</string>
+ <string name="tv_remote_auth_cancel">Odustani</string>
+ <string name="tv_remote_auth_title">"Unesite kod za provjeru televizora"</string>
  <string name="unlock_screen_to_authorize_camera">"%s želi koristiti kameru ovog uređaja"</string>
  <string name="unlock_screen_to_authorize_camera_car">"%s pristupa kameri ovog uređaja"</string>
  <string name="update">Ažuriraj</string>

@@ -1134,6 +1134,7 @@ Isključite tipkom za napajanje."</string>
   <string name="fullaod_apply_super_wallpaper_toast">Tema Always-on zaslona postavljena je na prilagođenu zbog Super pozadina</string>
   <string name="fullaod_apply_third_theme_toast">Tema Always-on zaslona postavljena je na prilagođenu zbog tema trećih strana</string>
   <string name="fullaod_apply_third_wallpaper_toast">Tema Always-on zaslona postavljena je na prilagođenu zbog pozadina treće strane</string>
+  <string name="fullaod_apply_video_depth_toast">Stil Always-on zaslona prebačen je na prilagođeni</string>
   <string name="fullscreen_text">Cijeli zaslon</string>
   <string name="game_status">Igranje</string>
   <string name="guest_reset_button">Poništi sesiju gosta</string>
@@ -1703,7 +1704,9 @@ Ako ovoj aplikaciji ne dopustite pristup svim zapisima uređaja, ona i dalje mo�
   <string name="manage_notifications_text">Upravljanje</string>
   <string name="manage_users">Upravljanje korisnicima</string>
   <string name="managed_user_title">Sve poslovne aplikacije</string>
+  <string name="masculine">Muški</string>
   <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
+  <string name="material_hour_24h_suffix">%1$s sati</string>
   <string name="material_hour_selection">Odaberite sat</string>
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
@@ -2700,6 +2703,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="screen_pinning_toast_recents_invisible">Da biste otkvačili ovu aplikaciju, dodirnite tipke Natrag i Početna i zadržite</string>
   <string name="screen_pinning_toast_start">Aplikacija je prikvačena</string>
   <string name="screen_recording_announcement">Počelo je snimanje zaslona</string>
+  <string name="screen_share_dialog_spinner_text">Opseg</string>
   <string name="screen_share_permission_app_selector_title">Podijelite ili snimite aplikaciju</string>
   <string name="screen_share_permission_dialog_option_entire_screen">Cijeli zaslon</string>
   <string name="screen_share_permission_dialog_option_single_app">Jedna aplikacija</string>

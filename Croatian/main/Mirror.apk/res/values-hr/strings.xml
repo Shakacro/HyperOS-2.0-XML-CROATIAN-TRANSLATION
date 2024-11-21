@@ -400,7 +400,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="pad_settings_handoff_disconnect">Nije povezano</string>
   <string name="pad_settings_handoff_enable_bluetooth">Uključite Bluetooth za pronalaženje uređaja u blizini</string>
   <string name="pad_settings_handoff_enable_disconnect">Držite uređaje blizu jedan drugom uz uključen Bluetooth</string>
-  <string name="pad_settings_handoff_p2p_summary">Povežite se na prijenosnu pristupnu točku jednim dodirom</string>
+  <string name="pad_settings_handoff_p2p_summary">Povežite se na hotspot jednim dodirom</string>
   <string name="pad_settings_handoff_p2p_title">vruća točka</string>
   <string name="pad_settings_handoff_video_summary">Nastavite reprodukciju videozapisa s mjesta na kojem ste stali na drugom zaslonu</string>
   <string name="pad_settings_handoff_video_title">Videozapisi</string>
@@ -439,7 +439,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="phone_pad_message_introduction_title">Dijeljeni međuspremnik</string>
   <string name="phone_pad_video_introduction_summary">Nastavite reprodukciju videozapisa tamo gdje ste stali na drugom zaslonu</string>
   <string name="phone_pad_video_introduction_title">Videozapisi</string>
-  <string name="phone_pad_wifi_introduction_summary">"Povežite se na osobnu pristupnu točku svog telefona bez unosa zaporki"</string>
+  <string name="phone_pad_wifi_introduction_summary">"Povežite se na osobni hotspot svog telefona bez unosa zaporki"</string>
   <string name="phone_pad_wifi_introduction_title">Automatsko povezivanje</string>
   <string name="phone_pc_app_introduction_summary">Koristite telefonske aplikacije na računalu</string>
   <string name="phone_pc_app_introduction_title">Aplikacije</string>
@@ -483,7 +483,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="scanner_uninstalled_title">Instalirajte Skener</string>
   <string name="screen_connecting">Povezivanje…</string>
   <string name="screen_failed_to_open">"Nije moguće povezati se"</string>
-  <string name="screen_failed_to_open_due_to_hotspot">Isključite prijenosnu pristupnu točku i pokušajte ponovno</string>
+  <string name="screen_failed_to_open_due_to_hotspot">Isključite hotspot i pokušajte ponovno</string>
   <string name="screen_num_over_limit">"Ne mogu otvoriti više prozora"</string>
   <string name="screen_permission_notification_sub_title">Otključajte uređaj za davanje dopuštenja</string>
   <string name="screen_permission_notification_title">"%s želi koristiti zaslon ovog uređaja"</string>
@@ -607,7 +607,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="size_tera_byte">TB</string>
   <string name="softap_connect_fail_message">"Ne mogu se povezati"</string>
   <string name="softap_dialog_cancel">Odustani</string>
-  <string name="softap_dialog_message">"Nema dostupnih Wi-Fi mreža u blizini. Želite li se umjesto toga spojiti na pristupnu točku?"</string>
+  <string name="softap_dialog_message">"Nema dostupnih Wi-Fi mreža u blizini. Želite li se umjesto toga spojiti na hotspot?"</string>
   <string name="softap_dialog_ok">U redu</string>
   <string name="softap_dialog_title">Povežite se na %1$s</string>
   <string name="softap_notification_action">Poveži</string>
@@ -617,6 +617,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="sub_screen_lock_message">"Otključajte svoj telefon
 za nastavak"</string>
   <string name="subscreen_exception_hint">"Uređaj nije ažuriran na najnoviju verziju. Mogu se pojaviti pogreške na prikazu."</string>
+  <string name="subscreen_multi_window_tips">"Okomiti prikaz nije podržan. Vratite se na vodoravni prikaz."</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
@@ -625,6 +626,7 @@ za nastavak"</string>
   <string name="switch_wlan_failed_desc">"Nije se moguće automatski povezati s ovom Wi-Fi mrežom. Pokušajte se povezati ručno u Postavkama."</string>
   <string name="switch_wlan_failed_desc_china">"Nije se moguće automatski povezati s ovom Wi-Fi mrežom. Pokušajte se povezati ručno u Postavkama."</string>
   <string name="switch_wlan_success">Uspješno povezivanje</string>
+  <string name="switch_wlan_success_china">Prebačen na istu Wi-Fi mrežu</string>
   <string name="switch_wlan_tips">Povežite se na istu mrežu</string>
   <string name="switch_wlan_tips_china">Povežite se na istu mrežu</string>
   <string name="switch_wlan_tips_desc">Možete se povezati na istu Wi-Fi mrežu kao i drugi uređaj za bolje iskustvo. Povezati se sada?</string>

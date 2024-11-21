@@ -46,6 +46,7 @@
   <string name="agree_btn">Prihvaćam</string>
   <string name="agree_camera_permission">Za skeniranje kodova i posjetnica, prepoznavanje teksta i objekata, stvaranje dokumenata, prijevod i povratne informacije</string>
   <string name="agree_contact_permission">Za stvaranje kontakata</string>
+  <string name="agree_storage_permission">Za pristup i uvoz slika iz galerije i spremanje datoteka</string>
   <string name="all_text">Cijeli tekst</string>
   <string name="already_ocr_result">Automatski odabrane stavke</string>
   <string name="always">Uvijek</string>

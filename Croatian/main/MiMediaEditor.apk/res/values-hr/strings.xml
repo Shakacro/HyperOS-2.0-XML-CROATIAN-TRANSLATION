@@ -98,7 +98,12 @@ za podešavanje područja disperzije"</string>
   <string name="adjust_grain">Žitarica</string>
   <string name="adjust_highlight">Naglasci</string>
   <string name="adjust_highlight_shadow">Naglasci &amp; sjene</string>
+  <string name="adjust_light_perception">Svjetloća</string>
   <string name="adjust_natural_saturation">Živost</string>
+  <string name="adjust_noise_degree">Stupanj</string>
+  <string name="adjust_noise_high_lights">Istaknute točke</string>
+  <string name="adjust_noise_roughness">Hrapavost</string>
+  <string name="adjust_noise_size">Veličina</string>
   <string name="adjust_reset">Poništi</string>
   <string name="adjust_saturation">Saturacija</string>
   <string name="adjust_shadow">Sjene</string>
@@ -109,6 +114,7 @@ za podešavanje područja disperzije"</string>
   <string name="adjust_tab_detail">Detalji</string>
   <string name="adjust_tab_dispersion">Disperzija</string>
   <string name="adjust_tab_effect">Efekti</string>
+  <string name="adjust_tab_noise">Buka</string>
   <string name="adjust_tab_tone">Ton</string>
   <string name="adjust_tab_white_balance">Balans bijele boje</string>
   <string name="adjust_talkback_curve_anchor_delete">Brisanje sidrišne točke</string>
@@ -1270,7 +1276,7 @@ za podešavanje područja disperzije"</string>
   <string name="photo_editor_aicrmanager_title">Upravljanje dodacima</string>
   <string name="photo_editor_aicrmanager_uninstall">Ukloni</string>
   <string name="photo_editor_aicrmanager_update">Ažuriraj</string>
-  <string name="photo_editor_aigc_inpaint_progress">Brisanje...</string>
+  <string name="photo_editor_aigc_inpaint_progress">Brisanje…</string>
   <string name="photo_editor_aigc_outpaint_progress">Proširenje slike…</string>
   <string name="photo_editor_aigc_quality_improve_progress">Vraćanje slike…</string>
   <string name="photo_editor_crop_ai_outpaint_name">Proširi</string>

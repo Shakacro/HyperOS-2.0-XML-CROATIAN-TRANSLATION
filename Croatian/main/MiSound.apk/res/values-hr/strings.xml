@@ -46,6 +46,7 @@
   <string name="clean_speaker_start_clean">Pokreni</string>
   <string name="clean_speaker_tips">Ovaj postupak traje otprilike %1$d sek. Glasnoća zvučnika automatski će se povećati na maksimum.</string>
   <string name="clean_speaker_title">Očisti zvučnik</string>
+  <string name="clean_speaker_unavailable">"Ova značajka nije dostupna"</string>
   <string name="clear_text_end_icon_content_description">Brisanje teksta</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="close">Zatvori</string>

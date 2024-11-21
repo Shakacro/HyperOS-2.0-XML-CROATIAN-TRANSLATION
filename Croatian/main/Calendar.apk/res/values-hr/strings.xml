@@ -144,6 +144,7 @@
   <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
   <string name="bottomsheet_drag_handle_clicked">Ručka za povlačenje dvaput dodirnuta</string>
   <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
+  <string name="bottom_navigator_days">%1$d dana</string>
   <string name="button_record_menstruation">Zabilježi</string>
   <string name="calendar_account_settings">Account settings</string>
   <string name="calendar_data_sharing_instruction">Izjava o dijeljenju podataka s trećim stranama</string>
@@ -301,6 +302,7 @@
   <string name="dialog_share_to_wechat_title">Podijelite s WeChatom</string>
   <string name="dialog_share_to_weibo_message">Koristimo Sina Weibo SDK za pružanje ove značajke. Odvojite trenutak da prvo pročitate i prihvatite naše %1$s.</string>
   <string name="dialog_share_to_weibo_title">Podijelite na Weibo</string>
+  <string name="desk_theme_selection">Tema stolnog kalendara</string>
   <string name="directory_searching_fmt">Pretraživanje %s…</string>
   <string name="discard_label">Odustani</string>
   <string name="display_dynamic_information">Prikaži događaje</string>
@@ -506,6 +508,8 @@
   <string name="language_change_confirmation">Promijenjeno uspješno. Jezik možete promijeniti u postavkama Kalendara.</string>
   <string name="latest_sync_time">Zadnja sinkronizacija: %1$s</string>
   <string name="launch_weather_comment">Dodirnite ovdje za informacije o vremenu</string>
+  <string name="library_cert4android_libraryDescription">Knjižnica za upravljanje prilagođenim certifikatima u pohrani privatnih ključeva aplikacije</string>
+<string name="library_ical4android_libraryDescription">Knjižnica koja objedinjuje iCalendar i Android</string>
   <string name="load_more_events">Pogledajte %d događaja</string>
   <string name="load_more_events_default">"Pogledajte događaje sljedeće godine"</string>
   <string name="load_more_hint">Pogledajte %1$d događaja</string>
@@ -755,6 +759,7 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="notification_open_setting_button_ok">Dopusti</string>
   <string name="notification_open_setting_message">"Nećete moći primati obavijesti o događajima osim ako ne dopustite Kalendaru da vam šalje obavijesti."</string>
   <string name="notification_open_setting_title">Želite li dopustiti obavijesti Kalendara?</string>
+  <string name="pack_up">Sakrij</string>
   <string name="partner_compatibility">Kompatibilnost partnera</string>
   <string name="passenger">Putnik</string>
   <string name="passport_access_denied">Pristup odbijen</string>
@@ -899,14 +904,24 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="passport_talkback_switch_image_captcha">Prebaci se na slikovni kontrolni kod</string>
   <string name="passport_talkback_switch_voice_captcha">Prebaci se na glasovni kontrolni kod</string>
   <string name="passport_talkback_voice_captcha">Reprodukcija koda za glasovnu potvrdu</string>
+  <string name="passport_third_sns_service_unavailable">"Usluga nije dostupna. Provjerite je li aplikacija instalirana i nije li blokirana."</string>
   <string name="passport_ticket_send_by_second">Pošalji za %d</string>
   <string name="passport_to_forget_password">Zaboravili ste zaporku?</string>
-  <string name="passport_to_password_login">Prijavite se lozinkom</string>
+  <string name="passport_to_password_login">Prijavite se zaporkom</string>
   <string name="passport_to_verify_code_login">Prijavite se SMS-om</string>
   <string name="passport_unknown_error">Nepoznata pogreška</string>
   <string name="passport_unknown_host_network_error">Provjerite mrežne postavke i pokušajte ponovno</string>
   <string name="passport_user_avatar_update_title">Promjena fotografije profila</string>
   <string name="passport_user_avatar_uploading">Samo trenutak…</string>
+  <string name="passport_user_agreement_hint_3rd_app"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Xiaomi račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
+  <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga provjere China Mobilea&lt;/a>."</Data></string>
+  <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete eSurfing usluga verifikacije računa&lt;/a>."</Data></string>
+  <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Odredbe i uvjete usluga provjere China Unicoma&lt;/a>."</Data></string>
+  <string name="passport_user_agreement_hint_default"><Data>"Pročitao sam i prihvaćam Xiaomi račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
+  <string name="passport_user_agreement_hint_first_login">"Automatski ćemo kreirati račun ako svoj telefonski broj koristite prvi put."</string>
+  <string name="passport_user_agreement_hint_with_mobile"><Data>"Pročitao sam i prihvaćam Xiaomi račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga provjere China Mobilea&lt;/a>."</Data></string>
+  <string name="passport_user_agreement_hint_with_telecom"><Data>"Pročitao sam i prihvaćam Xiaomi račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete eSurfing usluga verifikacije računa&lt;/a>."</Data></string>
+  <string name="passport_user_agreement_hint_with_unicom"><Data>"Pročitao sam i prihvaćam Xiaomi račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Odredbe i uvjete usluga provjere China Unicoma&lt;/a>."</Data></string>
   <string name="passport_user_id_hint">E-mail/broj telefona/ID Xiaomi računa</string>
   <string name="passport_user_name_phone_number">Telefonski broj</string>
   <string name="passport_user_password_hint">Zaporka</string>
@@ -1070,7 +1085,7 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="saturday_shortest">S</string>
   <string name="save">Spremi</string>
   <string name="save_to_local_failure_message">"Nije moguće spremiti"</string>
-  <string name="save_to_local_icon_name">Spremi na uređaj</string>
+  <string name="save_to_local_icon_name">Preuzmi</string>
   <string name="save_to_local_success_message">Uspješno spremljeno</string>
   <string name="saving_event">Događaj spremljen</string>
   <string name="saving_event_with_guest">Slanje ažuriranja…</string>

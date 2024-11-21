@@ -1,16 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="aiSearch_privacy_cta_all_purpose_version_one">Xiaomi HyperAI Engine pruža mogućnosti sustava koje podržavaju značajke kao što su Mi AI prijedlozi, Xiaomi HyperMind, Xiaomi HyperAI pretraživanje i trezor aplikacija prikupljanjem i analizom informacija o tome kako koristite svoj uređaj. Pruža mogućnosti pretraživanja za Xiaomi HyperAI pretraživanje i omogućuje vam pronalaženje stavki putem pretraživanja na prirodnom jeziku. Možete koristiti Xiaomi HyperAI Engine za pretraživanje u sistemskim aplikacijama uključujući Galeriju, Upravitelj datoteka, Snimač, Mi AI itd. Vaš pristanak na Politiku privatnosti Xiaomi HyperAI Engine također pokriva usluge koje se oslanjaju na Xiaomi HyperAI Engine (npr. Xiaomi HyperMind).</string>
-  <string name="aiSearch_privacy_cta_general_purpose_version_one">Xiaomi HyperAI Engine pruža mogućnosti sustava koje podržavaju značajke kao što su Mi AI prijedlozi, Xiaomi HyperMind, Xiaomi HyperAI pretraživanje i trezor aplikacija prikupljanjem i analizom informacija o tome kako koristite svoj uređaj.</string>
-  <string name="aiSearch_privacy_dialog_permission_desc_audioANDfile">Za pružanje usluga pretraživanja na prirodnom jeziku u sistemskim aplikacijama uključujući Upravitelj datoteka, Pretraživanje i Mi AI</string>
-  <string name="aiSearch_privacy_dialog_permission_desc_data_to_cloud">Kako bi bolje odgovorio na vaša pitanja koja se odnose na vaš život i aktivnosti, Xiaomi HyperAI Engine će prenijeti neke povezane stavke (fotografije, videozapise, datoteke itd.) u oblak nakon što postavite pitanje o njima. Ovi će se podaci koristiti samo za pitanja i odgovore unutar Mi AI glasovnog asistenta.</string>
-  <string name="aiSearch_privacy_dialog_permission_desc_imageANDvideo">Za pružanje usluga pretraživanja na prirodnom jeziku u sistemskim aplikacijama uključujući Galeriju, Pretraživanje i Mi AI</string>
-  <string name="aiSearch_privacy_dialog_permission_desc_sms">Za pružanje usluga pretraživanja na prirodnom jeziku u sistemskim aplikacijama uključujući Galeriju, Pretraživanje i Mi AI</string>
-  <string name="aiSearch_privacy_dialog_permission_desc_user_notice">Xiaomi HyperAI Engine pruža mogućnosti pretraživanja na prirodnom jeziku za neke aplikacije. Kako biste koristili ove značajke, prvo se složite s Politikom privatnosti za Xiaomi HyperAI Engine. Slažete li se sada?</string>
-  <string name="aiSearch_privacy_dialog_permission_title_data_to_cloud">Prenesi osobne podatke u oblak</string>
-  <string name="aiSearch_privacy_dialog_permission_title_user_notice">Uvjeti i odredbe</string>
   <string name="AI_diwbkiad_dekete_model">Izbriši model</string>
   <string name="AI_download_delete_message">"Ako izbrišete model Mi AI Image Creator, više nećete moći koristiti njegove značajke. Svejedno izbrisati?"</string>
+  <string name="AI_download_delete_model">Brisanje modela</string>
   <string name="AI_download_delete_neg">Odustani</string>
   <string name="AI_download_delete_pos">Izbriši</string>
   <string name="AI_download_delete_title">Izbrisati model?</string>
@@ -18,6 +10,8 @@
   <string name="AI_download_function_message">Instalirajte Mi AI Image Creator kako bi Mi AI generirao slike iz vaših opisa.</string>
   <string name="AI_download_title">Mi AI Image Creator model</string>
   <string name="AI_version_number">Verzija: %d</string>
+  <string name="HM_permission_desc_common">Za učenje obrazaca i poboljšanje točnosti preporuka</string>
+  <string name="HM_permission_desc_phone_state">Za izvršavanje obrazaca povezanih s pozivom</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
@@ -46,7 +40,28 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="about_MiAI_engine">O Xiaomi HyperAI Engine</string>
+  <string name="about_MiAI_engine_hyper">O Xiaomi HyperAI Engineu</string>
+  <string name="accessbility_permission_title">Preuzete aplikacije</string>
+  <string name="accessbility_permission_toast_msg">"Uključite značajke pristupačnosti Xiaomi HyperAI Enginea da biste mogli izvršiti ovu radnju"</string>
   <string name="actionbar_button_up_description">Natrag</string>
+  <string name="aiSearch_enhance_setting_desc">Koristite pretraživanje prirodnim jezikom za pronalaženje stavki u aplikacijama sustava</string>
+  <string name="aiSearch_enhance_setting_quick_desc">Pretražite više aplikacija sustava za preciznije rezultate</string>
+  <string name="aiSearch_enhance_setting_quick_title">Pretraživanje</string>
+  <string name="aiSearch_enhance_setting_system_desc">Tražite fotografije, video zapise, datoteke, snimke, bilješke i poruke i pronađite gdje se točno nalaze u galeriji, datotekama, snimaču, bilješkama i porukama.</string>
+  <string name="aiSearch_enhance_setting_system_title">Aplikacije sustava pretraživanja</string>
+  <string name="aiSearch_enhance_setting_title">AI pretraživanje</string>
+  <string name="aiSearch_enhance_setting_xiaoai_desc">Tražite datoteke i pogledajte sve rezultate u odgovarajućoj aplikaciji. Također možete pronaći svoje datoteke putem Pitanja i odgovora uz Mi AI.</string>
+  <string name="aiSearch_enhance_setting_xiaoai_title">Mi AI</string>
+  <string name="aiSearch_privacy_cta_all_purpose_version_one">Xiaomi HyperAI Engine pruža mogućnosti sustava koje podržavaju značajke kao što su Mi AI prijedlozi, Xiaomi HyperMind, Xiaomi HyperAI pretraživanje i trezor aplikacija prikupljanjem i analizom informacija o tome kako koristite svoj uređaj. Pruža mogućnosti pretraživanja za Xiaomi HyperAI pretraživanje i omogućuje vam pronalaženje stavki putem pretraživanja na prirodnom jeziku. Možete koristiti Xiaomi HyperAI Engine za pretraživanje u sistemskim aplikacijama uključujući Galeriju, Upravitelj datoteka, Snimač, Mi AI itd. Vaš pristanak na Politiku privatnosti Xiaomi HyperAI Engine također pokriva usluge koje se oslanjaju na Xiaomi HyperAI Engine (npr. Xiaomi HyperMind).</string>
+  <string name="aiSearch_privacy_cta_general_purpose_version_one">Xiaomi HyperAI Engine pruža mogućnosti sustava koje podržavaju značajke kao što su Mi AI prijedlozi, Xiaomi HyperMind, Xiaomi HyperAI pretraživanje i trezor aplikacija prikupljanjem i analizom informacija o tome kako koristite svoj uređaj.</string>
+  <string name="aiSearch_privacy_dialog_permission_desc_audioANDfile">Za pružanje usluga pretraživanja na prirodnom jeziku u sistemskim aplikacijama uključujući Upravitelj datoteka, Pretraživanje i Mi AI</string>
+  <string name="aiSearch_privacy_dialog_permission_desc_data_to_cloud">Kako bi bolje odgovorio na vaša pitanja koja se odnose na vaš život i aktivnosti, Xiaomi HyperAI Engine će prenijeti neke povezane stavke (fotografije, videozapise, datoteke itd.) u oblak nakon što postavite pitanje o njima. Ovi će se podaci koristiti samo za pitanja i odgovore unutar Mi AI glasovnog asistenta.</string>
+  <string name="aiSearch_privacy_dialog_permission_desc_imageANDvideo">Za pružanje usluga pretraživanja na prirodnom jeziku u sistemskim aplikacijama uključujući Galeriju, Pretraživanje i Mi AI</string>
+  <string name="aiSearch_privacy_dialog_permission_desc_sms">Za pružanje usluga pretraživanja na prirodnom jeziku u sistemskim aplikacijama uključujući Galeriju, Pretraživanje i Mi AI</string>
+  <string name="aiSearch_privacy_dialog_permission_desc_user_notice">Xiaomi HyperAI Engine pruža mogućnosti pretraživanja na prirodnom jeziku za neke aplikacije. Kako biste koristili ove značajke, prvo se složite s Politikom privatnosti za Xiaomi HyperAI Engine. Slažete li se sada?</string>
+  <string name="aiSearch_privacy_dialog_permission_desc_user_notice_hyper">Xiaomi HyperAI Engine pruža mogućnosti pretraživanja na prirodnom jeziku za neke aplikacije. Prihvatite Pravila o privatnosti Xiaomi HyperAI Enginea kako biste mogli koristiti ove značajke.</string>
+  <string name="aiSearch_privacy_dialog_permission_title_data_to_cloud">Prenesi osobne podatke u oblak</string>
+  <string name="aiSearch_privacy_dialog_permission_title_user_notice">Uvjeti i odredbe</string>
   <string name="aireco_comm_reject">Ne sada</string>
   <string name="aireco_comm_to_setting">Postavke</string>
   <string name="aireco_intent_dialog_app_update_button_no">Ne sada</string>
@@ -67,6 +82,7 @@
   <string name="aireco_intent_dialog_op_gps_service_message">Mi AI prijedlozi moraju pristupiti vašoj lokaciji kako bi pružili cijeli niz usluga. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="aireco_intent_dialog_op_gps_service_title">Uključite usluge lokacije</string>
   <string name="app_name">Xiaomi HyperAI Engine</string>
+  <string name="background_download">Razumijem</string>
   <string name="bottomsheet_action_collapse">Sažmi donji list</string>
   <string name="bottomsheet_action_expand">Proširi donji list</string>
   <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
@@ -129,6 +145,8 @@
   <string name="case00032_audioProjectWhenArriveHome_scene_name">Prijenos audio reprodukcije po dolasku kući</string>
   <string name="case00036_00037_muteWhenDooebellRing_description">%1$s će biti isključen kada netko pozvoni na vrata</string>
   <string name="case00036_00037_muteWhenDoorbellRing_scene_name">Isključi zvučnik kada zazvoni zvono na vratima</string>
+  <string name="cellular_message">Želite li koristiti svoju mobilnu podatkovnu vezu za preuzimanje ove datoteke?</string>
+  <string name="cellular_title">Upozorenje o korištenju podataka</string>
   <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašilo je %1$d od %2$d</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
@@ -140,12 +158,21 @@
   <string name="cognition_func_detail_msg">Prepoznaje i predviđa situacije i pruža personalizirane usluge</string>
   <string name="cognition_func_name">Mehanizam za spoznaju na uređaju</string>
   <string name="cognition_func_open">Mehanizam za spoznaju na uređaju</string>
+  <string name="cognition_os2_permission_cta_desc_HM">Pametne kontrole</string>
+  <string name="cognition_os2_permission_cta_desc_aiBattery">Mehanizam za pametno punjenje</string>
+  <string name="cognition_os2_permission_cta_desc_aiSearch">Xiaomi HyperAI pretraživanje</string>
+  <string name="cognition_os2_permission_cta_desc_computingSharing">Računalna podrška</string>
+  <string name="cognition_os2_permission_cta_desc_title">Xiaomi HyperAI Engine je centar za mogućnosti sustava koji prikuplja i analizira ponašanje korisnika na vašem uređaju kako bi omogućio prepoznavanje scene i pametne kontrole za sljedeće usluge: %1$s.</string>
+  <string name="cognition_os2_permission_cta_desc_xiaoaiPlus">Super Mi AI</string>
+  <string name="cognition_os2_permission_default_desc_appList">Za dopuštanje Super Mi AI dobivanju podrške za App Actions</string>
+  <string name="cognition_os2_permission_default_desc_context">"Za opažanje okolnog okruženja; Za izgradnju Xiaomi HyperAI indeksa pretraživanja; Za procjenu statusa poziva; Za određivanje kada ste budni ili spavate; Za izgradnju Xiaomi HyperAI indeksa pretraživanja; Za izgradnju Xiaomi HyperAI indeksa pretraživanja ;Za izgradnju Xiaomi HyperAI indeksa pretraživanja;Za izgradnju Xiaomi HyperAI indeksa pretraživanja;Za dopuštanje Super Mi AI dobivanju podrške za App Actions"</string>
+  <string name="cognition_os2_permission_default_desc_location">Za opažanje okoline</string>
+  <string name="cognition_os2_permission_default_desc_microphone">"Za određivanje kada ste budni ili spavate"</string>
+  <string name="cognition_os2_permission_default_desc_phoneState">Za procjenu statusa poziva</string>
+  <string name="cognition_os2_permission_default_desc_serchIndex">"Za izgradnju Xiaomi HyperAI indeksa pretraživanja"</string>
+  <string name="cognition_os2_permission_default_desc_title">Xiaomi HyperAI Engine je centar za mogućnosti sustava koji prikuplja i analizira ponašanje korisnika na vašem uređaju kako bi omogućio prepoznavanje scene i pametne kontrole za usluge uključujući Xiaomi HyperAI pretraživanje, podršku za računalstvo i mehanizam za pametno punjenje.</string>
+  <string name="cognition_os2_permission_request_content_desc">Kako bi pružio usluge pretraživanja sadržaja, Xiaomi HyperAI Engine treba sljedeća dopuštenja: %1$s.</string>
   <string name="cognition_permission_all_files_name">Pristup svim datotekama</string>
-  <string name="cognition_permission_image_video_name">Pristup fotografijama i videozapisima</string>
-  <string name="cognition_permission_request_content_desc">Dajte sljedeće dopuštenje da biste mogli koristiti usluge pretraživanja: %1$s</string>
-  <string name="cognition_permission_request_content_title">Potrebna dopuštenja</string>
-  <string name="cognition_permission_sms_name">Pristup SMS-u i MMS-u</string>
-  <string name="cognition_privacy_cta_general_purpose">Xiaomi HyperAI Engine pruža mogućnosti sustava koje podržavaju značajke kao što su Mi AI prijedlozi, Xiaomi HyperMind i App vault prikupljanjem i analizom informacija o tome kako koristite svoj uređaj.</string>
   <string name="cognition_permission_content_bottom">如不同意调用以上权限，将导致相应功能无法正常使用，但不影响您使用本应用的基本功能。您可随时在App的“隐私设置”中关闭以上权限调用以撤回同意</string>
   <string name="cognition_permission_content_connect">读取设备连接状态：当您使用NFC智能切卡等服务时，您可以通过开启读取设备连接权限以便获取连接设备状态信息。</string>
   <string name="cognition_permission_content_know">我知道了</string>
@@ -157,22 +184,30 @@
   <string name="cognition_permission_declaration">Pojedinosti o dopuštenjima</string>
   <string name="cognition_permission_guidance_message">Xiaomi HyperMind为向您提供更加精准的服务，请前往权限管理页面开启%s</string>
   <string name="cognition_permission_guidance_title">允许“Xiaomi HyperMind”相关权限</string>
+  <string name="cognition_permission_image_video_name">Pristup fotografijama i videozapisima</string>
   <string name="cognition_permission_location">Informacije o lokaciji</string>
-  <string name="cognition_permission_location_name">\"Pristup preciznoj lokaciji\"</string>
   <string name="cognition_permission_location_msg">Za pristup vašoj trenutnoj lokaciji</string>
+  <string name="cognition_permission_location_name">\"Pristup preciznoj lokaciji\"</string>
   <string name="cognition_permission_nearby_device_name">\"Otkrivanje uređaja u blizini\"</string>
+  <string name="cognition_permission_note_name">Pristup bilješkama</string>
   <string name="cognition_permission_phone_state_name">\"Pristup informacijama u vezi s pozivom\"</string>
   <string name="cognition_permission_related">Dopuštenja</string>
+  <string name="cognition_permission_request_content_desc">Dajte sljedeće dopuštenje da biste mogli koristiti usluge pretraživanja: %1$s</string>
+  <string name="cognition_permission_request_content_title">Potrebna dopuštenja</string>
   <string name="cognition_permission_runtime_msg">Za pristup prošlim informacijama o lokaciji pohranjenim na uređaju kako bi se pružile preciznije i personalizirane usluge</string>
+  <string name="cognition_permission_sms_name">Pristup SMS-u i MMS-u</string>
+  <string name="cognition_permission_soundrecord_name">Snimanje zvuka</string>
   <string name="cognition_permission_storage">Pristup datotekama pohranjenim na uređaju</string>
   <string name="cognition_permission_storage_msg">Za pristup prošlim informacijama o lokaciji pohranjenim na uređaju</string>
   <string name="cognition_permission_tips">温馨提示</string>
   <string name="cognition_privacy_cta_all_purpose">MiAI引擎为Xiaomi HyperMind提供能力支持。MiAI引擎将智能感知您的场景，学习您的习惯，为您提供准确、个性化的服务。</string>
+  <string name="cognition_privacy_cta_general_purpose">Xiaomi HyperAI Engine pruža mogućnosti sustava koje podržavaju značajke kao što su Mi AI prijedlozi, Xiaomi HyperMind i App vault prikupljanjem i analizom informacija o tome kako koristite svoj uređaj.</string>
   <string name="cognition_privacy_dialog_get_background_loc_permission_message">为继续执行此习惯，请前往权限管理页面开启后台获取地理位置权限</string>
   <string name="cognition_privacy_dialog_get_background_loc_permission_title">允许“Xiaomi HyperMind”从后台获取地理位置</string>
   <string name="cognition_privacy_dialog_get_mijia_cta_message">为实现场景感知和习惯学习，MiAI引擎需要收集您使用“米家”时的智能设备信息。请前往“米家”完成注册和登录。</string>
   <string name="cognition_privacy_dialog_get_mijia_cta_title">前往米家</string>
   <string name="cognition_privacy_dialog_get_mijia_data_message">为了实现场景感知和习惯学习，MiAI引擎需要收集您使用“米家”时的智能设备信息和操作信息，请您确认是否使用过%s账号登录“米家”，并同意我们从“米家”获取该账号的相关数据。</string>
+  <string name="cognition_privacy_dialog_get_mijia_data_message_hyper">"Xiaomi HyperAI Engine treba prikupljati informacije o vašim pametnim uređajima Xiaomi Home i načinu na koji ih koristite kako bi mogao naučiti vaše uzorke. Provjerite jeste li se prijavili na Xiaomi Home svojim računom (% s), tada nam dopustite prikupljanje relevantnih informacija iz Xiaomi Home."</string>
   <string name="cognition_privacy_dialog_get_mijia_data_title">获取米家数据</string>
   <string name="cognition_privacy_dialog_get_noti_permission_message">通知为必要权限，请前往权限管理页面开启权限</string>
   <string name="cognition_privacy_dialog_get_noti_permission_title">允许“Xiaomi HyperMind”发送通知</string>
@@ -192,20 +227,53 @@
   <string name="cognition_privacy_revoke_dialog_negative_count">Povlačenje (%ds)</string>
   <string name="cognition_privacy_revoke_dialog_positive">Odustani</string>
   <string name="cognition_privacy_revoke_dialog_title">Povlačenje suglasnosti</string>
-  <string name="cognition_privacy_revoke_tip_dialog_content"><Data>由于您不同意我们变更后的隐私政策，您将无法继续使用%1$s应用。是否确定同意%2$s变更后的&lt;a href=\"%3$s\">《隐私政策》&lt;/a>？</Data></string>
+  <string name="cognition_privacy_revoke_tip_dialog_content">&lt;Data&gt;&amp;#30001;&amp;#20110;&amp;#24744;&amp;#19981;&amp;#21516;&amp;#24847;&amp;#25105;&amp;#20204;&amp;#21464;&amp;#26356;&amp;#21518;&amp;#30340;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#65292;&amp;#24744;&amp;#23558;&amp;#26080;&amp;#27861;&amp;#32487;&amp;#32493;&amp;#20351;&amp;#29992;%1$s&amp;#24212;&amp;#29992;&amp;#12290;&amp;#26159;&amp;#21542;&amp;#30830;&amp;#23450;&amp;#21516;&amp;#24847;%2$s&amp;#21464;&amp;#26356;&amp;#21518;&amp;#30340;&amp;lt;a href=\"%3$s\"&amp;gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#65311;&lt;/Data&gt;</string>
   <string name="cognition_privacy_revoke_tip_dialog_title">无法继续使用应用</string>
   <string name="cognition_privacy_setting">Privatnost</string>
   <string name="cognition_privacy_statement_show">Pogledajte Pravila o privatnosti</string>
   <string name="cognition_privacy_statement_string">Pravila o privatnosti</string>
-	<string name="cognition_privacy_update_dialog_content_1">%s的隐私政策发生如下变更：</string>
-  <string name="cognition_privacy_update_dialog_content_2"><Data>请您阅读并同意变更后的&lt;a href=\"%1$s\">《隐私政策》&lt;/a>。</Data></string>
+  <string name="cognition_privacy_update_dialog_content_1">%s的隐私政策发生如下变更：</string>
+  <string name="cognition_privacy_update_dialog_content_2">&lt;Data&gt;&amp;#35831;&amp;#24744;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;#21464;&amp;#26356;&amp;#21518;&amp;#30340;&amp;lt;a href=\"%1$s\"&amp;gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#12290;&lt;/Data&gt;</string>
   <string name="cognition_privacy_update_dialog_title">隐私政策变更</string>
+  <string name="common_google_play_services_enable_button">Omogući usluge za Google Play</string>
+  <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite Google Play usluge.</string>
+  <string name="common_google_play_services_enable_title">Omogući usluge za Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Zahtijeva aplikacija %1$s</string>
+  <string name="common_google_play_services_install_button">Preuzmi usluge za Google Play</string>
+  <string name="common_google_play_services_install_text">"%1$s neće raditi bez usluga Google Play koje nedostaju na vašem uređaju."</string>
+  <string name="common_google_play_services_install_text_phone">%1$s neće funkcionirati bez Google Play usluga koje nisu instalirane na vašem telefonu.</string>
+  <string name="common_google_play_services_install_text_tablet">%1$s neće funkcionirati bez Google Play usluga koje nisu instalirane na vašem tabletu.</string>
+  <string name="common_google_play_services_install_title">Preuzmi usluge za Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">Navedeni račun ne postoji na ovom uređaju. Odaberite neki drugi račun.</string>
+  <string name="common_google_play_services_invalid_account_title">Nevažeći račun</string>
+  <string name="common_google_play_services_needs_enabling_title">Aplikacija zahtijeva da Usluge za Google Play budu omogućene.</string>
+  <string name="common_google_play_services_network_error_text">Potrebna je podatkovna veza za povezivanje s uslugama Google Play.</string>
+  <string name="common_google_play_services_network_error_title">Mrežna pogreška</string>
+  <string name="common_google_play_services_notification_channel_name">Dostupnost usluga Google Play</string>
+  <string name="common_google_play_services_notification_needs_update_title">Aplikacija zahtijeva ažuriranje Usluga za Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">Pogreška Usluga za Google Play</string>
+  <string name="common_google_play_services_sign_in_failed_text">Pogreška prilikom prijave na navedeni račun. Odaberite neki drugi račun.</string>
+  <string name="common_google_play_services_sign_in_failed_title">Prijava nije uspjela</string>
+  <string name="common_google_play_services_unknown_issue">Nepoznata poteškoća s uslugama za Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">%1$s radi uz pomoć Google Play usluge koje vaš uređaj ne podržava. Za pomoć se obratite proizvođaču.</string>
+  <string name="common_google_play_services_unsupported_title">Usluge za Google Play</string>
+  <string name="common_google_play_services_update_button">Ažuriranje</string>
+  <string name="common_google_play_services_update_text">%1$s neće funkcionirati ako ne ažurirate Google Play usluge.</string>
+  <string name="common_google_play_services_update_title">Ažuriraj usluge za Google Play</string>
+  <string name="common_google_play_services_updating_text">%1$s neće funkcionirati bez Google Play usluga koje se trenutačno ažuriraju.</string>
+  <string name="common_google_play_services_updating_title">Ažuriranje Google Play usluga u tijeku</string>
+  <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Play. Uskoro će se ažurirati.</string>
   <string name="common_open_on_phone">Otvori na telefonu</string>
+  <string name="common_signin_button_text">Prijava</string>
+  <string name="common_signin_button_text_long">Prijava uslugom Google</string>
+  <string name="contacts_permission_desc">Pristup podacima o kontaktima</string>
   <string name="copy">Kopiraj</string>
   <string name="copywriting_audioProject_description_hmind">Prenesena audio reprodukcija</string>
   <string name="copywriting_audioProject_description_island">Prenesena audio reprodukcija</string>
   <string name="copywriting_closeAirConditioner_description_hmind">Klima uređaj isključen</string>
   <string name="copywriting_closeAirConditioner_description_island">Klima uređaj isključen</string>
+  <string name="copywriting_closeAirFresh_description_hmind">Isključen sustav svježeg zraka</string>
+  <string name="copywriting_closeAirFresh_description_island">Isključen sustav svježeg zraka</string>
   <string name="copywriting_closeAirPurifier_description_hmind">Pročišćivač zraka isključen</string>
   <string name="copywriting_closeAirPurifier_description_island">Pročišćivač zraka isključen</string>
   <string name="copywriting_closeCurtain_description_hmind">Zavjese su spuštene</string>
@@ -241,6 +309,8 @@
   <string name="copywriting_notify_title_once">Prijedlog</string>
   <string name="copywriting_openAirConditioner_description_hmind">Klima uređaj uključen</string>
   <string name="copywriting_openAirConditioner_description_island">Klima uređaj uključen</string>
+  <string name="copywriting_openAirFresh_description_hmind">Uključen sustav svježeg zraka</string>
+  <string name="copywriting_openAirFresh_description_island">Uključen sustav svježeg zraka</string>
   <string name="copywriting_openAirPurifier_description_hmind">Pročišćivač zraka uključen</string>
   <string name="copywriting_openAirPurifier_description_island">Pročišćivač zraka uključen</string>
   <string name="copywriting_openCurtain_description_hmind">Zavjese su otvorene</string>
@@ -277,70 +347,54 @@
   <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za pristup vašoj trenutnoj lokaciji</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za pristup prošlim informacijama o lokaciji pohranjenim na uređaju</string>
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
+  <string name="dist_compute_ai_list_summary_content">Primajte pametne sažetke obavijesti i poruka za pregled ključnih informacija na prvi pogled</string>
+  <string name="dist_compute_ai_list_summary_title">AI Informacije</string>
+  <string name="dist_compute_ai_writing_content">Usavršite svoje pisanje putem umjetne inteligencije uz podršku svojih uređaja veće računalne snage</string>
+  <string name="dist_compute_ai_writing_title">Pisanje sa AI</string>
+  <string name="dist_compute_cancel">Odustani</string>
+  <string name="dist_compute_download_guidance_content">Preuzmite potrebne velike modele na svoj uređaj kako biste mogli koristiti podršku za računalstvo. Preuzeti sada?</string>
+  <string name="dist_compute_download_guidance_title">Preuzmi veliki model</string>
+  <string name="dist_compute_download_now">Preuzimanje</string>
+  <string name="dist_compute_pad_already_connected">Povezano: %1$s</string>
+  <string name="dist_compute_pad_button_neutral">Razumijem</string>
+  <string name="dist_compute_pad_notification_content">Power AI značajke uz podršku uređaja u blizini</string>
+  <string name="dist_compute_pad_notification_title">"Koristite podršku za računalstvo"</string>
+  <string name="dist_compute_pad_remind_content">Povežite uređaj veće računalne snage koji je prijavljen na vaš račun kako biste mogli koristiti podršku za računalstvo. To možete učiniti u Postavkama &gt; Xiaomi HyperAI &gt; Računalna podrška.</string>
+  <string name="dist_compute_pad_remind_title">Poveži uređaj</string>
+  <string name="dist_compute_pad_subtitle_local">Koristite značajke AI briefinga i AI pisanja uz podršku uređaja u blizini</string>
+  <string name="dist_compute_privacy_management">Privatnost</string>
+  <string name="dist_compute_setting_switch_content_local">"Uređaji u blizini mogu koristiti značajke AI briefinga i AI pisanja pomoću računalne snage ovog uređaja"</string>
+  <string name="dist_compute_title">Računalna podrška</string>
   <string name="download_cancel">Odustani</string>
   <string name="download_complete">Preuzeto</string>
+  <string name="download_done">Gotovo</string>
   <string name="download_notification_title">Poboljšajte stabilnost i optimizirajte svoje iskustvo</string>
   <string name="download_notification_update">Dodirnite za ažuriranje</string>
+  <string name="download_paused">Pauzirano</string>
   <string name="download_process_content_wenshengtu_title">Preuzimanje Mi AI Image Creator modela…</string>
   <string name="download_progress">%1d%%</string>
-  <string name="download_done">Gotovo</string>
-  <string name="download_paused">Pauzirano</string>
   <string name="download_resume">%d%%</string>
+  <string name="download_start">Preuzimanje</string>
+  <string name="download_updata">Ažuriraj</string>
+  <string name="download_update">Ažuriraj</string>
   <string name="error_a11y_label">Pogreška: nevažeće</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+  <string name="fcm_fallback_notification_channel_label">Razno</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">Pet</string>
-  <string name="common_google_play_services_enable_button">Omogući usluge za Google Play</string>
-  <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite Google Play usluge.</string>
-  <string name="common_google_play_services_enable_title">Omogući usluge za Google Play</string>
-  <string name="common_google_play_services_error_notification_requested_by_msg">Zahtijeva aplikacija %1$s</string>
-  <string name="common_google_play_services_install_button">Preuzmi usluge za Google Play</string>
-  <string name="common_google_play_services_install_text">"%1$s neće raditi bez usluga Google Play koje nedostaju na vašem uređaju."</string>
-  <string name="common_google_play_services_install_text_phone">%1$s neće funkcionirati bez Google Play usluga koje nisu instalirane na vašem telefonu.</string>
-  <string name="common_google_play_services_install_text_tablet">%1$s neće funkcionirati bez Google Play usluga koje nisu instalirane na vašem tabletu.</string>
-  <string name="common_google_play_services_install_title">Preuzmi usluge za Google Play</string>
-  <string name="common_google_play_services_invalid_account_text">Navedeni račun ne postoji na ovom uređaju. Odaberite neki drugi račun.</string>
-  <string name="common_google_play_services_invalid_account_title">Nevažeći račun</string>
-  <string name="common_google_play_services_needs_enabling_title">Aplikacija zahtijeva da Usluge za Google Play budu omogućene.</string>
-  <string name="common_google_play_services_network_error_text">Potrebna je podatkovna veza za povezivanje s uslugama Google Play.</string>
-  <string name="common_google_play_services_network_error_title">Mrežna pogreška</string>
-  <string name="common_google_play_services_notification_channel_name">Dostupnost usluga Google Play</string>
-  <string name="common_google_play_services_notification_needs_update_title">Aplikacija zahtijeva ažuriranje Usluga za Google Play.</string>
-  <string name="common_google_play_services_notification_ticker">Pogreška Usluga za Google Play</string>
-  <string name="common_google_play_services_sign_in_failed_text">Pogreška prilikom prijave na navedeni račun. Odaberite neki drugi račun.</string>
-  <string name="common_google_play_services_sign_in_failed_title">Prijava nije uspjela</string>
-  <string name="common_google_play_services_unknown_issue">Nepoznata poteškoća s uslugama za Google Play.</string>
-  <string name="common_google_play_services_unsupported_text">%1$s radi uz pomoć Google Play usluge koje vaš uređaj ne podržava. Za pomoć se obratite proizvođaču.</string>
-  <string name="common_google_play_services_unsupported_title">Usluge za Google Play</string>
-  <string name="common_google_play_services_update_button">Ažuriranje</string>
-  <string name="common_google_play_services_update_text">%1$s neće funkcionirati ako ne ažurirate Google Play usluge.</string>
-  <string name="common_google_play_services_update_title">Ažuriraj usluge za Google Play</string>
-  <string name="common_google_play_services_updating_text">%1$s neće funkcionirati bez Google Play usluga koje se trenutačno ažuriraju.</string>
-  <string name="common_google_play_services_updating_title">Ažuriranje Google Play usluga u tijeku</string>
-  <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Play. Uskoro će se ažurirati.</string>
-  <string name="common_signin_button_text">Prijava</string>
-  <string name="common_signin_button_text_long">Prijava uslugom Google</string>
-  <string name="contacts_permission_desc">Pristup podacima o kontaktima</string>
-  <string name="copywriting_closeAirFresh_description_hmind">Isključen sustav svježeg zraka</string>
-  <string name="copywriting_closeAirFresh_description_island">Isključen sustav svježeg zraka</string>
-  <string name="copywriting_openAirFresh_description_hmind">Uključen sustav svježeg zraka</string>
-  <string name="copywriting_openAirFresh_description_island">Uključen sustav svježeg zraka</string>
-  <string name="download_start">Preuzimanje</string>
-  <string name="download_updata">Ažuriraj</string>
-  <string name="fcm_fallback_notification_channel_label">Razno</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
+  <string name="material_hour_24h_suffix">%1$s sati</string>
   <string name="material_hour_selection">Odaberite sat</string>
   <string name="material_hour_suffix">%1$s h</string>
-  <string name="material_hour_24h_suffix">%1$s sati</string>
   <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s min</string>
   <string name="material_slider_range_end">Kraj raspona</string>
-  <string name="material_slider_range_start">Početak raspona</string>  
+  <string name="material_slider_range_start">Početak raspona</string>
   <string name="material_slider_value">Vrijednost</string>
   <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
   <string name="material_timepicker_hour">Sat</string>
@@ -348,6 +402,11 @@
   <string name="material_timepicker_pm">PM</string>
   <string name="material_timepicker_select_time">Odabir vremena</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
+  <string name="miai_authorization_bluetooth_dia_subtitle">Dopustite ovoj aplikaciji pristup statusu Bluetooth veze kako bi pokrenula automatizaciju i uzorke.</string>
+  <string name="miai_authorization_call_dia_subtitle">Za izvršavanje uzoraka tijekom poziva</string>
+  <string name="miai_authorization_location_background_dia_subtitle">"Dopustite ovoj aplikaciji pristup vašoj lokaciji kada nije u upotrebi kako bi pokrenula automatizaciju i uzorke."</string>
+  <string name="miai_authorization_location_front_dia_subtitle">Dopustite ovoj aplikaciji pristup informacijama o lokaciji i Wi-Fi vezi kako bi se pokrenula automatizacija i obrasci.</string>
+  <string name="miai_authorization_micophone_dia_subtitle">Dopustite ovoj aplikaciji pristup mikrofonu kako bi pokrenula automatizaciju i uzorke.</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -379,6 +438,11 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="model_manager_title">Upravljanje modelima</string>
+  <string name="model_message">Verzija %d</string>
+  <string name="model_notification">Preuzimanje velikog modela…</string>
+  <string name="model_title">Veliki model na uređaju</string>
+  <string name="model_unzip">Raspakiranje…</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -421,16 +485,16 @@
   <string name="more">Više</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_checkbox_state_description_checked">Označeno</string>
-  <string name="mtrl_checkbox_state_description_unchecked">Nije označeno</string>
   <string name="mtrl_checkbox_state_description_indeterminate">Djelomično označeno</string>
+  <string name="mtrl_checkbox_state_description_unchecked">Nije označeno</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
   <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
   <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
+  <string name="mtrl_picker_announce_current_range_selection">Odabir datuma početka: %1$s – Odabir datuma završetka: %2$s</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
   <string name="mtrl_picker_announce_current_selection_none">Ništa</string>
-  <string name="mtrl_picker_announce_current_range_selection">Odabir datuma početka: %1$s – Odabir datuma završetka: %2$s</string>
   <string name="mtrl_picker_cancel">Odustani</string>
   <string name="mtrl_picker_confirm">U redu</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
@@ -442,8 +506,8 @@
   <string name="mtrl_picker_invalid_format_example">Primjer: %1$s</string>
   <string name="mtrl_picker_invalid_format_use">Koristi: %1$s</string>
   <string name="mtrl_picker_invalid_range">Pogrešan raspon.</string>
-  <string name="mtrl_picker_navigate_to_year_description">Idi na godinu %1$d</string>
   <string name="mtrl_picker_navigate_to_current_year_description">Idi do tekuće godine %1$d</string>
+  <string name="mtrl_picker_navigate_to_year_description">Idi na godinu %1$d</string>
   <string name="mtrl_picker_out_of_range">Izvan raspona: %1$s</string>
   <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – Datum završetka</string>
@@ -465,19 +529,20 @@
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na prikaz godine</string>
   <string name="mtrl_timepicker_cancel">Odustani</string>
   <string name="mtrl_timepicker_confirm">U redu</string>
+  <string name="no_internet_toast">Nema interneta. Povežite se i pokušajte ponovo.</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notification_execution_failed">"Nije moguće izvršiti radnju"</string>
-  <string name="notification_remember_habit">Uzorak zapamćen</string>
-  <string name="notification_remember_this_habit">Zapamti uzorak</string>
   <string name="notification_operationFailedWhenHabitsHaveBeenPaused">"Ne mogu se sjetiti uzorka. Uzorak je pauziran."</string>
   <string name="notification_operationFailedWhenNoEnabledFunction">"Ne mogu se sjetiti uzorka. Najprije uključite HyperMind."</string>
   <string name="notification_operationFailedWhenNoPermission">"Ne mogu se sjetiti uzorka. Prihvatite naša Pravila o privatnosti i prvo dajte potrebna dopuštenja."</string>
   <string name="notification_operation_failed">"Ne mogu se sjetiti uzorka"</string>
+  <string name="notification_remember_habit">Uzorak zapamćen</string>
+  <string name="notification_remember_this_habit">Zapamti uzorak</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_crop_user_avatar">Obreži fotografiju</string>
   <string name="passport_account_empty_user_name">Unesite svoje ime</string>
   <string name="passport_account_error_all_space_user_name">"Ime ne može sadržavati samo razmake"</string>
-  <string name="passport_account_error_invalid_user_name">"Ime ne može sadržavati &lt;, > ili /"</string>
+  <string name="passport_account_error_invalid_user_name">"Ime ne može sadržavati &lt;, &gt; ili /"</string>
   <string name="passport_account_error_longer_user_name">"Ime ne može biti duže od %d znakova"</string>
   <string name="passport_account_error_shorter_user_name">Ime mora biti duže od %d znakova</string>
   <string name="passport_account_error_user_name">Ovo korisničko ime nije valjano. Pokušajte s drugim.</string>
@@ -591,12 +656,12 @@
   <string name="passport_register_restricted">Previše je računa povezano s ovim brojem. Pokušajte s drugim.</string>
   <string name="passport_relogin_notice">Morate se ponovo prijaviti</string>
   <string name="passport_request_agree">Dopusti</string>
-  <string name="passport_request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeća dopuštenja za normalan rad:&lt;br>&lt;br>&lt;b>Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b>&lt;br>&lt;br>Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine će osnovne funkcije i dalje biti vam dostupan. Uvijek možete ograničiti dopuštenja ili opozvati svoje ovlaštenje u Postavkama."</string>
+  <string name="passport_request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeća dopuštenja za normalan rad:&lt;br&gt;&lt;br&gt;&lt;b&gt;Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine će osnovne funkcije i dalje biti vam dostupan. Uvijek možete ograničiti dopuštenja ili opozvati svoje ovlaštenje u Postavkama."</string>
   <string name="passport_request_cancel">Odustani</string>
   <string name="passport_request_error_invalid_token">"Nije moguće potvrditi"</string>
   <string name="passport_request_error_network">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="passport_request_error_unknown">Došlo je do sistemske pogreške. Vratite se i pokušajte ponovno.</string>
-  <string name="passport_request_gallery_permission_message">Dopusti pristup Galeriji:&lt;br />Za postavljanje profilnih fotografija</string>
+  <string name="passport_request_gallery_permission_message">Dopusti pristup Galeriji:&lt;br /&gt;Za postavljanje profilnih fotografija</string>
   <string name="passport_resend_email_reach_limit_message">"Zatražili ste previše e-poruka za potvrdu. Uvjerite se da e-poruka za potvrdu nije u mapi neželjene pošte vaše pristigle pošte."</string>
   <string name="passport_resend_email_reach_limit_title">Previše pokušaja</string>
   <string name="passport_resend_ticket">Ponovo pošalji kod</string>
@@ -621,21 +686,21 @@
   <string name="passport_to_verify_code_login">Prijavite se SMS-om</string>
   <string name="passport_unknown_error">Nepoznata pogreška</string>
   <string name="passport_unknown_host_network_error">Provjerite mrežne postavke i pokušajte ponovno</string>
-  <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi računa &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
-  <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi računa &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-  <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi računa &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
-  <string name="passport_user_agreement_hint_3rd_app"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/ a> i &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a> Xiaomi računa."</Data></string>
-  <string name="passport_user_agreement_hint_default"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
+  <string name="passport_user_agreement_hint_3rd_app">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/ a&amp;gt; i &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; Xiaomi ra&amp;#269;una."&lt;/Data&gt;</string>
+  <string name="passport_user_agreement_hint_3rd_app_mobile">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi ra&amp;#269;una &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%5$s&amp;gt;Terms and conditions of China Mobile verification services&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="passport_user_agreement_hint_3rd_app_with_telecom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi ra&amp;#269;una &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%5$s&amp;gt;Terms and conditions of eSurfing account verification services&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="passport_user_agreement_hint_3rd_app_with_unicom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi ra&amp;#269;una &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%5$s&amp;gt;Terms and conditions of China Unicom verification services&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="passport_user_agreement_hint_default">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="passport_user_agreement_hint_first_login">"Automatski ćemo izraditi račun ako svoj telefonski broj koristite prvi put."</string>
-  <string name="passport_user_agreement_hint_with_mobile"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Uvjeti i odredbe usluga verifikacije tvrtke China Mobile&lt;/a>."</Data></string>
-  <string name="passport_user_agreement_hint_with_telecom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Uvjeti i odredbe usluga verifikacije računa eSurfing&lt;/a>."</Data></string>
-  <string name="passport_user_agreement_hint_with_unicom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Uvjeti i odredbe usluga provjere China Unicom&lt;/a>."</Data></string>
+  <string name="passport_user_agreement_hint_with_mobile">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%3$s&amp;gt;Uvjeti i odredbe usluga verifikacije tvrtke China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="passport_user_agreement_hint_with_telecom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%3$s&amp;gt;Uvjeti i odredbe usluga verifikacije ra&amp;#269;una eSurfing&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="passport_user_agreement_hint_with_unicom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%3$s&amp;gt;Uvjeti i odredbe usluga provjere China Unicom&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="passport_user_avatar_update_title">Promjena fotografije profila</string>
   <string name="passport_user_avatar_uploading">Samo trenutak…</string>
   <string name="passport_user_id_hint">E-mail/broj telefona/ID Xiaomi računa</string>
   <string name="passport_user_name_phone_number">Telefonski broj</string>
   <string name="passport_user_password_hint">Zaporka</string>
-  <string name="passport_vcode_what_app_send_prompt">Vaš WhatsApp kontrolni kôd bit će poslan na vaš telefon za oporavak (&lt;font color=#1F93FF>%s&lt;/font>).</string>
+  <string name="passport_vcode_what_app_send_prompt">Vaš WhatsApp kontrolni kôd bit će poslan na vaš telefon za oporavak (&lt;font color=#1F93FF&gt;%s&lt;/font&gt;).</string>
   <string name="passport_wechat_not_install">Prvo instalirajte WeChat</string>
   <string name="passport_weibo_login_btn_content_description">Prijavite se putem Weiba</string>
   <string name="passport_weixin_login_btn_content_description">Prijava putem WeChata</string>
@@ -662,18 +727,18 @@
   <string name="privacy_cta_all_purpose_old_user">Xiaomi HyperAI Engine osnovna je usluga koja podržava Mi AI prijedloge, pružajući kontekstualnu svijest i mogućnosti pametnog prepoznavanja. Može uočiti vašu situaciju, naučiti vaše navike i pružiti točne, personalizirane usluge. S ovim ažuriranjem, podaci oblaka Mi AI prijedloga bit će prebačeni na novu uslugu, a lokalni podaci više se neće koristiti. Xiaomi HyperAI Engine će ponovno naučiti ove informacije. Vaš pristanak na Politiku privatnosti Xiaomi HyperAI Engine također pokriva usluge koje se oslanjaju na Xiaomi HyperAI Engine (npr. Xiaomi HyperMind).</string>
   <string name="privacy_dialog_location_message">Dopustite Mi AI prijedlozima pristup vašoj lokaciji i odaberite \"Uvijek dopusti\". Ovo dopuštenje možete dati u postavkama.</string>
   <string name="privacy_dialog_location_title">Potrebna dopuštenja</string>
-  <string name="privacy_dialog_retention_comment"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\" >Pravila o privatnosti&lt;/a> prije nego nastavite.</Data></string>
-  <string name="privacy_dialog_retention_content_agree_privacy"><Data>"Prihvatite &lt;a href=\"%1$s\">Pravila privatnosti za Xiaomi HyperAI Engine&lt;/a> kako biste mogli koristiti Mi AI prijedloge. Ako ne prihvaćate, možete koristiti samo prijedloge aplikacija. Prihvaćate li ažurirana &lt;a href=\"%2$s\">Pravila o privatnosti za Xiaomi HyperAI Engine&lt;/a>?</Data></string>.
+  <string name="privacy_dialog_retention_comment">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite na&amp;#353; &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\" &amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="privacy_dialog_retention_content_agree_privacy">&lt;Data&gt;"Prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Pravila privatnosti za Xiaomi HyperAI Engine&amp;lt;/a&amp;gt; kako biste mogli koristiti Mi AI prijedloge. Ako ne prihva&amp;#263;ate, mo&amp;#382;ete koristiti samo prijedloge aplikacija. Prihva&amp;#263;ate li a&amp;#382;urirana &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti za Xiaomi HyperAI Engine&amp;lt;/a&amp;gt;?&lt;/Data&gt;</string>
   <string name="privacy_dialog_retention_content_express_permission">Ova se značajka mora povezati s internetom kako bi pružila potrebne usluge. Možemo zatražiti sljedeća dopuštenja kako bismo pružili dodatne usluge: uključivanje i isključivanje Bluetootha i Wi-Fi-ja, pristup telefonskom broju, status poziva, SMS i MMS sadržaj, informacije o aplikacijama instaliranim na vašem uređaju, MAC adresu uređaja, lokaciju i glazbu, zvuk, fotografije i videozapise na svom uređaju. Postavke dopuštenja možete prilagoditi u bilo kojem trenutku.</string>
   <string name="privacy_docs">Pravila o privatnosti</string>
   <string name="privacy_experience_cancel_dialog">Odustani</string>
-  <string name="privacy_experience_comment_dialog">Možete promijeniti svoje postavke u Mi AI prijedlozima > Privatnost > Program korisničkog iskustva.</string>
-  <string name="privacy_experience_comment_read_template"><Data>Pročitajte i prihvatite &lt;a href=\"%1$s\">Pravila o privatnosti za Xiaomi HyperAI Engine&lt;/a> prije nego nastavite.</Data></string >
-  <string name="privacy_experience_content_dialog">"Pridruživanje našem Programu korisničkog iskustva omogućuje nam korištenje vaših podataka kako bi Xiaomi HyperAI Engine brže učio i postao precizniji.
+  <string name="privacy_experience_comment_dialog">Možete promijeniti svoje postavke u Mi AI prijedlozima &gt; Privatnost &gt; Program korisničkog iskustva.</string>
+  <string name="privacy_experience_comment_read_template">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti za Xiaomi HyperAI Engine&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="privacy_experience_content_dialog">"Ako nastavite, pridružit ćete se našem Programu korisničkog iskustva i dopustiti da se vaši podaci koriste za poboljšanje mogućnosti učenja Xiaomi HyperAI Enginea, donoseći vam preciznije, pravovremene usluge.
 
-Dopustite dozvole za lokaciju i uključite usluge lokacije kako biste poboljšali Xiaomi HyperAI Engine.
+Dodijelite dopuštenja za lokaciju i ostavite usluge lokacije uključenima kako biste poboljšali Xiaomi HyperAI Engine.
 
-Sve informacije bit će anonimne, a ti će se podaci koristiti za poboljšanje usluge kada je vaš uređaj u mirovanju, puni se i povezan na Wi-Fi."</string>
+Stalo nam je do vaše privatnosti. Sve informacije su anonimizirane. Xiaomi HyperAI Engine naučit će kada je vaš uređaj u mirovanju, puni se i povezan na Wi-Fi."</string>
   <string name="privacy_experience_item_content">Pomozite Mi AI Engineu da vas bolje razumije i poboljša svoje mogućnosti</string>
   <string name="privacy_experience_item_title">Pridružite se programu korisničkog iskustva</string>
   <string name="privacy_experience_join_dialog">Pridružite se</string>
@@ -711,6 +776,7 @@ Sve informacije bit će anonimne, a ti će se podaci koristiti za poboljšanje u
   <string name="privacy_withdraw">Povlačenje</string>
   <string name="privacy_withdraw_content">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Xiaomi HyperAI Enginea. Prestat ćemo prikupljati vaše osobne podatke, a osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar navedenog razdoblja u skladu s važećim zakonima i propisima osim ako se ne zahtijeva drugačije. Budući da Xiaomi HyperAI Engine pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja našeg pružanja usluga Mi AI prijedloga. Povući suglasnost?"</string>
   <string name="privacy_withdraw_title">Povlačenje suglasnosti</string>
+  <string name="prompt_delete_model">Želite li izbrisati ovaj model?</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">Sub</string>
@@ -719,6 +785,9 @@ Sve informacije bit će anonimne, a ti će se podaci koristiti za poboljšanje u
   <string name="searchview_navigation_content_description">Natrag</string>
   <string name="send">Pošalji</string>
   <string name="side_sheet_accessibility_pane_title">Bočna stranica</string>
+  <string name="space_btn">Razumijem</string>
+  <string name="space_message">Nema dovoljno prostora na unutarnjoj pohrani. Oslobodite malo prostora i pokušajte ponovo.</string>
+  <string name="space_title">Nema dovoljno prostora za pohranu</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
@@ -729,6 +798,7 @@ Sve informacije bit će anonimne, a ti će se podaci koristiti za poboljšanje u
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
+  <string name="title_dynamicfeature">Naslov modula</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="tuesday">Utorak</string>
@@ -736,6 +806,10 @@ Sve informacije bit će anonimne, a ti će se podaci koristiti za poboljšanje u
   <string name="tuesday_shortest">U</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="voice_control_accessbility_desc">"Uključivanje značajki pristupačnosti Xiaomi HyperAI Enginea omogućuje pregled i upravljanje vašim zaslonom i upravljanje aplikacijama prema vašim uputama.
+
+Savjet: primit ćete rutinsko upozorenje sustava kada uključite značajke pristupačnosti. Budite uvjereni da Xiaomi HyperAI Engine neće povrijediti nijedno vaše pravo kada koristite ove značajke."</string>
+  <string name="warning_delete_model">"Ako izbrišete ovaj veliki model sa svog uređaja, nećete moći koristiti neke značajke umjetne inteligencije na uređaju osim ako ga ponovno ne preuzmete. Izbrisati sada?"</string>
   <string name="wednesday">Wednesday</string>
   <string name="wednesday_short">Wed</string>
   <string name="wednesday_shortest">Wed</string>

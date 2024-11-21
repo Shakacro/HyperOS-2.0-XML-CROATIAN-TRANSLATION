@@ -78,8 +78,8 @@
         <item quantity="one">Potrebno je unijeti zaporku nakon %d h neaktivnosti</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Potrebno je iscrtati uzorak nakon %d hr neaktivnosti</item>
-        <item quantity="one">Potrebno je iscrtati uzorak nakon %d hr neaktivnosti</item>
+        <item quantity="other">Unesite svoju zaporku barem jednom svakih %d sati da je uvijek zapamtite</item>
+        <item quantity="one">Unesite svoju zaporku barem jednom svaki %d sat da je uvijek zapamtite</item>
     </plurals>
     <plurals name="items_selected">
         <item quantity="other">Odabrano: %d</item>

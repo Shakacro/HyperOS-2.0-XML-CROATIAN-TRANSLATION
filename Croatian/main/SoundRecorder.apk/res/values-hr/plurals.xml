@@ -84,6 +84,10 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
     </plurals>
+	 <plurals name="recent_delete_tip">
+        <item quantity="other">Izbrisane snimke moguće je vratiti u roku od %d dana</item>
+        <item quantity="one">Izbrisane snimke moguće je vratiti u roku od %d dan</item>
+     </plurals>
     <plurals name="record_downloading_complete_count">
         <item quantity="other">Preuzeto zapisa: %d</item>
         <item quantity="one">%d zapis preuzet</item>

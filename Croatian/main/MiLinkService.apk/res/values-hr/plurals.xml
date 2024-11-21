@@ -112,4 +112,8 @@
         <item quantity="other">%1$d uzoraka na čekanju</item>
         <item quantity="one">%1$d uzorak na čekanju</item>
     </plurals>
+    <plurals name="tv_remote_auth_count_down">
+        <item quantity="other">"Unesite kod %1$s (%2$ds)"</item>
+        <item quantity="one">"Unesite kod %1$s (%2$ds)"</item>
+     </plurals>
 </resources> 

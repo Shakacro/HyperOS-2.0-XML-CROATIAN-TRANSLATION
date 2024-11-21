@@ -765,7 +765,7 @@ Dodajte widgete za početak."</string>
   <string name="pa_toast_message_not_support_size">"Skladište aplikacija ne podržava widgete ove veličine"</string>
   <string name="pa_vertical_center">Okomiti izgled. Poravnano po sredini.</string>
   <string name="pa_vertical_left">Okomiti izgled. Poravnano ulijevo.</string>
-  <string name="pa_vertical_right">Okomiti izgled. Desno poravnato.</string>
+  <string name="pa_vertical_right">Okomiti izgled. Poravnano udesno.</string>
   <string name="pa_widget_advert_loading_dialog_message">Samo trenutak…</string>
   <string name="pa_widget_menu_edit_card_in_stack">Uređivanje \"%s\"</string>
   <string name="pa_widget_menu_edit_stack">Uređivanje grupe</string>
@@ -777,6 +777,9 @@ Dodajte widgete za početak."</string>
   <string name="pa_widget_menu_edit">Uredi</string>
   <string name="pa_widget_menu_remove">Ukloni</string>
   <string name="pa_widget_menu_replace">Prebacivanje</string>
+  <string name="pa_widget_delete_description">Izbriši</string>
+  <string name="pa_widget_edit_calendar_switch_closed_toast">"Nećete vidjeti nadolazeće događaje prikazane na widgetu"</string>
+  <string name="pa_widget_edit_calendar_switch_opened_toast">"Vidjet ćete nadolazeće događaje prikazane na widgetu"</string>
   <string name="pa_widget_need_download_dialog_cancel">Odustani</string>
   <string name="pa_widget_need_download_dialog_confirm">U redu</string>
   <string name="pa_widget_need_download_dialog_message_install">Da biste mogli koristiti widgete, prvo instalirajte \"%s\".</string>

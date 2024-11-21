@@ -86,6 +86,10 @@ Prolaz na testu"</string>
   Uspješno pročitajte vrijednost temeljnog čvora
   Provjerite je li ekran uspješan i kliknite odgovarajući gumb"</string>
   <string name="cit_DP_plug_re_plugin">DP test je završen, pogledajte je li zaslon uspješan i dodirnite odgovarajući tipku</string>
+  <string name="cit_first_pen_hall_test">Test S Hall detektora olovke na dodir:</string>
+  <string name="cit_fourth_pen_hall_test">Test olovke za dodir PPE S Hall detektora:</string>
+  <string name="cit_fp_cali_diaglog_msg">Provjerite je li zaslon kalibriran službenom Xiaomi zaštitnom folijom ili bez zaštitne folije i održavajte područje otiska prsta čistim i neoštećenim.</string>
+  <string name="cit_fp_cali_diaglog_tip">Savjeti</string>
   <string name="cit_OTG_plug_check_summary">Tijekom testa, uključite i obrnuto uključite USB_OTG uređaj</string>
   <string name="cit_OTG_plug_check_title">OTG</string>
   <string name="cit_OTG_waiting_in">Molimo priključite USB_OTG uređaj</string>
@@ -406,7 +410,8 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
   <string name="cit_sar_sensor_collect_cali_description">Kalibracija Sar senzora i prikupljanje podataka</string>
   <string name="cit_second_screen_accelermeter_sensor_cali_title">Test kalibracije senzora ubrzanja drugog zaslona</string>
   <string name="cit_second_screen_gyroscope_sensor_cali_title">Test kalibracije senzora žiroskopa drugog zaslona</string>
-  <string name="cit_signature_check_label">provjera potpisa:</string>
+  <string name="cit_second_pen_hall_test">Test S Hall detektora olovke na dodir:</string>
+  <string name="cit_signature_check_label">Provjera potpisa:</string>
   <string name="cit_sim_check_summary">Potvrdite da je u nastavku prikazan ispravan status i informacije o SIM kartici, ako ima dva utora za SIM, samo dvije SIM kartice istovremeno postoje i može proći ispravan status</string>
   <string name="cit_sim_check_title">SIM kartica</string>
   <string name="cit_sim_error_unknown">Nepoznato</string>
@@ -444,6 +449,7 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
   <string name="cit_tfcard_support_title">Podrška za TF karticu</string>
   <string name="cit_tfcard_total_size">Ukupna veličina</string>
   <string name="cit_tfcard_unmounted">SD kartica nije dostupna</string>
+  <string name="cit_third_pen_hall_test">Test detektora olovke PPE N Hall:</string>
   <string name="cit_tof_sensor_check_summary">Vrijednosti za TOF bi se trebale pojaviti u nastavku</string>
   <string name="cit_tof_sensor_check_title">TofSensor</string>
   <string name="cit_tool">Dodatni alati</string>

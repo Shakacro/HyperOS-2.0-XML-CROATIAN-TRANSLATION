@@ -370,6 +370,7 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="easy_tether_statusbar_connect_fail_title">"Nije moguće povezati se"</string>
   <string name="easy_tether_statusbar_connect_title">Poveži se na hotspot: %1$s</string>
   <string name="easy_tether_statusbar_connect_title_v2">Poveži se na ćeliju: %1$s</string>
+  <string name="easy_tether_statusbar_connect_title_v3">Poveži se na %1$s hotspot</string>
   <string name="easy_tether_statusbar_connecting_title">Povezivanje…</string>
   <string name="easy_tether_statusbar_dialog_connected_title">Povezan</string>
   <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
