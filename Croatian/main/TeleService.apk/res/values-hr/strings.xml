@@ -2975,8 +2975,8 @@ UT sučelje: %5$s"</string>
   <string name="satellite_privacy_statement_message">"Kako bismo pružili usluge Tiantong Satellite, moramo pristupiti vašoj lokaciji i skenirati satelite.
 Nakon povezivanja sa satelitom, China Telecom mora pristupiti vašoj lokaciji kako bi vas locirao u hitnim slučajevima. Pojedinosti o tome kako obrađujemo vaše osobne podatke potražite u "&lt;a href="https://privacy.mi.com/TianTong-dianxin/en_US/"&gt;Izjavi o privatnosti tvrtke Tiantong Satellite Communications&lt;/a&gt;".
 Dodirnite \"Sla&amp;#382;em se\" ispod kako biste ozna&amp;#269;ili da ste pro&amp;#269;itali i prihvatili ovu izjavu o privatnosti."</string>
-  <string name="satellite_privacy_statement_negative">"Ne slažem se"</string>
-  <string name="satellite_privacy_statement_positive">Slažem se</string>
+  <string name="satellite_privacy_statement_negative">"Ne prihvaćam"</string>
+  <string name="satellite_privacy_statement_positive">Prihvaćam</string>
   <string name="satellite_privacy_statement_title">Izjava o privatnosti</string>
   <string name="satellite_privacy_withdrawal_dialog_enable_negative">Otkaži usluge</string>
   <string name="satellite_privacy_withdrawal_dialog_message">"Ako otkažete Tiantong Satellite komunikacijske usluge, prestat ćemo prikupljati vaše osobne podatke i izbrisati osobne podatke koji su već prikupljeni u skladu s primjenjivim zakonom, osim ako drugi zakoni i propisi određuju razdoblje zadržavanja osobnih podataka .

@@ -276,7 +276,7 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="queue_full">Dovršite tekuće prijenose prije dodavanja novih.</string>
   <string name="receive_complete">Uspješno primljeno</string>
   <string name="receive_error">Ne mogu primiti</string>
-  <string name="receive_file">Slažem se</string>
+  <string name="receive_file">Prihvaćam</string>
   <string name="receive_only_from_contacts">Prijem datoteka samo od kontakata</string>
   <string name="receiver_error">Nije moguće primiti. Pričekajte minutu ili dvije i pokušajte ponovo.</string>
   <string name="refuse_file">Odbijam</string>

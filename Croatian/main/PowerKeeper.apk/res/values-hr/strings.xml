@@ -245,7 +245,7 @@
     <string name="sleep_config_enhance_description_pad">"Da bi uštedio bateriju, sustav će zatvoriti pozadinske aplikacije, ograničiti korištenje Bluetootha i Wi-Fija i neće osvijetliti zaslon za obavijesti dok spavate noću."</string>
     <string name="sleep_config_enhance_description_pad_new">Dok je zaslon isključen, vaš uređaj će zatvoriti pozadinske aplikacije, ograničiti upotrebu Bluetootha i Wi-Fi mreže i neće osvijetliti zaslon za obavijesti radi uštede baterije.</string>
     <string name="sleep_config_enhance_title">Način mirovanja</string>
-    <string name="sleepmode_disclaimer_agree">Slažem se</string>
+    <string name="sleepmode_disclaimer_agree">Prihvaćam</string>
     <string name="sleepmode_disclaimer_cancel">Odustani</string>
     <string name="sleepmode_privacy_content">Ova značajka treba pristupiti informacijama o vašem sustavu i uređaju. Ove informacije neće biti učitane na naše poslužitelje.</string>
     <string name="sleepmode_privacy_link">Saznajte više o privatnosti i sigurnosti</string>

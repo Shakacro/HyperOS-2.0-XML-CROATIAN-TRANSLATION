@@ -140,7 +140,7 @@ Imajte na umu da je kršenje prava na privatnost drugih ljudi protuzakonito. Ne 
   <string name="preference_copied">\"%1$s\" kopiran u međuspremnik.</string>
   <string name="record_cancel">Odustani</string>
   <string name="record_name">Snimač glasovnih poziva</string>
-  <string name="record_now">Slažem se</string>
+  <string name="record_now">Prihvaćam</string>
   <string name="record_prompt">Glasovni otisak</string>
   <string name="record_prompt_str">"Za suzbijanje buke tijekom poziva, ova aplikacija treba prikupiti vaš glasovni otisak. Glasovni otisak bit će pohranjen lokalno na ovom uređaju i moći ćete ga izbrisati vraćanjem na tvorničke postavke. Nećete nećete moći koristiti ovu uslugu ako se ne slažete."</string>
   <string name="record_restart">Ponovo snimi glasovni otisak</string>

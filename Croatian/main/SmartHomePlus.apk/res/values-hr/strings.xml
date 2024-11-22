@@ -267,17 +267,17 @@ Spajanje kabela za napajanje: jedan kraj tipa C spaja se na utičnicu za napajan
   <string name="preference_copied">\"%1$s\" kopirano u međuspremnik.</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
-  <string name="saturday_shortest">Sub</string>
+  <string name="saturday_shortest">S</string>
   <string name="scan_again">Počni ponovno</string>
   <string name="scan_interrupt">Skeniranje prekinuto</string>
   <string name="search_menu_title">Traži</string>
   <string name="send">Pošalji</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
-  <string name="sunday_shortest">Ned</string>
-  <string name="thursday">četvrtak</string>
-  <string name="thursday_short">čet</string>
-  <string name="thursday_shortest">čet</string>
+  <string name="sunday_shortest">N</string>
+  <string name="thursday">Četvrtak</string>
+  <string name="thursday_short">Čet</string>
+  <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Postavite vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
@@ -285,9 +285,9 @@ Spajanje kabela za napajanje: jedan kraj tipa C spaja se na utičnicu za napajan
   <string name="tomorrow">Sutra</string>
   <string name="try_to_bind">Uskoro skočiti u vezu</string>
   <string name="tuesday">Utorak</string>
-  <string name="tuesday_short">uto</string>
-  <string name="tuesday_shortest">uto</string>
-  <string name="uwb_accept">Slažem se</string>
+  <string name="tuesday_short">Uto</string>
+  <string name="tuesday_shortest">U</string>
+  <string name="uwb_accept">Prihvaćam</string>
   <string name="uwb_aim_at_device_and_do_not_move">"Uperi u uređaj.
 Dodirnite početak i ostanite mirni 5 sekundi"</string>
   <string name="uwb_ble_fail">Bluetooth nije omogućen, provjerite Bluetooth postavke.</string>
@@ -351,7 +351,7 @@ Pomakni se malo dolje"</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
-  <string name="wednesday_shortest">Srij</string>
+  <string name="wednesday_shortest">S</string>
   <string name="what_can_uwb_do">Što je Xiaomi Magic Control?</string>
   <string name="what_can_uwb_do_detail">Xiaomi Magic Control novi je način povezivanja vašeg telefona s pametnim uređajima. Uz UWB čip, vaš telefon i pametni uređaji mogu osjetiti međusobnu udaljenost i smjer, a možete se povezati i kontrolirati pametne uređaje usmjeravanjem telefona prema njima.</string>
   <string name="what_device_uwb_supported">Koje uređaje može kontrolirati Xiaomi Magic Control?</string>

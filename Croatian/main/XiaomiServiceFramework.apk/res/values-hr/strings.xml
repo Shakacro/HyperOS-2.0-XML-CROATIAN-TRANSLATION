@@ -145,7 +145,7 @@ ID Uređaja mora biti valjana IMEI ili MAC adresa. Bez ID Uređaja, neki Xiaomi 
     <string name="explain_send_sms_permission_title">Potvrdite vaš broj telefona</string>
     <string name="pop_up_allow_notify_dialog">Dopusti</string>
     <string name="pop_up_deny_notify_dialog">Odbij</string>
-    <string name="privacy_change_dialog_agree">Slažem se</string>
+    <string name="privacy_change_dialog_agree">Prihvaćam</string>
     <string name="privacy_change_dialog_back">Nazad</string>
     <string name="privacy_change_dialog_title">Prilagodba opsega Uvjeta korištenja</string>
     <string name="privacy_change_notification">VAŽNO: Prilagodili smo opseg naših Uvjeta korištenja</string>

@@ -44,7 +44,7 @@
     <string name="add_new_tv">Dodaj TV…</string>
     <string name="add_new_tv_power_only">Dodaj tipku isklj/uklj. TV-a…</string>
     <string name="adjust_auto_tune_interval">Automatski prilagodi interval zamjene kanala</string>
-    <string name="agree">Slažem se</string>
+    <string name="agree">Prihvaćam</string>
     <string name="airkan_disconnect">Nije upareno</string>
     <string name="airkan_disconnect_display_name">Nije upareno</string>
     <string name="airrc_device_not_connected">Nije povezano</string>

@@ -199,15 +199,14 @@
   <string name="cognition_permission_soundrecord_name">Snimanje zvuka</string>
   <string name="cognition_permission_storage">Pristup datotekama pohranjenim na uređaju</string>
   <string name="cognition_permission_storage_msg">Za pristup prošlim informacijama o lokaciji pohranjenim na uređaju</string>
-  <string name="cognition_permission_tips">温馨提示</string>
   <string name="cognition_privacy_cta_all_purpose">"Xiaomi HyperMind pokreće Mi AI Engine. Mi AI Engine može prepoznati scenarije, naučiti vaše obrasce i ponuditi vam točne, personalizirane usluge. "</string>
   <string name="cognition_privacy_cta_general_purpose">Mi AI Engine pruža mogućnosti sustava koje podržavaju značajke kao što su Mi AI prijedlozi, Xiaomi HyperMind i App vault prikupljanjem i analizom informacija o tome kako koristite svoj uređaj.</string>
   <string name="cognition_privacy_dialog_get_background_loc_permission_message">Dopustite Xiaomi HyperMind-u pristup vašoj lokaciji dok radi u pozadini kako bi mogao koristiti uzorke. Ovu dozvolu možete dati u postavkama.</string>
   <string name="cognition_privacy_dialog_get_background_loc_permission_title">Potrebna dopuštenja</string>
   <string name="cognition_privacy_dialog_get_mijia_cta_message">Mi AI Engine treba prikupiti podatke o vašim pametnim kućnim uređajima kako bi naučio vaše obrasce. Prijavite se na Mi Home/Xiaomi Home da biste započeli. Želite li sada otvoriti aplikaciju?</string>
   <string name="cognition_privacy_dialog_get_mijia_cta_title">Prijavite se na Mi Home/Xiaomi Home</string>
-  <string name="cognition_privacy_dialog_get_mijia_data_message">"Mi AI Engine treba prikupljati informacije o vašim pametnim kućnim uređajima i scenama u Mi Home/Xiaomi Home kako bi naučio i koristio obrasce. Potvrdite da ste se prijavili u aplikaciju svojim računom (%s), zatim dodirnite \"Slažem se\" da dopustite prikupljanje ovih informacija."</string>
-  <string name="cognition_privacy_dialog_get_mijia_data_message_hyper">"Xiaomi HyperAI Engine treba prikupljati informacije o vašim pametnim uređajima Xiaomi Home i načinu na koji ih koristite kako bi mogao naučiti vaše uzorke. Provjerite jeste li se prijavili na Xiaomi Home svojim računom (% s), tada nam dopustite prikupljanje relevantnih informacija iz Xiaomi Home."</string>
+  <string name="cognition_privacy_dialog_get_mijia_data_message">"Mi AI Engine treba prikupljati informacije o vašim pametnim kućnim uređajima i scenama u Mi Home/Xiaomi Home kako bi naučio i koristio obrasce. Potvrdite da ste se prijavili u aplikaciju svojim računom (%s), zatim dodirnite \"Prihvaćam\" da dopustite prikupljanje ovih informacija."</string>
+  <string name="cognition_privacy_dialog_get_mijia_data_message_hyper">"Xiaomi HyperAI Engine treba prikupljati informacije o vašim Xiaomi Home pametnim uređajima i načinu na koji ih koristite kako bi mogao naučiti vaše uzorke. Provjerite jeste li se prijavili na Xiaomi Home svojim računom (%s), tada nam dopustite prikupljanje relevantnih informacija iz Xiaomi Home."</string>
   <string name="cognition_privacy_dialog_get_mijia_data_title">Potrebna dopuštenja</string>
   <string name="cognition_privacy_dialog_get_noti_permission_message">Ovo je potrebno dopuštenje. Ovu dozvolu možete dati u postavkama.</string>
   <string name="cognition_privacy_dialog_get_noti_permission_title">Dopusti Xiaomi HyperMind da šalje obavijesti</string>

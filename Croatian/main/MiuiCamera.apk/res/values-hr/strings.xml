@@ -299,6 +299,16 @@
   <string name="accessibility_zoom_button">Zoom</string>
   <string name="accessibility_zoom_control">Kontrola Zoom-a</string>
   <string name="actionbar_button_up_description">Natrag</string>
+  <string name="agent_flip_tbc">Nastavi na unutarnjem zaslonu</string>
+  <string name="agent_function_max">Podešeno na maksimalnu vrijednost</string>
+  <string name="agent_function_min">Podešeno na minimalnu vrijednost</string>
+  <string name="agent_workspace_mode_not_supported">"Ova značajka nije podržana"</string>
+  <string name="agent_workspace_mode_not_supported_use_default">"Ova značajka nije podržana.
+Umjesto toga otvoren je način fotografije."</string>
+  <string name="agent_workspace_on">Postavljeni parametri za fotografiranje \"%1$s\"</string>
+  <string name="agent_workspace_tbc">Proučavanje scene</string>
+  <string name="agent_workspace_tbc_use_default">"Proučavanje scene…
+Parametri kamere postavljeni kao zadani"</string>
   <string name="ai_scene_mode_autumn">Jesen</string>
   <string name="ai_scene_mode_backlight">Pozadinsko svjetlo</string>
   <string name="ai_scene_mode_beach">Plaža</string>

@@ -313,7 +313,7 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="deliver_status">Izvješća o isporuci</string>
   <string name="delivery_report_activity">Izvješće o isporuci</string>
   <string name="delivery_toast_body">Poruku je primio %s.</string>
-  <string name="dialog_agree">Slažem se</string>
+  <string name="dialog_agree">Prihvaćam</string>
   <string name="dialog_cancel">Odustani</string>
   <string name="dialog_choice_all_correct_as_normal">Sve poruke od %s</string>
   <string name="dialog_complain_tips">Dopustite aplikaciji Poruke da se poveže s mrežom da bi mogao prijavljivati stavke.</string>

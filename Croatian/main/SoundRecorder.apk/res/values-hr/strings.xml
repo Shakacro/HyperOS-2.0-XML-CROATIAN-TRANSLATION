@@ -639,7 +639,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="privacy_withdraw">Povlačenje suglasnosti</string>
   <string name="progress">Traka napretka reprodukcije</string>
   <string name="progressbar_title">Provjera sigurnosnih problema…</string>
-  <string name="protocal_dialog_confirm">Slažem se</string>
+  <string name="protocal_dialog_confirm">Prihvaćam</string>
   <string name="protocal_dialog_title">Pažnja</string>
   <string name="recognition_button_add_to_queue">Dodaj u red čekanja</string>
   <string name="recognition_button_cancel">Ne sada</string>
