@@ -197,7 +197,6 @@ Pošaljite ovaj kod nadzorniku."</string>
   <string name="guide_update_confirm_dialog_negative_button">Ne sada</string>
   <string name="guide_update_confirm_dialog_positive_button">Ažuriraj</string>
   <string name="guide_update_confirm_dialog_title">Želite li preskočiti ovo ažuriranje?</string>
-  <string name="guide_update_confirm_dialog_message_new">"Ako odlučite ne ažurirati Prevoditelj, nećete moći pristupiti nekim značajkama."</string>
   <string name="guide_update_dialog_negative_button">Ne sada</string>
   <string name="guide_update_dialog_positive_button">Ažuriraj</string>
   <string name="guide_update_dialog_title">Ažuriraj Mi AI Translate</string>

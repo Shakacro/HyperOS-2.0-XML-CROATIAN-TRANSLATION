@@ -335,7 +335,9 @@
   <string name="calllog_menu_send_sms">"Pošalji poruku"</string>
   <string name="calllog_record_none_toast">Nema zapisa poziva za prikazati</string>
   <string name="calllog_record_searching_toast">Traženje snimaka poziva…</string>
-  <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sek</string>
+  <string name="callrecordview_item_op_time_ai_automatic_answer">Automatsko javljanje AI-jem</string>
+  <string name="callrecordview_item_op_time_ai_call">Asistent za AI pozive</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$d min. %2$d sek.</string>
   <string name="callrecordview_item_op_time_missed">Nije povezano</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sek</string>
@@ -347,6 +349,7 @@
   <string name="callrecordview_item_op_time_xiaoai_manual_answer">Ručni odgovor</string>
   <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Dodaj bilješku poziva</string>
+  <string name="callrecordview_menu_ai">Asistent za AI pozive</string>
   <string name="callrecordview_menu_aiphone">AI pozivi</string>
   <string name="callrecordview_menu_batch_delete">Izbriši seriju</string>
   <string name="callrecordview_menu_blocklist">Popis blokiranih</string>
@@ -1128,7 +1131,8 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="scan_business_card">Skeniraj posjetnicu</string>
   <string name="scan_bussiness_card_merge_tip">Konfliktirajući podaci su zamijenjeni</string>
   <string name="scan_merge">Pretraživanje dvostrukih kontakata…</string>
-  <string name="scan_not_installed_china">Instalirajte prvo Mi AI Scanner</string>
+  <string name="scan_not_installed_china">Instalirajte prvo aplikaciju AI Skener</string>
+  <string name="scan_not_installed_china_ai">Instalirajte AI Skener da biste mogli koristiti ovu značajku</string>
   <string name="scan_not_installed_global">Instalirajte prvo aplikaciju Skener</string>
   <string name="scan_qrcode_card_hint1">Skeniraj QR kod</string>
   <string name="scan_qrcode_card_hint2"/>
