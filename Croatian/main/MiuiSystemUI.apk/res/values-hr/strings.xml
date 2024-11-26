@@ -2568,8 +2568,8 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_powersaver_state_change_message_off">Štednja baterije je isključena</string>
   <string name="quick_settings_powersaver_state_change_message_on">Štednja baterije je uključena</string>
   <string name="quick_settings_quietmode_label">DND</string>
-  <string name="quick_settings_rotation_posture_folded">zatvoreno</string>
-  <string name="quick_settings_rotation_posture_unfolded">otvoreno</string>
+  <string name="quick_settings_rotation_posture_folded">Zatvoreno</string>
+  <string name="quick_settings_rotation_posture_unfolded">Otvoreno</string>
   <string name="quick_settings_rotation_state_change_message_off">Orijentacija zaslona je otključana</string>
   <string name="quick_settings_rotation_state_change_message_on">Orijentacija zaslona je zaključana</string>
   <string name="quick_settings_rotation_unlocked_label">Automatsko zakretanje</string>
@@ -2597,7 +2597,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_sync_label">Sinkr.</string>
   <string name="quick_settings_sync_state_change_message_off">Sinkronizacija je isključena</string>
   <string name="quick_settings_sync_state_change_message_on">Sinkronizacija je uključena</string>
-  <string name="quick_settings_tiles">zadano</string>
+  <string name="quick_settings_tiles">Zadano</string>
   <string name="quick_settings_tiles_default">internet,bt,flashlight,dnd,alarm,airplane,controls,wallet,rotation,battery,cast,screenrecord,mictoggle,cameratoggle,custom(com.android.permissioncontroller/.permission.service.v33 .SafetyCenterQsTileService)</string>
   <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
   <string name="quick_settings_tiles_retail_mode">noć,mrak,dnd,svjetiljka,rotacija,lokacija</string>
@@ -2607,6 +2607,8 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_ui_mode_night_label">Tamna tema</string>
   <string name="quick_settings_user_title">Korisnik</string>
   <string name="quick_settings_vibrate_label">Vibracija</string>
+  <string name="quick_settings_voice_trans_label">Tumač zvuka</string>
+  <string name="quick_settings_voice_trans_label_new">Tumač zvuka</string>
   <string name="quick_settings_vibrate_state_change_message_off">Vibracija je isključena</string>
   <string name="quick_settings_vibrate_state_change_message_on">Vibracija je uključena</string>
   <string name="quick_settings_vowifi_label">Wi-Fi pozivi</string>

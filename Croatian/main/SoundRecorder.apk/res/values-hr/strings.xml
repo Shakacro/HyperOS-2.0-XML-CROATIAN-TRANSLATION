@@ -739,7 +739,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="rename_speaker_dialog_checkbox">Ažuriraj samo u trenutnom odjeljku</string>
   <string name="rename_speaker_dialog_title">Promijeni naziv zvučnika</string>
   <string name="request_agree">Dopusti</string>
-  <string name="request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeće dozvole za normalan rad:&lt;br&gt;&lt;br&gt;&lt;b&gt;Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Ako ne pristanete na davanje takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije, ali će njezine osnovne funkcije i dalje biti dostupne biti dostupna vama. Uvijek možete ograničiti dopuštenja ili opozvati svoju autorizaciju u postavkama."</string>
+  <string name="request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeće dopuštenja za normalan rad:&lt;br&gt;&lt;br&gt;&lt;b&gt;Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Ako ne pristanete na davanje takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije, ali će njezine osnovne funkcije i dalje biti dostupne biti dostupna vama. Uvijek možete ograničiti dopuštenja ili opozvati svoju autorizaciju u postavkama."</string>
   <string name="request_cancel">Odustani</string>
   <string name="request_error_invalid_token">"Nije moguće potvrditi"</string>
   <string name="request_error_network">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
@@ -793,7 +793,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="settings_ai_recorder">Značajke AI snimača</string>
   <string name="settings_ai_recorder_summary">Transkribirajte zvuk u tekst, automatski pravite razliku između govornika, prevodite i stvarajte sažetke</string>
   <string name="settings_ai_recorder_title">AI prepoznavanje govora</string>
-  <string name="settings_saf_permission">Dozvole za upravljanje datotekama</string>
+  <string name="settings_saf_permission">Dopuštenje za upravljanje datotekama</string>
   <string name="share">Dijeli</string>
   <string name="share_dialog_title">Dijeli koristeći</string>
   <string name="shortcut_records">Snimke</string>

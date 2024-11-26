@@ -140,7 +140,7 @@
    <string name="create_shortcut_title">Izradi prečac Poč. zaslona</string>
    <string name="creation_ai_disable_limit_message">Za danas nema više pokušaja. Sutra izradite još AI pozadine!</string>
    <string name="creation_ai_disable_message">Ova je značajka dostupna samo beta testerima. Možete se prijaviti na Xiaomi Community.</string>
-   <string name="creation_ai_disable_title">Potrebne su dozvole beta testera</string>
+   <string name="creation_ai_disable_title">Potrebna su dopuštenja beta testera</string>
    <string name="creation_ai_err">Iznimka autentifikatora</string>
    <string name="creation_ai_load">Samo trenutak…</string>
    <string name="creation_ai_ok">Razumijem</string>

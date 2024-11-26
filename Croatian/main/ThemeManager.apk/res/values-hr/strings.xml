@@ -166,8 +166,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="app_enable_transparent_wallpaper">Sa transparentnom pozadinom</string>
   <string name="app_name">Teme</string>
   <string name="app_name_pad">Personalizacija</string>
-  <string name="app_permission_optional">Neobavezne dozvole</string>
-  <string name="app_permission_require">Obvezne dozvole</string>
+  <string name="app_permission_optional">Neobavezna dopuštenja</string>
+  <string name="app_permission_require">Obvezna dopuštenja</string>
   <string name="app_permission_use_desc">Dopuštenja</string>
   <string name="app_permission_use_group_account">Računi</string>
   <string name="app_permission_use_group_account_desc">Za dobivanje informacija o Xiaomi Računu</string>
@@ -1304,8 +1304,8 @@ Pregledajte i koristite stavke koje ste kupili ili dodali u favorite."</string>
   <string name="percent_sign">%</string>
   <string name="permission_desc">Za pohranu spremljenih tema i drugih stavki</string>
   <string name="permission_pop_desc">Da biste mogli promijeniti prilagođene postavke i spremiti preuzete stavke, prvo dopustite Temama pristup pohrani.</string>
-  <string name="permission_pop_title">Potrebne dozvole</string>
-  <string name="permission_summary">Obavezne dozvole (za osnovne usluge i funkcije aplikacije)</string>
+  <string name="permission_pop_title">Potrebna dopuštenja</string>
+  <string name="permission_summary">Obavezna dopuštenja (za osnovne usluge i funkcije aplikacije)</string>
   <string name="permission_summary_a">Za pružanje usluga ovoj aplikaciji su potrebna sljedeća dopuštenja:</string>
   <string name="permission_title">Pristupite fotografijama ili datotekama na uređaju</string>
   <string name="personal_recommend_desc">Primajte preporučeni sadržaj na temelju Vaših interesa</string>
