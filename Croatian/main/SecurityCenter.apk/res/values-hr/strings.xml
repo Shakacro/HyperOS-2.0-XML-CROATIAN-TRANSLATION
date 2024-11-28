@@ -2550,14 +2550,58 @@ volonter"</string>
   <string name="game_booster_title">Povećaj</string>
   <string name="game_booster_total">Brzina povećana %1$s puta, dodano %2$s vremena igranja</string>
   <string name="game_bootser_tab_settings">Postavke Game Turbo</string>
+  <string name="game_center_more">Više</string>
+  <string name="game_center_network_setting_tip">Dopustite Sigurnosti da se poveže na internet u Postavkama</string>
+  <string name="game_center_recommend">Preporučeno</string>
   <string name="game_else_function">Ostalo</string>
   <string name="game_manual_record_setting_setting">Postavke</string>
   <string name="game_manual_record_setting_title">Ključni trenuci</string>
   <string name="game_more_improve">Ograničite pozadinske aktivnosti i brzinu preuzimanja da uštedite bateriju i propusnost za igranje</string>
+  <string name="game_perf_config_audio_desc">Prilagodi audio stil igre</string>
+  <string name="game_perf_config_audio_title">Audio igre</string>
+  <string name="game_perf_config_display_desc_disabled">Nije dostupno</string>
+  <string name="game_perf_config_display_desc_enabled">Prilagodi razlučivost i broj sličica u sekundi</string>
+  <string name="game_perf_config_motion_desc">Prilagodite osjetljivost na dodir u igrama</string>
+  <string name="game_perf_config_network_desc">Smanjite mrežno kašnjenje i podrhtavanje</string>
+  <string name="game_perf_config_network_title">Povećanje brzine mreže</string>
+  <string name="game_perf_config_strategy_diy">Prilagođeno</string>
+  <string name="game_perf_config_strategy_fps_first">Prioritet broja sličica u sekundi</string>
+  <string name="game_perf_config_strategy_picture_first">Prioritet slike</string>
+  <string name="game_perf_config_strategy_title">Strategija performansi</string>
   <string name="game_performance_wild_mode">Ultimativni način</string>
   <string name="game_performance_wild_mode_tips">"Uključite za poboljšanje performansi uređaja
 (Vaš uređaj će se zagrijati i trošiti više energije)"</string>
   <string name="game_setting">Postavke igre</string>
+  <string name="game_toolbox_ai_qa_desc">Pitanja i odgovori o velikom modelu</string>
+  <string name="game_toolbox_ai_qa_title">Vodič za umjetnu inteligenciju</string>
+  <string name="game_toolbox_ai_service_desc">Iskustvo igranja poboljšano umjetnom inteligencijom</string>
+  <string name="game_toolbox_ai_service_title">Usluge AI igranja</string>
+  <string name="game_toolbox_ai_upgrade_dialog_btn">Ažuriraj</string>
+  <string name="game_toolbox_ai_upgrade_dialog_desc">Dostupno je ažuriranje za AI usluge igranja. Ažurirajte prije korištenja povezanih značajki.</string>
+  <string name="game_toolbox_ai_upgrade_dialog_title">Provjeri ima li ažuriranja</string>
+  <string name="game_toolbox_cellular_network">Povećanje brzine mobilne mreže</string>
+  <string name="game_toolbox_display_avrs">AVRS</string>
+  <string name="game_toolbox_display_avrs_desc">Uključite da malo smanjite kvalitetu slike i značajno smanjite potrošnju energije</string>
+  <string name="game_toolbox_display_style_desc">Prilagodite vizualni stil (podržava HDR igre)</string>
+  <string name="game_toolbox_display_style_game_hdr">HDR igre</string>
+  <string name="game_toolbox_display_style_title">Vizualni stil</string>
+  <string name="game_toolbox_fps_average">Prosječno %d FPS</string>
+  <string name="game_toolbox_fps_realtime">%d FPS u stvarnom vremenu</string>
+  <string name="game_toolbox_fps_shake">Trhtanje %d FPS</string>
+  <string name="game_toolbox_immersion_sound_desc">Kada koristite slušalice, precizno uhvatite zvučne efekte poput koraka i glasova, poboljšavajući uranjanje u igru</string>
+  <string name="game_toolbox_immersion_sound_title">Imerzivni zvuk</string>
+  <string name="game_toolbox_margin_restrain_description">Postavite raspon odbijanja dodira kako biste smanjili slučajne dodire</string>
+  <string name="game_toolbox_mem_clean_desc">Očisti memoriju i povećaj brzinu</string>
+  <string name="game_toolbox_more_tools_title">Više alata</string>
+  <string name="game_toolbox_perf_config_desc">Konfigurirajte postavke izvedbe igre</string>
+  <string name="game_toolbox_perf_config_title">Postavke performansi</string>
+  <string name="game_toolbox_super_follow_up_msg">Poboljšajte reakciju na dodir i praćenje kroz cijeli hardversko-softverski cjevovod</string>
+  <string name="game_toolbox_super_shake_msg">Smanjenje podrhtavanja pri dodiru i prelasku, poboljšavajući stabilnost upravljanja</string>
+  <string name="game_toolbox_title">Alati za igre</string>
+  <string name="game_toolbox_title_game_center">Igre</string>
+  <string name="game_toolbox_title_wild">Ultimativni način</string>
+  <string name="game_toolbox_wild_mode_toast_tip">Performanse uređaja značajno su poboljšane</string>
+  <string name="game_toolbox_wild_mode_toast_title">Najbolji način rada je uključen</string>
   <string name="game_video_net_data">Mobilni podaci</string>
   <string name="game_video_network_eror">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="game_wid_viewpoint_buttom">Napravite kratku pauzu.</string>
@@ -2660,7 +2704,8 @@ volonter"</string>
   <string name="gb_dialog_wlan_wifi_weak">460ms</string>
   <string name="gb_dnd_barrage_conflict_toast">"Nećete moći koristiti komentare na zaslonu kada je uključen Ne ometaj"</string>
   <string name="gb_get_gift_right_now">Prijavite se sada</string>
-  <string name="gb_have_signed">Prijavio se danas</string>
+  <string name="gb_have_signed">Prijavljeno danas</string>
+  <string name="gb_hot_area_seekbar">Domet vruće zone</string>
   <string name="gb_performace_switch_toast">Prebačen na način rada. Vaš bi se uređaj mogao zagrijati i trošiti više energije.</string>
   <string name="gb_performace_tips_button">Prebacivanje</string>
   <string name="gb_performace_tips_title">Prebacite se na način rada za bolje iskustvo</string>
@@ -2675,6 +2720,7 @@ volonter"</string>
   <string name="gb_signed_title">Prijavljen ovaj mjesec</string>
   <string name="gb_smart_battery_surplus_new">%1$s %2$s preostalo</string>
   <string name="gb_smart_shake_description">Osjetljivost na male geste</string>
+  <string name="gb_smotion_super_core_level_bar_desc">Osjetljivost</string>
   <string name="gb_voice_changer_dialog_upgrade_vip">Obnovite svoju pretplatu da biste mogli koristiti povratne informacije u stvarnom vremenu.</string>
   <string name="gb_voice_changer_free">Besplatno</string>
   <string name="gb_voice_changer_gender_female">Žena</string>
@@ -2949,7 +2995,8 @@ ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg ure
   <string name="gb_super_finger_up">Brz odziv na dodir</string>
   <string name="gb_super_finger_up_msg">Ubrzajte odgovor na dodir na hardverskoj razini</string>
   <string name="gb_super_follow_up">Praćenje pokreta</string>
-  <string name="gb_super_follow_up_msg">Ostvarite bolji odgovor u stvarnom vremenu tijekom cijele geste</string>
+  <string name="gb_super_hot_area">Pametna vruća zona</string>
+  <string name="gb_super_hot_area_msg">Prilagodljivo AI zoniranje, poboljšavanje iskustva dodira na razini kontrole</string>
   <string name="gb_super_motion">Kontrole pokreta</string>
   <string name="gb_super_shake">Stabilizacijski algoritam</string>
   <string name="gb_super_shake_msg">Učinite manje pokrete osjetljivijim pomoću namjenskog algoritma</string>
@@ -3000,7 +3047,7 @@ vašeg igranja"</string>
   <string name="gd_setting_conversation">Konferencijski alati</string>
   <string name="gd_setting_conversation_desc">Pruža niz značajki za korištenje u audio i video pozivima preko cijelog zaslona</string>
   <string name="gd_setting_dock_activity_title">Bočna kutija s alatima</string>
-  <string name="gd_setting_dock_call_summary_new">Koristite uljepšanje i druge značajke tijekom audio i video poziva preko cijelog zaslona</string>
+  <string name="gd_setting_dock_call_summary">Značajke za glasovne i videopozive (npr. dopunsko svjetlo)</string>
   <string name="gd_setting_dock_call_title">Kutija s alatima za pozive</string>
   <string name="gd_setting_dock_game_summary">Poboljšajte prikaz i performanse tijekom igranja igrica</string>
   <string name="gd_setting_dock_game_summary_new">Poboljšajte prikaz i performanse tijekom igranja igrica</string>
@@ -3871,6 +3918,7 @@ Opciju \"Autom. prilagođavanje statistike uporabe podataka\" možete isključit
   <string name="net_boostering">Povećanje brzine mreže…</string>
   <string name="net_boosting">Povećanje brzine…</string>
   <string name="net_delay_title">Odgodi</string>
+  <string name="net_error">Došlo je do mrežne pogreške</string>
   <string name="net_overdue">Sesija je završila</string>
   <string name="network_assistant_privacy">Da bismo pratili korištenje podataka po aplikacijama, prikupljamo podatke kao što su nazivi paketa, upotreba Wi-Fi-ja i mobilnih podataka, maksimalno/minimalno korištenje podataka te kada su uključeni Wi-Fi i mobilni podaci. Ti se podaci pohranjuju lokalno na vašem uređaju.</string>
   <string name="network_assistant_privacy_title">Pošaljite podatke o upotrebi aplikacije i mreže i dijagnostičke podatke</string>
@@ -6265,6 +6313,7 @@ Povući suglasnost sada?"</string>
   <string name="sp_monitored_apps_list_title">Postavke nadziranja</string>
   <string name="sp_more_security_settings">Dodatne postavke</string>
   <string name="sp_network_privacy_dialog_message">"Aplikacija Sigurnost ne može raditi ispravno jer ste joj ograničili povezivanje s internetom. Dopustiti aplikaciji Sigurnost povezivanje s internetom?"</string>
+  <string name="sp_network_privacy_dialog_message_new">Sigurnost (uključujući sigurnosne komponente sustava) mora se povezati s internetom kako bi mogla pružiti značajke skeniranja virusa. Dopustiti sada?</string>
   <string name="sp_network_privacy_dialog_title">"Ne mogu koristiti sigurnosno skeniranje"</string>
   <string name="sp_payment_detection_title">Sigurnosna provjera plaćanja</string>
   <string name="sp_payment_protect_summary">Zaštitite okruženje za mrežno plaćanje</string>
@@ -7462,8 +7511,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
 </string>
   <string name="vb_immerse_voice">Imerzivni zvuk</string>
   <string name="vb_movie_mode">Kazališni način</string>
-  <string name="vb_movie_power_hint">"Način kazališta pruža impresivno iskustvo gledanja.
-Vaš bi se uređaj mogao zagrijati i trošiti više energije."</string>
+  <string name="vb_movie_power_hint_new">"Prilagodite efekte za zapanjujuće iskustvo gledanja.
+Ova će značajka povećati potrošnju energije."</string>
   <string name="vb_movie_subtitle">Zahtijeva visoke performanse</string>
   <string name="vb_mv_style_close_toast">Stil je isključen</string>
   <string name="vb_power_performance_mode_conflict_toast">"Ne mogu koristiti ovu značajku kada je uključen način rada Performanse"</string>

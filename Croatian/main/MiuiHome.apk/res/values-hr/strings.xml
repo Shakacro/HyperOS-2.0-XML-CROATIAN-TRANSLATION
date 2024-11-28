@@ -214,8 +214,8 @@
   <string name="branch_ui_version">Verzija korisničkog sučelja grane</string>
   <string name="btn_agree">Prihvaćam</string>
   <string name="btn_cancel">Odustani</string>
-  <string name="btn_close">Isključi</string>
-  <string name="btn_open">Uključi</string>
+  <string name="btn_close">Zatvori</string>
+  <string name="btn_open">Otvori</string>
   <string name="btn_request_permission">Odobrite dopuštenja</string>
   <string name="btn_set_right_now">Odobrite dopuštenja</string>
   <string name="buffering">Međupohrana…</string>

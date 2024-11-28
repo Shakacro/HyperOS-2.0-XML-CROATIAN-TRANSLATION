@@ -10,7 +10,7 @@
   <string name="abc_action_menu_overflow_description">Više opcija</string>
   <string name="abc_action_mode_done">Gotovo</string>
   <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
-  <string name="abc_activitychooserview_choose_application">Odaberite aplikaciju</string>
+  <string name="abc_activitychooserview_choose_application">Odaberitete aplikaciju</string>
   <string name="abc_capital_off">ISKLJUČENO</string>
   <string name="abc_capital_on">UKLJUČENO</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -76,12 +76,14 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="add">Dodaj</string>
   <string name="add_home_icon_success">Uspješno dodano</string>
   <string name="add_resource_detail_fail">"Ne mogu dodati izvor"</string>
+  <string name="ai_account_violated_service_unavailable_try_again_later">Vaš je račun više puta prekršio naše smjernice i obustavljen je. Pokušajte ponovno kasnije.</string>
   <string name="add_ringtone">Dodaj melodiju zvona</string>
   <string name="advanced_customize_mode">Napredno prilagođavanje</string>
   <string name="agreement_desc">Korisnički ugovor (obavezno)</string>
   <string name="ai_apply_wallpaper">Primjeni</string>
   <string name="ai_cannot_scrolling_with_the_screen">"Nije moguće uključiti pomicanje za ovu pozadinu"</string>
   <string name="ai_delete_wallpaper">Izađi</string>
+  <string formatted="false" name="ai_estimated_two_three_minutes">To će trajati %1d–%2d min.</string>
   <string name="ai_generate">Generirano sa AI</string>
   <string name="ai_generate_action">Generiraj</string>
   <string name="ai_generate_background">Završi u pozadini</string>
@@ -95,16 +97,25 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ai_generate_verify_text">Provjera sadržaja slike…</string>
   <string name="ai_generate_wallpaper_done">Uspješno generirana AI dinamička pozadina</string>
   <string name="ai_generate_wallpaper_fail">"Nije moguće generirati AI dinamičku pozadinu"</string>
-  <string name="ai_generate_wallpaper_fail_message">Fotografije koje ste odabrali možda su prekršile naše smjernice. Odaberite nove fotografije.</string>
+  <string name="ai_generate_wallpaper_fail_message">Fotografije koje ste odabrali možda su prekršile naše smjernice. Odaberitete nove fotografije.</string>
+  <string name="ai_generating">Generiranje…</string>
   <string name="ai_generating_wallpaper">Generiranje pozadine…</string>
+  <string name="ai_image_format_does_not_support_generation">Nepodržani format</string>
+  <string name="ai_image_size_too_large">Slika je prevelika</string>
+  <string name="ai_in_line">"Na redu ste…"</string>
   <string name="ai_inquire_apply_wallpaper">Primijeniti ovu pozadinu?</string>
   <string name="ai_moving_your_wallpaper">Pogledajte kako AI može oživjeti vaše pozadine</string>
   <string name="ai_read_the_privacy_policy">&lt;Data&gt;Pročitajte i prihvatite naš &lt;a href=\"%1$s\"&gt;Korisnički ugovor&lt;/a&gt; i &lt;a href=\"%2$s\ "&gt;Pravila o privatnosti&lt;/a&gt; prije nego nastavite.&lt;/Data&gt;</string>
   <string name="ai_read_the_privacy_policy_pad">&lt;Data&gt;Pročitajte i prihvatite naš &lt;a href=\"%1$s\"&gt;Korisnički ugovor&lt;/a&gt; i &lt;a href=\"%2$s\ "&gt;Pravila o privatnosti za pozadinu i personalizaciju&lt;/a&gt; prije nego nastavite.&lt;/Data&gt;</string>
-  <string name="ai_select_again">Odaberi</string>
-  <string name="ai_select_message">Odaberite samo slike krajolika, gradova, biljaka i automobila te provjerite je li glavni subjekt slike jasan i bez prepreka.</string>
+  <string name="ai_select_again">Odaberite</string>
+  <string name="ai_select_images_in_the_following_formats">Odaberitete slike u bilo kojem od sljedećih podržanih formata: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC i HEIF.</string>
+  <string name="ai_select_images_smaller_than_one_hundred">Odaberitete sliku ispod %d MB i pokušajte ponovno.</string>
+  <string name="ai_select_message">Odaberitete samo slike krajolika, gradova, biljaka i automobila te provjerite je li glavni subjekt slike jasan i bez prepreka.</string>
   <string name="ai_select_title">"Ne mogu obraditi slike"</string>
-  <string name="ai_select_wallpaper">Odaberi pozadinu</string>
+  <string name="ai_select_wallpaper">Odaberite pozadinu</string>
+  <string name="ai_service_temporarily_unavailable">"Značajka nije dostupna"</string>
+  <string name="ai_service_unavailable">"Značajka nije dostupna"</string>
+  <string name="ai_waiting_in_line_please_wait">"Na redu ste. Ostanite s nama…"</string>
   <string name="ai_wallpaper">Dinamičke pozadine umjetne inteligencije</string>
   <string name="ai_wallpaper_account_exception">"Izgleda da postoji problem s vašim računom. Pokušajte ponovno kasnije ili promijenite račun."</string>
   <string name="ai_wallpaper_cancel">Odustani</string>
@@ -123,8 +134,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ai_wallpaper_not_conform_to_generation_condition">"Ne mogu generirati pozadinu za ovu sliku"</string>
   <string name="ai_wallpaper_notification_title">Teme</string>
   <string name="ai_wallpaper_retry">Pokušajte ponovno</string>
-  <string name="ai_wallpaper_select_picture">Odaberi</string>
-  <string name="ai_wallpaper_selection_prompt">Odaberi fotografije</string>
+  <string name="ai_wallpaper_select_picture">Odaberite</string>
+  <string name="ai_wallpaper_selection_prompt">Odaberite fotografije</string>
   <string name="ai_wallpaper_selection_prompt_message">Za najbolje rezultate odaberite fotografije koje spadaju u sljedeće kategorije i provjerite je li glavni subjekt slike jasan i bez zapreka.</string>
   <string name="ai_wallpaper_service_exception">Došlo je do pogreške</string>
   <string name="ai_wallpaper_start_use">Pokreni</string>
@@ -292,15 +303,15 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="character_counter_pattern">%1$d/%2$d</string>
   <string name="check_has_new_version">Dostupno je ažuriranje</string>
   <string name="chip_text">Chip tekst</string>
-  <string name="choose_from_photo">Odaberi iz galerije</string>
-  <string name="choose_pay_method">Odaberite način plaćanja</string>
+  <string name="choose_from_photo">Odaberite iz galerije</string>
+  <string name="choose_pay_method">Odaberitete način plaćanja</string>
   <string name="choose_video_dialog_invalid_default_message">"Ovaj videozapis nije podržan."</string>
   <string name="choose_video_dialog_invalid_direction_title">"Horizontalni videozapisi nisu podržani."</string>
   <string name="choose_video_dialog_invalid_format_message">Podržane su samo *.mp4 i *.mov datoteke koje nisu HDR.</string>
   <string name="choose_video_dialog_invalid_format_title">Nepodržani video format</string>
   <string name="classic_calendar_day_of_week_format">EE</string>
   <string name="classic_calendar_month_of_year_format">MMM</string>
-  <string name="classification_more_understand_you">Odaberite svoju omiljenu kategoriju</string>
+  <string name="classification_more_understand_you">Odaberitete svoju omiljenu kategoriju</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clock">Instalirajte aplikaciju Sat</string>
@@ -410,7 +421,7 @@ Dopustite Temama da pristupaju vašem ID-u Xiaomi računa i Mi Community statusi
   <string name="de_super_wp_apply_wallpaper_button_text">Primjeni</string>
   <string name="de_super_wp_dialog_tip_content">Super slike pozadine primjenjuju se istovremeno na Zaklj. zaslon, Početni zaslon i druge srodne elemente.</string>
   <string name="de_super_wp_dialog_tip_title">Super slike pozadine</string>
-  <string name="de_super_wp_land_position_default_des">Odaberite pregled</string>
+  <string name="de_super_wp_land_position_default_des">Odaberitete pregled</string>
   <string name="de_to_comment">Komentiraj</string>
   <string name="de_try">Isprobajte</string>
   <string name="deep_sea">Duboko more</string>
@@ -972,10 +983,10 @@ Dodirnite za isključivanje."</string>
   <string name="long_click_can_hide_resource">Pritisnite i držite za skrivanje stavki</string>
   <string name="loop_video_wallpaper">Petlja dinamičkih pozadina</string>
   <string name="match_theme">Teme koje si odgovaraju</string>
-  <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
-  <string name="material_hour_selection">Odaberite sat</string>
+  <string name="material_clock_toggle_content_description">Odaberitete prijepodne ili poslijepodne</string>
+  <string name="material_hour_selection">Odaberitete sat</string>
   <string name="material_hour_suffix">%1$s h</string>
-  <string name="material_minute_selection">Odaberite minute</string>
+  <string name="material_minute_selection">Odaberitete minute</string>
   <string name="material_minute_suffix">%1$s min</string>
   <string name="material_slider_range_end">Kraj,</string>
   <string name="material_slider_range_start">Početak,</string>
@@ -1063,8 +1074,8 @@ mm"</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
-  <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
-  <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
+  <string name="miuix_appcompat_action_mode_select_all">Odaberite sve</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Odaberite stavke</string>
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>
@@ -1074,9 +1085,9 @@ mm"</string>
   <string name="miuix_appcompat_edit">Uredi</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
-  <string name="miuix_appcompat_select_all">Odaberi sve</string>
-  <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
-  <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_select_all">Odaberite sve</string>
+  <string name="miuix_appcompat_select_all_description">Odaberite sve</string>
+  <string name="miuix_appcompat_select_item">Odaberite stavke</string>
   <string name="miuix_compat_contact">Kontakti</string>
   <string name="miuix_compat_dialog_button">Razumijem</string>
   <string name="miuix_compat_dialog_cancel">Odustani</string>
@@ -1162,8 +1173,8 @@ mm"</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
   <string name="mtrl_picker_confirm">U redu</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
-  <string name="mtrl_picker_date_header_title">Odaberite datum</string>
-  <string name="mtrl_picker_date_header_unselected">Odaberite datum</string>
+  <string name="mtrl_picker_date_header_title">Odaberitete datum</string>
+  <string name="mtrl_picker_date_header_unselected">Odaberitete datum</string>
   <string name="mtrl_picker_day_of_week_column_header">Kolona dana: %1$s</string>
   <string name="mtrl_picker_invalid_format">Pogrešan format.</string>
   <string name="mtrl_picker_invalid_format_example">Primjer: %1$s</string>
@@ -1174,7 +1185,7 @@ mm"</string>
   <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – Datum završetka</string>
   <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
-  <string name="mtrl_picker_range_header_title">Odaberite raspon datuma</string>
+  <string name="mtrl_picker_range_header_title">Odaberitete raspon datuma</string>
   <string name="mtrl_picker_range_header_unselected">Datum početka - Datum završetka</string>
   <string name="mtrl_picker_save">Spremi</string>
   <string name="mtrl_picker_text_input_date_hint">Datum</string>
@@ -1464,7 +1475,7 @@ Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane 
   <string name="privacy_revoke_agree_data_warning">Sljedeći podaci bit će trajno izbrisani ili anonimizirani nakon povlačenja suglasnosti (osim ako je drugačije propisano zakonima i propisima ili na drugi način zahtijevaju regulatorna tijela):</string>
   <string name="privacy_revoke_succeed">Suglasnot je uspješno povučena</string>
   <string name="privacy_revoking_warning">Povlačenje suglasnosti…</string>
-  <string name="privacy_select_mode">Odaberite način</string>
+  <string name="privacy_select_mode">Odaberitete način</string>
   <string name="privacy_select_mode_desc">"Budući da niste prihvatili naša Pravila o privatnosti, odaberite jedan od sljedećih načina:"</string>
   <string name="privacy_settings">Privatnost</string>
   <string name="privacy_simple_content">Uključite prilagođene preporuke kako biste dobili sadržaj i proizvode prilagođene svojim interesima.</string>
@@ -1486,8 +1497,8 @@ Sve stavke za personalizaciju koje se trenutno koriste na ovom uređaju. Zadane 
   <string name="provision_download_cancel">Preuzimanje je otkazano</string>
   <string name="provision_download_fail">Preuzimanje nije uspjelo. Pokušajte sa zadanom ili klasičnom temom.</string>
   <string name="provision_loading_tips">Samo trenutak…</string>
-  <string name="provision_second_title">Odaberite jednu od nekoliko zadanih tema</string>
-  <string name="provision_title">Odaberite temu</string>
+  <string name="provision_second_title">Odaberitete jednu od nekoliko zadanih tema</string>
+  <string name="provision_title">Odaberitete temu</string>
   <string name="prvicay_permission_not_allow_desc">"Ova aplikacija treba pristupiti pohrani za brisanje svih podataka generiranih na ovom uređaju. Bez ovog dopuštenja neki podaci možda neće biti izbrisani. Svejedno otkazati usluge?
 Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="pull_down_view_error_message">Nema internetske veze. Provjerite vezu ili pokušajte ponovo.</string>
@@ -1675,9 +1686,9 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="resource_is_off_shelf">Nije dostupno</string>
   <string name="resource_is_off_shelf_can_not_share">"Ne mogu dijeliti. Ova stavka više nije dostupna."</string>
   <string name="resource_list_title">Nedavno odabrano</string>
-  <string name="resource_local_picker">Odaberi melodiju zvona</string>
+  <string name="resource_local_picker">Odaberite melodiju zvona</string>
   <string name="resource_menu_refresh">Osvježi</string>
-  <string name="resource_mi_ai_picker">Odaberite Mi AI melodiju zvona</string>
+  <string name="resource_mi_ai_picker">Odaberitete Mi AI melodiju zvona</string>
   <string name="resource_mute">Ništa</string>
   <string name="resource_my">Izvanmrežno</string>
   <string name="resource_network_diagnostics">&lt;u&gt;Test mreže&lt;/u&gt;</string>
@@ -1688,7 +1699,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="resource_on_trial">Isprobavam: %1$s</string>
   <string name="resource_on_use">Korištenje: %1$s</string>
   <string name="resource_online">Mrežno</string>
-  <string name="resource_online_picker">Odaberi online melodiju</string>
+  <string name="resource_online_picker">Odaberite online melodiju</string>
   <string name="resource_pack_confirm">"Iako ste već kupili %1$d komponente ove teme, još je uvijek jeftinije ako kupite cijeli paket."</string>
   <string name="resource_pack_discount_info">Ušteđeno: %1$s</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Ova tema više nije dostupna.</string>
@@ -1707,7 +1718,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="resource_ranking">Popularno</string>
   <string name="resource_ranking_free">Besplatno</string>
   <string name="resource_ranking_purchase">Uz plaćanje</string>
-  <string name="resource_re_choose">Odaberi</string>
+  <string name="resource_re_choose">Odaberite</string>
   <string name="resource_restore">Vrati</string>
   <string name="resource_restore_fail">"Ne mogu vratiti"</string>
   <string name="resource_restore_succ">Uspješno vraćeno</string>
@@ -1734,7 +1745,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="resource_search_list_empty">Ništa nije pronađeno.</string>
   <string name="resource_search_recommend_title">Moglo bi vam se svidjeti</string>
   <string name="resource_see_more">Prikaži sve</string>
-  <string name="resource_select">Odaberi</string>
+  <string name="resource_select">Odaberite</string>
   <string name="resource_select_alarm_audio_confirm">Odabrati ovaj zvuk obavijesti?</string>
   <string name="resource_select_audio_confirm_picker">Odabrati ovaj zvuk?</string>
   <string name="resource_select_boot_audio_confirm">Odabrati ovaj zvuk pokretanja?</string>
@@ -1757,7 +1768,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="resource_title_hot_subject">Popularno</string>
   <string name="resource_title_local">Izvanmrežno</string>
   <string name="resource_title_rank">Najljepše</string>
-  <string name="resource_title_select_ringtone">Odaberite melodiju zvona</string>
+  <string name="resource_title_select_ringtone">Odaberitete melodiju zvona</string>
   <string name="resource_title_subject">Istaknuto</string>
   <string name="resource_trial_15_days_end_title">%d dnevni probni period je istekao</string>
   <string name="resource_trial_15_days_immediately">Odmah besplatno isprobajte %d na dana</string>
@@ -1849,7 +1860,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="search_sort_synthesize">Općenito</string>
   <string name="search_sort_top">Popularno prvo</string>
   <string name="search_view_description_clear">Izbriši pretraživanje</string>
-  <string name="select_all">Odaberi sve</string>
+  <string name="select_all">Odaberite sve</string>
   <string name="selected_resource_file_invalid">"Ne mogu koristiti odabrane resurse datoteke"</string>
   <string name="send">Pošalji</string>
   <string name="server_internal_error">Došlo je do pogreške poslužitelja. Pričekajte trenutak ili dva i pokušajte ponovo.</string>
@@ -1946,7 +1957,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="super_wallpaper_restore_msg_push">Trenutna verzija Super pozadina naišla je na problem nekompatibilnosti. Vaša zadana pozadina je vraćena. Ažurirajte na najnoviju verziju kako biste mogli koristiti Super pozadine.</string>
   <string name="super_wallpaper_setting_apply_success_toast">Uspješno postavljeno</string>
   <string name="super_wallpaper_setting_apply_super_wallpaper_button_text">Postavi</string>
-  <string name="super_wallpaper_setting_choose_position_btn_text">Odaberite lokaciju</string>
+  <string name="super_wallpaper_setting_choose_position_btn_text">Odaberitete lokaciju</string>
   <string name="super_wallpaper_setting_coordinate_title">Koordinate</string>
   <string name="super_wallpaper_setting_view_height_title">Nadm. visina</string>
   <string name="super_wallpaper_upgrade_tip_push">Ažuriraj Super pozadine</string>
@@ -2152,7 +2163,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="tomorrow">Sutra</string>
   <string name="top">Popularno</string>
   <string name="trans_wallpaper_offline_notice">"Transparentne pozadine nisu dostupne"</string>
-  <string name="transparency_pref_summary">Odaberite razinu neprozirnosti pozadine</string>
+  <string name="transparency_pref_summary">Odaberitete razinu neprozirnosti pozadine</string>
   <string name="transparency_pref_title">Razina neprozirnosti</string>
   <string name="transparent_wallpaper">Transparentna slika pozadine</string>
   <string name="transparent_wallpaper_apply_success">"Uspješno postavljeno.
@@ -2163,7 +2174,7 @@ Idite u Teme &gt; Moj račun &gt; Lab. Tema za više opcija."</string>
   <string name="transparent_wallpaper_enable">Uključi</string>
   <string name="transparent_wallpaper_enable_success">Uspješno uključeno</string>
   <string name="transparent_wallpaper_filter_pref_summary">"Transparentne pozadine neće biti prikazane u pojedinačnim aplikacijama"</string>
-  <string name="transparent_wallpaper_filter_pref_title">Odaberite aplikacije koje bi trebale raditi s transparentnim pozadinama</string>
+  <string name="transparent_wallpaper_filter_pref_title">Odaberitete aplikacije koje bi trebale raditi s transparentnim pozadinama</string>
   <string name="transparent_wallpaper_filter_set_successfully">Uspješno postavljeno</string>
   <string name="transparent_wallpaper_filter_setting">Pojedinačne aplikacije</string>
   <string name="transparent_wallpaper_guide">Idite u Teme</string>
@@ -2309,7 +2320,7 @@ Bilo kada mo&amp;#382;ete povu&amp;#263;i svoju suglasnost na Pravila o privatno
   <string name="wallpaper_loop_more_options">Dodatne postavke</string>
   <string name="wallpaper_loop_my_desk_wallpaper">Upravljaj Poč. zaslonom</string>
   <string name="wallpaper_loop_my_lock_wallpaper">Upravljaj Zaklj. zaslonom</string>
-  <string name="wallpaper_loop_order_desc">Odaberite redoslijed pojavljivanja slajdova</string>
+  <string name="wallpaper_loop_order_desc">Odaberitete redoslijed pojavljivanja slajdova</string>
   <string name="wallpaper_loop_order_loop">Originalno</string>
   <string name="wallpaper_loop_order_shuffle">Nasumično</string>
   <string name="wallpaper_loop_order_title">Redoslijed slajdova</string>

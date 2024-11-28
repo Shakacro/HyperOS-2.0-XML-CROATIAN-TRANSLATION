@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ai_film_description">Stvorite zapanjujuće videozapise uz pomoć umjetne inteligencije</string>
+  <string name="ai_film_description">Stvorite zapanjujuće videozapise uz pomoć AI</string>
   <string name="ai_film_title">Automatsko uređivanje</string>
   <string name="and"> i </string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
@@ -875,13 +875,13 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="delete_in_album">Odabrane stavke bit će izbrisane iz Xiaomi Clouda i svih povezanih uređaja i pohranjene među nedavno izbrisanim stavkama za %d dana ako imate besplatan plan pohrane u Xiaomi Clouda. Svejedno izbrisati?</string>
   <string name="delete_in_home_page">Odabrane stavke bit će izbrisane iz Xiaomi Clouda i svih povezanih uređaja i pohranjene među nedavno izbrisanim stavkama za %d dana ako imate besplatan plan pohrane u Xiaomi Clouda. Svejedno izbrisati?</string>
   <string name="delete_in_process">Brisanje…</string>
-  <string name="delete_media_dialog_comment">Ove će stavke prvo biti premještene u \"Izbrisane stavke\". Od tamo ih možete oporaviti ili trajno izbrisati.</string>
+  <string name="delete_media_dialog_comment">Ove će stavke prvo biti premještene u \"Nedavno izbrisane stavke\". Od tamo ih možete oporaviti ili trajno izbrisati.</string>
   <string name="delete_media_for_cloud">Odabrane stavke bit će uklonjene iz Clouda i sa svih sinkroniziranih uređaja u Nedavno izbrisane stavke.</string>
-  <string name="delete_media_from_cloud">Odabrane stavke bit će izbrisane sa svih uređaja i iz Clouda.</string>
+  <string name="delete_media_from_cloud">Odabrane stavke bit će uklonjene iz oblaka i svih sinkroniziranih uređaja i premještene u \"Nedavno izbrisane stavke\".</string>
   <string name="delete_origin">Izbriši stavke iz izvornog albuma</string>
   <string name="delete_other_shared_images">"Ne mogu izbrisati fotografije podijeljenje od drugih"</string>
   <string name="delete_owner_and_other_shared_images_format">%1$d izbrisano, %2$d spremljeno</string>
-  <string name="delete_risk_alert_message">"Odabrali ste velik broj stavki za brisanje. Ako nastavite, te će stavke biti premještene u \"Izbrisane stavke\". Izbrisati stavke sada?"</string>
+  <string name="delete_risk_alert_message">"Odabrali ste velik broj stavki za brisanje. Ako nastavite, te će stavke biti premještene u \"Nedavno izbrisane stavke\". Izbrisati stavke sada?"</string>
   <string name="delete_risk_alert_title">Pažnja</string>
   <string name="delete_third_party_photo">Izbrisati ovu fotografiju?</string>
   <string name="delete_third_party_video">Izbrisati ovaj videozapis?</string>
@@ -1330,9 +1330,9 @@ za fotografije"</string>
   <string name="filter_travel_charlotte">Charlotte</string>
   <string name="finish_create_baby_album_toast">Izrađen je album \"%s\" u Xiaomi Cloudu</string>
   <string name="finish_fill_baby">Izradi</string>
-  <string name="first_delete_media_for_cloud">Odabrane stavke bit će uklonjene iz Clouda i svih sinkroniziranih uređaja u Nedavno obrisane stavke te će se trajno izbrisati nakon %d dana osim ako nemate plan za pohranu u Cloudu. Svejedno izbrisati?</string>
+  <string name="first_delete_media_for_cloud">Odabrane stavke bit će uklonjene iz clouda i svih sinkroniziranih uređaja i premještene u \"Nedavno izbrisane stavke\". Bit će trajno izbrisani nakon %d dana osim ako nemate plan za pohranu u cloudu. Svejedno izbrisati?</string>
   <string name="first_time_add_video_to_secret_tips">Ažurirajte Galeriju kako biste mogli dodavati videozapise u privatni album</string>
-  <string name="flash_off">Bez bljesk.</string>
+  <string name="flash_off">Bez bljesk.</string>global_help
   <string name="flash_on">Bljes. okinuta</string>
   <string name="foods_people_title">Dugo se nismo vidjeli</string>
   <string name="foods_people_travel_title">Prolazimo kroz %2$s s %1$s</string>
@@ -1433,7 +1433,7 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
   <string name="hdr_switch_show_title">Pro HDR zaslon</string>
   <string name="header_help">Pomoć</string>
   <string name="help">"Ne možete pronaći uređaje?"</string>
-  <string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da uključi Mi Share."</string>
+  <string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da uključi Xiaomi Share."</string>
   <string name="hidden_album_display_name">Skriveni album</string>
   <string name="hide_nearby_photos">Sakrij fotografije i videozapise u blizini</string>
   <string name="holiday_travel_title_one">%1$s odmor</string>
@@ -1774,7 +1774,7 @@ da osobno prilagodite Galeriju"</string>
   <string name="mi_9t">Mi 9T</string>
   <string name="mi_9t_pro">Mi 9T Pro</string>
   <string name="mi_a3">Mi A3</string>
-  <string name="mi_drop">Mi Share</string>
+  <string name="mi_drop">Xiaomi Share</string>
   <string name="mi_mover_working_desc">Mi Mover prenosi stavke…</string>
   <string name="mi_share_turbo_mode">Turbo prijenos</string>
   <string name="micloud_introduce">Automatski sinkroniziraj fotografije i videozapise (potreban Xiaomi račun)</string>
@@ -2747,7 +2747,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="scan_qr_code">Skenirajte QR kod</string>
   <string name="scan_qr_code_buttom_text">Skeniraj QR kod za pregled ovog albuma</string>
   <string name="scan_qr_to_accept_invitation">Skenirajte QR kod da prihvatite pozivnicu</string>
-  <string name="scanning_device_tips">Traženje uređaja u blizini. Druga osoba treba uključiti Xiaomi Share u Centru za kontrolu.</string>
+  <string name="scanning_device_tips"><Data>Traženje uređaja u blizini. Druga osoba mora uključiti Xiaomi Share u centru za kontrolu. &lt;a>Saznajte više&lt;/a></Data></string>
   <string name="scope_storage_dialog_cancel_btn">Odustani</string>
   <string name="scope_storage_dialog_confirm_btn">Dalje</string>
   <string name="scope_storage_dialog_description">Ažurirana su dopuštenja za galeriju. Dopustite Galeriji pristup ovoj mapi kako biste mogli vidjeti njezin sadržaj.</string>
@@ -3402,7 +3402,7 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
   <string name="tip_not_download">Nije na uređaju. Biti će preuzeto s Xiaomi Clouda tijekom reprodukcije.</string>
   <string name="tip_screenshot_package_info">Naziv aplikacije: </string>
   <string name="tips_for_photo_page_selection">Možete dodirnuti stavke da biste ih vidjeli</string>
-  <string name="tips_prompt_enable_midrop">Mi Share</string>
+  <string name="tips_prompt_enable_midrop">Xiaomi Share</string>
   <string name="title_set_name">Unesite ime</string>
   <string name="title_tip">Savjet</string>
   <string name="title_warn">Upozorenje</string>
@@ -3484,8 +3484,8 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
   <string name="transfer_status_banner_msg_preparing">Priprema prijenosa%1$s</string>
   <string name="transfer_status_banner_msg_processing">"Prijenos fotografija i videozapisa%1$s
 (%2$d/%3$d)"</string>
-  <string name="transfer_status_banner_msg_unbinding">Uklanjanje računa. Pričekajte minutu ili dvije i ponovno pokrenite prijenos%1$s</string>
-  <string name="trash_bin">Izbrisane stavke</string>
+  <string name="transfer_status_banner_msg_unbinding">Uklanjanje računa. Pričekajte minutu ili dvije i ponovno pokrenite prijenos %1$s</string>
+  <string name="trash_bin">Nedavno izbrisane stavke</string>
   <string name="trash_bin_key_word">Izbrisane fotografije</string>
   <string name="trash_bin_summary">Pregledajte pohranjene fotografije koje su izbrisane nedavno</string>
   <string name="trash_bin_summary_local">Pogledajte nedavno izbrisane fotografije i videozapise</string>
@@ -3497,9 +3497,9 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
   <string name="trash_purge_all">Sve nedavno izbrisane stavke bit će trajno izbrisane iz Clouda i svih sinkroniziranih uređaja. Izbrisati svejedno?</string>
   <string name="trash_purge_all_local">Sve nedavno izbrisane stavke bit će trajno izbrisane. Izbrisati svejedno?</string>
   <string name="trash_purge_all_media">"Želite li trajno izbrisati sve stavke iz Clouda i svih sinkroniziranih uređaja? Ne možete poništiti ovu radnju."</string>
-  <string name="trash_purge_dialog_title">Očisti smeće</string>
+  <string name="trash_purge_dialog_title">Izbriši stavke</string>
   <string name="trash_purge_positive_button">Izbriši</string>
-  <string name="trash_size">Izbrisane stavke (%s)</string>
+  <string name="trash_size">Nedavno izbrisane stavke (%1$s)</string>
   <string name="trash_vip_button_login">Produži</string>
   <string name="trash_vip_button_login_top_level">Obnovi</string>
   <string name="trash_vip_button_unlogin">Prijava</string>

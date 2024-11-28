@@ -10,6 +10,8 @@
   <string name="AI_download_function_message">Instalirajte Mi AI Image Creator kako bi Mi AI generirao slike iz vaših opisa.</string>
   <string name="AI_download_title">Mi AI Image Creator model</string>
   <string name="AI_version_number">Verzija: %d</string>
+  <string name="FOCUS_MIJIA_LOW_VERSION">Trenutačna Mi Home verzija je stara, nadogradite na Mi Home 10.0 i noviju</string>
+  <string name="FOCUS_NOT_INSTALL_MIJIA">Mi Home nije instaliran, preuzmite ga za detalje</string>
   <string name="HM_permission_desc_common">Za učenje obrazaca i poboljšanje točnosti preporuka</string>
   <string name="HM_permission_desc_phone_state">Za izvršavanje obrazaca povezanih s pozivom</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
@@ -81,6 +83,8 @@
   <string name="aireco_intent_dialog_notification_title">Potrebna dopuštenja</string>
   <string name="aireco_intent_dialog_op_gps_service_message">Mi AI prijedlozi moraju pristupiti vašoj lokaciji kako bi pružili cijeli niz usluga. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="aireco_intent_dialog_op_gps_service_title">Uključite usluge lokacije</string>
+  <string name="aireco_intent_voice_assistant_launch_small_program_error">Udaljena usluga je pogrešna i WeChat Mini program se ne može otvoriti</string>
+  <string name="aireco_intent_voice_error_privacy_update">Xiaoai Voice je ažurirao pravila o privatnosti, idite na Xiaoai Voice kako biste se složili s pravilima o privatnosti, a zatim isprobajte</string>
   <string name="app_name">Xiaomi HyperAI Engine</string>
   <string name="background_download">Razumijem</string>
   <string name="bottomsheet_action_collapse">Sažmi donji list</string>
@@ -165,6 +169,7 @@
   <string name="cognition_os2_permission_cta_desc_title">Xiaomi HyperAI Engine je centar za mogućnosti sustava koji prikuplja i analizira ponašanje korisnika na vašem uređaju kako bi omogućio prepoznavanje scene i pametne kontrole za sljedeće usluge: %1$s.</string>
   <string name="cognition_os2_permission_cta_desc_xiaoaiPlus">Super Mi AI</string>
   <string name="cognition_os2_permission_default_desc_appList">Za dopuštanje Super Mi AI dobivanju podrške za App Actions</string>
+  <string name="cognition_os2_permission_default_desc_calendar">Za pružanje podsjetnika na događaje putem Proaktivne inteligencije</string>
   <string name="cognition_os2_permission_default_desc_context">"Za opažanje okolnog okruženja; Za izgradnju Xiaomi HyperAI indeksa pretraživanja; Za procjenu statusa poziva; Za određivanje kada ste budni ili spavate; Za izgradnju Xiaomi HyperAI indeksa pretraživanja; Za izgradnju Xiaomi HyperAI indeksa pretraživanja ;Za izgradnju Xiaomi HyperAI indeksa pretraživanja;Za izgradnju Xiaomi HyperAI indeksa pretraživanja;Za dopuštanje Super Mi AI dobivanju podrške za App Actions"</string>
   <string name="cognition_os2_permission_default_desc_location">Za opažanje okoline</string>
   <string name="cognition_os2_permission_default_desc_microphone">"Za određivanje kada ste budni ili spavate"</string>
@@ -173,14 +178,7 @@
   <string name="cognition_os2_permission_default_desc_title">Xiaomi HyperAI Engine je centar za mogućnosti sustava koji prikuplja i analizira ponašanje korisnika na vašem uređaju kako bi omogućio prepoznavanje scene i pametne kontrole za usluge uključujući Xiaomi HyperAI pretraživanje, podršku za računalstvo i mehanizam za pametno punjenje.</string>
   <string name="cognition_os2_permission_request_content_desc">Kako bi pružio usluge pretraživanja sadržaja, Xiaomi HyperAI Engine treba sljedeća dopuštenja: %1$s.</string>
   <string name="cognition_permission_all_files_name">Pristup svim datotekama</string>
-  <string name="cognition_permission_content_bottom">如不同意调用以上权限，将导致相应功能无法正常使用，但不影响您使用本应用的基本功能。您可随时在App的“隐私设置”中关闭以上权限调用以撤回同意</string>
-  <string name="cognition_permission_content_connect">读取设备连接状态：当您使用NFC智能切卡等服务时，您可以通过开启读取设备连接权限以便获取连接设备状态信息。</string>
-  <string name="cognition_permission_content_know">我知道了</string>
-  <string name="cognition_permission_content_location">定位：当您使用常驻地识别、NFC智能切卡等服务时，您可以通过开启定位权限以便获取地理位置。</string>
   <string name="cognition_permission_content_no">Ne sad</string>
-  <string name="cognition_permission_content_phone_state">读取手机状态：当您使用NFC智能切卡等服务时，您可以通过开启读取手机状态权限以便获取手机状态信息。</string>
-  <string name="cognition_permission_content_set">去开启</string>
-  <string name="cognition_permission_content_top">本服务由MIAI引擎提供，将请求您如下权限，我们将严格遵守相关法律以保护您的个人信息：</string>
   <string name="cognition_permission_declaration">Pojedinosti o dopuštenjima</string>
   <string name="cognition_permission_guidance_message">Xiaomi HyperMind može normalno raditi samo ako su sljedeća dopuštenja dodijeljena i postavljene na \"Uvijek dopusti\": %s</string>
   <string name="cognition_permission_guidance_title">Potrebna su dopuštenja</string>
@@ -348,6 +346,8 @@
   <string name="dist_compute_pad_remind_content">Povežite uređaj veće računalne snage koji je prijavljen na vaš račun kako biste mogli koristiti podršku za računalstvo. To možete učiniti u Postavkama &gt; Xiaomi HyperAI &gt; Računalna podrška.</string>
   <string name="dist_compute_pad_remind_title">Poveži uređaj</string>
   <string name="dist_compute_pad_subtitle_local">Koristite značajke AI briefinga i AI pisanja uz podršku uređaja u blizini</string>
+  <string name="dist_compute_pad_test_content">Sažetak AI poruka koristi velike mogućnosti modela za sažimanje poruka i prikazivanje ključnih informacija. Uključivanje ove značajke malo će povećati potrošnju energije.</string>
+  <string name="dist_compute_pad_test_title">Sažetak beta testne AI poruke</string>
   <string name="dist_compute_privacy_management">Privatnost</string>
   <string name="dist_compute_setting_switch_content_local">"Uređaji u blizini mogu koristiti značajke AI briefinga i AI pisanja pomoću računalne snage ovog uređaja"</string>
   <string name="dist_compute_title">Računalna podrška</string>
@@ -368,6 +368,29 @@
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="fcm_fallback_notification_channel_label">Razno</string>
+  <string name="friday">Petak</string>
+  <string name="focus_alread_arrive">Dolazak</string>
+  <string name="focus_data_error">ne mogu pronaći podatke o namjerama</string>
+  <string name="focus_hypermind_operation_metro_info">Stigli ste %1$s, možete otvoriti šifru za ukrcaj za ulazak i izlazak sa postaje.</string>
+  <string name="focus_hypermind_operation_success">uspjeh</string>
+  <string name="focus_metro_code">Kôd za ukrcaj</string>
+  <string name="focus_network_error">Mrežna pogreška</string>
+  <string name="focus_operate_failed">Nešto nije u redu</string>
+  <string name="focus_operate_hm_code_1">Druga strana je obrađena</string>
+  <string name="focus_operate_hm_code_2">Neki uređaji nisu uspjeli izvršiti</string>
+  <string name="focus_operate_hm_code_3">Preporuka je nevažeća</string>
+  <string name="focus_operate_hm_code_4">Korisnik isključuje glavni prekidač</string>
+  <string name="focus_operate_hm_code_5">Korisnik isključuje odgovarajuću funkcijsku sklopku</string>
+  <string name="focus_operate_hm_code_6">Uređaj je izvan mreže, provjerite i pokušajte ponovo</string>
+  <string name="focus_please_show_qr_code">, možete skenirati kod za vožnju autobusom</string>
+  <string name="focus_prepare_car_error">Uređaj je izvan mreže. Provjerite vezu i pokušajte ponovno.</string>
+  <string name="focus_prepare_car_operation_success">uspjeh</string>
+  <string name="focus_prepare_car_remote_control_fail">"Nije moguće daljinski upravljati. Provjerite vezu i pokušajte ponovo."</string>
+  <string name="focus_prepare_car_time_out">Izvršeno. Pogledajte rezultat u aplikaciji Xiaomi EV.</string>
+  <string name="focus_proactive_intelligence">ProactiveIntelligence</string>
+  <string name="focus_weather_button">Pogledajte opcije putovanja</string>
+  <string name="focus_weather_context">%1$s počinje %2$s</string>
+  <string name="focus_weather_title">%1$s je tijekom razdoblja putovanja na posao, preporučuje se da krenete ranije, ne zaboravite ponijeti opremu za kišu i pripazite na sigurnost tijekom putovanja</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">Pet</string>
@@ -524,6 +547,7 @@
   <string name="notification_operation_failed">"Ne mogu se sjetiti uzorka"</string>
   <string name="notification_remember_habit">Uzorak zapamćen</string>
   <string name="notification_remember_this_habit">Zapamti uzorak</string>
+  <string name="open_qr_code_for_traffic">Otvorite kod za ukrcaj</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_crop_user_avatar">Obreži fotografiju</string>
   <string name="passport_account_empty_user_name">Unesite svoje ime</string>
@@ -585,7 +609,6 @@
   <string name="passport_error_network">"Ne mogu se povezati na mrežu"</string>
   <string name="passport_error_no_password_user">"Još niste postavili zaporku. Prijavite se SMS-om."</string>
   <string name="passport_error_phone">Nevažeći broj telefona</string>
-  <string name="passport_error_phone_error">Nevažeći broj telefona</string>
   <string name="passport_error_server">Pogreška poslužitelja</string>
   <string name="passport_error_sms_limit">Previše kontrolnih kodova je poslano na ovaj broj. Pokušajte ponovno kasnije.</string>
   <string name="passport_error_ticket_invalid">Ovaj kod nije točan</string>
@@ -698,8 +721,6 @@
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_agree">Prihvaćam</string>
   <string name="privacy_agreement">Pravila o privatnosti</string>
-  <string name="privacy_banner_sub_title">Xiaomi HyperAI Engine pruža AI mogućnosti za značajke kao što su Xiaomi HyperMind i Mi AI prijedlozi. Cijenimo vašu privatnost i sigurnost i dopuštamo vam da odlučite koliko ćemo vaših podataka prikupljati i koristiti za pružanje naših usluga. Naše snažne računalne mogućnosti AI omogućuju dovršetak većine procesa na vašem uređaju.</string>
-  <string name="privacy_banner_title">Vaša sigurnost. Naš prioritet.</string>
   <string name="privacy_cancel">Odustani</string>
   <string name="privacy_cancel_not_do">"Nemoj otkazati"</string>
   <string name="privacy_cancel_privacy">Povlačenje suglasnosti</string>
@@ -711,39 +732,61 @@
   <string name="privacy_confirm">U redu</string>
   <string name="privacy_cta_all_purpose_new_user">Xiaomi HyperAI Engine osnovna je usluga koja podržava Mi AI prijedloge, pružajući kontekstualnu svijest i mogućnosti pametnog prepoznavanja. Može uočiti vašu situaciju, naučiti vaše navike i pružiti točne, personalizirane usluge. Vaš pristanak na Pravila o privatnosti Xiaomi HyperAI Engine također pokriva usluge koje se oslanjaju na Xiaomi HyperAI Engine (npr. Xiaomi HyperMind).</string>
   <string name="privacy_cta_all_purpose_old_user">Xiaomi HyperAI Engine osnovna je usluga koja podržava Mi AI prijedloge, pružajući kontekstualnu svijest i mogućnosti pametnog prepoznavanja. Može uočiti vašu situaciju, naučiti vaše navike i pružiti točne, personalizirane usluge. S ovim ažuriranjem, podaci oblaka Mi AI prijedloga bit će prebačeni na novu uslugu, a lokalni podaci više se neće koristiti. Xiaomi HyperAI Engine će ponovno naučiti ove informacije. Vaš pristanak na Politiku privatnosti Xiaomi HyperAI Engine također pokriva usluge koje se oslanjaju na Xiaomi HyperAI Engine (npr. Xiaomi HyperMind).</string>
-  <string name="privacy_dialog_location_message">Dopustite Mi AI prijedlozima pristup vašoj lokaciji i odaberite \"Uvijek dopusti\". Ovo dopuštenje možete dati u postavkama.</string>
+  <string name="privacy_dialog_location_message">Dopustite Mi AI prijedlozima pristup vašoj lokaciji i odaberite \"Uvijek dopusti\". Ovu dozvolu možete dati u postavkama.</string>
   <string name="privacy_dialog_location_title">Potrebna dopuštenja</string>
-  <string name="privacy_dialog_retention_comment">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite na&amp;#353; &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\" &amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
-  <string name="privacy_dialog_retention_content_agree_privacy">&lt;Data&gt;"Prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Pravila privatnosti za Xiaomi HyperAI Engine&amp;lt;/a&amp;gt; kako biste mogli koristiti Mi AI prijedloge. Ako ne prihva&amp;#263;ate, mo&amp;#382;ete koristiti samo prijedloge aplikacija. Prihva&amp;#263;ate li a&amp;#382;urirana &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti za Xiaomi HyperAI Engine&amp;lt;/a&amp;gt;?&lt;/Data&gt;</string>
+  <string name="privacy_dialog_manager_data_access_car_content">Dodijelite dozvole u aplikaciji Xiaomi EV</string>
+  <string name="privacy_dialog_manager_data_access_car_title">Xiaomi EV</string>
+  <string name="privacy_dialog_manager_data_access_description">Uz vaše dopuštenje, proaktivna inteligencija može vam pomoći u stvaranju automatiziranih kontrola za uređaje ljudskog × automobila × kućnog ekosustava. Budući da se Proactive intelligence i Xiaomi Home automatizacija oslanjaju na isti mehanizam za automatizaciju, ova se dozvola proširuje na obje značajke.</string>
+  <string name="privacy_dialog_manager_data_access_detail"><Data>Za više pojedinosti pogledajte &lt;a href=\"%1$s\">Izjavu o dijeljenju podataka za ljude × automobile × kućni ekosustav&lt;/a></Data>< /string>
+  <string name="privacy_dialog_manager_data_access_granted">Dopusti pristup:</string>
+  <string name="privacy_dialog_manager_data_access_health_content">Podaci o zdravlju i fitnessu te identifikatori pametnih nosivih uređaja</string>
+  <string name="privacy_dialog_manager_data_access_health_title">Mi Fitness</string>
+  <string name="privacy_dialog_manager_data_access_home_content">Informacije o pametnom kućnom uređaju iz Xiaomi Homea, lokacija, informacije o tome kako se uređaji koriste i informacije koje prijavljuju pametni kućni uređaji</string>
+  <string name="privacy_dialog_manager_data_access_home_title">Xiaomi Home</string>
+  <string name="privacy_dialog_manager_data_access_phone_content">Informacije o vašem uređaju i načinu na koji ga koristite iz Xiaomi HyperAI Engine</string>
+  <string name="privacy_dialog_manager_data_access_phone_title">Xiaomi telefon</string>
+  <string name="privacy_dialog_manager_data_access_title">Ljudsko × Automobil × Dozvole za dom</string>
+  <string name="privacy_dialog_retention_comment"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\" >Pravila o privatnosti&lt;/a> prije nego nastavite.</Data></string>
+  <string name="privacy_dialog_retention_content_agree_privacy"><Data>"Složite se s &lt;a href=\"%1$s\">Pravilima o privatnosti za Xiaomi HyperAI Engine&lt;/a> kako biste mogli koristiti Mi AI prijedloge. Ako ne Ne slažem se, možete koristiti samo prijedloge aplikacija. Slažem se s ažuriranim &lt;a href=\"%2$s\">Pravila o privatnosti za Xiaomi HyperAI Engine&lt;/a> sada?"</Data></string>
   <string name="privacy_dialog_retention_content_express_permission">Ova se značajka mora povezati s internetom kako bi pružila potrebne usluge. Možemo zatražiti sljedeća dopuštenja kako bismo pružili dodatne usluge: uključivanje i isključivanje Bluetootha i Wi-Fi-ja, pristup telefonskom broju, status poziva, SMS i MMS sadržaj, informacije o aplikacijama instaliranim na vašem uređaju, MAC adresu uređaja, lokaciju i glazbu, zvuk, fotografije i videozapise na svom uređaju. Postavke dopuštenja možete prilagoditi u bilo kojem trenutku.</string>
   <string name="privacy_docs">Pravila o privatnosti</string>
   <string name="privacy_experience_cancel_dialog">Odustani</string>
-  <string name="privacy_experience_comment_dialog">Možete promijeniti svoje postavke u Mi AI prijedlozima &gt; Privatnost &gt; Program korisničkog iskustva.</string>
-  <string name="privacy_experience_comment_read_template">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti za Xiaomi HyperAI Engine&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="privacy_experience_comment_dialog">Možete promijeniti svoje postavke u Mi AI prijedlozima > Privatnost > Program korisničkog iskustva.</string>
+  <string name="privacy_experience_comment_read_template"><Data>Pročitajte i prihvatite &lt;a href=\"%1$s\">Pravila o privatnosti za Xiaomi HyperAI Engine&lt;/a> prije nego nastavite</Data></string>
   <string name="privacy_experience_content_dialog">"Ako nastavite, pridružit ćete se našem Programu korisničkog iskustva i dopustiti da se vaši podaci koriste za poboljšanje mogućnosti učenja Xiaomi HyperAI Enginea, donoseći vam preciznije, pravovremene usluge.
 
 Dodijelite dopuštenja za lokaciju i ostavite usluge lokacije uključenima kako biste poboljšali Xiaomi HyperAI Engine.
 
 Stalo nam je do vaše privatnosti. Sve informacije su anonimizirane. Xiaomi HyperAI Engine naučit će kada je vaš uređaj u mirovanju, puni se i povezan na Wi-Fi."</string>
-  <string name="privacy_experience_item_content">Pomozite Mi AI Engineu da vas bolje razumije i poboljša svoje mogućnosti</string>
-  <string name="privacy_experience_item_title">Pridružite se programu korisničkog iskustva</string>
-  <string name="privacy_experience_join_dialog">Pridružite se</string>
-  <string name="privacy_experience_title_dialog">Program korisničkog iskustva</string>
-  <string name="privacy_logout">Odustani</string>
-  <string name="privacy_management">Privatnost</string>
-  <string name="privacy_manager_law">Pravni dokumenti</string>
-  <string name="privacy_manager_permission">Dopuštenja</string>
-  <string name="privacy_manager_permission_detail">Upravljajte svojim postavkama dopuštenja kako biste osigurali svoju privatnost i sigurnost</string>
-  <string name="privacy_manager_setting">Postavke privatnosti</string>
-  <string name="privacy_manager_user_improvement_plan">Program korisničkog iskustva</string>
-  <string name="privacy_manager_user_improvement_plan_detail">Dopustite Xiaomi HyperAI Engineu da koristi vaše podatke kako bi poboljšao svoj algoritam za preporuke</string>
-  <string name="privacy_op_gps_service_dialog_message">Dopustite Xiaomi HyperAI Engine pristup vašoj lokaciji kako bi mogao pružiti preciznije usluge. Ovo dopuštenje možete dati u postavkama.</string>
-  <string name="privacy_op_gps_service_dialog_title">Potrebna dopuštenja</string>
-  <string name="privacy_permission_tip_text">Dajte dopuštenje za pristup lokaciji i odaberite \"Uvijek dopusti\"</string>
-  <string name="privacy_personalized">Prilagođene preporuke</string>
-  <string name="privacy_personalized_close_content">"Kada je ova značajka isključena, nećete dobivati ​​personalizirane preporuke, a narudžba kartice neće se temeljiti na vašoj povijesti korištenja"</string>
-  <string name="privacy_personalized_close_title">Isključi prilagođene preporuke</string>
-  <string name="privacy_personalized_content">"Ako isključite ovu značajku, Xiaomi HyperAI Engine više neće koristiti vaše osobne podatke za pružanje personaliziranih usluga. Ove se informacije trenutno koriste samo za Mi AI prijedloge."</string>
+<string name="privacy_experience_item_content">"Pomozite poboljšati mogućnosti učenja Xiaomi HyperAI Enginea za preciznije usluge"</string>
+ <string name="privacy_experience_item_title">Pridružite se programu korisničkog iskustva</string>
+ <string name="privacy_experience_join_dialog">Pridružite se</string>
+ <string name="privacy_experience_title_dialog">Program korisničkog iskustva</string>
+ <string name="privacy_logout">Odustani</string>
+ <string name="privacy_management">Privatnost</string>
+ <string name="privacy_manager_data_access_car_content">Dodijelite dozvole u aplikaciji Xiaomi EV</string>
+ <string name="privacy_manager_data_access_car_title">Xiaomi EV</string>
+ <string name="privacy_manager_data_access_home_content">Informacije o pametnom kućnom uređaju iz Xiaomi Homea, lokacija, informacije o tome kako se uređaji koriste i informacije koje prijavljuju pametni kućni uređaji</string>
+ <string name="privacy_manager_data_access_home_title">Xiaomi Home</string>
+ <string name="privacy_manager_data_access_management_tips">Dopusti proaktivnoj inteligenciji (koja se naziva Xiaomi Home prijedlozi unutar Xiaomi Home) i Xiaomi Home automatizacijama za pristup podacima o Human × Car × Home povezanim s vašim računom kako biste mogli upravljati povezanim uređajima i automatizacijama</string>
+ <string name="privacy_manager_data_access_management_title">Čovjek × Automobil × Kućni pristup</string>
+ <string name="privacy_manager_data_access_phone_content">Informacije o vašem uređaju i načinu na koji ga koristite iz Xiaomi HyperAI Engine</string>
+ <string name="privacy_manager_data_access_phone_title">Xiaomi telefon</string>
+ <string name="privacy_manager_data_access_wear_content">Podaci o zdravlju i fitnessu te identifikatori pametnih nosivih uređaja</string>
+ <string name="privacy_manager_data_access_wear_title">Mi Fitness</string>
+ <string name="privacy_manager_law">Pravni dokumenti</string>
+ <string name="privacy_manager_permission">Dopuštenja</string>
+ <string name="privacy_manager_permission_detail">Upravljajte svojim postavkama dopuštenja kako biste osigurali svoju privatnost i sigurnost</string>
+ <string name="privacy_manager_setting">Postavke privatnosti</string>
+ <string name="privacy_manager_user_improvement_plan">Program korisničkog iskustva</string>
+ <string name="privacy_manager_user_improvement_plan_detail">Dopustite Xiaomi HyperAI Engineu da koristi vaše podatke za poboljšanje svojih usluga</string>
+ <string name="privacy_op_gps_service_dialog_message">Dopustite Mi AI prijedlozima pristup vašoj lokaciji kako bi mogao pružiti preciznije usluge. Ovu dozvolu možete dati u postavkama.</string>
+ <string name="privacy_op_gps_service_dialog_title">Potrebna dopuštenja</string>
+ <string name="privacy_permission_tip_text">Dajte dopuštenje za pristup lokaciji i odaberite \"Uvijek dopusti\"</string>
+ <string name="privacy_personalized">Prilagođene preporuke</string>
+ <string name="privacy_personalized_close_content">"Kada je ova značajka isključena, nećete dobivati ​​personalizirane preporuke, a narudžba kartice neće se temeljiti na vašoj povijesti korištenja"</string>
+ <string name="privacy_personalized_close_title">Isključi prilagođene preporuke</string>
+ <string name="privacy_personalized_content">Koristite svoje podatke za pružanje preciznijih, personaliziranih usluga</string>
   <string name="privacy_refuse">Ne sada</string>
   <string name="privacy_request_background_location_permission_reason">Za pružanje prijedloga putovanja, kodova za vožnju i prijedloga pametne kuće na temelju pozadinskih informacija o lokaciji</string>
   <string name="privacy_request_location_permission_reason">Za pružanje prijedloga putovanja, kodova za vožnju i prijedloga pametne kuće na temelju informacija o lokaciji</string>
