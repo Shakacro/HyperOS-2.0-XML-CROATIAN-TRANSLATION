@@ -772,6 +772,8 @@ Prije korištenja ove značajke morate prihvatiti Pravila o privatnosti Mint Key
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="title_fingerprint">Dodajte svoj otisak prsta</string>
+  <string name="title_fingers_and_faces">Postavite podatke o otisku prsta i licu</string>
+  <string name="title_only_fingerprint">Postavite otisak prsta</string>
   <string name="title_set_fingerprint">Zaklj. zaslon</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>

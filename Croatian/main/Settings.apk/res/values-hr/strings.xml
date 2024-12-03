@@ -5489,6 +5489,8 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="font_cta_alert_btn_positive">Prihvaćam</string>
   <string name="font_cta_alert_message">Pročitajte i prihvatite uvjete i odredbe Tema da biste nastavili.</string>
   <string name="font_cta_alert_title">Uvjeti i odredbe</string>
+  <string name="font_preview_text_content">"Primjer teksta:
+Xiaomi nemilosrdno gradi nevjerojatne proizvode s poštenim cijenama kako bi svi u svijetu mogli uživati ​​u boljem životu kroz inovativnu tehnologiju."</string>
   <string name="font_scale_percentage">%1$d %%</string>
   <string name="font_setting_weight_toast">"Trenutni font ne podržava podešavanje debljine fonta"</string>
   <string name="font_settings_jump">Pristupačnost &gt; Veličina zaslona</string>
@@ -9675,13 +9677,17 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="photography_handle_button_function_settings">Postavljanje tipke za držanje</string>
   <string name="photography_handle_charge_protected">Automatsko isključivanje punjenja s držačem</string>
   <string name="photography_handle_charge_protected_summary">"Kada vaš uređaj prepozna da koristite držač kamere, uređaj će se prestati puniti i zadržati bateriju na %1$s"</string>
+  <string name="photography_handle_charge_settings">Postavke punjenja</string>
   <string name="photography_handle_charge_state">Punjenje iz držača fotoaparata</string>
   <string name="photography_handle_charge_state_summary">"Punite ovaj uređaj s držača fotoaparata kad god su povezani"</string>
+  <string name="photography_handle_function_settings">Postavke držača kamere</string>
   <string name="photography_handle_launch_and_take_photo">Snimi fotografiju</string>
   <string name="photography_handle_launch_camera">Otvori kameru</string>
   <string name="photography_handle_long_press_camera_key_enter_camera">Pritisnite i držite okidač za izvođenje radnje</string>
+  <string name="photography_handle_sn">Serijski broj</string>
   <string name="photography_handle_quick_launch_camera_title">Brzo pokretanje</string>
-  <string name="photography_handle_title">Rukohvat kamere</string>
+  <string name="photography_handle_title">Držač kamere</string>
+  <string name="photography_handle_update_and_maintain">Ažuriranja</string>
   <string name="physical_keyboard_title">Fizička tipkovnica</string>
   <string name="pick_up_gesture_wakeup_title">Podignite uređaj da ga uključite</string>
   <string name="picker_text">Birač vremena</string>
@@ -13317,6 +13323,8 @@ Možete pretvoriti svoj Android uređaj u prijenosni Wi-Fi hotspot, da podijelit
   <string name="tethering_no_sim_alert_title">Nema SIM kartice</string>
   <string name="tethering_no_sim_card_text">Umetnite SIM karticu da možete dijeliti podatkovnu vezu s drugim uređajima korištenjem mobilnog hotspota ili USB dijeljenje veze za pristup internetu.</string>
   <string name="tethering_settings_not_available">Postavke dijeljenja veze nisu dostupne ovom korisniku</string>
+  <string name="text_layout_optimization_switch_label">Optimiziraj izgled teksta</string>
+  <string name="text_layout_optimization_switch_toast">"Ne mogu optimizirati raspored teksta s trenutnim fontom"</string>
   <string name="tethering_settings_summary">"Dijelite mobilnu podatkovnu mrežu vašeg uređaja putem USB-a ili mobilnog hotspota"</string>
   <string name="texture_adjust_temperature_title">Temperatura boje</string>
   <string name="the_way_of_wakeup_voice_assistant_summary">Probudite glasovnog pomoćnika u načinu rada preko cijelog zaslona (bez virtualnih tipki)</string>
@@ -14109,7 +14117,7 @@ Isključivanje ove značajke ne utječe na sposobnost uređaja da šalje podatke
   <string name="usage_state_usage_time_remind">Upozorenja uklj. vremena zaslona</string>
   <string name="usage_state_use_time_remind_title">Upozorenja uklj. vremena zaslona</string>
   <string name="usage_state_wednesday">Sri</string>
-  <string name="usage_state_week_day_hour_minute" formatted="false">Vikendi: %dh %dm</string>
+  <string name="usage_state_week_day_hour_minute">Vikendi: %dh %dm</string>
   <string name="usage_state_week_total_text">Vrijeme uklj. zaslona (zadnjih 7 dana)</string>
   <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">Radni dani</string>
@@ -15275,6 +15283,10 @@ Postavljanjem mreže kao skrivene neće se promijeniti postavke usmjerivača."</
   <string name="wifi_protection_tip">HyperOS će zaštititi vaše osobne podatke od Wi-Fi probe zahtjeva koji dolaze od nasumičnih MAC adresa i Wi-Fi probe sniffers-a kada vaš uređaj traži Wi-Fi mreže.</string>
   <string name="wifi_quick_toggle_summary">Uključi Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
+  <string name="wifi_reconnect_failed_text">Vaša zaporka za Wi-Fi nije točna. Unesite je ponovo.</string>
+  <string name="wifi_reconnect_failed_text_china">Vaša zaporka za Wi-Fi nije točna. Unesite je ponovo.</string>
+  <string name="wifi_reconnect_failed_title">Netočna zaporka za Wi-Fi</string>
+  <string name="wifi_reconnect_failed_title_china">Netočna zaporka za Wi-Fi</string>
   <string name="wifi_region_summary">Zahtijeva ponovno pokretanje Wi-Fi-ja da bi stupilo na snagu</string>
   <string name="wifi_region_title">Wi-Fi regija</string>
   <string name="wifi_remembered">Spremljeno</string>

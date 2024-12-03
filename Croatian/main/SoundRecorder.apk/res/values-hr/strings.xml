@@ -116,11 +116,11 @@
   <string name="call_record_list_group_all">Svi</string>
   <string name="call_record_list_group_connected">Povezano</string>
   <string name="call_record_list_group_unconnected">Nije povezano</string>
-  <string name="cant_generate_summary_by_account_un_login1">"Prijavite se na svoj Xiaomi račun za generiranje sažetaka. "</string>
+  <string name="cant_generate_summary_by_account_un_login1">"Prijavite se na svoj Xiaomi račun za generiranje sažetaka."</string>
   <string name="cant_generate_summary_by_account_un_login2">Prijava</string>
   <string name="cant_generate_summary_by_block_list_error">"Blokirana vam je upotreba ove značajke zbog višestrukih kršenja naših smjernica"</string>
   <string name="cant_generate_summary_by_language_type_limit">"Ne mogu generirati sažetke za ovaj jezik"</string>
-  <string name="cant_generate_summary_by_network_error1">"Došlo je do mrežne pogreške. "</string>
+  <string name="cant_generate_summary_by_network_error1">"Došlo je do mrežne pogreške."</string>
   <string name="cant_generate_summary_by_network_error2">Pokušajte ponovo</string>
   <string name="cant_generate_summary_by_sensitive_content">"Nije moguće sažeti osjetljivi sadržaj"</string>
   <string name="cant_generate_summary_by_unkonw_error">Došlo je do nepoznate pogreške</string>

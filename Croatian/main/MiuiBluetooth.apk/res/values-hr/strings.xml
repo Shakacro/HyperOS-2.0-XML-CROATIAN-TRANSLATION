@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Action_Accept">Dopusti</string>
+  <string name="HIPS_Action_Reject">Odbij</string>
+  <string name="Location_map_of_nearby_title">Karta lokacije u blizini</string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
@@ -260,6 +263,7 @@ Audio"</string>
   <string name="bt_plugin_update_failed_toast">"Došlo je do pogreške. Nije moguće učitati."</string>
   <string name="bt_plugin_update_loading_dialog">Samo trenutak…</string>
   <string name="bt_plugin_update_notification_updating">Bluetooth ažuriranje</string>
+  <string name="call_allowed_title">Poziv je dopušten</string>
   <string name="celluar_tether_disconnect_notify">Vaš je telefon povezan s EV. Isključite međupovezanost na telefonu i pokušajte ponovno.</string>
   <string name="celluar_tether_disconect_title">Prekinuto</string>
   <string name="celluar_tether_name">Bežično povezivanje</string>
@@ -267,7 +271,7 @@ Audio"</string>
   <string name="celluar_tether_prompt_china">"Uz bežično povezivanje, vaš tablet može koristiti mobilne podatke vašeg telefona. Čini se da u blizini nema kompatibilnog Xiaomi telefona. Provjerite jesu li vaš telefon i tablet prijavljeni na isti Xiaomi račun, mobilni telefon vašeg telefona podaci su uključeni i oba su uređaja povezana na Wi-Fi."</string>
   <string name="celluar_tether_prompt_confirm">U redu</string>
   <string name="bugreport_in_power">Prečac izvješća o pogreškama</string>
-  <string name="bugreport_in_power_summary">Prikaži gumb u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
+  <string name="bugreport_in_power_summary">Prikaži tipku u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
   <string name="button_convert_fbe">Izbriši i pretvori…</string>
   <string name="cached_apps_freezer_device_default">Zadani uređaj</string>
   <string name="cached_apps_freezer_disabled">Onemogućeno</string>
@@ -570,6 +574,8 @@ Brži protokol veze."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"Zaporke se ne podudaraju"</string>
   <string name="local_backup_password_toast_success">Nova zaporka Sig. kopije postavljena</string>
   <string name="local_backup_password_toast_validation_failure">"Ne mogu postaviti zaporku Sig. kopije"</string>
+  <string name="location_display_summary">Prikaži podatke o lokaciji u blizini</string>
+  <string name="location_display_title">Prikaz lokacije</string>
   <string name="lyra_account_ap_summary">Dopustite obližnjim tabletima i računalima prijavljenima na vaš Xiaomi račun da uključe hotspot na ovom uređaju i povežu se s njim</string>
   <string name="lyra_account_ap_title">Mrežna pomoć</string>
   <string name="lyra_auto_connect_cancel">Odustani</string>
@@ -768,11 +774,49 @@ Brži protokol veze."</string>
   <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
+  <string name="nearby_contacts">Kontakti u blizini</string>
   <string name="no_application">Ništa</string>
   <string name="not_default_data_content_description">Nije postavljeno za upotrebu podataka</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notify_device_lose_connection_text">Dodirnite za prekid veze s %1$s.</string>
   <string name="notify_device_lose_connection_title">Izgubljena je veza s %1$s</string>
+  <string name="offline_app_name">Komunikacija između uređaja</string>
+  <string name="offline_call_balack_list">Popis blokiranih</string>
+  <string name="offline_call_balack_list_join">Dodaj na popis blokiranih</string>
+  <string name="offline_call_balack_list_join_title">Dodati %1$s na popis blokiranih?</string>
+  <string name="offline_call_balack_list_remove_device_title">Ukloniti %1$s s popisa blokiranih?</string>
+  <string name="offline_call_balack_list_remove_title">Ukloniti ovu osobu s popisa blokiranih?</string>
+  <string name="offline_call_callable_all">Svi</string>
+  <string name="offline_call_callable_close">Isključeno</string>
+  <string name="offline_call_callable_only_contact">Samo kontakti</string>
+  <string name="offline_call_callable_title">Tko me može nazvati</string>
+  <string name="offline_call_cancel">Odustani</string>
+  <string name="offline_call_dial_out">Uputi poziv</string>
+  <string name="offline_call_earthquake_summary">Automatski uključi izvanmrežnu komunikaciju u slučaju potresa na vašoj lokaciji</string>
+  <string name="offline_call_earthquake_title">Automatsko uključivanje u potresu</string>
+  <string name="offline_call_join">Dodaj</string>
+  <string name="offline_call_map_baidu">Baidu karte</string>
+  <string name="offline_call_map_gaode">Amap</string>
+  <string name="offline_call_map_mode">Način karte</string>
+  <string name="offline_call_map_navigation">Navigirajte do njihove lokacije</string>
+  <string name="offline_call_map_select">Odaberite način navigacije</string>
+  <string name="offline_call_map_tengxun">Tencent karte</string>
+  <string name="offline_call_nearby_all_device">Karta lokacije ljudi u blizini</string>
+  <string name="offline_call_nearby_device_refresh">Osvježi</string>
+  <string name="offline_call_nearby_device_title">Ljudi u blizini</string>
+  <string name="offline_call_nearby_dialog_message">"Možete navigirati do lokacije %1$s ili nazvati %1$s."</string>
+  <string name="offline_call_nearby_dialog_negative">Navigacija</string>
+  <string name="offline_call_nearby_dialog_positive">Poziv</string>
+  <string name="offline_call_notification_broadcast_close">Isključi</string>
+  <string name="offline_call_notification_broadcast_location">Komunikacija na različitim uređajima dijeli vašu lokaciju</string>
+  <string name="offline_call_notification_broadcast_start">Komunikacija s više uređaja emitira se</string>
+  <string name="offline_call_remove">Ukloni</string>
+  <string name="offline_call_settings_summary">Komunicirajte s obližnjim Xiaomi telefonima kada ste izvan mreže kada je Bluetooth uključen na oba uređaja</string>
+  <string name="offline_call_settings_title">Komunikacija između uređaja</string>
+  <string name="offline_call_show_location_title">Dijeli moju lokaciju s ljudima u blizini</string>
+  <string name="offline_chat_summary">"Razgovarajte s kontaktima u blizini putem Bluetootha kada niste povezani na internet. Ova značajka ne podržava korištenje Bluetooth slušalica tijekom poziva."</string>
+  <string name="offline_chat_title">Komunikacija između uređaja</string>
+  <string name="offline_connecting">Povezivanje…</string>
   <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM otključavanje</string>
   <string name="oem_unlock_enable_summary">Dopustite da se bootloader otključa</string>
@@ -787,6 +831,8 @@ Brži protokol veze."</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="perm_ble_des">Pristup BLE postavkama</string>
   <string name="perm_ble_lab">Pristup BLE postavkama</string>
+  <string name="permgroupdesc_location">Dopustiti %1$s pristup informacijama o lokaciji?</string>
+  <string name="phone_in_talk">Poziv je već u tijeku</string>
   <string name="picture_color_mode">Način boje slike</string>
   <string name="picture_color_mode_desc">Upotrijebi sRGB</string>
   <string name="play_decode_audio">Reproduciraj zvuk</string>
@@ -852,6 +898,7 @@ Brži protokol veze."</string>
   <string name="profile_info_settings_title">Profilni podaci</string>
   <string name="progress_scanning">Pretraživanje…</string>
   <string name="remaining_length_format">Još %1$s</string>
+  <string name="remove_black_list_title">Ukloni popis blokiranih</string>
   <string name="request_uninstall">Zahtjev deinstalacije modula</string>
   <string name="reset_function_msg">Poništavanje ove značajke može spriječiti %1$s da radi normalno.</string>
   <string name="retail_demo_reset_message">Unesite zaporku za resetiranje u demo načinu</string>
@@ -914,6 +961,9 @@ Brži protokol veze."</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
   <string name="simulate_color_space">Simulacija prostora boja</string>
   <string name="some_app_taking">(%1$s već koristi tu funkciju…)</string>
+  <string name="start_failed_confirm">Razumijem</string>
+  <string name="start_failed_content">Umetnite SIM karticu i prijavite se Xiaomi računom kako biste mogli koristiti komunikaciju između uređaja.</string>
+  <string name="start_failed_title">"Nije moguće uključiti"</string>
   <string name="speed_label_fast">Brzo</string>
   <string name="speed_label_medium">Srednje</string>
   <string name="speed_label_okay">U redu</string>
@@ -1021,6 +1071,11 @@ Brži protokol veze."</string>
   <string name="unbind_device_alert_ok">Prekini vezu</string>
   <string name="unbind_device_alert_title">Prekini vezu s uređajem</string>
   <string name="uninstall_all_deferred">Deinstalacija odgođena</string>
+  <string name="user_agreement_cancel">Odustani</string>
+  <string name="user_agreement_confirm">Prihvaćam</string>
+  <string name="user_agreement_content">"Komunikacija između uređaja je usluga glasovnog poziva temeljena na Bluetoothu (u daljnjem tekstu \"ova usluga\") koju pruža Xiaomi Inc. (u daljnjem tekstu \"Xiaomi\", \ "mi", "naš" ili "nas"). Ozbiljno shvaćamo zaštitu vaše privatnosti i osobnih podataka u skladu sa zakonskim zahtjevima i industrijskim standardima.&lt;br> &lt;b>Kada uključite ovu značajku, pristupit ćemo vašim kontaktima, telefonskom broju, statusu prijave na Xiaomi račun, Bluetooth MAC adresi, statusu poziva i statusu SIM kartice kako biste mogli komunicirati s odabranim kontaktima kada niste povezani na internet &lt;/b> &lt;br> &lt;b>Kada uključite \"Prikaži lokaciju\" i \"Uključi automatski za vrijeme potresa\", prikupit ćemo vašu točnu lokaciju za prikaz vašim odabranim kontaktima.&lt;/b> &lt;br> &lt;b>Ove informacije će se obrađivati ​​samo na vašem uređaju i neće se prenositi u cloud. &lt;/b> &lt;br> Sljedeća dopuštenja su potrebna kada koristite komunikaciju između uređaja: &lt;br> &amp;bull; Bluetooth dopuštenja: za glasovne pozive uređajima u blizini&lt;br> &amp;bull; Pristup kontaktima: za otkrivanje i pozivanje kontakata u blizini&lt;br> &amp;bull; Dopuštenje za povezivanje s internetom: za povezivanje s mrežom i pristup sadržaju karte&lt;br> &amp;bull; Pristup lokaciji: za prikaz točne lokacije odabranim kontaktima&lt;br> &amp;bull; Dopuštenja za telefon: za pristup statusu poziva (komunikacija između uređaja ne može se koristiti dok je poziv u tijeku)&lt;br> Ako ne prihvaćate gornja dopuštenja, nećete moći koristiti ovu uslugu. &lt;br> Neke značajke pružaju davatelji usluga trećih strana. Iz tog razloga moramo dati neke vaše osobne podatke tim trećim stranama. &lt;a href=https://privacy.mi.com/Bluetoothcall-Share/>Dodirnite ovdje za pregled&lt;/a> okolnosti pod kojima dijelimo vaše osobne podatke s našim podružnicama, partnerima i trećim stranama.&lt;br > Obrađivat ćemo vaše osobne podatke samo za razdoblje prikupljanja kako je opisano u ovoj izjavi o privatnosti ili kako zahtijevaju primjenjivi zakoni.&lt;br> Uspostavili smo poseban odjel za zaštitu osobnih podataka. Ako imate pitanja ili komentara o ovoj izjavi o privatnosti ili o našem prikupljanju, korištenju ili otkrivanju vaših osobnih podataka, možete nas kontaktirati na &lt;a href=https://privacy.mi.com/support >https: //privacy.mi.com/support&lt;/a>. Obično ćemo odgovoriti u roku od petnaest radnih dana.&lt;br>
+ Dodirnite \"Prihvaćam\" kako biste potvrdili da ste pročitali i prihvatili ovu izjavu o privatnosti."</string>
+  <string name="user_agreement_title">Izjava o privatnosti komunikacije između uređaja</string>
   <string name="unknown">Nepoznato</string>
   <string name="usb_audio_disable_routing">Onemogući USB audiousmj.</string>
   <string name="usb_audio_disable_routing_summary">Onemogući aut. usmjeravanje na USB audioperiferiju</string>
@@ -1058,6 +1113,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="user_switch_to_user">Prelazak na korisnika %s</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="virtual_moresttings">Više postavki</string>
   <string name="verify_apps_over_usb_summary">Provjerite uzrokuju li aplikacije instalirane putem ADB-a/ADT-a poteškoće.</string>
   <string name="verify_apps_over_usb_title">Potvrdi aplikacije putem USB-a</string>
   <string name="vpn_settings_not_available">Postavke VPN-a nisu dostupne ovom korisniku</string>

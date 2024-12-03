@@ -30,6 +30,7 @@
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="agree_desc">Dodijelite gore navedena obavezna dopuštenja.</string>
   <string name="app_name">Xiaomi Share</string>
+  <string name="apple">Apple</string>
   <string name="btn_cancel">Odustani</string>
   <string name="btn_cancel_send">Otkaži ovaj prijenos</string>
   <string name="btn_exit_send">Izlaz</string>
@@ -134,6 +135,13 @@
   <string name="friday_shortest">P</string>
   <string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
   <string name="global_help">Pomoć</string>
+  <string name="global_imac">Moj iMac</string>
+  <string name="global_ipad">Moj iPad</string>
+  <string name="global_iphone">Moj iPhone</string>
+  <string name="global_macbook">Moj MacBook</string>
+  <string name="global_macmini">Moj Mac mini</string>
+  <string name="global_macpro">Moj Mac Pro</string>
+  <string name="global_macstudio">Moj Mac Studio</string>
   <string name="global_pad">Moj tablet</string>
   <string name="global_pc">Moj laptop</string>
   <string name="global_phone">Moj telefon</string>
@@ -360,7 +368,7 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="transfer_to_phone_summary">"Uključite Xiaomi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da biste poslali stavku koju dijelite."</string>
   <string name="transfer_to_phone_summary_new">Uključite Xiaomi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>
   <string name="transfer_to_phone_title">Pošaljite datoteke na telefone</string>
-   <string name="transfer_to_same_account_summary">Uređaji pod istim računom trebali bi biti lako vidljivi. Provjerite je li Xiaomi Share uključen u postavkama.</string>
+  <string name="transfer_to_same_account_summary">Uređaji pod istim računom trebali bi biti lako vidljivi. Provjerite je li Xiaomi Share uključen u postavkama.</string>
   <string name="transfer_to_same_account_title">Otkrivanje uređaja pod istim računom</string>
   <string name="transfer_to_summary">"Uključite Xiaomi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da pošaljete stavku koju dijelite."</string>
   <string name="transfer_to_summary_new">Uključite Xiaomi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>

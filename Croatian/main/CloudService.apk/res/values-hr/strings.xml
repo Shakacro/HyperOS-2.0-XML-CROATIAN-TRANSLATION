@@ -679,7 +679,7 @@ Provjerite koristite li povezani Xiaomi račun kao svoj MIUI račun."</string>
   <string name="offline_find_doing_enable">Uključivanje izvanmrežne lokacije…</string>
   <string name="offline_find_function">Izvanmrežna lokacija</string>
   <string name="offline_find_msg_to_open_1">Uključite izvanmrežnu lokaciju na ovom uređaju da biste mogli vidjeti lokaciju drugih izvanmrežnih uređaja.</string>
-  <string name="offline_find_msg_to_open_2">Potvrdite ovaj uređaj kao pouzdan i uključite izvanmrežnu lokaciju da biste mogli vidjeti lokaciju drugih izvanmrežnih uređaja.</string>
+  <string name="offline_find_msg_to_open_2">Uključite ovu značajku da biste mogli locirati ovaj uređaj ili vidjeti lokaciju drugih uređaja kada nisu povezani s mrežom.</string>
   <string name="offline_find_msg_to_open_3">Da biste zaštitili sigurnost svojih podataka, potvrdite da je ovaj uređaj pouzdan prije nego što uključite izvanmrežnu lokaciju.</string>
   <string name="offline_find_title_to_open_1">Uključi izvanmrežnu lokaciju</string>
   <string name="offline_find_title_to_open_2">Potvrdite ovaj uređaj</string>
@@ -1022,9 +1022,11 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="verify_loading_progressDialog">Provjera…</string>
   <string name="verify_login_error_not_support_toast">"Drugi uređaj uključio je naprednu zaštitu podataka. Budući da ovaj uređaj ne podržava ovu značajku, isključite naprednu zaštitu podataka kako biste se mogli prijaviti na svoj Xiaomi račun na ovom uređaju."</string>
   <string name="verify_notification_text">Dopustite ovom uređaju korištenje ove značajke na svim vašim uređajima</string>
+  <string name="verify_notification_text_find_device_push">Dopustite drugom uređaju da locira ovaj uređaj</string>
   <string name="verify_notification_text_pc">Napredna zaštita podataka je uključena. Dodijelite potrebna dopuštenja na računalu kako biste mogli pristupiti šifriranim podacima.</string>
   <string name="verify_notification_text_web">Napredna zaštita podataka je uključena. Dodijelite potrebna dopuštenja na i.mi.com kako biste mogli pristupiti šifriranim podacima.</string>
   <string name="verify_notification_title">Drugi uređaj uključio je end-to-end enkripciju</string>
+  <string name="verify_notification_title_find_device_push">Drugi uređaj uključio je \"Izvanmrežnu lokaciju\"</string>
   <string name="verify_ocr_loading_progressDialog">Prepoznavanje…</string>
   <string name="verify_process_dialog_message">Provjera…</string>
   <string name="verify_scan_Second_title">Unesite %d-znamenkasti pristupni ključ</string>
@@ -1047,11 +1049,13 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="verify_warning_verify_dialog_message">Unesite kontrolni kod na %s</string>
   <string name="verify_warning_verify_dialog_title">Potvrdite Xiaomi račun</string>
   <string name="verify_warning_dialog_message_default">Vaš Xiaomi uređaj</string>
+  <string name="verify_warning_dialog_message_find_device">"\"Izvanmrežna lokacija\" uključena je za %s. Nakon što se ova značajka uključi, moći ćete provjeriti lokaciju svog uređaja kada ste izvan mreže."</string>
   <string name="verify_warning_dialog_message_pc">Napredna zaštita podataka je uključena. Dodijelite potrebna dopuštenja na svom računalu kako biste mogli pristupiti šifriranim podacima.</string>
   <string name="verify_warning_dialog_message_web">Napredna zaštita podataka je uključena. Dodijelite potrebna dopuštenja na i.mi.com kako biste mogli pristupiti šifriranim podacima.</string>
   <string name="verify_warning_dialog_negative_btn">"Ne dopusti"</string>
   <string name="verify_warning_dialog_positive_btn">Dopusti</string>
   <string name="verify_warning_dialog_title">Drugi uređaj uključio je end-to-end enkripciju</string>
+  <string name="verify_warning_dialog_title_find_device">\"Izvanmrežna lokacija\" uključena je za drugi uređaj</string>
   <string name="verify_warning_dialog_title_pc">Potrebna su dopuštenja</string>
   <string name="verify_warning_dialog_title_web">Potrebna su dopuštenja</string>
   <string name="waiting_for_sync">Čekanje…</string>

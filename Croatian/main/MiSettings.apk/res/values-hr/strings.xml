@@ -45,8 +45,10 @@
   <string name="animal_select_alert_info">Možete odabrati do 5 stavki</string>
   <string name="anti_flicker_mode">Način protiv treperenja</string>
   <string name="anti_flicker_mode_categroy">Načini</string>
-  <string name="anti_flicker_mode_summary">Spriječite opsežno treperenje i smanjite naprezanje očiju u uvjetima slabog osvjetljenja</string>
+  <string name="anti_flicker_mode_new_data">Univerzalno DC prigušivanje</string>
+  <string name="anti_flicker_mode_summary">Spriječite opsežno prigušivanje i smanjite naprezanje očiju u uvjetima slabog osvjetljenja</string>
   <string name="anti_flicker_mode_summary_new">Koristite DC prigušivanje pri slabom osvjetljenju kako biste smanjili naprezanje očiju</string>
+  <string name="anti_flicker_mode_summary_new_data">Koristite pri punoj svjetlini za smanjenje vizualnog zamora</string>
   <string name="anti_flicker_title">Način protiv treperenja</string>
   <string name="app_cancel">Odustani</string>
   <string name="app_cta_desc">"Dobro došli u Postavke! Kako bismo vam pružili naše usluge, moramo prikupiti podatke o tome kako koristite svoj uređaj, uključujući broj otključavanja zaslona, ​​naziv svake aplikacije i koliko ga dugo koristite, koliko se puta zaslon budi, koliko je dugo način rada Fokus uključen, koliko dugo gledate u zaslon i koliko dugo gledate u svoj uređaj dok ležite, pri slabom svjetlu i iz neposredne blizine. Prethodno navedeni podaci koriste se samo na vašem uređaju."</string>
@@ -712,11 +714,14 @@ nije generirana u Drugom prostoru"</string>
   <string name="no_matching">"Ne mogu pronaći aplikaciju za otvaranje ove veze"</string>
   <string name="no_sound_summary">Ništa</string>
   <string name="normal_mode">Regularno</string>
+  <string name="normal_mode_new_data">Visokofrekventno PWM prigušivanje</string>
   <string name="normal_mode_summary">"Ne smanjuj treperenje u uvjetima slabog osvjetljenja"</string>
   <string name="normal_mode_summary_new">Dopustite treperenje u uvjetima slabog osvjetljenja</string>
+  <string name="normal_mode_summary_new_data">Koristite pri niskoj svjetlini za smanjenje vizualnog umora</string>
   <string name="north_white_rhinoceros">Bijeli nosorog</string>
   <string name="norway_lemmings">Norveški lemingi</string>
   <string name="norway_lemmings_info">Norveški leming boravi u tundri a radije živi u blizini vode.</string>
+  <string name="not_allowed_for_child">"Ova značajka nije dostupna maloljetnicima"</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notification_sound">Zvukovi obavijesti</string>
   <string name="ocelot">Ocelot</string>

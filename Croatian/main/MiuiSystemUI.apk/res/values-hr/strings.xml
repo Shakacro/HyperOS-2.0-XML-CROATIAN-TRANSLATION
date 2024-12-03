@@ -2524,9 +2524,9 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="quick_settings_intelligent_dual_sim_accelerate_title">Smart dual SIM</string>
   <string name="quick_settings_internet_label">Internet</string>
   <string name="quick_settings_inversion_label">Inverzija boja</string>
-  <string name="quick_settings_location_label">Lokacija</string>
-  <string name="quick_settings_location_state_change_message_off">Pristup lokaciji je isključen</string>
-  <string name="quick_settings_location_state_change_message_on">Pristup lokaciji je uključen</string>
+  <string name="quick_settings_location_label">Usluge lokacije</string>
+  <string name="quick_settings_location_state_change_message_off">Usluge lokacije su isključene</string>
+  <string name="quick_settings_location_state_change_message_on">Usluge lokacije su uključene</string>
   <string name="quick_settings_low_battery_toast_text">Ne mogu koristiti svjetiljku. Baterija je prazna.</string>
   <string name="quick_settings_media_device_label">Medijski uređaj</string>
   <string name="quick_settings_mic_label">Pristup mikrofonu</string>

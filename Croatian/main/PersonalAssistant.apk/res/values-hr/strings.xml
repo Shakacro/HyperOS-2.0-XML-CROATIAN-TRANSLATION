@@ -403,7 +403,8 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
   <string name="pa_lite_setting_service_memory_summary">Očistite memoriju jednim dodirom</string>
   <string name="pa_lite_setting_service_my_schedule">Raspored</string>
   <string name="pa_lite_setting_service_my_schedule_summary">Prikaz nadolazećih događaja</string>
-  <string name="pa_lite_setting_service_note">Napomene</string>
+  <string name="pa_lite_setting_service_note">Bilješke (4×2)</string>
+  <string name="pa_lite_setting_service_note_small">Bilješke (2×2)</string>
   <string name="pa_lite_setting_service_note_summary">Pogledajte svoje bilješke</string>
   <string name="pa_lite_setting_service_quick_func">Prečaci</string>
   <string name="pa_lite_setting_service_quick_func_summary">Otvorite često korištene aplikacije i usluge</string>

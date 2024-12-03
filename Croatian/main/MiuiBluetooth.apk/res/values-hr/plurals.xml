@@ -80,4 +80,8 @@
         <item quantity="other">Povezano je %1$d uređaja</item>
         <item quantity="one">Povezan je %1$d uređaj</item>
     </plurals>
+	 <plurals name="offline_call_map_distance_meters">
+        <item quantity="other">Udaljenost: %d metara</item>
+        <item quantity="one">Udaljenost: %d metar</item>
+    </plurals>
 </resources>

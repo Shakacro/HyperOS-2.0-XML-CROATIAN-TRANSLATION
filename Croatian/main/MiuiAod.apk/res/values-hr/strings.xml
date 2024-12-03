@@ -231,14 +231,14 @@ dd.MM."</string>
   <string name="kg_confirm">U redu</string>
   <string name="kg_customize">Prilagodi</string>
   <string name="kg_depth_preset_button_download">Preuzmi dinamičku pozadinu</string>
-  <string name="kg_depth_preset_button_downloading">Preuzimanje...</string>
+  <string name="kg_depth_preset_button_downloading">Preuzimanje…</string>
   <string name="kg_depth_preset_button_dynamic">Dinamički</string>
   <string name="kg_depth_preset_button_static">Statično</string>
   <string name="kg_depth_preset_network_fail">Nema mrežne veze</string>
   <string name="kg_depth_preset_network_fail_download_pause">Nema mrežne veze. Pauzirano preuzimanje.</string>
   <string name="kg_depth_produce_video_detail_failed">Efekt dubine može se koristiti samo za ljude, pse i mačke</string>
   <string name="kg_depth_produce_video_failed">"Nije moguće primijeniti efekt dubine"</string>
-  <string name="kg_depth_produce_video_progress_dialog_label">AI obrađuje efekt dubine videa...</string>
+  <string name="kg_depth_produce_video_progress_dialog_label">AI obrađuje efekt dubine videa…</string>
   <string name="kg_depth_video_apply_aod_close_toast">Efekt video dubine je uključen. Always-on prikaz preko cijelog zaslona je isključen.</string>
   <string name="kg_dialog_apply_linkage_video_wallpaper_confirm_title">Primijeni temu</string>
   <string name="kg_dialog_apply_linkage_video_wallpaper_negative_button">Odustani</string>

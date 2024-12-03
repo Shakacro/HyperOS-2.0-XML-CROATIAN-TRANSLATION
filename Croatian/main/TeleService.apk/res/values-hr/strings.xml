@@ -2295,6 +2295,9 @@ Kontaktirajte vašeg operatera."</string>
   <string name="oem_radio_info_label">OEM-specifični podaci/Postavke</string>
   <string name="oem_unlock_enable">OEM otključavanje</string>
   <string name="oem_unlock_enable_summary">Neka kôd za pokretanje sustava bude otključan</string>
+  <string name="offline_call_has_call">Druga osoba je zauzeta. Pokušajte ponovno za minutu ili dvije.</string>
+  <string name="offline_call_not_match_contact">"Nije moguće nazvati. Vi niste kontakt druge osobe."</string>
+  <string name="offline_connection_service_label">Ugrađeno OFFLINE pozivanje</string>
   <string name="ok">U redu</string>
   <string name="okay">U redu</string>
   <string name="oldPin2Label">Stari PIN2</string>

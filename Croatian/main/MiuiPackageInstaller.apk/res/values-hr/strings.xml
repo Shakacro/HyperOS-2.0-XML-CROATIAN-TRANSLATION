@@ -294,7 +294,7 @@
 	<string name="install_completed_pure_open_tip_title">Uključite Mi Protect kako biste blokirali rizične aplikacije i osigurali svoju sigurnost.</string>
 	<string name="install_failed_secure_frp">"Radi vaše sigurnosti Android ne dopušta instaliranje aplikacija odmah nakon resetiranja uređaja ako je vaš Google račun još uvijek prijavljen."</string>
   <string name="install_failed_secure_frp_suggestion">"1. korak: dodirnite \"Osnovne Google usluge\" i uključite ih.
-2. korak: dodajte Google račun s kojim ste bili prijavljeni prije nego što ste resetirali uređaj.
+2. korak: dodajte Google račun s kojim ste bili prijavljeni prije nego što ste poništili uređaj.
 %1$s"</string>
    <string name="install_failed_secure_frp_suggestion_clickable">Otvori postavke</string>
 	<string name="install_hint_enhanced_mode_hint">Poboljšana zaštita</string>
@@ -542,7 +542,7 @@
 	<string name="open">Uključi</string>
 	<string name="open_and_exit">Uključi</string>
    <string name="open_enhanced_protection">Uključite poboljšanu zaštitu</string>
-   <string name="open_safe_mode">Uključi</string>
+   <string name="">Uključi</string>
 	<string name="open_app_install_safe_check">Provjerite aplikacije prije instalacije</string>
 	<string name="open_app_install_safe_des">Provjerite moguće rizike i sigurnosne probleme u aplikacijama prije instalacije</string>
 	<string name="open_now">Uključi</string>
