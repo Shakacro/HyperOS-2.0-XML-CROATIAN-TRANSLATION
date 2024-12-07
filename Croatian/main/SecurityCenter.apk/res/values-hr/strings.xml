@@ -164,7 +164,7 @@
   <string name="ad_text_btn_resume">Nastavi</string>
   <string name="ad_text_develop">Programer: %1$s</string>
   <string name="ad_text_introduce">O</string>
-  <string name="ad_text_permission">Dozvole</string>
+  <string name="ad_text_permission">Dopuštenja</string>
   <string name="ad_text_privacy">Dopuštenja</string>
   <string name="ad_text_version">Verzija: %1$s</string>
   <string name="ad_update_time">Zadnje ažuriranje %s</string>
@@ -174,7 +174,7 @@
   <string name="adb_install_open_error">"Ne mogu dopustiti, provjerite mrežnu vezu"</string>
   <string name="adb_install_reject_notiy">"Nije odobreno instaliranje %s putem USB-a"</string>
   <string name="adb_install_reject_notiy_desc">Možete dopustiti instalaciju putem USB-a u Opcije Raz. programera</string>
-  <string name="adb_login_xiaomi_account">Prijavite se prvo s Xiaomi Računom</string>
+  <string name="adb_login_xiaomi_account">Prijavite se prvo s Xiaomi računom</string>
   <string name="add_auto_task_desktop_icon">Dodaj prečac na Početni zaslon</string>
   <string name="add_bill_reminder_alarm">Postavite upozorenje o stanju na telefonu</string>
   <string name="add_done">Uspješno dodano</string>
@@ -212,7 +212,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="ai_guard_post_brief_summary">Prepoznaje i upozorava na lažne pozive</string>
   <string name="ai_guard_post_preference_summary">Pošalji upozorenje kada se otkrije sumnja na prijevaru ili krivotvorenje identiteta tijekom telefonskih poziva i WeChat ili QQ videopoziva</string>
   <string name="ai_guard_post_preference_title">Sprečavanje AI prijevara</string>
-  <string name="ai_guard_settings_permissions">Dozvole</string>
+  <string name="ai_guard_settings_permissions">Dopuštenja</string>
   <string name="ai_guard_settings_preference_summary">"Kada odgovarate na telefonski poziv ili videopoziv na WeChatu ili QQ, primit ćete upozorenje ako se otkrije sumnja na prijevaru ili krivotvorenje identiteta (tj. zamjena lica). Ovu značajku možete isključiti za pojedinačni poziv."</string>
   <string name="ai_guard_settings_preference_title">Zaštita AI poziva</string>
   <string name="ai_guard_settings_revoke_dialog_btn_pos">Povlačenje</string>
@@ -692,7 +692,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="app_manager_wakepath_dialog_title">O lančanom pokretanju</string>
   <string name="app_managere_not_have_app">Prazno</string>
   <string name="app_manger_des_separator">", "</string>
-  <string name="app_manager_deleted_system_app_title">Deinstalirane sistemske aplikacije</string>
+  <string name="app_manager_deleted_system_app_title">Deinstalirane aplikacije sustava</string>
   <string name="app_powerkeeper_config_description">Sustav će identificirati aplikacije uključene u izravnu razmjenu poruka, navigaciju i reprodukciju medija, primjenjujući prilagođene mjere za uštedu energije kako bi zaštitio kritične pozadinske aktivnosti od prekida</string>
   <string name="app_powerkeeper_miui_auto">Štednja baterije (preporučeno)</string>
   <string name="app_powerkeeper_miui_auto_summary">Identificirajte aplikacije i aktivnosti kako biste nastavili važne procese. Štednja baterije selektivno će tretirati važne aplikacije.</string>
@@ -1284,6 +1284,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručica za povlačenje</string>
   <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
   <string name="bottom_notice_title">Povuci gore za otvaranje toolbox-a</string>
+  <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="brand_diagnostic">Dijagnostika tipa mreže operatera</string>
   <string name="brightness_auto_adjust_off">Osvjetljenje će ostati stalno u svim okruženjima</string>
   <string name="brightness_auto_adjust_on">Optimizirajte razinu osvjetljenja za dostupnim svjetlom</string>
@@ -3411,9 +3412,9 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="intl_perm_privacy_control_storage">"Aplikacija može pristupiti ili uređivati stavke iz unutarnje pohrane samo dok je koristite"</string>
   <string name="intl_perm_privacy_control_title">Kontrolirajte privatnost</string>
   <string name="invalid_charger">"Nije moguće punnjenje putem USB-a. Upotrijebite punjač koji ste dobili s vašim uređajem."</string>
-  <string name="invisible_mode_close_summary_compact">Trenutna verzija sustava podržava samo istovremeno uključivanje dopuštenja za kameru, lokaciju i mikrofon za sve aplikacije. Uključivanjem jedne od ovih dozvola uključit ćete ih sve.</string>
+  <string name="invisible_mode_close_summary_compact">Trenutna verzija sustava podržava samo istovremeno uključivanje dopuštenja za kameru, lokaciju i mikrofon za sve aplikacije. Uključivanjem jednog od ovih dopuštenja uključit ćete ih sve.</string>
   <string name="invisible_mode_close_title_compact">Podsjetnik za dopuštenja</string>
-  <string name="invisible_mode_open_summary_compact">Trenutna verzija sustava podržava samo istovremeno isključivanje dopuštenja kamere, lokacije i mikrofona za sve aplikacije. Isključivanjem jedne od ovih dozvola isključit će se sve.</string>
+  <string name="invisible_mode_open_summary_compact">Trenutna verzija sustava podržava samo istovremeno isključivanje dopuštenja kamere, lokacije i mikrofona za sve aplikacije. Isključivanjem jednog od ovih dopuštenja isključit će se sve.</string>
   <string name="invisible_mode_open_title_compact">Podsjetnik za dopuštenja</string>
   <string name="ip_address_exception_summary">"Nije bilo moguće dobiti IP adresu. Ako naiđete ponovno na ovaj problem, pokušajte koristiti statičnu IP adresu."</string>
   <string name="item_app_permission">Dopuštenja aplikacija</string>
@@ -4714,7 +4715,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_receive_mms">Ovo dopuštenje aplikacijama omogućuje čitanje svih multimedijskih poruka pohranjenih na vašem uređaju ili SIM kartici. Takve poruke mogu sadržavati zaporke, podatke o bankovnom računu i druge osobne podatke.</string>
   <string name="permission_instruction_receive_sms">Primanje SMS-a i MMS-a</string>
   <string name="permission_instruction_receive_sms_mms">Ovo dopuštenje aplikacijama omogućuje čitanje svih SMS-ova i MMS-ova. Ove poruke mogu sadržavati zaporke, podatke o bankovnom računu i druge osobne podatke.</string>
-  <string name="permission_instruction_record_audio">"Ovo dopuštenje aplikacijama omogućuje korištenje mikrofona za snimanje zvuka. Imajte na umu da ovo dopuštenje aplikacijama omogućuje snimanje bilo čega, uključujući vaše razgovore s drugima. Najbolje je dozvoliti aplikacijama da koriste ovo dopuštenje samo dok ih koristite.
+  <string name="permission_instruction_record_audio">"Ovo dopuštenje aplikacijama omogućuje korištenje mikrofona za snimanje zvuka. Imajte na umu da ovo dopuštenje aplikacijama omogućuje snimanje bilo čega, uključujući vaše razgovore s drugima. Najbolje je dopustiti aplikacijama da koriste ovo dopuštenje samo dok ih koristite.
 "</string>
   <string name="permission_instruction_record_screen">Pristup sadržaju zaslona</string>
   <string name="permission_instruction_running_background">Ovo dopuštenje aplikacijama omogućuje rad u pozadini. Radeći to, aplikacije mogu prikupljati podatke i pružati usluge. Imajte na umu da takve aktivnosti povećavaju potrošnju energije.</string>
@@ -6679,7 +6680,7 @@ Za korištenje ovog ^1 s ovim uređajem prvo ga morate postaviti."</string>
   <string name="storage_mount_failure">"Ne mogu učitati %1$s"</string>
   <string name="storage_mount_success">%1$s uspješno učitan</string>
   <string name="storage_permission_button">Postavke</string>
-  <string name="storage_permission_message">Dopustite ovoj značajci pristup pohrani kako bi mogla točno izračunati korištenje pohrane. Ovu dozvolu možete dati u postavkama.</string>
+  <string name="storage_permission_message">Dopustite ovoj značajci pristup pohrani kako bi mogla točno izračunati korištenje pohrane. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="storage_permission_title">Potrebna su dopuštenja</string>
   <string name="storage_my_device">Moj uređaj</string>
   <string name="storage_space_release_hint">Trebate više prostora za pohranu?</string>
@@ -6830,11 +6831,11 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="support_app_name_securitycenter">Sigurnosni alati</string>
   <string name="support_game_booster_tips">Ubzravanje brzine &amp; poboljšanje doživljaja igranja</string>
   <string name="sys_app_prot_cracked_confirm">Razumijem</string>
-  <string name="sys_app_prot_cracked_login">Prijavite se s Xiaomi Računom</string>
+  <string name="sys_app_prot_cracked_login">Prijavite se s Xiaomi računom</string>
   <string name="sys_app_prot_cracked_text_login">"Trenutna HyperOS verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost.
 
 Pobrinite se da znate odakle ovaj uređaj dolazi, i obratite se ovlaštenom Xiaomi servisu u vašem području da biste dobili pomoć."</string>
-  <string name="sys_app_prot_cracked_text_unlogin">"Trenutna HyperOS verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost. Prijavite se sa svojim Xiaomi Računom da biste isključili ovo upozorenje.
+  <string name="sys_app_prot_cracked_text_unlogin">"Trenutna HyperOS verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost. Prijavite se sa svojim Xiaomi računom da biste isključili ovo upozorenje.
   
 Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate odakle ovaj uređaj dolazi i obratite se ovlaštenom Xiaomi servisu u vašem području."</string>
   <string name="sys_app_prot_cracked_title">Sigurnosni rizik</string>
@@ -7697,7 +7698,7 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="warningcenter_disaster_detail_title">Detalji</string>
   <string name="warningcenter_disaster_guide_title">Sigurnosne smjernice</string>
   <string name="warningcenter_disaster_icon_title">Demo upozorenje</string>
-  <string name="warningcenter_disaster_info">"Objavio CMA-ov centar za upozorenja"</string>
+  <string name="warningcenter_disaster_info">"Primajte upozorenja o katastrofama kako biste bili sigurni i smanjili rizike"</string>
   <string name="warningcenter_disaster_info_title">O upozorenjima</string>
   <string name="warningcenter_disaster_level_1">Razina I (izuzetno teška)</string>
   <string name="warningcenter_disaster_level_2">Razina II (ozbiljna)</string>
