@@ -100,9 +100,9 @@
   <string name="catch_full_log_dialog_title">Izrada zapisa…</string>
   <string name="catch_full_log_dump_hprof_failed">"Ne mogu izraditi zapis laga"</string>
   <string name="catch_full_log_item_content_catching">Izrada zapisa…</string>
-  <string name="catch_full_log_item_content_need_open">"1. Dodirnite \"Izradi zapis\".
-2. Vratite se na značajku koju želite prijaviti i reproducirajte je.
-3. Vratite se na ovu stranicu i dodirnite \"Gotovo i pošalji\"."</string>
+  <string name="catch_full_log_item_content_need_open">"%1$d. Dodirnite \"Izradi zapis\".
+%2$d. Vratite se na značajku koju želite prijaviti i reproducirajte je.
+%3$d. Vratite se na ovu stranicu i dodirnite \"Gotovo i pošalji\"."</string>
   <string name="catch_full_log_item_content_title">Koraci:</string>
   <string name="catch_full_log_item_title_audio">Zvuk, snimanje zvuka i zvuk tijekom poziva</string>
   <string name="catch_full_log_item_title_bt">Bluetooth</string>
@@ -175,6 +175,7 @@
   <string name="common_open_on_phone">Otvori na telefonu</string>
   <string name="common_signin_button_text">Prijava</string>
   <string name="common_signin_button_text_long">Prijava putem Googlea</string>
+  <string name="confirm_activate_email">Provjereno</string>
   <string name="copy">Kopiraj</string>
   <string name="cta_cancel">Odustani</string>
   <string name="cta_confirm">U redu</string>
@@ -236,6 +237,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="facebook_login_btn_content_description">Prijavite se s Facebookom</string>
   <string name="failed_dup_secure_phone_number">Ovaj broj telefona je već povezan s drugim Xiaomi Računom</string>
   <string name="failed_to_fetch_fql">"Ne mogu dobiti informacije o FAQ-u, provjerite mrežnu vezu"</string>
+  <string name="fcm_fallback_notification_channel_label">Razno</string>
   <string name="feedback_account_inconsistent_login_hint">Čini se da ste promijenili račun. Prijavite se na svoj prethodni Xiaomi Račun.</string>
   <string name="feedback_account_login_hint">Prvo se prijavite na svoj Xiaomi Račun</string>
   <string name="feedback_answer_detail_feedback_resolved">Da</string>
@@ -276,6 +278,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="feedback_detail_feedback_reply_hint">Odgovor</string>
   <string name="feedback_detail_feedback_summary">Povratne informacije</string>
   <string name="feedback_detail_need_content">Prvo unesite sadržaj</string>
+  <string name="feedback_detail_one_click_log_upload">Prijenos zapisnika jednim dodirom</string>
   <string name="feedback_detail_title">Detalji</string>
   <string name="feedback_detail_upload_generate_log">Izradi zapise</string>
   <string name="feedback_detail_upload_image">Pošalji slike/videozapise</string>
@@ -322,6 +325,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="feedback_select_upload_log_not_select_desc">Niste odabrali \"Dodaj zapise\"</string>
   <string name="feedback_select_upload_log_select_desc">Odabrano \"Dodaj zapise\"</string>
   <string name="feedback_status_answered">Odgovoreno</string>
+  <string name="feedback_status_capturing_logs">Snimanje zapisa</string>
   <string name="feedback_status_change_notification_title">Vaš napredak zapisa je ažuriran</string>
   <string name="feedback_status_collect_log_failed">Ne mogu dobiti zapise</string>
   <string name="feedback_status_commit_failed_title">"Ne mogu poslati zapis"</string>
@@ -329,6 +333,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="feedback_status_commit_succ_title">Poslano</string>
   <string name="feedback_status_commit_uploading_title">Šaljem…</string>
   <string name="feedback_status_forum_reply">Odgovori</string>
+  <string name="feedback_status_generating_logs">Generiranje zapisa</string>
   <string name="feedback_status_get_and_save_bbs_info_failed">Ne mogu dobiti URL privitka</string>
   <string name="feedback_status_jira_comment">Dodajte komentar</string>
   <string name="feedback_status_more">Pojedinosti</string>
@@ -506,7 +511,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="miui_feedback_edit_toast_third_packagename_required">Unesite naziv aplikacije</string>
   <string name="miui_feedback_main_answer_title">"Postoji odgovor na ovo pitanje"</string>
   <string name="miui_feedback_main_customer_service_onfo_for_jp">"Servisna linija: 0120-300-521
-Uredovno vrijeme: 9:00 - 18:00 (osim državnih praznika i praznika)
+Uredovno vrijeme: 9:00 - 18:00 (osim državnih praznika)
 E-pošta: service.jp@xiaomi.com"</string>
   <string name="miui_feedback_main_frequent_question_title">FAQ</string>
   <string name="miui_feedback_main_item_catch_full_log">Dnevnici</string>
@@ -568,6 +573,7 @@ E-pošta: service.jp@xiaomi.com"</string>
   <string name="modem_tool_log_finish_desc">Zapis se sprema kao %s</string>
   <string name="modem_tool_log_finish_title">Zapis modema prikupljen</string>
   <string name="module_communication">Komunikacija</string>
+  <string name="module_connectivity">Međusobna povezanost</string>
   <string name="module_data">Prostor za pohranu &amp; Dvojne aplik.</string>
   <string name="module_desktop">Početni zaslon &amp; Postavke</string>
   <string name="module_finance">Financije &amp; Mi Novčanik</string>
@@ -585,7 +591,6 @@ E-pošta: service.jp@xiaomi.com"</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
-  <string name="month">Mjesec</string>
   <string name="month_april">Travanj</string>
   <string name="month_april_short">Tra</string>
   <string name="month_april_shortest">T</string>
@@ -653,20 +658,25 @@ E-pošta: service.jp@xiaomi.com"</string>
   <string name="net_diag_entry_network_rssi">Kvaliteta signala</string>
   <string name="net_diag_entry_router_topology">Mrežno usmjeravanje</string>
   <string name="net_diag_fix_guide_window_msg">Došlo je do mrežne pogreške. Dodirnite za rješavanje problema.</string>
+  <string name="net_diag_fix_guide_window_msg2">Dodirnite za rješavanje problema</string>
   <string name="net_diag_fixing">Popravak mreže. Ovo bi moglo potrajati minutu.</string>
   <string name="net_diag_header_internet">Internet</string>
-  <string name="net_diag_header_router">Usmjerivač</string>
+  <string name="net_diag_header_router">Router</string>
   <string name="net_diag_header_this_device">Ovaj uređaj</string>
+  <string name="net_diag_help">Pomoć</string>
   <string name="net_diag_repair_msg">Tijekom ovog procesa, Wi-Fi će se prekinuti i zatim ponovno spojiti. Popraviti sada?</string>
   <string name="net_diag_repair_msg_china">Tijekom ovog procesa, Wi-Fi će se prekinuti i zatim ponovno spojiti. Popraviti sada?</string>
   <string name="net_diag_repair_static_ip_msg">Mrežne konfiguracije mogu se resetirati tijekom ovog procesa. Popraviti sada?</string>
   <string name="net_diag_repair_title">Popraviti mrežu?</string>
-  <string name="net_diag_title">Testiraj mrežu</string>
+  <string name="net_diag_title">Testiraj Wi-Fi</string>
+  <string name="net_diag_title_china">Testiraj Wi-Fi</string>
   <string name="net_diag_toast_cellular_data">Za testiranje mreže prvo isključite mobilne podatke.</string>
   <string name="net_diag_toast_other_networks">Da biste testirali mrežu, prvo se povežite na Wi-Fi i prekinite vezu s drugim mrežama.</string>
   <string name="net_diag_toast_other_networks_china">Da biste testirali mrežu, prvo se povežite na Wi-Fi i prekinite vezu s drugim mrežama.</string>
   <string name="net_diag_toast_wifi_disconnected">Za testiranje mreže, prvo se povežite na Wi-Fi.</string>
   <string name="net_diag_toast_wifi_disconnected_china">Za testiranje mreže, prvo se povežite na Wi-Fi.</string>
+  <string name="net_diag_wlan_basic_functions">Osnovne Wi-Fi značajke</string>
+  <string name="net_diag_wlan_basic_functions_china">Osnovne Wi-Fi značajke</string>
   <string name="net_error_info">Nema mrežne veze, dodirnite ovdje da biste otvorili Postavke</string>
   <string name="network_err">"Ne mogu se povezati na mrežu."</string>
   <string name="network_error_info">Dogodila se mrežna pogreška. Provjerite postavke mreže i pokušajte ponovno.</string>
@@ -1032,21 +1042,20 @@ Size: %2$s"</string>
   <string name="update_phone_notice">Promijeni sigurnosne postavke</string>
   <string name="upload_error_log">Učitaj zapis</string>
   <string name="upload_log_failed">"Ne mogu poslati zapis"</string>
-  <string name="user_agreement_hint_3rd_app">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i Xiaomi Račun &amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_3rd_app_mobile">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Račun &amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%5$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Račun &amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%5$s\"&amp;gt;Odredbe i uvjete eSurfing usluge provjere računa&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Račun &amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%5$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Unicom &amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_default">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_default_1">&lt;Data&gt;Pročitajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_default_extra">&lt;Data&gt;"Pročitao sam i prihvaćam the &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt; Prva prijava automatski će izraditi Xiaomi račun"&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_first_login">"Automatski ćemo izraditi račun ako prvi put koristite svoj broj telefona."</string>
-  <string name="user_agreement_hint_with_mobile">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%3$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_with_telecom">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%3$s\"&amp;gt;Odredbe i uvjete eSurfing usluge provjere računa&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_with_unicom">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%3$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Unicom&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_protocal_dialog_hint_default">&lt;Data&gt;"Pročitajte i prihvatite  &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i Xiaomi Račun &amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Xiaomi račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_3rd_app_mobile"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, Xiaomi račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_default"><Data>"Pročitao sam i prihvaćam Xiaomi račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_default_1"><Data>Read and agreed to the &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti.&lt;/a></Data></string>
+  <string name="user_agreement_hint_default_extra"><Data>"Pročitao sam i prihvaćam the &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti.&lt;/a> Prva prijava automatski će stvoriti Xiaomi račun"</Data></string>
+  <string name="user_agreement_hint_first_login">"Automatski ćemo kreirati račun ako svoj telefonski broj koristite prvi put."</string>
+  <string name="user_agreement_hint_with_mobile"><Data>"Pročitao sam i prihvaćam Xiaomi račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_with_telecom"><Data>"Pročitao sam i prihvaćam Xiaomi račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+  <string name="user_agreement_hint_with_unicom"><Data>"Pročitao sam i prihvaćam Xiaomi račun &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a>, kao i &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
-  <string name="user_id_hint">E-pošta/Telefon/ID Xiaomi Računa</string>
+  <string name="user_id_hint">E-pošta/Telefon/ID Xiaomi računa</string>
   <string name="user_must_known">Pažnja</string>
   <string name="user_must_known_content">"Nećete moći nastaviti koristiti naše usluge osim ako ne pristanete na novu verziju našeg %s. Privaćate li ažurirana Pravila o privatnosti?"</string>
   <string name="user_name_phone_number">Broj telefona</string>

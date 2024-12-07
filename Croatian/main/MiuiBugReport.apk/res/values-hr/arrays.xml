@@ -58,4 +58,20 @@
         <item>Muškarac</item>
         <item>Žena</item>
     </string-array>
+	 <string-array name="wifi_diag_err_wifi_base">
+      <item>"Nije moguće uključiti Wi-Fi. Ponovno pokrenite uređaj ili ga ažurirajte na najnoviju verziju sustava."</item>
+      <item>"Nije moguće locirati hotspot. Ponovno pokrenite uređaj ili ga ažurirajte na najnoviju verziju sustava."</item>
+      <item>"Ne mogu uključiti Wi-Fi. Isključite i ponovno uključite Wi-Fi ili ponovno pokrenite router."</item>
+      <item>Wi-Fi se više puta prekidao. Isključite i ponovno uključite Wi-Fi ili ponovno pokrenite router.</item>
+      <item>"Nije moguće uključiti hotspot. Ponovno pokrenite uređaj ili ga ažurirajte na najnoviju verziju sustava."</item>
+      <item>"Nije moguće uključiti hotspot. Isključite zrakoplovni način i pokušajte ponovno."</item>
+    </string-array>
+    <string-array name="wifi_diag_err_wifi_base_china">
+      <item>"Nije moguće uključiti Wi-Fi. Ponovno pokrenite uređaj ili ga ažurirajte na najnoviju verziju sustava."</item>
+      <item>"Nije moguće locirati hotspot. Ponovno pokrenite uređaj ili ga ažurirajte na najnoviju verziju sustava."</item>
+      <item>"Ne mogu uključiti Wi-Fi. Isključite i ponovno uključite Wi-Fi ili ponovno pokrenite router."</item>
+      <item>Wi-Fi se više puta prekidao. Isključite i ponovno uključite Wi-Fi ili ponovno pokrenite router.</item>
+      <item>"Nije moguće uključiti hotspot. Ponovno pokrenite uređaj ili ga ažurirajte na najnoviju verziju sustava."</item>
+      <item>"Nije moguće uključiti hotspot. Isključite zrakoplovni način i pokušajte ponovno."</item>
+    </string-array>
 </resources>
