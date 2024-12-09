@@ -7,16 +7,6 @@
         <item>Svaka 4 sata</item>
         <item>Svakih 12 sati</item>
     </string-array>
-    <string-array name="aquarius_info">
-        <item>vodenjak</item>
-        <item>Vodenjak</item>
-        <item>1/20 - 2/18</item>
-    </string-array>
-    <string-array name="aries_info">
-        <item>ovan</item>
-        <item>Ovan</item>
-        <item>3/21 - 4/19</item>
-    </string-array>
     <string-array name="availability">
         <item>Zauzet</item>
         <item>Dostupan</item>
@@ -27,16 +17,6 @@
         <item>Tjedan</item>
         <item>Mjesec</item>
         <item>Raspored</item>
-    </string-array>
-    <string-array name="cancer_info">
-        <item>rak</item>
-        <item>Rak</item>
-        <item>6/22 - 7/22</item>
-    </string-array>
-    <string-array name="capricorn_info">
-        <item>jarac</item>
-        <item>Jarac</item>
-        <item>12/22 - 1/19</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Samo ovaj događaj</item>
@@ -76,21 +56,6 @@
     <string-array name="delete_repeating_labels_no_selected">
         <item>Ovaj &amp; budući događaji</item>
         <item>Svi događaji</item>
-    </string-array>
-    <string-array name="gemini_info">
-        <item>blizanci</item>
-        <item>Blizanci</item>
-        <item>5/21 - 6/21</item>
-    </string-array>
-    <string-array name="leo_info">
-        <item>lav</item>
-        <item>Lav</item>
-        <item>7/23 - 8/22</item>
-    </string-array>
-    <string-array name="libra_info">
-        <item>vaga</item>
-        <item>Vaga</item>
-        <item>9/23 - 10/23</item>
     </string-array>
     <string-array name="miui_preferences_default_reminder_labels">
         <item>Bez podsjetnika</item>
@@ -142,11 +107,6 @@
         <item>Četvrtak</item>
         <item>Petak</item>
         <item>Subota</item>
-    </string-array>
-    <string-array name="pisces_info">
-        <item>riba</item>
-        <item>Riba</item>
-        <item>2/19 - 3/20</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup">
         <item>Isključeno</item>
@@ -401,21 +361,6 @@
         <item>Odlučiti ću kasnije</item>
         <item>Odbijam</item>
     </string-array>
-    <string-array name="sagittarius_info">
-        <item>strijelac</item>
-        <item>Strijelac</item>
-        <item>11/23 - 12/21</item>
-    </string-array>
-    <string-array name="scorpio_info">
-        <item>škorpion</item>
-        <item>Škorpion</item>
-        <item>10/24 - 11/22</item>
-    </string-array>
-    <string-array name="taurus_info">
-        <item>bik</item>
-        <item>Bik</item>
-        <item>4/20 - 5/20</item>
-    </string-array>
     <string-array name="timezone_labels">
         <item>Marshall Islands</item>
         <item>Midway Island</item>
@@ -510,11 +455,6 @@
         <item>5h</item>
         <item>6h</item>
         <item>1 dan</item>
-    </string-array>
-    <string-array name="virgo_info">
-        <item>djevica</item>
-        <item>Djevica</item>
-        <item>8/23 - 9/22</item>
     </string-array>
     <string-array name="visibility">
         <item>Zadano</item>
