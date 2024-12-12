@@ -63,6 +63,7 @@
    <string name="add_local_picture">Galerija</string>
    <string name="add_online_picture">Online slike</string>
    <string name="add_to_cw">Dodaj dijaprojekciji</string>
+   <string name="add_to_my_wallpaper_success_toast">Dodano u \"Moje pozadine\"</string>
    <string name="add_wallpaper">Dodajte pozadine</string>
    <string name="addcw_apply_btn_txt">Dodaj pozadinu</string>
    <string name="ai_back">Natrag</string>
@@ -899,6 +900,7 @@ mm"</string>
    <string name="sst_my_wallpaper_desc">Pogledajte pozadine s Wallpaper Carousela</string>
    <string name="sst_my_wallpaper_title">Moje pozadine</string>
    <string name="sst_new_feature">Nove značajke</string>
+   <string name="sst_no_wallpaper">Ovdje nema ništa</string>
    <string name="sst_no_favor_wallpaper_hint">Nema slika pozadina u Favoritima</string>
    <string name="sst_privacy_policy_title">Pravila o privatnosti</string>
    <string name="sst_prov_enable_desc">"Dobijte redovito nove slike pozadine na Zaklj. zaslon"</string>

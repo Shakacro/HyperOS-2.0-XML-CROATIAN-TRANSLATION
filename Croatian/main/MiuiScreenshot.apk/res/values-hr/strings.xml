@@ -66,7 +66,7 @@
   <string name="device_offline">Drugi je uređaj izvanmrežno. Započnite ispočetka.</string>
   <string name="device_status_failed">"Ne mogu poslati"</string>
   <string name="device_status_sending">Slanje…</string>
-  <string name="device_status_success">Uspješno poslano</string>
+  <string name="device_status_success">Poslano</string>
   <string name="device_status_waiting">Na čekanju…</string>
   <string name="device_type_pc">Računalo</string>
   <string name="doodle_paint_select_heavy_talkback">Debelo</string>
@@ -86,9 +86,8 @@
   <string name="functions_are_being_developed">Ova će značajka uskoro biti dostupna. Ostanite u toku!</string>
   <string name="garbage_count">Postoji %1$s starih primjera</string>
   <string name="global_main_purpose">Dobro došli u Uređivač snimki zaslona! Ovu aplikaciju možete koristiti za obrezivanje i uređivanje snimaka zaslona. Ova se aplikacija mora povezati s internetom da bi mogla normalno raditi.</string>
-  <string name="global_pad">Moj tablet</string>
-  <string name="global_pc">Moj laptop</string>
-  <string name="global_phone">Moj telefon</string>
+  <string name="global_my">"Moj uređaj
+%1$s"</string>
   <string name="help">"Ne možete pronaći uređaje?"</string>
   <string name="help_content">"Ako ne možete pronaći uređaj koji vam je potreban, zamolite drugu osobu da uključi Mi Share."</string>
   <string name="image_decode_failed">"Nisam mogao dekodirati sliku"</string>
@@ -224,7 +223,7 @@ snimke zaslona"</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
   <string name="save_success">Uspješno spremljeno</string>
-  <string name="scanning_device_tips">Traženje uređaja u blizini… Provjerite je li drugi uređaj u vidljivom načinu.</string>
+  <string name="scanning_device_tips"><Data>Traženje uređaja u blizini. Druga osoba mora uključiti Xiaomi Share u kontrolnom centru. &lt;a>Saznajte više&lt;/a></Data></string>
   <string name="screen_doodle_talkback_size">Širina doodle linije</string>
   <string name="screen_editor_btn_delete">Izbriši</string>
   <string name="screen_editor_btn_save">Spremi</string>

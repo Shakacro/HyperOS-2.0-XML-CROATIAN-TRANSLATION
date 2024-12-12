@@ -45,6 +45,14 @@
         <item>/DCIM</item>
         <item>/Picture</item>
     </string-array>
+	<string-array name="feedback_content">
+      <item>Ne zanima me</item>
+      <item>Ponavljajuće</item>
+      <item>Neprikladan sadržaj</item>
+      <item>Obmana ili prijevara</item>
+      <item>Ilegalni sadržaj</item>
+      <item>Ostalo</item>
+ </string-array>
     <string-array name="installed_app_sort_type">
         <item>Učestalost korištenja</item>
         <item>Veličina</item>

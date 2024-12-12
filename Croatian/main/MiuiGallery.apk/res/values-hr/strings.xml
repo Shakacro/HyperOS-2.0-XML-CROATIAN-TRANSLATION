@@ -2606,6 +2606,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="privacy_rejected_pos_btn">Povuci</string>
   <string name="privacy_share_album_confirm">Uvjeti i odredbe</string>
   <string name="privacy_share_album_confirm_detail">Dijeljene albume pokreće Xiaomi Cloud. Prije korištenja ove značajke, pročitajte i prihvatite naše &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Korisnički ugovor&lt;/a&gt;&lt;/font&gt; i &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\"&gt;Pravila o privatnosti&lt;/a&gt;&lt;/font&gt;.</string>
+  <string name="privacy_watermark_word_count_full">"Ne mogu unijeti više znakova"</string>
   <string name="private_entry_lock_state_activated_text">Otpusti za otvaranje privatne mape</string>
   <string name="private_entry_lock_state_enterd_text">Povuci dolje za otvaranje privatne mape</string>
   <string name="problem_feedback">Povratne inf.</string>

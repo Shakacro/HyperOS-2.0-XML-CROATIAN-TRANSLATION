@@ -777,7 +777,7 @@ Dodajte widgete za početak."</string>
   <string name="pa_widget_menu_remove_card_in_stack">Ukloni \"%s\"</string>
   <string name="pa_widget_menu_edit">Uredi</string>
   <string name="pa_widget_menu_remove">Ukloni</string>
-  <string name="pa_widget_menu_replace">Prebacivanje</string>
+  <string name="pa_widget_menu_replace">Zamjeni</string>
   <string name="pa_widget_delete_description">Izbriši</string>
   <string name="pa_widget_edit_calendar_switch_closed_toast">"Nećete vidjeti nadolazeće događaje prikazane na widgetu"</string>
   <string name="pa_widget_edit_calendar_switch_opened_toast">"Vidjet ćete nadolazeće događaje prikazane na widgetu"</string>

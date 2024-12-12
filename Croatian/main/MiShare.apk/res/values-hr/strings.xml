@@ -66,7 +66,7 @@
   <string name="device_offline">Drugi je uređaj offline. Početi ispočetka.</string>
   <string name="device_status_failed">"Ne mogu poslati"</string>
   <string name="device_status_sending">Slanje…</string>
-  <string name="device_status_success">Uspješno poslano</string>
+  <string name="device_status_success">Poslano</string>
   <string name="device_status_waiting">Na čekanju…</string>
   <string name="device_type_oppo_phone">OPPO</string>
   <string name="device_type_pc">Računala</string>
@@ -76,10 +76,11 @@
   <string name="disconnect">VEZA PREKINUTA</string>
   <string name="enable_midrop">Uključi</string>
   <string name="err_send_short_connect_error">"Ne mogu se spojiti"</string>
-  <string name="err_send_short_remote_busy">Zauzet</string>
+  <string name="err_send_short_remote_busy">Uređaj je zauzet</string>
   <string name="err_send_short_remote_cancel">Otkazano</string>
   <string name="err_send_short_remote_refuse">Odbijeno</string>
   <string name="err_send_short_remote_timeout">Nema odgovora</string>
+  <string name="err_send_short_send_cancel">Otkazan prijenos</string>
   <string name="error_ap_in_use">"Ne mogu slati datoteke na druge uređaje dok je hotspot uključen"</string>
   <string name="error_ap_or_screen_already_hosting">Stavke nije moguće slati na druge uređaje tijekom emitiranja ili upotrebe hotspota.</string>
   <string name="error_ble_connect_failure">"Uređaj primatelj nije se mogao povezati s Bluetoothom. Provjerite je li njegov zaslon uključen."</string>
@@ -172,14 +173,22 @@
   <string name="mi_drop">Xiaomi Share</string>
   <string name="mi_share_turbo_mode">Turbo prijenos</string>
   <string name="mini_pc_xiaomi_device_model_name">Xiaomi Mini PC</string>
+  <string name="mishare_device_find_conditions_comment">Otkrivanje uređaja</string>
+  <string name="mishare_device_version_comment">*Uređaji prijavljeni na isti Xiaomi račun mogu automatski slati i primati poruke jedni od drugih. Ova značajka zahtijeva da oba uređaja koriste Xiaomi HyperOS i da Xiaomi Share bude ažuriran na verziju 3.0.0 ili noviju.</string>
   <string name="mishare_folder_in_file_explorer">Datoteke &gt; Xiaomi Share</string>
   <string name="mishare_help_web">https://pc.mi.com/pc-manager-help</string>
   <string name="mishare_service_channel_desc">Obavijesti o procesima Xiaomi Share</string>
-  <string name="mishare_settings_summary_international">"Xiaomi Share omogućuje vam bežično slanje stavki na druge uređaje u blizini.
-Ovu značajku podržavaju OPPO, vivo, realme i drugi proizvođači pametnih telefona. Popis podržanih uređaja možete provjeriti na službenom web mjestu bilo koje odabrane marke."</string>
+  <string name="mishare_settings_summary_international">"Xiaomi telefoni i tableti
+Više Android uređaja: vivo, realme, OPPO i drugi brendovi mogu podržavati ovu značajku. Pojedinosti potražite na službenoj web stranici svake marke."</string>
   <string name="mishare_state_protection">Uključite Xiaomi Share automatski</string>
   <string name="mishare_state_protection_summary">Kad uključite Bluetooth ili Wi-Fi, automatski uključi i Xiaomi Share</string>
   <string name="mishare_state_protection_summary_china">Automatski ponovno uključi Xiaomi Share kad se Bluetooth ili Wi-Fi ponovno uključe</string>
+  <string name="mishare_support_device_comment">Podržani uređaji</string>
+  <string name="mishare_support_device_summary">"Xiaomi telefoni, tableti i prijenosna računala
+Android uređaji drugih proizvođača: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO"</string>
+  <string name="mishare_support_device_summary_ios">"Xiaomi telefoni, tableti i prijenosna računala
+Apple uređaji: iPhone, iPad, Mac
+Android uređaji drugih proizvođača: vivo, realme, OPPO, Black Shark, Meizu, OnePlus, ZTE, Hisense, ASUS, ROG, Samsung, Lenovo, Motorola, NIO"</string>
   <string name="mishare_transefer_channel_desc">Obavijesti o stavkama koje je Xiaomi Share poslao i primio</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
@@ -293,6 +302,7 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
   <string name="scanning_device_tips">Traženje uređaja u blizini… Provjerite je li drugi uređaj u vidljivom načinu.</string>
+  <string name="scanning_device_tips"><Data>Traženje uređaja u blizini. Druga osoba mora uključiti Xiaomi Share u kontrolnom centru. &lt;a>Saznajte više&lt;/a></Data></string>
   <string name="scanning_only_xiaomi_device">Ovu stavku možete poslati samo na Xiaomi ili Black Shark uređaj</string>
   <string name="search_menu_title">Pretraživanje</string>
   <string name="seize_content">Prestanite dijeliti svoj zaslon da biste mogli prenijeti stavke. Prestati dijeliti sada?</string>
@@ -317,6 +327,12 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="send_one_zip_dialog_desc_receiving">Primanje %2$d ZIP datoteke \"%3$s\" od %1$s</string>
   <string name="send_successfully">Uspješno poslano</string>
   <string name="sender_error">Nije moguće poslati. Pričekajte minutu ili dvije i pokušajte ponovo.</string>
+  <string name="share_canceled">Prijenos otkazan</string>
+  <string name="share_complete">Prijenos je uspješno dovršen</string>
+  <string name="share_failed">"Nije moguće dovršiti prijenos"</string>
+  <string name="share_notification_receive_confirm_content">Od %1$s</string>
+  <string name="share_refuse">Prijenos odbijen</string>
+  <string name="share_send_notification_describe">Primatelj: %1$s</string>
   <string name="some_files_receive_completed">"Pregledajte datoteke koje ste već primili u %1$s."</string>
   <string name="somepc_send_much_file_to_you_files">%1$s šalje vam više od 200 datoteka…</string>
   <string name="somepc_send_muchfile_files">%1$s šalje vam više od 200 datoteka…</string>
@@ -328,8 +344,9 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="sub_title_mishare_switch">Ova će se značajka automatski isključiti nakon %d minuta</string>
   <string name="sub_title_mishare_switch_all">Možete primati sve datoteke</string>
   <string name="sub_title_mishare_switch_mine">Možete primati datoteke s uređaja prijavljenih na svoj račun</string>
+  <string name="sub_title_mishare_switch_mine_desc">"Prije postavljanja statusa primanja na \"S ovog računa\", provjerite je li verzija sustava drugog uređaja ažurirana na Xiaomi HyperOS ili noviju, te je li Xiaomi Share ažuriran na verziju 3.0.0 ili noviju ."</string>
   <string name="sub_title_mishare_switch_none">Uključite Xiaomi Share da biste mogli primati datoteke</string>
-  <string name="sub_title_turbo_mode">Super brzi prijenosi između Xiaomi telefona i tableta. Mreža će biti prekinuta tijekom prijenosa.</string>
+  <string name="sub_title_turbo_mode">Kada je ova značajka uključena, mreža će biti prekinuta tijekom prijenosa.</string>
   <string name="sub_title_withdraw_privacy_policy_consent">Povlačenje suglasnosti na Pravila o privatnosti također će isključiti Xiaomi Share</string>
   <string name="success_receive_much_file_from_pc">Primljeno je više od 200 datoteka od %1$s. Dodirnite za prikaz.</string>
   <string name="sunday">Nedjelja</string>
@@ -361,14 +378,18 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="transfer_intercept_to_remote">Nije moguće poslati: %1$s</string>
-  <string name="transfer_to_different_account_summary">Prvo provjerite je li Xiaomi Share uključen u Kontrolnom centru. Vaš će uređaj biti vidljiv drugima %d minute.</string>
-  <string name="transfer_to_different_account_title">Otkrivanje uređaja pod različitim računima</string>
-  <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager sada podržava Xiaomi Share! Možete pronaći popis podržanih modela računala &lt;a href=%1$s>ovdje&lt;/a>.</Data></string>
   <string name="transfer_to_pc_title">Pošaljite datoteke na računala</string>
+  <string name="transfer_to_different_account_summary">"Oba uređaja (Xiaomi i drugi Android uređaji) trebaju uključiti Xiaomi Share u kontrolnom centru. Moći ćete primati datoteke od bilo koga %d minuta."</string>
+  <string formatted="false" name="transfer_to_different_account_summary_ios">"%d. Oba uređaja (Xiaomi i drugi Android uređaji) moraju uključiti Xiaomi Share u Control Centeru. Moći ćete primati datoteke od bilo koga %d minuta .
+%d. iPhone i iPad moraju uključiti Xiaomi Interconnectivity Services i provjeriti jesu li oba uređaja spojena na isti LAN."</string>
+  <string name="transfer_to_different_account_title">Otkrivanje telefona i tableta</string>
+  <string name="transfer_to_pc_summary_new_plus"><Data>Uvjerite se da je Xiaomi PC Manager preuzet, a zatim uključite Xiaomi Share u Kontrolnom centru kako biste mogli primati datoteke. Možete pronaći popis podržanih modela računala &lt;a href=%1$s>ovdje&lt;/a>.</Data></string>
+  <string name="transfer_to_pc_summary_new_plus_ios"><Data>&lt;xliff:g id=mishare_ios_1 refersto=1>%1$d&lt;/xliff:g>. Na Xiaomi prijenosnom računalu provjerite je li Xiaomi PC Manager preuzet, zatim uključite Xiaomi Share u Control Center-u kako biste mogli primati datoteke. Popis podržanih modela računala možete pronaći &lt;a href=%2$s>ovdje&lt;/a>.&lt;br>&lt;xliff:g id=mishare_ios_2 refersto=2>%3$d&lt;/xliff:g >. Na Macu uključite Xiaomi Interconnectivity Services i provjerite jesu li oba uređaja spojena na isti LAN.</Data></string>
+  <string name="transfer_to_pc_title">Otkrivanje računala</string>
   <string name="transfer_to_phone_summary">"Uključite Xiaomi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da biste poslali stavku koju dijelite."</string>
   <string name="transfer_to_phone_summary_new">Uključite Xiaomi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>
   <string name="transfer_to_phone_title">Pošaljite datoteke na telefone</string>
-  <string name="transfer_to_same_account_summary">Uređaji pod istim računom trebali bi biti lako vidljivi. Provjerite je li Xiaomi Share uključen u postavkama.</string>
+  <string name="transfer_to_same_account_summary">"Za prijenos stavki na uređaje koji su prijavljeni na vaš račun, prvo provjerite je li verzija sustava drugog uređaja ažurirana na Xiaomi HyperOS ili noviju, a Xiaomi Share ažuriran na verziju 3.0.0 ili noviju. Postavite status primanja na \"S ovog računa\". U suprotnom, morat ćete uključiti Xiaomi Share u Kontrolnom centru da biste mogli primati datoteke od bilo koga %d minuta."</string>
   <string name="transfer_to_same_account_title">Otkrivanje uređaja pod istim računom</string>
   <string name="transfer_to_summary">"Uključite Xiaomi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da pošaljete stavku koju dijelite."</string>
   <string name="transfer_to_summary_new">Uključite Xiaomi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>

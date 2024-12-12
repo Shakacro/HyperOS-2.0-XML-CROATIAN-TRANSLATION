@@ -45,6 +45,7 @@
   <string name="about_MiAI_engine_hyper">O Xiaomi HyperAI Engineu</string>
   <string name="accessbility_permission_title">Preuzete aplikacije</string>
   <string name="accessbility_permission_toast_msg">"Uključite značajke pristupačnosti Xiaomi HyperAI Enginea da biste mogli izvršiti ovu radnju"</string>
+  
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="aiSearch_enhance_setting_desc">Koristite pretraživanje prirodnim jezikom za pronalaženje stavki u aplikacijama sustava</string>
   <string name="aiSearch_enhance_setting_quick_desc">Pretražite više aplikacija sustava za preciznije rezultate</string>
@@ -737,7 +738,7 @@
   <string name="privacy_dialog_manager_data_access_car_content">Dodijelite dozvole u aplikaciji Xiaomi EV</string>
   <string name="privacy_dialog_manager_data_access_car_title">Xiaomi EV</string>
   <string name="privacy_dialog_manager_data_access_description">Uz vaše dopuštenje, proaktivna inteligencija može vam pomoći u stvaranju automatiziranih kontrola za uređaje ljudskog × automobila × kućnog ekosustava. Budući da se Proactive intelligence i Xiaomi Home automatizacija oslanjaju na isti mehanizam za automatizaciju, ova se dozvola proširuje na obje značajke.</string>
-  <string name="privacy_dialog_manager_data_access_detail"><Data>Za više pojedinosti pogledajte &lt;a href=\"%1$s\">Izjavu o dijeljenju podataka za ljude × automobile × kućni ekosustav&lt;/a></Data>< /string>
+  <string name="privacy_dialog_manager_data_access_detail"><Data>Za više pojedinosti pogledajte &lt;a href=\"%1$s\">Izjavu o dijeljenju podataka za ljude × automobile × kućni ekosustav&lt;/a></Data></string>
   <string name="privacy_dialog_manager_data_access_granted">Dopusti pristup:</string>
   <string name="privacy_dialog_manager_data_access_health_content">Podaci o zdravlju i fitnessu te identifikatori pametnih nosivih uređaja</string>
   <string name="privacy_dialog_manager_data_access_health_title">Mi Fitness</string>

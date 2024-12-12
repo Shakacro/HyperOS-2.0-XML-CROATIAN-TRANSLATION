@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Idi na početnu</string>
      <string name="abc_action_bar_up_description">Idi gore</string>
@@ -613,6 +612,7 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
      <string name="notif_trans_wait_for_reconnecting">Veza je prekinuta. Povežite se ponovo.</string>
      <string name="old_soft_name">Povežite se pomoću QR koda</string>
      <string name="old_way">Također možete generirati QR kod na novom uređaju i skenirati ga pomoću starog.</string>
+	  <string name="open_compatibility_mode">Uključi</string>
      <string name="page_loading">Samo trenutak…</string>
      <string name="password">Zaporka</string>
      <string name="password_null">Polje zaporke ne može biti prazno</string>
@@ -758,6 +758,7 @@ Podaci koji nisu uvezeni moraju se ponovno uvesti."</string>
      <string name="size_peta_byte">PB</string>
      <string name="size_suffix">%1$s%2$s</string>
      <string name="size_tera_byte">TB</string>
+	  <string name="skip_compatibility_mode">Ne sad</string>
      <string name="sms_title">SMS</string>
      <string name="soft_ap_create_failed">"Ne mogu napraviti hotspot"</string>
      <string name="soft_ap_creating">Izrada hotspota…</string>
@@ -768,6 +769,7 @@ Podaci koji nisu uvezeni moraju se ponovno uvesti."</string>
      <string name="state_waiting">Samo trenutak…</string>
      <string name="storage_sd_card">SD kartica</string>
      <string name="storage_usb">USB uređaj</string>
+	  <string name="subtitle_compatibility_mode">"Sljedeće aplikacije nisu kompatibilne s %d-bitnom arhitekturom. Uključite način rada kompatibilnosti s aplikacijama da biste ih mogli prenijeti."</string>
      <string name="succ_description">Uspješno</string>
      <string name="succeed">Gotovo</string>
      <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -813,6 +815,7 @@ Podaci koji nisu uvezeni moraju se ponovno uvesti."</string>
      <string name="time_picker_dialog_title">Postavi vrijeme</string>
      <string name="time_picker_label_hour">H</string>
      <string name="time_picker_label_minute">M</string>
+	  <string name="title_compatibility_mode">Uključite način rada kompatibilnosti aplikacije</string>
      <string name="today">Danas</string>
      <string name="tomorrow">Sutra</string>
      <string name="total_size">, %s</string>

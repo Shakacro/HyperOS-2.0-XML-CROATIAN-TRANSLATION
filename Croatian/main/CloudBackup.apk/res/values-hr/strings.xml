@@ -511,9 +511,13 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
   <string name="session_failed_dist_no_space_btn_text">Očisti pohranu</string>
   <string name="session_failed_get_installed_apps_denied_detail">Da biste mogli automatski sigurnosno kopirati, odobrite ovoj aplikaciji dopuštenje u postavkama za pristup popisu aplikacija instaliranih na vašem uređaju i odaberite Uvijek dopusti.</string>
   <string name="session_failed_get_installed_apps_denied_title">Potrebna su dopuštenja</string>
+  <string name="session_failed_invalid_token_action">Prijava</string>
+  <string name="session_failed_invalid_token_detail">Ponovo se prijavite</string>
+  <string name="session_failed_invalid_token_title">Nevažeće vjerodajnice</string>
   <string name="session_failed_no_server_response_title">"Nisam se mogao povezati s poslužiteljem."</string>
   <string name="session_failed_override_detail">Lokalna sigurnosna kopija razlikuje se od one u Xiaomi Cloudu. Ako nastavite, trenutna sigurnosna kopija će prepisati prethodnu. Prepisati sada?</string>
   <string name="session_failed_override_title">Prepisivanje Sig. kopije</string>
+  <string name="session_failed_reason_invalid_token">Nevažeće vjerodajnice za prijavu. Prijavite se ponovno.</string>
   <string name="session_failed_restore_app_data_btn_text">Natrag</string>
   <string name="session_failed_restore_app_data_detail">"Uvjerite se da WeChat nije instaliran na ovom uređaju prije nego što vratite stavke. Nemojte otvarati niti koristiti WeChat dok se podaci vraćaju."</string>
   <string name="session_failed_restore_app_data_title">Deinstaliraj WeChat</string>

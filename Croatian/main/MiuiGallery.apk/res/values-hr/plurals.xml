@@ -516,6 +516,10 @@
         <item quantity="other">Odaberite %d stavki</item>
         <item quantity="one">Odaberite %d stavku</item>
      </plurals>
+	  <plurals name="privacy_watermark_word_count_not_full">
+        <item quantity="other">Unesite još najviše %d znakova</item>
+        <item quantity="one">Unesite još do %d znak</item>
+    </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Pronađene nove fotografije: %1$d</item>
         <item quantity="one">Pronađena %1$d nova fotografija</item>

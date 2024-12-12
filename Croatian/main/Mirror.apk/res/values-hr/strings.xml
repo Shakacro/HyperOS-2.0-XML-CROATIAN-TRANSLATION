@@ -357,6 +357,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="ok">U redu</string>
   <string name="ok_button">Razumijem</string>
   <string name="open_folder">Prikaži</string>
+  <string name="pad_connect_with_car_toast">Tablet je povezan s vozilom</string>
   <string name="pad_fullscreen_sink_activity_label">Moj telefon</string>
   <string name="pad_mirror_device_locked_tips_1">Uređaj je zaključan</string>
   <string name="pad_mirror_device_locked_tips_2">Dodirnite zaslon da biste ga probudili</string>
@@ -428,8 +429,9 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="pc_cooperate_guide_task">Prikaži zadatke</string>
   <string name="pc_cooperate_guide_undo">Poništi (Ctrl+Z)</string>
   <string name="pc_low_version_toast">Ažurirajte softver na svom računalu</string>
-  <string name="pc_settings_current_device_tip">Automatsko povezivanje s računalom s otvorenim MIUI+ i prijavljenim na isti Xiaomi Račun</string>
+  <string name="pc_settings_current_device_tip">Automatsko povezivanje s računalom s otvorenim MIUI+ i prijavljenim na isti Xiaomi račun</string>
   <string name="pcmode_not_support_multi_window">"Način rada s računalom ne podržava prikazivanje više prozora."</string>
+  <string name="phone_connect_with_car_toast">Telefon je povezan s vozilom</string>
   <string name="permission_access_nearby_device">Pristup uređajima u blizini</string>
   <string name="phone_pad_app_introduction_summary">Nastavak zadataka u istoj aplikaciji na vašem tabletu</string>
   <string name="phone_pad_app_introduction_title">Aplikacije</string>

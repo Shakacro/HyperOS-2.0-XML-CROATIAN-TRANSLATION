@@ -184,6 +184,9 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
     </plurals>
+	 <plurals name="operation_delete_desc_vip">
+        <item quantity="other">"Moći ćete vratiti ovu stavku za %d dana iz \"Nedavno izbrisanih stavki\". Izbrisati sada?"</item>
+    </plurals>
     <plurals name="search_head_hint_file">
         <item quantity="other">%2$d stavki sadrži \"%1$s\"</item>
         <item quantity="one">%2$d stavka sadrži \"%1$s\"</item>

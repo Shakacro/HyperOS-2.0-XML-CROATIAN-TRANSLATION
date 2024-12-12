@@ -53,7 +53,7 @@
   <string name="confirm">U redu</string>
   <string name="continue_download">Nastavi</string>
   <string name="copy">Kopiraj</string>
-  <string name="copy_info">Kopirano u međuspremnik. Možete podijeliti s prijateljima!</string>
+  <string name="copy_info">Uspješno kopirano</string>
   <string name="creat_task_success">Dodano na red za preuzimanje</string>
   <string name="create_task">Izradi zadatak</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
@@ -245,6 +245,7 @@
   <string name="no_share_files">"Ne mogu dijelili datoteke koje su već izbrisane"</string>
   <string name="no_share_files_content">"Neke datoteke koje želite dijeliti već su izbrisane. Druge su datoteke uspješno podijeljene."</string>
   <string name="no_support_modify_path">Zbog najnovije sigurnosne politike, direktorij za pohranu ne podržava izmjene</string>
+  <string name="no_support_open">"Ne mogu otvoriti ovu stavku"</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="notify_install_guide_forward_text">Otvori</string>
   <string name="notify_install_guide_msg">Uspješno instalirano</string>
@@ -332,6 +333,7 @@
   <string name="task_detail">Zadaci</string>
   <string name="task_detail_notfound_confirm">U redu</string>
   <string name="task_fail">"Ne mogu dovršiti radnju"</string>
+  <string name="task_has_been_deleted">Ovaj zadatak je izbrisan</string>
   <string name="tenthousands"/>
   <string name="terabyteShort">TB</string>
   <string name="third_web_cancel">Odustani</string>

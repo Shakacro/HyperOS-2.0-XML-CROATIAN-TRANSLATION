@@ -830,6 +830,7 @@ Widget: %2$s
   <string name="allow_turn_screen_on_description">Dopustite aplikaciji da uključuje zaslon. Ako date to dopuštenje, aplikacija može uključiti zaslon u bilo kojem trenutku bez vaše izričite namjere.</string>
   <string name="allow_usage_access_message">Ako dopustite pristup, ta aplikacija može vidjeti općenite informacije o aplikacijama na vašem uređaju, na primjer, koliko ih često upotrebljavate.</string>
   <string name="allow_usage_access_title">Želite li dopustiti pristup?</string>
+  <string name="allow_update_system_app">Dopusti ažuriranje aplikacija sustava</string>
   <string name="allow_vibrate_title">Dopusti vibraciju</string>
   <string name="alpha_build">Alpha</string>
   <string name="already_delete_system_app">Deinstalirane aplikacije sustava</string>

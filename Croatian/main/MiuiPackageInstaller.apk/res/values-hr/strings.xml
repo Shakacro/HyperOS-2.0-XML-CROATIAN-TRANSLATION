@@ -292,6 +292,8 @@
 	<string name="install_app_loading">Provjera instalacijskog paketa…</string>
 	<string name="install_apps_user_restriction_dlg_text">Ovom korisniku nije dopušteno instaliranje aplikacija</string>
 	<string name="install_completed_pure_open_tip_title">Uključite Mi Protect kako biste blokirali rizične aplikacije i osigurali svoju sigurnost.</string>
+	<string name="install_failed_market_enterprise_limit_reason">Ovo je interna poslovna aplikacija. Ukupna preuzimanja premašila su ograničenje koje je postavila tvrtka, pa preuzimanja više nisu dostupna.</string>
+   <string name="install_failed_market_enterprise_limit_solution">Kontaktirajte tvrtku ili organizaciju i neka njihovi programeri pošalju povratne informacije Xiaomiju.</string>
 	<string name="install_failed_secure_frp">"Radi vaše sigurnosti Android ne dopušta instaliranje aplikacija odmah nakon resetiranja uređaja ako je vaš Google račun još uvijek prijavljen."</string>
   <string name="install_failed_secure_frp_suggestion">"1. korak: dodirnite \"Osnovne Google usluge\" i uključite ih.
 2. korak: dodajte Google račun s kojim ste bili prijavljeni prije nego što ste poništili uređaj.
@@ -1110,6 +1112,9 @@ Poboljšana zaštita"</string>
 	<string name="v7_preference_off">ISKLJUČENO</string>
 	<string name="v7_preference_on">UKLJUČENO</string>
 	<string name="verification_word">Potvrdi</string>
+	<string name="verified_app_hint_content">"Aplikacija koju namjeravate instalirati dolazi s \"%1$s\""</string>
+   <string name="verified_app_hint_title">Izvorna tvrtka</string>
+   <string name="verified_app_logo_text">Interna poslovna aplikacija</string>
 	<string name="verify_account_close_title">Isključi</string>
 	<string name="verify_account_default_title">Potvrdite svoj identitet</string>
 	<string name="verify_account_title">Potvrdite svoj identitet</string>
