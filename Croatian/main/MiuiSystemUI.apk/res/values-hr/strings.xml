@@ -729,6 +729,11 @@ Dodirnite za ponovno postavljanje"</string>
   <string name="connected_via_network_scorer">Automatski povezan putem %1$s</string>
   <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
+  <string name="connected_with_car">Povezan s vozilom</string>
+  <string name="connected_with_pad">Povezan s tabletom</string>
+  <string name="connected_with_pc">Povezan s računalom</string>
+  <string name="connected_with_phone">Povezan s telefonom</string>
+  <string name="connected_with_tv">Povezan s TV-om</string>
   <string name="content_description_menu_button">Izbornik</string>
   <string name="control_center_notification_switch_guide">Povucite za prebacivanje između Centra za kontrolu i Panela obavijesti</string>
   <string name="control_quick_settings_tiles_super_save">gps,nfc,snimka zaslona,vibriraj</string>
@@ -920,6 +925,7 @@ Ako nastavite, moguća je naplata za potrošeni podatkovni promet."</string>
   <string name="disabled_by_app_ops_text">Kontrolirano ograničenom postavkom</string>
   <string name="dismiss_dialog">Odbaci</string>
   <string name="dismissible_keyguard_swipe">Prevucite prstom prema gore za nastavak</string>
+  <string name="dist_compute_title">Računalna podrška</string>
   <string name="dnd_is_off">DND je isključen</string>
   <string name="dnd_is_on">DND je uključen</string>
   <string name="dnd_notification_warnings_title">Ne ometaj je uključeno. Obavijesti su utišane, a vibracija isključena.</string>
@@ -3192,6 +3198,11 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="using_camera">Ova aplikacija koristi kameru</string>
   <string name="using_camera_and_microphone">Ova aplikacija snima zvuk i koristi kameru</string>
   <string name="using_microphone">Ova aplikacija snima zvuk</string>
+  <string name="using_house_play">Korištenje reprodukcije cijele kuće</string>
+  <string name="using_sound_box">Korištenje zvučnika</string>
+  <string name="using_sound_box_screen">Korištenje zvučnika sa zaslonom</string>
+  <string name="using_stereo">Korištenje sterea</string>
+  <string name="using_wireless_headset">Korištenje slušalica</string>
   <string name="uvi_format">UVI %1$s %2$s</string>
   <string name="uvi_format_desc">Ultraljubičasti indeks: %1$s, %2$s</string>
   <string name="v7_preference_off">ISKLJUČENO</string>

@@ -211,6 +211,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="ai_guard_settings_menu_revoke_privacy_policy">Povlačenje privole</string>
   <string name="ai_guard_post_brief_summary">Prepoznaje i upozorava na lažne pozive</string>
   <string name="ai_guard_post_preference_summary">Pošalji upozorenje kada se otkrije sumnja na prijevaru ili krivotvorenje identiteta tijekom telefonskih poziva i WeChat ili QQ videopoziva</string>
+  <string name="ai_guard_post_preference_summary_1">Pošalji upozorenje kada postoji sumnja na prijevaru tijekom telefonskih poziva i WeChat ili QQ videopoziva</string>
   <string name="ai_guard_post_preference_title">Sprečavanje AI prijevara</string>
   <string name="ai_guard_settings_permissions">Dopuštenja</string>
   <string name="ai_guard_settings_preference_summary">"Kada odgovarate na telefonski poziv ili videopoziv na WeChatu ili QQ, primit ćete upozorenje ako se otkrije sumnja na prijevaru ili krivotvorenje identiteta (tj. zamjena lica). Ovu značajku možete isključiti za pojedinačni poziv."</string>
@@ -1281,7 +1282,6 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bottom_func_guide_default_text">Više značajki</string>
   <string name="bottomsheet_action_collapse">Sažmi donji list</string>
   <string name="bottomsheet_action_expand">Proširi donji list</string>
-  <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
   <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručica za povlačenje</string>
   <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
   <string name="bottom_notice_title">Povuci gore za otvaranje toolbox-a</string>

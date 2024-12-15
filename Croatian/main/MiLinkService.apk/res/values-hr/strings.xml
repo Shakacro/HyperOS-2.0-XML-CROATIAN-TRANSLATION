@@ -60,6 +60,7 @@ vaše uređaje?"</string>
  <string name="appcirculate_toast_connected">Emitiranje je pokrenuto</string>
  <string name="appcirculate_toast_fail">"Nije moguće prebaciti se na drugi uređaj"</string>
  <string name="appcirculate_toast_loading">Prebacivanje na drugi uređaj…</string>
+ <string name="appcirculate_toast_high_temperature">Pričekajte da se uređaj ohladi</string>
  <string name="appcirculate_toast_not_support_device_pad">"Ne mogu otvoriti ovu aplikaciju na tabletima"</string>
  <string name="appcirculate_toast_not_support_device_pc">"Ne mogu otvoriti ovu aplikaciju na računalima"</string>
  <string name="appcirculate_toast_not_support_device_phone">"Ne mogu otvoriti ovu aplikaciju na telefonu"</string>

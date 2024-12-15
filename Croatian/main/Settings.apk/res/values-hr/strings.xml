@@ -797,6 +797,7 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="all_volume_title">Glasnoća</string>
   <string name="allow">Dopusti</string>
   <string name="allow_all_rotations_title">Dopusti sve rotacije</string>
+  <string name="allow_badge_summary">Dopusti prikazivanje numerirane crvene točke na ikonama početnog zaslona za označavanje obavijesti ili novog sadržaja</string>
   <string name="allow_bind_app_widget_activity_allow_bind">"Kada izradite widget, aplikacija može pristupiti svemu što se prikazuje.
 
 Aplikacija: %1$s
@@ -823,6 +824,7 @@ Widget: %2$s
   <string name="allow_oaid_used">Koristi virtualni ID</string>
   <string name="allow_oaid_used_desc">"Aplikacije neće moći pristupiti bilo kojem ID-u osim ako im to izričito ne dopustite. Neke značajke osobnih preporuka možda neće raditi ispravno kada je ova značajka uključena."</string>
   <string name="allow_ongoing_title">Dopusti trajne obavijesti</string>
+  <string name="allow_ongoing_summary">Dopusti obavijesti koje se mogu izbrisati samo ručno</string>
   <string name="allow_overlay_description">Dopustite toj aplikaciji da se prikazuje iznad drugih aplikacija koje upotrebljavate. Aplikacija će moći vidjeti gdje ste dodirnuli ili promijeniti sadržaj zaslona.</string>
   <string name="allow_sound">Dopusti zvuk</string>
   <string name="allow_sound_title">Dopusti zvuk</string>
@@ -5099,7 +5101,7 @@ Ponovo pokrenite uređaj i pokušajte još jednom."</string>
   <string name="extreme_battery_saver_title">Ekstremna štednja baterije</string>
   <string name="extreme_threats_summary">Primanje upozorenja za ekstremne prijetnje po život i imovinu</string>
   <string name="extreme_threats_title">Ekstremne prijetnje</string>
-  <string name="eye_gaze_dialog_message">"Kada uključite Prepoznaj pogled, uređaj se neće zaključati kada otkrije da gledate u zaslon. Karakteristike vašeg lica neće biti analizirane, a podaci o vašem licu neće pohraniti na vaš uređaj ili prenijeti u oblak. Uključiti sada?"</string>
+  <string name="eye_gaze_dialog_message">"Kada je ova značajka uključena, sustav će detektirati gledate li u zaslon, ali vaše crte lica neće biti analizirane i ti podaci neće biti pohranjeni na vašem uređaju niti prenijeti u cloud. Uključiti sada?"</string>
   <string name="eye_gaze_dialog_title">Sigurnosna obavijest</string>
   <string name="eye_gaze_summary">"Uređaj se neće zaključati kada otkrije da gledate u zaslon"</string>
   <string name="eye_gaze_summary_fold_device">"Uređaj se neće zaključati kada otkrije da gledate u vanjski zaslon"</string>
@@ -5712,7 +5714,7 @@ Podaci sigurnosnih kopija ne uračunavaju se u kvotu pohrane na Disku. Velike da
   <string name="game_settings_summary">Uključite prečac za nadzornu ploču igre itd.</string>
   <string name="game_settings_title">Postavke igara</string>
   <string name="game_storage_settings">Igre</string>
-  <string name="gaze_lock_screen_summary">Uređaj će ostati otključan kada se otkrije vaša prisutnost i zaključat će se kada se odmaknete od zaslona</string>
+  <string name="gaze_lock_screen_summary">"Uređaj će ostati otključan dok gledate u zaslon i zaključat će se kada skrenete pogled radi zaštite vaše privatnosti, nadjačavajući postavku vremena automatskog zaključavanja"</string>
   <string name="gaze_lock_screen_title">Otkrij prisutnost</string>
   <string name="gd_setting_title">Bočna traka</string>
   <string name="general_category_title">Općenito</string>
@@ -5745,6 +5747,12 @@ Podaci sigurnosnih kopija ne uračunavaju se u kvotu pohrane na Disku. Velike da
   <string name="gesture_double_twist_sensor_type"/>
   <string name="gesture_double_twist_sensor_vendor"/>
   <string name="gesture_function_dialog_message">%1$s se koristi za \"%2$s\". Zamjeniti sa \"%3$s\"?</string>
+  <string name="gesture_lockcreen_doubletap_wakeup_title">Dvaput dodirnite zaključani zaslon za buđenje</string>
+  <string name="gesture_lockcreen_sleep_title">Dvaput dodirnite zaključani zaslon za spavanje</string>
+  <string name="gesture_lockcreen_wakeup_mode_doubletap">Dvostrukim dodirom</string>
+  <string name="gesture_lockcreen_wakeup_mode_none">Ništa</string>
+  <string name="gesture_lockcreen_wakeup_mode_singletap">Na dodir</string>
+  <string name="gesture_lockcreen_wakeup_title">Probudi zaslon</string>
   <string name="gesture_m">Uzorak M</string>
   <string name="gesture_not_supported_dialog_message">Nije podržano u vašoj zadanoj aplikaciji početnog zaslona, %s</string>
   <string name="gesture_not_supported_positive_button">Promijeni zadanu apl. početnog zaslona</string>
@@ -5945,6 +5953,12 @@ Područje u kojem možete potvrditi zaključavanje zaslona pomaknut će se udesn
   <string name="gxzw_quick_open_slow_summary">Pritisnite i držite ikonu otiska prsta da biste otvorili izbornik prečaca. Prijeđite prstom da biste koristili prečac.</string>
   <string name="gxzw_quick_open_slow_title">Pritisnite i držite</string>
   <string name="gxzw_quick_open_title">Prečaci</string>
+  <string name="gxzw_recognizing_anim_a">Mreškanje</string>
+  <string name="gxzw_recognizing_anim_b">Spirala</string>
+  <string name="gxzw_recognizing_anim_c">Halo</string>
+  <string name="gxzw_recognizing_anim_d">Val</string>
+  <string name="gxzw_recognizing_anim_e">Otvor</string>
+  <string name="gxzw_recognizing_anim_f">Difuzija</string>
   <string name="gxzw_vibrate_summary">Vibracija se neće pojaviti ako nije odabrana animacija otiska prsta</string>
   <string name="gxzw_vibrate_title">Vibriraj prilikom otključavanja</string>
   <string name="hand_mode_notification_summary">Dodirnite za više.</string>
@@ -6840,6 +6854,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="le_audio_title">LE Audio</string>
   <string name="learn_more">Saznajte više</string>
   <string name="leave_loclscreen_summary">Zaslon će se automatski zaključati kada se udaljite na određenu udaljenost od svog uređaja</string>
+  <string name="leave_lockscreen_summary">Uređaj će se zaključati kada se odmaknete od ekrana</string>
   <string name="leave_loclscreen_title">Zaključaj zaslon pri izlasku</string>
   <string name="led_colors_summary">Boja LED svjetla</string>
   <string name="led_frequence_summary">Podesite interval pulsiranja LED svjetla</string>
@@ -7679,7 +7694,7 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="media_controls_summary">Player u Brzim postavkama</string>
   <string name="media_controls_title">Mediji</string>
   <string name="media_dialog_ok">Razumijem</string>
-  <string name="media_dialog_summary">Kada je ova značajka uključena, uređaj će vibrirati u ritmu podržane glazbe i videozapisa, dajući potpunije i impresivnije iskustvo.</string>
+  <string name="media_dialog_summary">Kada je ova značajka uključena, uređaj će vibrirati u ritmu podržane glazbe, dajući potpunije i impresivnije iskustvo.</string>
   <string name="media_dialog_title">Uključite medijske opipljive povratne informacije</string>
   <string name="media_haptic">Medijske opipljive povratne informacije</string>
   <string name="media_haptic_summary">Dobijte dodirne povratne informacije prateći ritam vaše glazbe</string>
@@ -14118,11 +14133,11 @@ Isključivanje ove značajke ne utječe na sposobnost uređaja da šalje podatke
   <string name="usage_state_usage_time_remind">Upozorenja uklj. vremena zaslona</string>
   <string name="usage_state_use_time_remind_title">Upozorenja uklj. vremena zaslona</string>
   <string name="usage_state_wednesday">Sri</string>
-  <string name="usage_state_week_day_hour_minute">Vikendi: %dh %dm</string>
+  <string name="usage_state_week_day_hour_minute">Vikendi: %1$dh %2$dm</string>
   <string name="usage_state_week_total_text">Vrijeme uklj. zaslona (zadnjih 7 dana)</string>
   <string name="usage_state_which_mouth">MMM</string>
   <string name="usage_state_work_day">Radni dani</string>
-  <string name="usage_state_work_day_hour_minute" formatted="false">Radni dani: %dh %dm</string>
+  <string name="usage_state_work_day_hour_minute">Radni dani: %1$dh %2$dm</string>
   <string name="usage_stats_label">Korisnička statistika</string>
   <string name="usage_stats_normal_day">Radni dani</string>
   <string name="usage_stats_sort_by_app_name">Poredaj po nazivu aplikacije</string>
@@ -14163,9 +14178,9 @@ Isključivanje ove značajke ne utječe na sposobnost uređaja da šalje podatke
   <string name="usagestats_app_category_miui_video_etc">Glazba i videozapisi</string>
   <string name="usagestats_device_notification_des">Ograničenje vremena zaslona za danas: %s</string>
   <string name="usagestats_device_notification_des_over">"Već ste dosegli ograničenje zaslona danas."</string>
-  <string name="usagestats_device_notification_des_reset" formatted="false">"Današnje ograničenje: %s | %s preostalo"</string>
+  <string name="usagestats_device_notification_des_reset">"Današnje ograničenje: %1$s | %2$s preostalo"</string>
   <string name="usagestats_device_notification_title">Upozorenja vremena zaslona</string>
-  <string name="usagestats_device_timeout_des" formatted="false">"Koristili ste svoj uređaj %dh %dm danas. Odmorite se malo!"</string>
+  <string name="usagestats_device_timeout_des">"Koristili ste danas svoj uređaj %1$dh %2$dm. Odmorite se malo!"</string>
   <string name="usagestats_device_timeout_negative">Podsjeti za 1 sat</string>
   <string name="usagestats_device_timeout_positive">Razumijem</string>
   <string name="usagestats_device_timeout_title">Upozorenja vremena zaslona</string>

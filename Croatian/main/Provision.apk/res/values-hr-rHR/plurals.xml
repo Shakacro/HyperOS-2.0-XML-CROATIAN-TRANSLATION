@@ -60,4 +60,8 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
     </plurals>
+	 <plurals name="sim_card_esim_num">
+        <item quantity="other">Pronađen %d eSIM. Dodirnite za aktivaciju.</item>
+        <item quantity="one">Pronađen %d eSIM. Dodirnite za aktivaciju.</item>
+     </plurals>
 </resources> 

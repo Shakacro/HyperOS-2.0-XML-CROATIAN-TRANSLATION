@@ -550,6 +550,7 @@
 	<string name="open_now">Uključi</string>
 	<string name="open_pure_mode_continue_install">Nastavi</string>
 	<string name="open_pure_mode_sucess_toast">Mi Protect je uključen. Promjene će se primijeniti tijekom sljedeće instalacije.</string>
+	<string name="open_safe_mode">Uključi</string>
 	<string name="open_to_pure_mode">Uključi</string>
 	<string name="passed_security_test">Prošao Xiaomi sigurnosne testove</string>
 	<string name="passport_access_denied">Pristup odbijen</string>
