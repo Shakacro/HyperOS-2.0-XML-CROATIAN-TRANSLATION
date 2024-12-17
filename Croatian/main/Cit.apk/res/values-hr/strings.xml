@@ -787,6 +787,7 @@ Molimo odaberite ispravan tipku prema različitim uvjetima vibracije"</string>
   <string name="cold_light_title">Hladno svjetlo</string>
   <string name="continue_vibrator">Nastavi vibraciju</string>
   <string name="current_angle">Trenutni kut:</string>
+  <string name="digital_mic_check_record_tip">Snimanje, recite nešto u MIKROFON blizu kamere na stražnjoj strani uređaja</string>
   <string name="dispaly_sar_sensor_values">Prikaži sve trenutne vrijednosti senzora</string>
   <string name="display_test_finish">Test zaslona dovršen</string>
   <string name="dsi_sar_on_off_tips">Dsi Sar uključivanje/isključivanje</string>

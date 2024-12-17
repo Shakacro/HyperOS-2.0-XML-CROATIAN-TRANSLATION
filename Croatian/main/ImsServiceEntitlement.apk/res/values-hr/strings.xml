@@ -50,6 +50,7 @@
   <string name="error_icon_content_description">Pogreška</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="fcm_fallback_notification_channel_label">Razno</string>
+  <string name="failure_contact_carrier">Obratite se svom operateru da omogući Wi-Fi pozivanje.</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="item_view_role_description">Kartica</string>
   <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>

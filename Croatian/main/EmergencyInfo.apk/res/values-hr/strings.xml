@@ -572,6 +572,9 @@ Svatko može pročitati ove informacije s vašeg zaključanog zaslona i birati v
   <string name="mr_system_route_name">Sustav</string>
   <string name="mr_user_route_category_name">Uređaji</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
+  <string name="mtrl_checkbox_state_description_checked">Označeno</string>
+  <string name="mtrl_checkbox_state_description_indeterminate">Djelomično označeno</string>
+  <string name="mtrl_checkbox_state_description_unchecked">Nije označeno</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
   <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
@@ -743,6 +746,7 @@ Svatko može pročitati ove informacije s vašeg zaključanog zaslona i birati v
   <string name="show_screen_updates_summary">Površina prozora bljeska pri ažuriranju.</string>
   <string name="show_touches">Prikaži dodire</string>
   <string name="show_touches_summary">Prikaži vizualne povratne informacije za dodire</string>
+  <string name="side_sheet_accessibility_pane_title">Bočna stranica</string>
   <string name="simulate_color_space">Simulacija prostora boja</string>
   <string name="slider_seek_bar_content_description">Kliznite s dva prsta za aktivaciju</string>
   <string name="speed_label_fast">Brzo</string>

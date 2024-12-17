@@ -935,7 +935,7 @@ To ne utječe na druga dopuštenja koja ova aplikacija može imati, kao što su 
     <string name="set_units_title">Postavite jedinice</string>
     <string name="settings_and_help_header">Postavke i pomoć</string>
     <string name="settingslib_learn_more_text">Saznajte više</string>
-    <string name="sexual_activity_lowercase_label">seksualnu aktivnost</string>
+    <string name="sexual_activity_lowercase_label">Seksualna aktivnost</string>
     <string name="sexual_activity_protected">Sa zaštitom</string>
     <string name="sexual_activity_read_content_description">Očitavanje podataka o seksualnoj aktivnosti</string>
     <string name="sexual_activity_unprotected">Bez zaštite</string>
@@ -945,6 +945,7 @@ To ne utječe na druga dopuštenja koja ova aplikacija može imati, kao što su 
     <string name="share_data_description">Odaberite podatke koje svaka aplikacija može čitati ili bilježiti u Health Connectu</string>
     <string name="shoulder_press">Rameni potisak</string>
     <string name="show_recent_access_entries_button_title">Pogledajte sve nedavne pristupe</string>
+	 <string name="side_sheet_accessibility_pane_title">Bočna stranica</string>
     <string name="single_arm_triceps_extension">Jednoručna triceps ekstenzija</string>
     <string name="sit_up">Trbušnjaci</string>
     <string name="skating">Klizanje</string>

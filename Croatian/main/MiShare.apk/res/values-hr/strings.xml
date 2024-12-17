@@ -143,9 +143,8 @@
   <string name="global_macmini">Moj Mac mini</string>
   <string name="global_macpro">Moj Mac Pro</string>
   <string name="global_macstudio">Moj Mac Studio</string>
-  <string name="global_pad">Moj tablet</string>
-  <string name="global_pc">Moj laptop</string>
-  <string name="global_phone">Moj telefon</string>
+  <string name="global_my">"Moj uređaj
+  %1$s"</string>
   <string name="go_to_settings">Postavke</string>
   <string name="guide_summary_1">Druga osoba može dodirnuti prečac u Panelu obavijesti</string>
   <string name="guide_summary_1_lyra">Možete uključiti Xiaomi Share u kontrolnom centru</string>
@@ -301,7 +300,6 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
-  <string name="scanning_device_tips">Traženje uređaja u blizini… Provjerite je li drugi uređaj u vidljivom načinu.</string>
   <string name="scanning_device_tips"><Data>Traženje uređaja u blizini. Druga osoba mora uključiti Xiaomi Share u kontrolnom centru. &lt;a>Saznajte više&lt;/a></Data></string>
   <string name="scanning_only_xiaomi_device">Ovu stavku možete poslati samo na Xiaomi ili Black Shark uređaj</string>
   <string name="search_menu_title">Pretraživanje</string>
@@ -385,7 +383,6 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="transfer_to_different_account_title">Otkrivanje telefona i tableta</string>
   <string name="transfer_to_pc_summary_new_plus"><Data>Uvjerite se da je Xiaomi PC Manager preuzet, a zatim uključite Xiaomi Share u Kontrolnom centru kako biste mogli primati datoteke. Možete pronaći popis podržanih modela računala &lt;a href=%1$s>ovdje&lt;/a>.</Data></string>
   <string name="transfer_to_pc_summary_new_plus_ios"><Data>&lt;xliff:g id=mishare_ios_1 refersto=1>%1$d&lt;/xliff:g>. Na Xiaomi prijenosnom računalu provjerite je li Xiaomi PC Manager preuzet, zatim uključite Xiaomi Share u Control Center-u kako biste mogli primati datoteke. Popis podržanih modela računala možete pronaći &lt;a href=%2$s>ovdje&lt;/a>.&lt;br>&lt;xliff:g id=mishare_ios_2 refersto=2>%3$d&lt;/xliff:g >. Na Macu uključite Xiaomi Interconnectivity Services i provjerite jesu li oba uređaja spojena na isti LAN.</Data></string>
-  <string name="transfer_to_pc_title">Otkrivanje računala</string>
   <string name="transfer_to_phone_summary">"Uključite Xiaomi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da biste poslali stavku koju dijelite."</string>
   <string name="transfer_to_phone_summary_new">Uključite Xiaomi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>
   <string name="transfer_to_phone_title">Pošaljite datoteke na telefone</string>

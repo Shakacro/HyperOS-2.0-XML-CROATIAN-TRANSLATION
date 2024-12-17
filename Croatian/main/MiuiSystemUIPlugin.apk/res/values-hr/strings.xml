@@ -146,6 +146,14 @@
   <string name="error_icon_content_description">Pogreška</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+  <string name="flashlight_brightness_adjustment">Podešavanje svjetline svjetiljke</string>
+  <string name="flashlight_button_close">Isključi svjetiljku</string>
+  <string name="flashlight_button_open">Uključi svjetiljku</string>
+  <string name="flashlight_not_available">"Ne možete koristiti svjetiljku dok se koristi kamera"</string>
+  <string name="flashlight_notification_button">Prečac svjetiljke</string>
+  <string name="flashlight_notification_channel_name">Status svjetiljke</string>
+  <string name="flashlight_notification_content_text">Svjetiljka je uključena</string>
+  <string name="flashlight_notification_content_title">Svjetiljka</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>

@@ -504,12 +504,13 @@
   <string name="install_email_finished">E-pošta instalirana</string>
   <string name="installing_email">Instaliranje…</string>
   <string name="item_num_selected">%1$d odabrano</string>
+  <string name="item_view_role_description">Kartica</string>
   <string name="landscape_week_view">Tjedni raspored u pejzažnoj orijentaciji</string>
   <string name="language_change_confirmation">Promijenjeno uspješno. Jezik možete promijeniti u postavkama Kalendara.</string>
   <string name="latest_sync_time">Zadnja sinkronizacija: %1$s</string>
   <string name="launch_weather_comment">Dodirnite ovdje za informacije o vremenu</string>
   <string name="library_cert4android_libraryDescription">Knjižnica za upravljanje prilagođenim certifikatima u pohrani privatnih ključeva aplikacije</string>
-<string name="library_ical4android_libraryDescription">Knjižnica koja objedinjuje iCalendar i Android</string>
+  <string name="library_ical4android_libraryDescription">Knjižnica koja objedinjuje iCalendar i Android</string>
   <string name="load_more_events">Pogledajte %d događaja</string>
   <string name="load_more_events_default">"Pogledajte događaje sljedeće godine"</string>
   <string name="load_more_hint">Pogledajte %1$d događaja</string>
@@ -708,6 +709,7 @@
   <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
+  <string name="mtrl_slider_range_content_description">%1$s do %2$s</string>
   <string name="name_title_menstruation_today_end">Očekuje se da će mjesečnica završiti danas</string>
   <string name="near_agenda_view">Nadolazeći događaji</string>
   <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>

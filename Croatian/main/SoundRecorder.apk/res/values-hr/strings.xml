@@ -195,6 +195,7 @@ Pošaljite ovaj kod nadzorniku."</string>
   <string name="guide_update_confirm_dialog_message">"Ako odlučite ne ažurirati Mi AI Translate, nećete moći pristupiti nekim značajkama."</string>
   <string name="guide_update_confirm_dialog_message_new">"Ako odlučite ne ažurirati Prevoditelj, nećete moći pristupiti nekim značajkama."</string>
   <string name="guide_update_confirm_dialog_negative_button">Ne sada</string>
+  <string name="guide_update_dialog_message">Ažurirajte Mi AI Translate da biste dobili pristup značajkama kao što su audio transkripcija, pametno prepoznavanje zvučnika i više. Ažurirati sada?</string>
   <string name="guide_update_confirm_dialog_positive_button">Ažuriraj</string>
   <string name="guide_update_confirm_dialog_title">Želite li preskočiti ovo ažuriranje?</string>
   <string name="guide_update_dialog_negative_button">Ne sada</string>
@@ -465,6 +466,8 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="passport_doing_query_account">Provjera podataka o računu…</string>
   <string name="passport_error_auth_fail">Sesija je istekla. Prijavite se ponovno.</string>
   <string name="passport_error_device_id">"Ne mogu dobiti ID uređaja"</string>
+  <string name="passport_error_dup_binded_email">Ova adresa e-pošte već je povezana s drugim Xiaomi računom.</string>
+  <string name="passport_error_invalid_bind_address">Adresa e-pošte koju ste unijeli je nevažeća.</string>
   <string name="passport_error_email">Adresa e-pošte koju ste unijeli nije važeća</string>
   <string name="passport_error_empty_email">Unesite svoju adresu e-pošte</string>
   <string name="passport_error_empty_password">Unesite svoju zaporku</string>
@@ -641,6 +644,9 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="progressbar_title">Provjera sigurnosnih problema…</string>
   <string name="protocal_dialog_confirm">Prihvaćam</string>
   <string name="protocal_dialog_title">Pažnja</string>
+  <string name="radio_tips">Snimač omogućuje audio transkripciju, audio sažetke i više. Ova aplikacija mora se povezati s internetom kako bi pružila ove usluge.</string>
+  <string name="recent_delete">Nedavno izbrisano</string>
+  <string name="recent_delete_delete_all">Želite li sada trajno izbrisati sve stavke?</string>
   <string name="recognition_button_add_to_queue">Dodaj u red čekanja</string>
   <string name="recognition_button_cancel">Ne sada</string>
   <string name="recognition_button_start">Prijepis</string>
@@ -824,6 +830,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="sunday_shortest">N</string>
   <string name="sync_desc_state_complete">Sinkronizirano s cloudom: %1$s</string>
   <string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="system_permission_declare_double_link">&lt;Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije nego nastavite.&lt;/Data></string>
   <string name="tab_all">Sve</string>
   <string name="tab_apps">Aplikacije</string>
   <string name="tab_call">Pozivi</string>

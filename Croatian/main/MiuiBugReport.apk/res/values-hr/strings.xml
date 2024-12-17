@@ -153,7 +153,6 @@
   <string name="close">Zatvori</string>
   <string name="close_feedback_main">Sakrij</string>
   <string name="collect_diagnosis_log">Prikupi zapise dijagnoze</string>
-  <string name="confirm_activate_email">Potvrđeno</string>
   <string name="confirm_bundled_phone_dialog_title">Potvrdi povezan broj telefona</string>
   <string name="confirm_new_pwd">Potvrdi novu zaporku</string>
   <string name="confirm_unbundled_phone_dialog_message">Broj telefona %1$s je povezan na Xiaomi Račun %2$s. Isti više neće biti povezan s Xiaomi Računom %3$s ako nastavite. Nastaviti?</string>
@@ -640,8 +639,6 @@ E-pošta: service.jp@xiaomi.com"</string>
   <string name="net_diag_fix_guide_window_msg2">Dodirnite za rješavanje problema</string>
   <string name="net_diag_help">Pomoć</string>
   <string name="net_diag_title_china">Testiraj Wi-Fi</string>
-  <string name="net_diag_wlan_basic_functions">Osnovne Wi-Fi značajke</string>
-  <string name="net_diag_wlan_basic_functions_china">Osnovne Wi-Fi značajke</string>
   <string name="net_daig_network_repair">Popravak mreže</string>
   <string name="net_diag_cancel">Odustani</string>
   <string name="net_diag_continue">Nastavi</string>
@@ -658,18 +655,15 @@ E-pošta: service.jp@xiaomi.com"</string>
   <string name="net_diag_entry_network_rssi">Kvaliteta signala</string>
   <string name="net_diag_entry_router_topology">Mrežno usmjeravanje</string>
   <string name="net_diag_fix_guide_window_msg">Došlo je do mrežne pogreške. Dodirnite za rješavanje problema.</string>
-  <string name="net_diag_fix_guide_window_msg2">Dodirnite za rješavanje problema</string>
   <string name="net_diag_fixing">Popravak mreže. Ovo bi moglo potrajati minutu.</string>
   <string name="net_diag_header_internet">Internet</string>
   <string name="net_diag_header_router">Router</string>
   <string name="net_diag_header_this_device">Ovaj uređaj</string>
-  <string name="net_diag_help">Pomoć</string>
   <string name="net_diag_repair_msg">Tijekom ovog procesa, Wi-Fi će se prekinuti i zatim ponovno spojiti. Popraviti sada?</string>
   <string name="net_diag_repair_msg_china">Tijekom ovog procesa, Wi-Fi će se prekinuti i zatim ponovno spojiti. Popraviti sada?</string>
   <string name="net_diag_repair_static_ip_msg">Mrežne konfiguracije mogu se resetirati tijekom ovog procesa. Popraviti sada?</string>
   <string name="net_diag_repair_title">Popraviti mrežu?</string>
   <string name="net_diag_title">Testiraj Wi-Fi</string>
-  <string name="net_diag_title_china">Testiraj Wi-Fi</string>
   <string name="net_diag_toast_cellular_data">Za testiranje mreže prvo isključite mobilne podatke.</string>
   <string name="net_diag_toast_other_networks">Da biste testirali mrežu, prvo se povežite na Wi-Fi i prekinite vezu s drugim mrežama.</string>
   <string name="net_diag_toast_other_networks_china">Da biste testirali mrežu, prvo se povežite na Wi-Fi i prekinite vezu s drugim mrežama.</string>

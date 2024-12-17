@@ -286,6 +286,7 @@
   <string name="setup_provisioning_header_description">Postavljanje administratorske aplikacije</string>
   <string name="setup_work_device">Postavljanje radnog uređaja…</string>
   <string name="setup_work_profile">Postavljanje radnog profila</string>
+  <string name="side_sheet_accessibility_pane_title">Bočna stranica</string>
   <string name="something_went_wrong">Nešto nije u redu</string>
   <string name="speed_bump_lockout_message">Usredotočite se na cestu</string>
   <string name="stop_setup_reset_device_question">Želite li zaustaviti postavljanje i vratiti uređaj na zadano?</string>

@@ -430,12 +430,14 @@ zatim povucite za pomicanje"</string>
   <string name="gesture_hint_media_volume">Podešavanje glasnoće…</string>
   <string name="gesture_hint_page_down">Sljedeća stranica</string>
   <string name="gesture_hint_page_up">Prethodna stranica</string>
-  <string name="gesture_hint_swipe_down">Prevucite prema dolje</string>
-  <string name="gesture_hint_swipe_up">Prevucite prstom prema gore</string>
+  <string name="gesture_hint_swipe_down">Povucite dolje</string>
+  <string name="gesture_hint_swipe_left">Povucite lijevo</string>
+  <string name="gesture_hint_swipe_right">Povucite desno</string>
+  <string name="gesture_hint_swipe_up">Povucite gore</string>
   <string name="gesture_hint_trigger">Prepoznavanje geste…</string>
   <string name="gesture_settings_title">Prečaci pokreta</string>
-  <string name="gesture_split_left_to_right_summary">Prevucite udesno s tri prsta</string>
-  <string name="gesture_split_right_to_left_summary">Prevucite ulijevo s tri prsta</string>
+  <string name="gesture_split_left_to_right_summary">Povucite udesno s tri prsta</string>
+  <string name="gesture_split_right_to_left_summary">Povucite ulijevo s tri prsta</string>
   <string name="gesture_to_split_screen">Geste</string>
   <string name="global_stylus_native_summary">Pišite u bilo kojem tekstualnom polju i pretvorite svoj rukopis u tekst (podržavaju samo neke metode unosa)</string>
   <string name="global_stylus_summary">Pišite u bilo kojem tekstualnom polju i pretvorite svoj rukopis u tekst (podržani su samo engleski i kineski)</string>
@@ -994,6 +996,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="second_space_setting_search_label">Zaštita privatnosti/Zaštita/Značajke zaštite privatnosti</string>
   <string name="secondspace_homepage">"Postavite određeno Zaklj. zaslona za Drugi prostor.
 Odvojite i osigurajte svoje podatke."</string>
+  <string name="securitycenter_sidebar_box">Bočna kutija s alatima</string>
   <string name="seek_bar_info">Podesite veličinu</string>
   <string name="select_existed_fingerprint">Odaberite otisak prsta</string>
   <string name="send">Pošalji</string>

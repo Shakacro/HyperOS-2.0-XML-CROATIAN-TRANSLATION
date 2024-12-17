@@ -3085,6 +3085,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržano kada je snimanje zvuka UKLJUČENO.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Morate postaviti ISO na 'auto'"</string>
   <string name="toast_camera_connect_success">Uspješno povezivanje. Pregled sadržaja kamere.</string>
+  <string name="toast_handle_not_found">Prvo instalirajte odgovarajuću aplikaciju</string>
   <string name="toast_monitor_connect_success">Uspješno povezivanje. Gledanje zajedničkog pregleda.</string>
   <string name="toast_monitor_connect_timeout">Drugi uređaj je zatvorio zajednički pregled</string>
   <string name="track_focus_mutex_truecolor_setting_tips">"Fokus praćenja pokreta nije podržan za Dolby Vision/8K/60FPS videozapise"</string>

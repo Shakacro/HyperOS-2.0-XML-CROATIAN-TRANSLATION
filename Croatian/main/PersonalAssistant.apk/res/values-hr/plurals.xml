@@ -196,4 +196,16 @@
         <item quantity="other">Izbrisati odabrane stavke: %d ?</item>
         <item quantity="one">Izbrisati %d odabranu stavku?</item>
      </plurals>
+	      <plurals name="pa_travel_departure_date_tip_other">
+        <item quantity="other">Polazi za %d dana</item>
+        <item quantity="one">Polazi za %d dan</item>
+     </plurals>
+     <plurals name="pa_travel_select_title">
+        <item quantity="other">%d stavki odabrano</item>
+        <item quantity="one">%d stavka odabrana</item>
+     </plurals>
+     <plurals name="pa_travel_train_tip_delay_min">
+        <item quantity="other">Vlak kasni %d minuta</item>
+        <item quantity="one">Vlak kasni %d minutu</item>
+     </plurals>
 </resources>
