@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="advanced_privacy_summary">Automatsko popunjavanje, kontrole aktivnosti i više</string>
+  <string name="advanced_privacy_title">Više postavki privatnosti</string>
+  <string name="advanced_security_summary">Enkripcija, vjerodajnice i više</string>
+  <string name="advanced_security_title">Više sigurnosnih postavki</string>
+  <string name="advanced_title">Više postavki</string>
+  <string name="biometrics_search_terms">Otisak prsta, prst, dodavanje otiska prsta, otključavanje licem, lice</string>
+  <string name="biometrics_title">Biometrija</string>
+  <string name="group_unknown_summary">Još nema informacija</string>
+  <string name="loading_summary">Provjera postavki uređaja…</string>
+  <string name="lock_screen_search_terms">Zaključavanje uređaja, zaključavanje zaslona, ​​zaključani zaslon, zaključani zaslon, lozinka, PIN, uzorak</string>
+  <string name="lock_screen_sources_title">Zaključavanje uređaja</string>
+  <string name="lock_screen_summary_disabled">Još nema informacija</string>
+  <string name="lock_screen_title">Zaključavanje zaslona</string>
+  <string name="notification_channel_group_name">Sigurnost &amp; privatnost</string>
+  <string name="notification_channel_name_critical_warning">Kritična upozorenja</string>
+  <string name="notification_channel_name_information">Preporuke</string>
+  <string name="notification_channel_name_recommendation">Upozorenja</string>
+  <string name="overall_severity_level_account_recommendation_title">Račun bi mogao biti u opasnosti</string>
+  <string name="overall_severity_level_action_taken_summary">{count, plural, =1 {Radnja poduzeta} other {Radnje poduzete} }</string>
+  <string name="overall_severity_level_critical_account_warning_title">Račun u opasnosti</string>
+  <string name="overall_severity_level_critical_data_warning_title">Vaši su podaci u opasnosti</string>
+  <string name="overall_severity_level_critical_device_warning_title">Uređaj je u opasnosti</string>
+  <string name="overall_severity_level_critical_passwords_warning_title">Zaporke ugrožene (nove)</string>
+  <string name="overall_severity_level_critical_personal_warning_title">U opasnosti ste</string>
+  <string name="overall_severity_level_critical_safety_warning_title">Pronađeni rizici</string>
+  <string name="overall_severity_level_data_recommendation_title">Vaši podaci mogu biti u opasnosti</string>
+  <string name="overall_severity_level_device_recommendation_title">Uređaj bi mogao biti u opasnosti</string>
+  <string name="overall_severity_level_ok_review_summary">Provjerite popis postavki</string>
+  <string name="overall_severity_level_ok_review_title">Pregled postavki</string>
+  <string name="overall_severity_level_ok_summary">Nisu pronađeni problemi</string>
+  <string name="overall_severity_level_ok_title">Izgleda dobro</string>
+  <string name="overall_severity_level_passwords_recommendation_title">Zaporke ugrožene (stare)</string>
+  <string name="overall_severity_level_personal_recommendation_title">Možda ste u opasnosti</string>
+  <string name="overall_severity_level_safety_recommendation_title">Pronađeni potencijalni rizici</string>
+  <string name="overall_severity_level_tip_summary">{count, plural, =1 {Pogledajte preporuku} other {Pogledajte preporuke} }</string>
+  <string name="overall_severity_n_alerts_summary">{count, plural, =1 {Pogledajte upozorenje} other {Pogledajte upozorenja} }</string>
+  <string name="permission_manager_search_terms">Dopuštenja, Upravitelj dopuštenja</string>
+  <string name="permission_manager_summary">Kontrolirajte pristup aplikacija vašim podacima</string>
+  <string name="permission_manager_title">Upravitelj dopuštenja</string>
+  <string name="permission_usage_search_terms">Privatnost, nadzorna ploča privatnosti</string>
+  <string name="permission_usage_summary">Pokaži koje su aplikacije nedavno koristile dopuštenja</string>
+  <string name="permission_usage_title">Nadzorna ploča privatnosti</string>
+  <string name="privacy_controls_search_terms">Privatnost, kontrole privatnosti</string>
+  <string name="privacy_controls_summary">Kontrolirajte pristup uređaja mikrofonu, kameri i ostalom</string>
+  <string name="privacy_controls_title">Kontrole privatnosti</string>
+  <string name="privacy_sources_summary">Nadzorna ploča, dopuštenja, kontrole</string>
+  <string name="privacy_sources_title">Privatnost</string>
+  <string name="redirecting_error">Nije moguće otvoriti stranicu</string>
+  <string name="refresh_error">{count, plural, =1 {Nije moguće provjeriti postavku} other {Nije moguće provjeriti postavke} }</string>
+  <string name="resolving_action_error">Nije moguće riješiti upozorenje</string>
+  <string name="safetyCenterResourcesAppLabel">Resursi centra za sigurnost</string>
+  <string name="scanning_title">Skeniranje</string>
+  <string name="test_single_source_group_id_footer">Tekst sažetka za podnožje</string>
+  <string name="work_profile_paused">Radni profil je pauziran</string>
+ </resources>
