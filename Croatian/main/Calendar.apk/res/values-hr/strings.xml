@@ -26,7 +26,7 @@
   <string name="accessibility_change_view_tab">Odabrano: %s</string>
   <string name="accessibility_day_page_selected">Trenutno u dnevnom prikazu, %2$s %3$d, %1$d</string>
   <string name="accessibility_email_notification">Pošalji e-poštu gostima</string>
-  <string name="accessibility_month_page_selected_prefix">Mjesečni prikaz za %2$d od %1$d. Odabrani datum: %4$s %5$d, %3$d.</string>
+  <string name="accessibility_month_page_selected_prefix">Mjesečni prikaz za %2$s od %1$d. Odabrani datum: %4$s %5$d, %3$d.</string>
   <string name="accessibility_pick_end_date">Datum završetka</string>
   <string name="accessibility_pick_end_time">DO</string>
   <string name="accessibility_pick_recurrence">Ponovi</string>

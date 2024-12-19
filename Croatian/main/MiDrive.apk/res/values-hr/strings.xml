@@ -901,7 +901,7 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
 Veličina: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verziju %1$s
 Veličina Delta ažuriranja: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s ažuriranje!</string>
+  <string name="xiaomi_update_sdk_dialog_title">Dostupno je ažuriranje!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Pohrana nije dostupna, provjerite SD karticu.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>

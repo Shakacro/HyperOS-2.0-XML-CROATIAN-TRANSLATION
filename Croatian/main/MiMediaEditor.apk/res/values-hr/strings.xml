@@ -1290,7 +1290,7 @@ za podešavanje područja disperzije"</string>
   <string name="photo_editor_inpaint_progress">Brisanje…%s</string>
   <string name="photo_editor_navigator_tab_title_ai_pro">AI</string>
   <string name="photo_editor_outpaint_progress">Proširenje…%s</string>
-  <string name="photo_editor_privacy_tip_ai">"Prije korištenja AI značajki, pročitajte i prihvatite &lt;a href='%1$s'>Pravila o privatnosti AI značajki uređivača galerije&lt;/a> i &lt;a href='%2 $s'>Korisnički ugovor o značajkama umjetne inteligencije uređivača galerije&lt;/a>."</string>
+  <string name="photo_editor_privacy_tip_ai">"Prije korištenja AI značajki, pročitajte i prihvatite &lt;a href='%1$s'>Pravila o privatnosti AI značajki uređivača galerije&lt;/a> i &lt;a href='%2$s'>Korisnički ugovor o značajkama umjetne inteligencije uređivača galerije&lt;/a>."</string>
   <string name="photo_editor_quality_improve">Poboljšaj</string>
   <string name="photo_editor_quality_improve_progress">Poboljšanje…%s</string>
   <string name="photo_editor_beautify">Uljepšaj</string>

@@ -616,7 +616,7 @@ Brži protokol veze."</string>
   <string name="mi_band_vibrate_sms">Vibracija za SMS</string>
   <string name="mi_band_vibrate_sms_in_contacts">SMS kontakata</string>
   <string name="mi_band_vibrate_sms_no_contacts">SMS nepoznatih brojeva</string>
-  <string name="mi_home_device_find">Pronađi %1$s</string>
+  <string name="mi_home_device_find">Otkrij uređaje</string>
   <string name="mi_home_device_ignore">Odustani</string>
   <string name="mi_home_device_start_binding">Poveži</string>
   <string name="mi_key_alert_dialog_message">Dodirnite U redu da ugasite alarm.</string>
