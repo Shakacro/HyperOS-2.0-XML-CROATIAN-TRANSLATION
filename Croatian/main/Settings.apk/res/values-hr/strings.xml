@@ -136,7 +136,7 @@
   <string name="accessibility_clear">Izbriši</string>
   <string name="accessibility_close_tab">Zatvori trenutnu karticu</string>
   <string name="accessibility_color_and_motion_title">Boja i pokret</string>
-  <string name="accessibility_color_contrast_intro">Veći kontrast omogućuje da se tekst, gumbi i ikone bolje istaknu. Odaberite kontrast koji vam najbolje odgovara.</string>
+  <string name="accessibility_color_contrast_intro">Veći kontrast omogućuje da se tekst, tipke i ikone bolje istaknu. Odaberite kontrast koji vam najbolje odgovara.</string>
   <string name="accessibility_color_contrast_title">Kontrast boja</string>
   <string name="accessibility_color_correction_auto_added_qs_tooltip_content">Korekcija boja dodana je u Brze postavke. Prijeđite prstom prema dolje da biste je uključili ili isključili.</string>
   <string name="accessibility_color_correction_qs_tooltip_content">Također možete dodati korekciju boja u Brze postavke s vrha zaslona</string>
@@ -353,7 +353,7 @@ Tipkovnica i navigacijska traka ne mogu se povećati."</string>
   <string name="accessibility_settings_title">Postavke dostupnosti</string>
   <string name="accessibility_setup_password_complete">Zaporka je sada postavljena</string>
   <string name="accessibility_shortcut_description">Dopusti prečacu značajke da se uključi putem zaključanog zaslona. Pritisnite obje tipke za glasnoću na nekoliko sekundi.</string>
-  <string name="accessibility_shortcut_edit_dialog_summary_floating_button">Dodirnite plutajući gumb</string>
+  <string name="accessibility_shortcut_edit_dialog_summary_floating_button">Dodirnite plutajuću tipku</string>
   <string name="accessibility_shortcut_edit_dialog_summary_gesture">{count,plural, =1{Prijeđite prstom od dna zaslona prema gore. Da biste prešli na neku drugu značajku, prijeđite prstom prema gore i zadržite.}one{Prijeđite # prstom prema gore s dna zaslona. Da biste prešli na neku drugu značajku, prijeđite # prstom prema gore i zadržite.}few{Prijeđite s # prsta prema gore s dna zaslona. Da biste prešli na neku drugu značajku, prijeđite s # prsta prema gore i zadržite.}other{Prijeđite s # prstiju prema gore s dna zaslona. Da biste prešli na neku drugu značajku, prijeđite s # prstiju prema gore i zadržite.}}</string>
   <string name="accessibility_shortcut_edit_dialog_summary_hardware">Pritisnite i zadržite obje tipke za glasnoću</string>
   <string name="accessibility_shortcut_edit_dialog_summary_quick_settings">{count,plural, =1{Prijeđite prstom od vrha zaslona prema dolje}one{Prijeđite # prstom od vrha zaslona prema dolje}few{Prijeđite # prstima od vrha zaslona prema dolje}other{Prijeđite od vrha zaslona prema dolje s # prstiju}}</string>
@@ -760,7 +760,7 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="ai_settings_double_click_title">Dvostruki dodir</string>
   <string name="ai_settings_long_click_category">Dodirni i zadrži AI tipku</string>
   <string name="ai_settings_long_click_title">Pritisnite i držite</string>
-  <string name="ai_settings_single_press_des">Pritisnite AI gumb da biste razgovarali s Googleovim pomoćnikom, a zatim otpustite da biste dobili odgovor.</string>
+  <string name="ai_settings_single_press_des">Pritisnite AI tipku da biste razgovarali s Googleovim pomoćnikom, a zatim otpustite da biste dobili odgovor.</string>
   <string name="airplane_mode">Zrakoplovni način</string>
   <string name="airplane_mode_summary">"Uključite da biste prekinuli vezu uređaja s mobilnim mrežama. Nećete moći pozivati, slati i primati tekstualne poruke niti koristiti mobilne podatke kada je ova značajka uključena."</string>
   <string name="alarm_ringtone_title">Zadani zvuk alarma</string>
@@ -6494,7 +6494,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="keyboard_assistance_category">Pomoć za tipkovnicu</string>
   <string name="keyboard_back_light">Pozadinsko osvjetljenje tipkovnice</string>
   <string name="keyboard_category_title">Opcije fizičke tipkovnice</string>
-  <string name="keywords_3_button_navigation">tri gumba</string>
+  <string name="keywords_3_button_navigation">tri tipke</string>
   <string name="keywords_accessibility_timeout">odgoda, spretnost, starija osoba</string>
   <string name="keywords_keyboard_vibration">tipkovnica, haptika, vibracija,</string>
   <string name="keyboard_default_layout">Zadano</string>

@@ -42,7 +42,7 @@
   <string name="ble">Bluetooth</string>
   <string name="ble_cached_hint1">Sigurnosna autentifikacija u %s</string>
   <string name="ble_cached_hint1_no_origin">Sigurnosna autentifikacija u tijeku</string>
-  <string name="ble_cached_hint2">Pronađen je upareni sigurnosni autentifikator. Pritisnite gumb na stražnjoj strani sigurnosne provjere autentičnosti.</string>
+  <string name="ble_cached_hint2">Pronađen je upareni sigurnosni autentifikator. Pritisnite tipku na stražnjoj strani sigurnosne provjere autentičnosti.</string>
   <string name="ble_cached_next">Korištenje drugih sigurnosnih autentifikatora putem Bluetootha&gt;</string>
   <string name="ble_hint1">Korištenje sigurnosnog autentifikatora putem Bluetootha</string>
   <string name="ble_hint1_list">Odaberite sigurnosni autentifikator</string>
@@ -53,7 +53,7 @@
   <string name="ble_hint2_pair_hint1">Pronađite ključ za uparivanje za sljedeće sigurnosne autentifikatore.</string>
   <string name="ble_hint2_pair_hint2">Ključ za uparivanje obično je otisnut na stražnjoj strani sigurnosnog autentifikatora i sastoji se od 4 do 6 znamenki. Kada pronađete ključ za uparivanje, kliknite dalje za nastavak.</string>
   <string name="ble_hint2_pair_next">Dalje</string>
-  <string name="ble_hint2_pair_start">Molimo da pritisnete gumb sigurnosnog autentifikatora najmanje 5 sekundi.</string>
+  <string name="ble_hint2_pair_start">Molimo da pritisnete tipku sigurnosnog autentifikatora najmanje 5 sekundi.</string>
   <string name="ble_permission_connect">Nije uspjelo dobivanje dopuštenja, dopustite uređaju u blizini dopuštenje potrebno za Bluetooth u dopuštenjima aplikacije</string>
   <string name="ble_permission_location">Nije uspjelo dobivanje dopuštenja, dopustite potrebna dopuštenja za pozicioniranje za Bluetooth u dopuštenjima aplikacije</string>
   <string name="ble_request_location">Uključite lokaciju za traženje Bluetooth uređaja u blizini</string>

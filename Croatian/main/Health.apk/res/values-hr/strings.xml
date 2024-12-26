@@ -564,7 +564,7 @@ Ako vam je i dalje teško zaspati nakon 30 minuta u krevetu, smanjite čimbenike
    <string name="group">Ciklusi</string>
    <string name="guide_data_cloud_sync_tip">Sinkronizaciju možete isključiti u Postavkama > Usluge u oblaku.</string>
    <string name="guide_exit">Izađi iz Xiaomi Health</string>
-   <string name="guide_exit_description">"Ne možemo pružati usluge osobama koje još nisu navršile 14 godina. Provjerite koristite li ovaj uređaj uz dopuštenje svog zakonskog skrbnika. Dodirnite gumb u nastavku da izađete iz aplikacije. "</string>
+   <string name="guide_exit_description">"Ne možemo pružati usluge osobama koje još nisu navršile 14 godina. Provjerite koristite li ovaj uređaj uz dopuštenje svog zakonskog skrbnika. Dodirnite tipku u nastavku da izađete iz aplikacije. "</string>
    <string name="guide_exit_title">Možete početi koristiti Xiaomi Health nakon što navršite 14 godina</string>
    <string name="guide_local_data_sync_subtitle">Koraci, spavanje, težina i mjesečnice</string>
    <string name="guide_local_data_sync_title">Prenesi podatke s ovog uređaja</string>
@@ -792,8 +792,8 @@ Ako ne želite dijeliti svoje podatke, možete isključiti ovu značajku."</stri
    <string name="mcv2_music_title_unknown_text">Nepoznat naslov pjesme</string>
    <string name="mcv2_next_button_desc">Sljedeći medij</string>
    <string name="mcv2_non_music_title_unknown_text">Nepoznat naslov videozapisa</string>
-   <string name="mcv2_overflow_left_button_desc">Natrag na prethodni popis gumba</string>
-   <string name="mcv2_overflow_right_button_desc">Pogledajte više gumba</string>
+   <string name="mcv2_overflow_left_button_desc">Natrag na prethodni popis tipki</string>
+   <string name="mcv2_overflow_right_button_desc">Pogledajte više tipki</string>
    <string name="mcv2_pause_button_desc">Pauziraj</string>
    <string name="mcv2_play_button_desc">Reproduciraj</string>
    <string name="mcv2_playback_error_text">"Nije moguće reproducirati traženu stavku"</string>

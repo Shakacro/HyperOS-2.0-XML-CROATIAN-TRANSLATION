@@ -238,7 +238,7 @@
     <string name="search_menu_title">Traži</string>
     <string name="search_result_text">"Ne mogu pronaći niti jednu aplikaciju"</string>
     <string name="send">Pošalji</string>
-	 <string name="set_ramdump_debug_switch_status">Molimo potvrdite je li trenutno omogućeno snimanje dnevnika narančastog zaslona. Ako je funkcija omogućena, pritisnite gumb za smanjivanje glasnoće i telefon će ući u stanje snimanja dnevnika narančastog zaslona. Ako trebate izaći iz ovog stanja, ponovno pokrenite uređaj.</string>
+	 <string name="set_ramdump_debug_switch_status">Molimo potvrdite je li trenutno omogućeno snimanje dnevnika narančastog zaslona. Ako je funkcija omogućena, pritisnite tipku za smanjivanje glasnoće i telefon će ući u stanje snimanja dnevnika narančastog zaslona. Ako trebate izaći iz ovog stanja, ponovno pokrenite uređaj.</string>
     <string name="show_system_app">Prikaži aplikacije sustava</string>
     <string name="sleep_config_enhance_description">"Da bi uštedio bateriju, sustav će zatvoriti pozadinske aplikacije, ograničiti NFC, Bluetooth, GPS, korištenje mobilnih podataka i Wi-Fi-ja i neće osvijetliti zaslon za obavijesti dok spavate noću."</string>
     <string name="sleep_config_enhance_description_non_nfc">"Da bi uštedio bateriju, sustav će zatvoriti pozadinske aplikacije, ograničiti korištenje Bluetootha, GPS-a, mobilnih podataka i Wi-Fi-ja te neće osvijetliti zaslon za obavijesti dok spavate noću."</string>

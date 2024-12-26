@@ -148,10 +148,10 @@
   <string name="accessibility_floating_button_action_move_top_left">Premjesti u gornji lijevi kut</string>
   <string name="accessibility_floating_button_action_move_top_right">Premjesti u gornji desni kut</string>
   <string name="accessibility_floating_button_action_remove_menu">Ukloni</string>
-  <string name="accessibility_floating_button_docking_tooltip">Pomaknite gumb do ruba da biste ga privremeno sakrili</string>
-  <string name="accessibility_floating_button_hidden_notification_text">Dodirnite za prikaz gumba pristupačnosti</string>
-  <string name="accessibility_floating_button_hidden_notification_title">Gumb za pristupačnost skriven</string>
-  <string name="accessibility_floating_button_migration_tooltip">"Dodirnite za otvaranje značajki pristupačnosti. Prilagodite ili zamijenite ovaj gumb u Postavkama.
+  <string name="accessibility_floating_button_docking_tooltip">Pomaknite tipku do ruba da biste je privremeno sakrili</string>
+  <string name="accessibility_floating_button_hidden_notification_text">Dodirnite za prikaz tipke pristupačnosti</string>
+  <string name="accessibility_floating_button_hidden_notification_title">Tipka za pristupačnost skrivena</string>
+  <string name="accessibility_floating_button_migration_tooltip">"Dodirnite za otvaranje značajki pristupačnosti. Prilagodite ili zamijenite ovu tipku u Postavkama.
 
 "<annotation id="link">Pregledajte postavke</annotation></string>
   <string name="accessibility_floating_button_undo">Poništi</string>
@@ -160,7 +160,7 @@
   <string name="accessibility_hearing_device_pair_new_device">Kliknite za uparivanje novog uređaja</string>
   <string name="accessibility_home">Početna</string>
   <string name="accessibility_ime_switch_button">Promijeni način unosa</string>
-  <string name="accessibility_key">Prilagođeni gumb za navigaciju</string>
+  <string name="accessibility_key">Prilagođena tipka navigacije</string>
   <string name="accessibility_keyboard_delete_button">Izbriši</string>
   <string name="accessibility_keyboard_letter_board_caps_lock_button">Caps Lock</string>
   <string name="accessibility_keyboard_letter_board_shift2number_button">Brojevi</string>
@@ -1159,7 +1159,7 @@ Isključite tipkom za napajanje."</string>
   <string name="group_system_cycle_back">Prolazi kroz nedavne aplikacije (natrag)</string>
   <string name="group_system_cycle_forward">Prolazi kroz nedavne aplikacije (naprijed)</string>
   <string name="group_system_full_screenshot">Napravite snimku cijelog zaslona</string>
-  <string name="group_system_go_back">Natrag: povratak na prethodno stanje (gumb za povratak)</string>
+  <string name="group_system_go_back">Natrag: povratak na prethodno stanje (tipka za povratak)</string>
   <string name="group_system_hide_reshow_taskbar">Sakrij i (ponovno) prikaži programsku traku</string>
   <string name="group_system_lock_screen">Zaključani zaslon</string>
   <string name="group_system_overview_open_apps">Pregled otvorenih aplikacija</string>
@@ -2786,7 +2786,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="search_menu_title">Pretraži</string>
   <string name="searchview_clear_text_content_description">Čisti tekst</string>
   <string name="searchview_navigation_content_description">Natrag</string>
-  <string name="security_settings_sfps_enroll_find_sensor_message">Senzor otiska prsta je na gumbu za uključivanje. To je ravni gumb pored podignutog gumba za glasnoću na rubu telefona.</string>
+  <string name="security_settings_sfps_enroll_find_sensor_message">Senzor otiska prsta je na tipki za uključivanje. To je ravna tipka pored podignute tipke za glasnoću na rubu telefona.</string>
   <string name="see_all_bluetooth_devices">Pogledajte sve</string>
   <string name="see_all_networks">Prikaži sve</string>
   <string name="see_more_title">Pogledajte više</string>
@@ -2813,7 +2813,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="sensor_privacy_camera_unblocked_dialog_content">Kamera je omogućena za sve aplikacije i usluge.</string>
   <string name="sensor_privacy_camera_unblocked_toast_content">Dostupna kamera</string>
   <string name="sensor_privacy_dialog_open_settings">Otvori postavke</string>
-  <string name="sensor_privacy_htt_blocked_dialog_content">Za korištenje gumba mikrofona omogućite pristup mikrofonu u postavkama.</string>
+  <string name="sensor_privacy_htt_blocked_dialog_content">Za korištenje tipke mikrofona omogućite pristup mikrofonu u postavkama.</string>
   <string name="sensor_privacy_mic_blocked_no_exception_dialog_content">Pristup mikrofonu onemogućen je za sve aplikacije i usluge. Pristup mikrofonu možete omogućiti u Postavke &gt; Privatnost &gt; Mikrofon.</string>
   <string name="sensor_privacy_mic_blocked_with_exception_dialog_content">Pristup mikrofonu onemogućen je za sve aplikacije i usluge. To možete promijeniti u Postavke &gt; Privatnost &gt; Mikrofon.</string>
   <string name="sensor_privacy_mic_camera_unblocked_toast_content">Mikrofon i kamera dostupni</string>

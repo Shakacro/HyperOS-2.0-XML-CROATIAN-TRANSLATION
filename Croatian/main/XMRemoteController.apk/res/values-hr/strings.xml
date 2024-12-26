@@ -349,7 +349,7 @@ Pokušajte sljedeće kako biste riješili problem:
     <string name="feedback_issue_desc">Opišite problem</string>
     <string name="feedback_keys">Pov. informacije</string>
     <string name="feedback_keys_success">Hvala vam na povratnim informacijama!</string>
-    <string name="feedback_keys_tips">"Ako gumbi ne funkcioniraju, pošaljite nam povratne informacije"</string>
+    <string name="feedback_keys_tips">"Ako tipke ne funkcioniraju, pošaljite nam povratne informacije"</string>
     <string name="find_adb_frame">Otkriveno %1$d ADB uređaja</string>
     <string name="find_milink_frame">Otkriveno %1$d uređaja</string>
     <string name="fix_keys">Popravi Tipke</string>

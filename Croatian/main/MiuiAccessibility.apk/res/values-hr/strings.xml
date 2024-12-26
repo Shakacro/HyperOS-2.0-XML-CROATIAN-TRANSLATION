@@ -114,10 +114,10 @@
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
   <string name="delete_message">Izbriši</string>
   <string name="delete_phrase">Izbriši izraz</string>
-  <string name="detail_how_to_open">Dodirnite gumb na sredini da omogućite Mi Ditto prepisivanje zvuka i reprodukciju govora i sustava.</string>
-  <string name="detail_how_to_reply">Da biste upisali odgovor, dodirnite gumb u donjem desnom dijelu. Mi Ditto će ga pročitati drugoj osobi.</string>
-  <string name="detail_how_to_save_messages">Možete dodirnuti gumb na dnu zaslona za spremanje prepisanih stavki u Bilješke.</string>
-  <string name="detail_how_to_switch_float_window">Dodirnite gumb u donjem lijevom dijelu da biste smanjili Mi Ditto. Omogućit će vam upotrebu drugih aplikacija.</string>
+  <string name="detail_how_to_open">Dodirnite tipku na sredini da omogućite Mi Ditto prepisivanje zvuka i reprodukciju govora i sustava.</string>
+  <string name="detail_how_to_reply">Da biste upisali odgovor, dodirnite tipku u donjem desnom dijelu. Mi Ditto će ga pročitati drugoj osobi.</string>
+  <string name="detail_how_to_save_messages">Možete dodirnuti tipku na dnu zaslona za spremanje prepisanih stavki u Bilješke.</string>
+  <string name="detail_how_to_switch_float_window">Dodirnite tipku u donjem lijevom dijelu da biste smanjili Mi Ditto. Omogućit će vam upotrebu drugih aplikacija.</string>
   <string name="detail_how_to_use_reg">O Mi Ditto</string>
   <string name="dialog_download_notes_negative_button">Ne sad</string>
   <string name="dialog_download_notes_positive_button">Preuzmi</string>
@@ -468,7 +468,7 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="title_mute_self">Isključi zvuk</string>
   <string name="toast_already_in_float_window_mode">Prebačeno na plutajući prozor</string>
   <string name="toast_create_shortcut_success">Prečas uspješno izrađen</string>
-  <string name="toast_long_time_no_sound">"Ne čujem ništa. Prepisivanje je za sada zaustavljeno. Prepisivanja možete nastaviti dodirom gumba u nastavku."</string>
+  <string name="toast_long_time_no_sound">"Ne čujem ništa. Prepisivanje je za sada zaustavljeno. Prepisivanja možete nastaviti dodirom tipke u nastavku."</string>
   <string name="toast_network_is_not_available">"Nije moguće spojiti se na mrežu radi prijepisa zvuka"</string>
   <string name="toast_open_media_sound">Pojačajte glasnoću medija za generiranje titlova</string>
   <string name="toast_record_permissions">Dopusti ovoj aplikaciji prvo snimanje zvuka</string>

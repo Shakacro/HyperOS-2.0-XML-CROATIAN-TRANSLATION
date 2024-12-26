@@ -2297,7 +2297,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_handle_function_customize_button">Tipka videozapisa</string>
   <string name="pref_camera_handle_function_customize_wheel">Prilagodi brojčanik</string>
   <string name="pref_camera_handle_function_customize_zoom">Poluga zuma</string>
-  <string name="pref_camera_handle_function_desc">Možete neovisno postaviti funkcije držanja kamere. Prilagođeni kotačići i gumbi stupaju na snagu samo u načinu rada u kojem su postavljeni.</string>
+  <string name="pref_camera_handle_function_desc">Možete neovisno postaviti funkcije držanja kamere. Prilagođeni kotačići i tipke stupaju na snagu samo u načinu rada u kojem su postavljeni.</string>
   <string name="pref_camera_handle_function_title">Profesionalni držač kamere</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Uživo</string>
@@ -3230,7 +3230,7 @@ Teleprompter
 Koristite teleprompter za čitanje scenarija dok snimate video.
 
 Kako radi teleprompter
-Možete koristiti gumbe u nastavku za uređivanje teksta, pregled reprodukcije i korištenje drugih postavki. Za promjenu veličine plutajućeg prozora, povucite njegove donje kutove. Za pomicanje prozora povucite ga za gornji rub."</string>
+Možete koristiti tipke u nastavku za uređivanje teksta, pregled reprodukcije i korištenje drugih postavki. Za promjenu veličine plutajućeg prozora, povucite njegove donje kutove. Za pomicanje prozora povucite ga za gornji rub."</string>
   <string name="video_prompter_edit_description">Uređivanje teksta</string>
   <string name="video_prompter_edit_exit_dialog_message">Ako sada prestanete s uređivanjem, sve nespremljene promjene bit će izgubljene. Svejedno prestati?</string>
   <string name="video_prompter_edit_exit_dialog_title">Zaustaviti uređivanje?</string>

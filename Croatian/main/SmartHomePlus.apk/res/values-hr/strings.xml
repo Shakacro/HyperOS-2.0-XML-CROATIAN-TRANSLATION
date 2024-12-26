@@ -331,8 +331,8 @@ Primakni se malo bliže"</string>
   <string name="uwb_permission_ble">Koristi se za pronalaženje UWB uređaja u blizini.</string>
   <string name="uwb_permission_camera">Koristi se za pomoć u usmjeravanju i povezivanju uređaja.</string>
   <string name="uwb_permission_message">Dobro došli u Mi Home Plus da koristite Xiaomi Magic Control. Jednostavno usmjerite ovaj telefon prema pametnom uređaju koji podržava Xiaomi Magic Control u blizini za bežično povezivanje i kontrolu pametnog uređaja.</string>
-  <string name="uwb_power_hint">Pritisnite i držite tipku za napajanje 0,5 sekunde kako biste brzo omogućili Xiaomi Magic Control; Nakon što omogućite ovaj gumb prečaca, uređaj se može isključiti pritiskom i držanjem gumba za napajanje 3 sekunde.</string>
-  <string name="uwb_power_title">Pritisnite i držite gumb za uključivanje kako biste omogućili Xiaomi Magic Control.</string>
+  <string name="uwb_power_hint">Pritisnite i držite tipku za napajanje 0,5 sekunde kako biste brzo omogućili Xiaomi Magic Control; Nakon što omogućite ovaj tipku prečaca, uređaj se može isključiti pritiskom i držanjem tipke za napajanje 3 sekunde.</string>
+  <string name="uwb_power_title">Pritisnite i držite tipku za uključivanje kako biste omogućili Xiaomi Magic Control.</string>
   <string name="uwb_retry">Pokušajte ponovno</string>
   <string name="uwb_right_than_right_aoa">"Pokažite na uređaj.
 Pomakni se malo ulijevo"</string>

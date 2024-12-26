@@ -731,6 +731,6 @@ biste koristili prednju kameru</string>
   <string name="wireless_charging_notification_titile">Obrnuto bežično punjenje sada je isključeno</string>
   <string name="xspace_head">Dvojna aplikacija</string>
   <string name="xspace_resolver_activity_title">Odaberite aplikaciju</string>
-  <string name="zone_volume_automatic_change_optimization_text">Kontaktirajte korisničku službu za popravke. Onemogućiti gumbe za glasnoću i sada postaviti glasnoću na zadanu?</string>
+  <string name="zone_volume_automatic_change_optimization_text">Kontaktirajte korisničku službu za popravke. Onemogućiti tipke za glasnoću i postaviti glasnoću na zadanu?</string>
   <string name="zone_volume_automatic_change_optimization_title">Pogreška tipke za glasnoću</string>
 </resources>

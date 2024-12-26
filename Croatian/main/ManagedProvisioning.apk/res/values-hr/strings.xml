@@ -167,7 +167,7 @@
   <string name="join_two_items">%1$s i %2$s</string>
   <string name="just_a_sec">Samo trenutak…</string>
   <string name="launcher_app_cant_be_used_by_work_profile">Vaš radni profil ne može upotrebljavati tu aplikaciju pokretača</string>
-  <string name="learn_more_label">Gumb Saznajte više</string>
+  <string name="learn_more_label">Saznajte više</string>
   <string name="learn_more_link">Saznajte više</string>
   <string name="link_isnt_secure_and_cant_be_opened_until_device_setup_finished">Ova veza nije sigurna i ne može se otvoriti dok se uređaj ne postavi: %1$s</string>
   <string name="lock_device_description">"Ograničite pristup ovom uređaju ako ne izvršavate plaćanja"</string>

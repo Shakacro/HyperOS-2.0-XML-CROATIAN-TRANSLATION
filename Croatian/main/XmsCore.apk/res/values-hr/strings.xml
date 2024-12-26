@@ -252,7 +252,7 @@
    <string name="system_app_restore_completed">Uspješno vraćeno</string>
    <string name="system_app_restore_completed_detail">Sve stavke sustava uspješno su vraćene</string>
    <string name="system_app_restore_failed">Došlo je do greške</string>
-   <string name="system_app_restore_failed_detail">"Nije moguće vratiti stavke sustava. Provjerite svoje mrežne postavke i nemojte ponovno pokretati ili isključivati uređaj dok se stavke u potpunosti ne vrate. Dodirnite gumb ispod da pokušate ponovno."</string>
+   <string name="system_app_restore_failed_detail">"Nije moguće vratiti stavke sustava. Provjerite svoje mrežne postavke i nemojte ponovno pokretati ili isključivati uređaj dok se stavke u potpunosti ne vrate. Dodirnite tipku ispod da pokušate ponovno."</string>
    <string name="system_restore">Vrati stavke</string>
    <string name="tap_to_update_system_app">Dodirnite za ažuriranje aplikacija sustava</string>
    <string name="thursday">Četvrtak</string>

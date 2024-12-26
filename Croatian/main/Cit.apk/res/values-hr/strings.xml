@@ -84,7 +84,7 @@ Nije dobivena vrijednost"</string>
 Prolaz na testu"</string>
   <string name="cit_DP_plug_pass">"Promjena veze uređaja za otkrivanje
   Uspješno pročitajte vrijednost temeljnog čvora
-  Provjerite je li ekran uspješan i kliknite odgovarajući gumb"</string>
+  Provjerite je li ekran uspješan i kliknite odgovarajuću tipku"</string>
   <string name="cit_DP_plug_re_plugin">DP test je završen, pogledajte je li zaslon uspješan i dodirnite odgovarajući tipku</string>
   <string name="cit_first_pen_hall_test">Test S Hall detektora olovke na dodir:</string>
   <string name="cit_fourth_pen_hall_test">Test olovke za dodir PPE S Hall detektora:</string>
@@ -206,7 +206,7 @@ Držite uređaj kao da upućujete poziv, govorite u gornji mikrofon, trebali bis
   <string name="cit_bluetooth_scanning_opening_bluetooth">Otvaranje Bluetooth uređaja…</string>
   <string name="cit_bottom_left_speaker_test">Test donjeg lijevog zvučnika</string>
   <string name="cit_bottom_right_speaker_test">Test donjeg desnog zvučnika</string>
-  <string name="cit_btn_security_test_summary">"1. Kliknite gumb i pričekajte neko vrijeme, obratite pozornost na provjeru statusa mreže
+  <string name="cit_btn_security_test_summary">"1. Kliknite tipku i pričekajte neko vrijeme, obratite pozornost na provjeru statusa mreže
 2. Ako se pojavi Update Success, to znači da je widevine certifikat uspješno ažuriran.
 3. Ako se pojavi poruka Certificate Update Failed, to znači da je widevine certifikat ažuriran neuspješno.
 4. Ovaj se alat ne koristi kao obični test.

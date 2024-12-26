@@ -535,7 +535,7 @@
   <string name="voice_print_new">Snimi novi glasovni otisak</string>
   <string name="voice_print_note_description" formatted="false">Optimizacija glasovnog ispisa je tehnologija koju pokreće AI koja koristi jedinstvene glasovne karakteristike korisnika za smanjenje buke. Ova se tehnologija oslanja na pojedinačne akustičke atribute kao što su intonacija, visina i brzina govora. Prije korištenja ove tehnologije morate snimiti otprilike %d do %d sekundi vašeg glasa. Sustav će učiti iz vašeg glasa, čuvajući samo vaš glas tijekom poziva dok filtrira pozadinsku buku i druge glasove.</string>
   <string name="voice_print_note_device">Odspojite vanjske uređaje prije snimanja</string>
-  <string name="voice_print_note_environment">"Snimajte sami na tihom mjestu. Držite uređaj na udaljenosti od otprilike pola ruke od sebe. Zatim pritisnite i držite gumb ispod i čitajte sljedeći tekst ujednačenim tempom, uobičajenim govorom glas."</string>
+  <string name="voice_print_note_environment">"Snimajte sami na tihom mjestu. Držite uređaj na udaljenosti od otprilike pola ruke od sebe. Zatim pritisnite i držite tipku ispod i čitajte sljedeći tekst ujednačenim tempom, uobičajenim govorom glas."</string>
   <string name="voice_print_note_generate_error">"Nije moguće generirati glasovni ispis. Snimi ponovo."</string>
   <string name="voice_print_note_generating">Prepoznavanje govornog otiska…</string>
   <string name="voice_print_note_in_call">"Ne mogu snimiti govorni otisak tijekom poziva"</string>

@@ -156,13 +156,13 @@
   <string name="VideoView_error_title">Problem s videozapisom</string>
   <string name="accept">Prihvaćam</string>
   <string name="accessibility_binding_label">Pristupačnost</string>
-  <string name="accessibility_button_instructional_text">Da biste prešli na neku drugu značajku, dodirnite i zadržite gumb za Pristupačnost.</string>
-  <string name="accessibility_button_prompt_text">Odaberite značajku koju ćete upotrebljavati kada dodirnete gumb za Pristupačnost:</string>
+  <string name="accessibility_button_instructional_text">Da biste prešli na neku drugu značajku, dodirnite i zadržite tipku za Pristupačnost.</string>
+  <string name="accessibility_button_prompt_text">Odaberite značajku koju ćete upotrebljavati kada dodirnete tipku za Pristupačnost:</string>
   <string name="accessibility_dialog_button_allow">Dopusti</string>
   <string name="accessibility_dialog_button_deny">Odbij</string>
   <string name="accessibility_dialog_button_uninstall">Deinstaliraj</string>
   <string name="accessibility_dialog_touch_filtered_warning">Aplikacija skriva zahtjev za dopuštenjem tako da se vaš odgovor ne može potvrditi.</string>
-  <string name="accessibility_edit_shortcut_menu_button_title">Odabir značajki za upotrebu pomoću gumba za Pristupačnost</string>
+  <string name="accessibility_edit_shortcut_menu_button_title">Odabir značajki za upotrebu pomoću tipke za Pristupačnost</string>
   <string name="accessibility_edit_shortcut_menu_volume_title">Odabir značajki za upotrebu pomoću prečaca tipki za glasnoću</string>
   <string name="accessibility_enable_service_encryption_warning">Ako uključite %1$s, vaš uređaj neće upotrebljavati zaključavanje zaslona za bolju enkripciju podataka.</string>
   <string name="accessibility_enable_service_title">Želite li usluzi %1$s dopustiti potpunu kontrolu nad uređajem?</string>
@@ -2237,7 +2237,7 @@ Kada se vaša veza ponovno kriptira, dobit ćete još jednu obavijest."</string>
   <string name="usb_storage_activity_title">USB masovna pohrana</string>
   <string name="usb_storage_button_mount">Uključi USB pohranjivanje</string>
   <string name="usb_storage_error_message">Došlo je do problema s upotrebom USB pohrane za USB masovnu pohranu.</string>
-  <string name="usb_storage_message">Povezali ste se s računalom putem USB-a. Dodirnite gumb u nastavku ako želite kopirati datoteke između računala i USB pohrane uređaja Android.</string>
+  <string name="usb_storage_message">Povezali ste se s računalom putem USB-a. Dodirnite tipku u nastavku ako želite kopirati datoteke između računala i USB pohrane uređaja Android.</string>
   <string name="usb_storage_notification_message">Dodirnite za kopiranje datoteka na računalo ili s računala.</string>
   <string name="usb_storage_notification_title">USB povezan</string>
   <string name="usb_storage_stop_button_mount">Isključi USB pohranjivanje</string>

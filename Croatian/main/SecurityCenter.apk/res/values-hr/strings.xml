@@ -2956,7 +2956,7 @@ ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg ure
   <string name="gb_setting_dock_toast_2">Značajke pomoćnika prednje kamere sada su dostupne u okviru alata za pozive</string>
   <string name="gb_shortcut_pref_title">Prečac Početnog zaslona</string>
   <string name="gb_shoulder_guide_message1">Pomaknite [L] na bilo koji funkcionalni položaj da biste ga koristili putem Pop-up tipke.</string>
-  <string name="gb_shoulder_guide_message2">Akcija [1] se aktivira pritiskom na gumb. Akcija [2] se aktivira otpuštanjem tipke.</string>
+  <string name="gb_shoulder_guide_message2">Akcija [1] se aktivira pritiskom na tipku. Akcija [2] se aktivira otpuštanjem tipke.</string>
   <string name="gb_shoulder_guide_tips1">Otvorite okvir s alatima i konfigurirajte okidače skočnih prozora</string>
   <string name="gb_shoulder_guide_title1">Radnja</string>
   <string name="gb_shoulder_guide_title2">Slijed</string>
@@ -2971,7 +2971,7 @@ ali također povećava potrošnju energije i omogućuje pregrijavanje vašeg ure
   <string name="gb_shoulder_key_circle_right">D</string>
   <string name="gb_shoulder_key_circle_right_sub1">D1</string>
   <string name="gb_shoulder_key_circle_right_sub2">D2</string>
-  <string name="gb_shoulder_key_dialog_message">"Možete koristiti oba gumba za pokretanje Game Turbo -a kada ne igrate igre."</string>
+  <string name="gb_shoulder_key_dialog_message">"Možete koristiti obje tipke za pokretanje Game Turba kada ne igrate igre."</string>
   <string name="gb_shoulder_key_dialog_txt">Game Turbo možete uključiti pomoću Pop-up tipke.</string>
   <string name="gb_shoulder_key_guide_btn_done">Razumijem</string>
   <string name="gb_shoulder_key_guide_btn_next">Dalje</string>

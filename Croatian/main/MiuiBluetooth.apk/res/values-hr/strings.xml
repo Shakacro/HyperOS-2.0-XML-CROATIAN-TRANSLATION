@@ -719,10 +719,10 @@ Brži protokol veze."</string>
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
-  <string name="mr_button_content_description">Gumb za emitiranje</string>
-  <string name="mr_cast_button_connected">Gumb za emitiranje. Povezan</string>
-  <string name="mr_cast_button_connecting">Gumb za emitiranje. Povezivanje</string>
-  <string name="mr_cast_button_disconnected">Gumb za emitiranje. Veza prekinuta</string>
+  <string name="mr_button_content_description">Tipka za emitiranje</string>
+  <string name="mr_cast_button_connected">Tipka za emitiranje. Povezan</string>
+  <string name="mr_cast_button_connecting">Tipka za emitiranje. Povezivanje</string>
+  <string name="mr_cast_button_disconnected">Tipka za emitiranje. Veza prekinuta</string>
   <string name="mr_cast_dialog_title_view_placeholder">Informacije nisu dostupne</string>
   <string name="mr_chooser_searching">Traženje uređaja</string>
   <string name="mr_chooser_title">Emitiranje na</string>

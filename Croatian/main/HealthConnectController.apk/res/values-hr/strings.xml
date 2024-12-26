@@ -845,10 +845,10 @@ To ne utječe na druga dopuštenja koja ova aplikacija može imati, kao što su 
     <string name="recent_access_header">Nedavni pristup</string>
     <string name="recent_access_screen_description">Pogledajte koje su aplikacije pristupile vašim podacima u posljednja 24 sata</string>
     <string name="recent_access_time_content_descritption">Vrijeme: %1$s</string>
-    <string name="remove_button_content_description">Gumb za uklanjanje aplikacije %s s popisa prioriteta</string>
+    <string name="remove_button_content_description">Tipka za uklanjanje aplikacije %s s popisa prioriteta</string>
     <string name="removed_additional_permissions_toast">Uklonjena su dodatna dopuštenja za ovu aplikaciju</string>
     <string name="reorder_button_action_description">Dodirnite dvaput i povucite za promjenu poretka</string>
-    <string name="reorder_button_content_description">Gumb za povlačenje i promjenu položaja aplikacije %s na popisu prioriteta</string>
+    <string name="reorder_button_content_description">Tipka za povlačenje i promjenu položaja aplikacije %s na popisu prioriteta</string>
     <string name="repetitions">{count,plural, =1{1 ponavljanje}one{# ponavljanje}few{# ponavljanja}other{# ponavljanja}}</string>
     <string name="repetitions_long">{count,plural, =1{1 ponavljanje}one{# ponavljanje}few{# ponavljanja}other{# ponavljanja}}</string>
     <string name="request_additional_permissions_description">Aplikacija %1$s želi pristupiti i ovim postavkama Health Connecta</string>

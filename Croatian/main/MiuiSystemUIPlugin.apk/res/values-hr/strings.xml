@@ -89,7 +89,7 @@
   <string name="controls_dismiss_dialog_confirm">Postavke</string>
   <string name="controls_dismiss_dialog_confirm_international">Ukloni</string>
   <string name="controls_dismiss_dialog_message">Upravljajte pametnim kućnim uređajima iz više aplikacija u Centru za kontrolu</string>
-  <string name="controls_dismiss_dialog_message_international">"Ukloniti karticu \"Smart home\"? Moći ćete je vratiti za Postavke &gt; Centar za kontrolu."</string>
+  <string name="controls_dismiss_dialog_message_international">"Ukloniti karticu \"Smart home\"? Moći ćete je vratiti u Postavke &gt; Centar za kontrolu."</string>
   <string name="controls_dismiss_dialog_title">Smart home uređaji</string>
   <string name="controls_dismiss_dialog_title_international">Ukloni karticu</string>
   <string name="controls_edit_add_device_guide">Ovdje još nema uređaja</string>

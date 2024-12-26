@@ -484,7 +484,7 @@ Audio"</string>
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Dohvati Bluetooth pakete. (Uključi Bluetooth nakon promjene ove postavke)</string>
   <string name="bugreport_in_power">Prečac izvješća o pogreškama</string>
-  <string name="bugreport_in_power_summary">Prikaži gumb u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
+  <string name="bugreport_in_power_summary">Prikaži tipku u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
   <string name="business_hall_settings_summary">Kontrolirajte svoje pozive i korištenje podataka</string>
   <string name="business_hall_settings_title">Postavke plana operatera</string>
   <string name="button_convert_fbe">Izbriši i pretvori…</string>
