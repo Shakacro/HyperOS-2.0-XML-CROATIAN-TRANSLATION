@@ -145,6 +145,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi
   <string name="cloud_backup_detail_frequence">Raspored sigurnosnog kopiranja</string>
   <string name="cloud_backup_detail_frequence_every_7_day">Svakih %d dana</string>
   <string name="cloud_backup_detail_frequence_every_day">Svaki dan</string>
+  <string name="cloud_backup_detail_header_condition_battery_content_description">najmanje %s</string>
   <string name="cloud_backup_detail_header_condition_screen">Zaključani zaslon</string>
   <string name="cloud_backup_detail_header_condition_wlan">Wi-Fi</string>
   <string name="cloud_backup_detail_header_condition_wlan_china">Wi-Fi</string>
@@ -156,6 +157,8 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi
   <string name="cloud_backup_detail_state">Automatske Sig. kopije</string>
   <string name="cloud_backup_detail_state_summary">Uređaj mora biti povezan na Wi-Fi, imati bateriju od najmanje %s i isključen zaslon.</string>
   <string name="cloud_backup_detail_state_summary_china">Uređaj mora biti povezan na Wi-Fi, puniti se i zaključan</string>
+  <string name="cloud_backup_detail_state_summary_china_content_description">Zahtijeva vezu s Wi-Fi mrežom, bateriju od najmanje %s i isključen zaslon</string>
+  <string name="cloud_backup_detail_state_summary_content_description">Zahtijeva vezu s Wi-Fi mrežom, bateriju od najmanje %s i isključen zaslon</string>
   <string name="cloud_backup_detail_time">Posljednja sigurnosna kopija: %1$s</string>
   <string name="cloud_backup_detail_title">Sigurnosno kopirajte stavke</string>
   <string name="cloud_backup_get_installed_apps_summary">Za sigurnosno kopiranje i vraćanje aplikacija početnog zaslona</string>

@@ -1,5 +1,170 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Vodenjak</item>
+     </string-array>
+     <string-array name="aries_info">
+        <item>aries</item>
+        <item>Jarac</item>
+     </string-array>
+     <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Rak</item>
+     </string-array>
+     <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Jarac</item>
+     </string-array>
+     <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Blizanci</item>
+     </string-array>
+     <string-array name="leo_info">
+        <item>leo</item>
+        <item>Lav</item>
+     </string-array>
+     <string-array name="libra_info">
+        <item>libra</item>
+        <item>Vaga</item>
+     </string-array>
+     <string-array name="locale_calendar_array">
+        <item>Ništa</item>
+        <item>Tradicionalni kineski kalendar</item>
+        <item>Islamski kalendar</item>
+        <item>Hebrejski kalendar</item>
+        <item>Japanski kalendar</item>
+        <item>Perzijski kalendar</item>
+        <item>Indijski kalendar</item>
+        <item>Budistički kalendar</item>
+     </string-array>
+     <string-array name="months_English_array">
+        <item>Siječanj</item>
+        <item>Veljača</item>
+        <item>Ožujak</item>
+        <item>Travanj</item>
+        <item>Svibanj</item>
+        <item>Lipanj</item>
+        <item>Srpanj</item>
+        <item>Kolovoz</item>
+        <item>Rujan</item>
+        <item>Listopad</item>
+        <item>Studeni</item>
+        <item>Prosinac</item>
+     </string-array>
+     <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Riba</item>
+     </string-array>
+     <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Strijelac</item>
+     </string-array>
+     <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Škorpion</item>
+     </string-array>
+     <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Ovan</item>
+     </string-array>
+     <string-array name="timezone_labels_v3">
+        <item>Marshallovi otoci</item>
+        <item>Midway otoci</item>
+        <item>Havaji</item>
+        <item>Aljaska</item>
+        <item>Pacifičko vrijeme</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Planinsko vrijeme</item>
+        <item>Centralna Amerika</item>
+        <item>Centralno vrijeme</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Istočno vrijeme</item>
+        <item>Venezuela</item>
+        <item>Atlantsko vrijeme (Barbados)</item>
+        <item>Atlantsko vrijeme (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brazilija</item>
+        <item>Buenos Aires</item>
+        <item>Grenland</item>
+        <item>Montevideo</item>
+        <item>Srednji Atlantik</item>
+        <item>Azuri</item>
+        <item>Zelenortsko Otočje</item>
+        <item>Casablanca</item>
+        <item>London</item>
+        <item>Dublin</item>
+        <item>Amsterdam</item>
+        <item>Berlin</item>
+        <item>Zagreb</item>
+        <item>Brisel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Z. Afričko vrijeme</item>
+        <item>Amman</item>
+        <item>Atena</item>
+        <item>Istanbul</item>
+        <item>Beirut</item>
+        <item>Kairo</item>
+        <item>Helsinki</item>
+        <item>Jeruzalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskva</item>
+        <item>Kuvajt</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>Ural</item>
+        <item>Yekaterinburg</item>
+        <item>Kalkata</item>
+        <item>Šri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Chongqing</item>
+        <item>Hong Kong</item>
+        <item>Makao</item>
+        <item>Singapur</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seul</item>
+        <item>Tokijo</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney</item>
+        <item>Kanbera</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiđi</item>
+        <item>Tonga</item>
+     </string-array>
+     <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Djevica</item>
+     </string-array>
     <string-array name="account_sync_frequency">
         <item>Ručno</item>
         <item>Svakih 15 minuta</item>

@@ -758,7 +758,7 @@ Podaci koji nisu uvezeni moraju se ponovno uvesti."</string>
      <string name="size_peta_byte">PB</string>
      <string name="size_suffix">%1$s%2$s</string>
      <string name="size_tera_byte">TB</string>
-	  <string name="skip_compatibility_mode">Ne sad</string>
+	  <string name="skip_compatibility_mode">Preskoči</string>
      <string name="sms_title">SMS</string>
      <string name="soft_ap_create_failed">"Ne mogu napraviti hotspot"</string>
      <string name="soft_ap_creating">Izrada hotspota…</string>

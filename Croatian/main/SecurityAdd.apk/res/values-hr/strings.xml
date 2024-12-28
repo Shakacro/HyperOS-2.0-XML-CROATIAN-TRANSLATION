@@ -180,6 +180,11 @@
   <string name="gb_gpu_control_optimization_graph">Optimizirajte grafiku</string>
   <string name="gb_gpu_control_resolution">Rezolucija</string>
   <string name="gb_gpu_control_texture_filtering_quality">Kvaliteta filtriranja teksture</string>
+  <string name="gb_gpu_custom_frame_default">Zadano</string>
+  <string name="gb_gpu_custom_frame_high_definition">HD</string>
+  <string name="gb_gpu_custom_frame_smooth">Smooth</string>
+  <string name="gb_gpu_custom_frame_ultimate">Max</string>
+  <string name="gb_gpu_custom_frame_ultra_hd">Ultra HD</string>
   <string name="gb_gpu_dialog_button">Razumijem</string>
   <string name="gb_gpu_dialog_button_countdown">Razumijem (%s)</string>
   <string name="gb_gpu_dialog_message">Primjenjuju se trenutne postavke GPU-a za \"%s\". Ponovo pokrenite igru da biste primijenili postavke.</string>
@@ -395,6 +400,10 @@
   <string name="not_set">Nije postavljeno</string>
   <string name="ok_button">U redu</string>
   <string name="open_browser">Otvori u pregledniku</string>
+  <string name="open_screen_resolution_tip_cancel">Odustani</string>
+  <string name="open_screen_resolution_tip_content">Postavite razlučivost zaslona sustava na WQHD+ u postavkama prije nego nastavite.</string>
+  <string name="open_screen_resolution_tip_set">Postavke</string>
+  <string name="open_screen_resolution_tip_title">Pažnja</string>
   <string name="page_load_failed">"Ne mogu otvoriti stranicu"</string>
   <string name="open_game">Otvori</string>
   <string name="other">Ostale postavke</string>

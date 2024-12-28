@@ -79,7 +79,7 @@
   <string name="bugreport_dialog_informed_consent_content">"Otkrili smo pogrešku u vezi s vašom zaporkom za zaključani zaslon. Možete poslati zapisnike svog uređaja kako biste nam pomogli da lociramo i riješimo problem. Podaci zapisnika bit će anonimno učitani, koristit će se samo za rješavanje problema, i bit će izbrisan nakon završetka rješavanja problema."</string>
   <string name="bugreport_dialog_informed_consent_title">Informirani pristanak</string>
   <string name="bugreport_dialog_not_show_again">Ne prikazuj ponovno</string>
-  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Sada spremate zapise softvera na ovaj uređaj. Zapisi mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Nemojte dijeliti zapise s drugima ako ne želite da ti podaci budu izloženi. Odabirom \"Prihvaćam\" znači da ste pročitali i prihvaćate naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički uovor&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="bugreport_dialog_submit_content"><Data>"Sada spremate zapise softvera na ovaj uređaj. Zapisi mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Nemojte dijeliti zapise s drugima ako ne želite da ti podaci budu izloženi. Odabirom \"Prihvaćam\" znači da ste pročitali i prihvaćate naše &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> i &lt;a href=\"%2$s\">Korisnički uovor&lt;/a>."</Data></string>
   <string name="bugreport_dump_complete_notification_summary">Dodirni za prikaz.</string>
   <string name="bugreport_dump_complete_notification_title">Izvješće grešaka napravljeno</string>
   <string name="bugreport_dump_start_notification_summary">Ovo može potrajati nekoliko minuta.</string>
@@ -180,13 +180,20 @@
   <string name="cta_confirm">U redu</string>
   <string name="cta_dialog_content">Ovoj je aplikaciji potrebno povezivanje s internetom za normalan rad.</string>
   <string name="cta_dialog_title">Internet povezivanje</string>
-  <string name="cta_message">&lt;Data&gt;Da bi mogla normalno raditi, Povratne informacije se mora spojiti na internet. Ova aplikacija također može zatražiti dopuštenje za pristup vašoj lokaciji. Pročitajte i prihvatite naša &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="cta_message"><Data>Da bi mogla normalno raditi, aplikacija se mora povezati na internet. Ova aplikacija također može zatražiti dopuštenje za pristup vašoj lokaciji. Pročitajte i prihvatite naša&lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> i &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> prije nego nastavite.</Data></string>
   <string name="cta_not_show_again">Ne prikazuj ponovno</string>
   <string name="customer_service_apply">Zahtjev službi za korisnike</string>
   <string name="customer_service_complain">Prijavi službi za korisnike</string>
   <string name="customer_service_station">Lokacije usluge</string>
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
   <string name="description">Opišite problem</string>
+  <string name="device_header">"%1$d. Svi uređaji moraju biti prijavljeni na isti Xiaomi račun.
+%2$d. Uređaji moraju biti povezani na Wi-Fi ili koristiti mobilne podatke."</string>
+  <string name="device_header_china">"%1$d. Svi uređaji moraju biti prijavljeni na isti Xiaomi račun.
+%2$d. Uređaji moraju biti povezani na Wi-Fi ili koristiti mobilne podatke."</string>
+  <string name="device_not_found">Nema povezanih uređaja</string>
+  <string name="device_not_found_tips">Provjerite jesu li drugi uređaji prijavljeni na vaš Xiaomi račun</string>
+  <string name="device_tips">Odabir povezanih uređaja pomoći će nam da brže analiziramo problem. Možete prenijeti zapisnike i s ovog uređaja i s odabranih uređaja.</string>
   <string name="diagnosis_log_send_failed">"Ne mogu poslati zapise. Pokušajte ponovo."</string>
   <string name="diagnosis_log_sent_format">"Zapisi su uspješno poslani.
 ID:%s
@@ -248,8 +255,10 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="feedback_answer_detail_submit_dialog_content">"Možete opisati problem s kojim ste se susreli i pokušat ćemo ga riješiti. Poslati povratne informacije?"</string>
   <string name="feedback_answer_detail_submit_dialog_title">Poslati povratne informacije?</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s problem \"%2$s\"</string>
-  <string name="feedback_choose_app_tag">Odaberi problem</string>
-  <string name="feedback_choose_module">Odaberi stavku</string>
+  <string name="feedback_choose_app_tag">Odaberite problem</string>
+  <string name="feedback_choose_device">Odaberite uređaj</string>
+  <string name="feedback_choose_device_hint">"Niste odabrali nijedan uređaj"</string>
+  <string name="feedback_choose_module">Odaberite stavku</string>
   <string name="feedback_choose_module_hint">Zahtijeva</string>
   <string name="feedback_choose_occurrence_time">Vrijeme</string>
   <string name="feedback_choose_reproductivity">Reproduktivnost</string>
@@ -945,9 +954,9 @@ Pročitajte i prihvatite novu verziju %3$s prije nego što nastavite."</string>
   <string name="special_log_recorder_hint">Automatsko spremanje snimke zaslona nakon generiranja zapisa</string>
   <string name="submit_dialog_cancel">Ne prihvaćam</string>
   <string name="submit_dialog_confirm">Prihvaćam</string>
-  <string name="submit_dialog_content">&lt;Data&gt;"Pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; prije slanja povratnih informacija. Problemi koje prijavite zajedno sa stavkama koje priložite (uključujući zapise koji mogu sadržavati osobne podatke, kao i informacije o vašem uređaju i mreži) bit će učitani na MIUI poslužitelje. To će nam pomoći da lociramo i riješimo probleme koje prijavljujete. Ako prijavite probleme povezane s više uređaja, također će se učitati dnevnici s drugih uređaja na kojima se koristi vaš Xiaomi račun."&lt;/Data&gt;</string>
-  <string name="submit_dialog_content_global">&lt;Data&gt;"Vaše povratne informacije, zajedno s privitcima (ako ih ima) i dnevnicima (možete poništiti odgovarajuće okvire za stavke koje ne želite poslati) bit će poslane na naše poslužitelje. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Prihvaćam\" znači da ste pročitali i privatili naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="submit_dialog_content_global_with_contactinfo">&lt;Data&gt;"Vaše povratne informacije, zajedno s privitcima (ako ih ima) i dnevnicima (možete poništiti odgovarajuće okvire za stavke koje ne želite poslati) bit će poslane na naše poslužitelje. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Prihvaćam\" znači da ste pročitali i privatili naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content"><Data>Pročitajte i prihvatite naše &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> i &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> prije slanja povratnih informacija. Problemi koje prijavite zajedno sa stavkama koje priložite (uključujući zapise koji mogu sadržavati osobne podatke, kao i informacije o vašem uređaju i mreži) bit će učitani na naše poslužitelje. To će nam pomoći da lociramo i riješimo probleme koje prijavljujete. Ako prijavite probleme povezane s više uređaja, također će se učitati dnevnici s drugih uređaja na kojima se koristi vaš Xiaomi račun.</Data></string>
+  <string name="submit_dialog_content_global"><Data>"Vaše povratne informacije, zajedno s privitcima (ako ih ima) i dnevnicima (možete poništiti odgovarajuće okvire za stavke koje ne želite poslati) bit će poslane na naše poslužitelje. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Prihvaćam\" znači da ste pročitali i privatili naše &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> i &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a>."</Data></string>
+  <string name="submit_dialog_content_global_with_contactinfo"><Data>"Vaše povratne informacije, zajedno s privitcima (ako ih ima) i dnevnicima (možete poništiti odgovarajuće okvire za stavke koje ne želite poslati) bit će poslane na naše poslužitelje. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Prihvaćam\" znači da ste pročitali i privatili naše &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> i &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a>."</Data></string>
   <string name="submit_dialog_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="submit_dialog_title">Pošalji zapis o pogrešci</string>
   <string name="submit_feedback_info_failed">Ne mogu poslati zapis</string>
@@ -1068,14 +1077,19 @@ Size: %2$s"</string>
   <string name="withdraw_consent_failed_hint_connect_net">Vaš se uređaj mora povezati s mrežom da biste mogli povući suglasnost. Provjerite postavke mreže i pokušajte ponovno.</string>
   <string name="withdraw_consent_hint">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti %1$s. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima osim ako nije drugačije potrebno. Budući da %2$s pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga %3$s. Želite li sada povući suglasnost?"</string>
   <string name="withdrawing">Povlačenje suglasnosti…</string>
+  <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sada</string>
+  <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
+  <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezivanje aplikacije Preuzimanje nije uspjelo, provjerite stanje u Upravljanju aplikacijama.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verziju %1$s
 Veličina: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verziju %1$s
 Veličina Delta ažuriranja: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s ažuriranje!</string>
+  <string name="xiaomi_update_sdk_dialog_title">Dostupno je ažuriranje!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Pohrana nije dostupna, provjerite SD karticu.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_sdk_update_dialog_cancel">Ne sada</string>
+  <string name="xiaomi_update_sdk_update_dialog_ok">Ažuriraj</string>
   <string name="yesterday">Jučer</string>
 </resources>

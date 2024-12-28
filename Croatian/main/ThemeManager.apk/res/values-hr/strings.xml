@@ -83,7 +83,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ai_apply_wallpaper">Primjeni</string>
   <string name="ai_cannot_scrolling_with_the_screen">"Nije moguće uključiti pomicanje za ovu pozadinu"</string>
   <string name="ai_delete_wallpaper">Izađi</string>
-  <string formatted="false" name="ai_estimated_two_three_minutes">To će trajati %1d–%2d min.</string>
+  <string formatted="false" name="ai_estimated_two_three_minutes">To će trajati %d–%d min.</string>
   <string name="ai_generate">Generirano sa AI</string>
   <string name="ai_generate_action">Generiraj</string>
   <string name="ai_generate_background">Završi u pozadini</string>
@@ -95,6 +95,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ai_generate_text">Generiraj dinamičku pozadinu</string>
   <string name="ai_generate_title">Generirati dinamičku pozadinu?</string>
   <string name="ai_generate_verify_text">Provjera sadržaja slike…</string>
+  <string name="ai_generate_waiting">Poslužitelj je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="ai_generate_wallpaper_done">Uspješno generirana AI dinamička pozadina</string>
   <string name="ai_generate_wallpaper_fail">"Nije moguće generirati AI dinamičku pozadinu"</string>
   <string name="ai_generate_wallpaper_fail_message">Fotografije koje ste odabrali možda su prekršile naše smjernice. Odaberitete nove fotografije.</string>

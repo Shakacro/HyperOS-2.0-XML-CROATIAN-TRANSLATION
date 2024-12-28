@@ -9695,7 +9695,12 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="photography_handle_charge_protected_summary">"Kada vaš uređaj prepozna da koristite držač kamere, uređaj će se prestati puniti i zadržati bateriju na %1$s"</string>
   <string name="photography_handle_charge_settings">Postavke punjenja</string>
   <string name="photography_handle_charge_state">Punjenje iz držača fotoaparata</string>
+  <string name="photography_handle_charge_state_choice_always">Uvijek</string>
+  <string name="photography_handle_charge_state_choice_emergency">Hitno</string>
   <string name="photography_handle_charge_state_summary">"Punite ovaj uređaj s držača fotoaparata kad god su povezani"</string>
+  <string name="photography_handle_charge_state_summary_new">Počnite puniti ovaj uređaj s držača kamere nakon povezivanja</string>
+  <string name="photography_handle_emergency_charge_summary">Pokreni hitno punjenje kada baterija padne ispod %1$s</string>
+  <string name="photography_handle_emergency_charge_title">Razina punjenja za hitne slučajeve</string>
   <string name="photography_handle_function_settings">Postavke držača kamere</string>
   <string name="photography_handle_launch_and_take_photo">Snimi fotografiju</string>
   <string name="photography_handle_launch_camera">Otvori kameru</string>

@@ -543,6 +543,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="operator_unicom_agreement">Usluge potvrde koje pruža China Unicom</string>
   <string name="optional_permissions">Neobavezna dopuštenja</string>
   <string name="page_load_failed">"Ne mogu otvoriti stranicu"</string>
+  <string name="pasport_register_dialog_message">Želite li sada kreirati Xiaomi račun putem svog telefonskog broja %s?</string>
   <string name="passport_Resend">Pošalji ponovno</string>
   <string name="passport_access_denied">Pristup odbijen</string>
   <string name="passport_account_crop_user_avatar">Obreži fotografiju</string>
@@ -775,7 +776,6 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_reg_success">račun izrađen</string>
   <string name="passport_reg_success_summary">%1$s je povezan s vašim Xiaomi računom. Možete ga koristiti za prijavu ili za resetiranje vaše zaporke.</string>
   <string name="passport_reg_type_email">Adresa e-pošte</string>
-  <string name="passport_reg_using_other_phone">&lt;u&gt;Koristi alternativan broj telefona&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Izradite novi račun koristeći "</string>
   <string name="passport_reg_using_phone_number_prompt">Izradite račun koristeći broj telefona</string>
   <string name="passport_reg_via_sms_alert">Odlazna SMS poruka može biti potrebna za aktiviranje ove usluge. Vaš mobilni operater će vam naplatiti tu poruku.</string>
@@ -786,6 +786,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_register_by_email"><u>Izradi račun koristeći adresu e-pošte</u></string>
   <string name="passport_register_by_local_phone_long_text">Izradi račun</string>
   <string name="passport_register_by_local_phone_short_text">Izradi račun</string>
+  <string name="passport_register_dialog_positive">Izradi</string>
+  <string name="passport_register_dialog_title">Izradi Xiaomi račun</string>
   <string name="passport_register_restricted">Previše je računa povezanih s ovim brojem, pokušajte s drugim</string>
   <string name="passport_register_restricted_title">"Ne mogu koristiti ovaj broj telefona"</string>
   <string name="passport_register_using_other_ways">Ostali načini registriranja</string>

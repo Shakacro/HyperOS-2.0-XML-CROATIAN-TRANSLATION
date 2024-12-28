@@ -40,7 +40,7 @@
   <string name="call_notification_incoming_text">Dolazni poziv</string>
   <string name="call_notification_ongoing_text">Poziv u tijeku</string>
   <string name="call_notification_screening_text">Provjera dolaznog poziva</string>
-  <string name="clear_clipboard_data_confirm">Ibrisati sav sadržaj međuspremnika?</string>
+  <string name="clear_clipboard_data_confirm">Izbrisati sav sadržaj međuspremnika?</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clipboard_sync_phrase_cta_description">Možete koristiti međuspremnik i česte fraze za dodavanje uobičajenih fraza, kopiranje više stavki i njihovo lijepljenje na više uređaja.</string>
   <string name="clipboard_sync_phrase_cta_label">Međuspremnik i česte fraze</string>
@@ -79,7 +79,8 @@
   <string name="input_method_clipboard_move_cursor_guide2">Pomičite prst vodoravno</string>
   <string name="input_method_clipboard_participle">Odvojene riječi</string>
   <string name="input_method_clipboard_settings_button">Postavke</string>
-  <string name="input_method_clipboard_tips">Kopirane stavke bit će izbrisane iz međuspremnika nakon 48 sati</string>
+  <string name="input_method_clipboard_tips">Kopirani sadržaj bit će automatski izbrisan za %d sati</string>
+  <string name="input_method_empty_text">Kopirane stavke mogu se vidjeti i zalijepiti ovdje</string>
   <string name="input_method_edit_phrase_text">Uredite česte fraze</string>
   <string name="input_method_function_clipboard">Međuspremnik i česte fraze</string>
   <string name="input_method_function_clipboard_des">Dodirnite za prikaz sadržaja međuspremnika i čestih frazi</string>

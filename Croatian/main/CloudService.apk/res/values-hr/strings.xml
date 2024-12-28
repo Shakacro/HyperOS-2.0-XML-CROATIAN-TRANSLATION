@@ -253,13 +253,15 @@
   <string name="find_device">Pronađi uređaj</string>
   <string name="find_device_dspt_provision">"Ako izgubite svoj uređaj, možete ići na &lt;font color=#0097FF&gt;%s&lt;/font&gt; kako biste ga locirali, zaključali ili poništili.
  Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
-  <string name="find_device_gdpr_prompt">"Uključivanjem značajke Pronađi uređaj, prihvaćate naša "<u><a href="app://com.miui.cloudservice.gdpr.license">Pravila o privatnosti</a></u>. Isključite ovu značajku ako želite povući svoju suglasnost.</string>
+  <string name="find_device_gdpr_prompt">"BUključivanjem značajke Pronađi uređaj, prihvaćate naša "<a href="app://com.miui.cloudservice.gdpr.license"><u>Pravila o privatnosti</u></a>. Isključite ovu značajku ako želite povući svoju suglasnost.</string>
   <string name="find_device_operation_failure_rpc">"Nije moguće izvršiti radnju zbog RPC pogreške."</string>
   <string name="find_device_permissions_footer">"Dodirnite \"Odobri\" da biste dodijelili dopuštenja koja ste odabrali."</string>
   <string name="find_device_permissions_header">"Dobro došli u Pronađi uređaj! Ovu aplikaciju možete koristiti za lociranje, praćenje i zaključavanje svog uređaja ako ga izgubite. Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje. Za normalan rad ova aplikacija zahtijeva sljedeća dopuštenja:"</string>
+  <string name="find_device_permissions_header_without_offline_find">"Uz Pronađi uređaj možete locirati, pratiti i zaključati svoj uređaj ako ga izgubite. Ova aplikacija zahtijeva sljedeća dopuštenja za normalan rad:"</string>
   <string name="find_device_service_title">Pronađi uređaj</string>
   <string name="find_device_status_summary">"Uključite da biste locirali i pratili svoj uređaj ili daljinski izbrisali njegove podatke.
 Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje."</string>
+  <string name="find_device_status_summary_without_offline_find">Uključite za lociranje i praćenje svog uređaja ili daljinsko brisanje njegovih podataka</string>
   <string name="find_device_status_title_pad">Pronađi uređaj</string>
   <string name="find_device_status_title_phone">Pronađi uređaj</string>
   <string name="find_permission_location_summary">Za lociranje ovog uređaja</string>
@@ -719,7 +721,9 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_and_agreement">Uvjeti i odredbe</string>
   <string name="privacy_dialog_finddevice_all_purpose_pad">"Dobro došli u Pronađi uređaj! Ovu aplikaciju možete koristiti za lociranje, praćenje i zaključavanje svog uređaja ako ga izgubite. Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje."</string>
+  <string name="privacy_dialog_finddevice_all_purpose_pad_without_offline_find">"Možete koristiti Pronađi uređaj za lociranje, zaključavanje ili brisanje podataka na svom uređaju ako ga izgubite."</string>
   <string name="privacy_dialog_finddevice_all_purpose_phone">"Dobro došli u Pronađi uređaj! Ovu aplikaciju možete koristiti za lociranje, praćenje i zaključavanje svog uređaja kada ga izgubite. Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje."</string>
+  <string name="privacy_dialog_finddevice_all_purpose_phone_without_offline_find">"Možete koristiti Pronađi uređaj za lociranje, zaključavanje ili brisanje podataka na svom uređaju ako ga izgubite."</string>
   <string name="privacy_dialog_sync_all_purpose_china">Dobrodošli u usluge Xiaomi Cloud! Možete koristiti Xiaomi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki Wi-Fi-ja, snimaka, izgleda Poč. zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima.</string>
   <string name="privacy_dialog_sync_all_purpose_china_v2">Dobrodošli u usluge Xiaomi Cloud! Možete koristiti Xiaomi Cloud za sinkronizaciju poruka, povijesti poziva, kontakata, bilješki, postavki preglednika, pjesama, fotografija i videozapisa, postavki Wi-Fi-ja, snimaka, izgleda Poč. zaslona, aplikacija, kalendarskih događaja, stavki Liste blokiranih i Zaklj. aplikacija na svim povezanim uređajima.</string>
   <string name="privacy_dialog_sync_all_purpose_pad">Dobrodošli u usluge Xiaomi Cloud! Možete koristiti Xiaomi Cloud za sinkronizaciju poruka, kontakata, bilješki, postavki preglednika, fotografija i videozapisa, snimki, kalendarskih događaja i stavki popisa blokiranih na svim povezanim uređajima.</string>
@@ -871,7 +875,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="share_sdk_pref_category_search_local_title">Kontakti</string>
   <string name="share_sdk_pref_category_title_scan_qr_code">Skeniraj QR kod</string>
   <string name="share_sdk_pref_family_detail_title">Pogledajte detalje obiteljske grupe</string>
-  <string name="share_sdk_privacy_link_description">Pročitajte i prihvatite &lt;u&gt;&lt;a href="https://account.xiaomi.com/about/protocol/privacy"&gt;Pravila o privatnosti Xiaomi ra&amp;#269;una&lt;/a&gt;&lt;/u&gt; prije kori&amp;#353;tenja ove usluge.</string>
+  <string name="share_sdk_privacy_link_description">Pročitajte i prihvatite <a href="https://account.xiaomi.com/about/protocol/privacy"><u>Pravila o privatnosti Xiaomi računa</u></a> prije korištenja ove usluge.</string>
   <string name="share_sdk_qr_code_description">"Pozivnica od %1$s"</string>
   <string name="share_sdk_qr_code_expire_time">Rok valjanosti QR koda: %1$s</string>
   <string name="share_sdk_resend_invitation_times_exceed">Previše odlaznih pozivnica. Pokušajte ponovo za 24 sata.</string>

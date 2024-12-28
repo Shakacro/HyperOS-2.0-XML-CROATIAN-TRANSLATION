@@ -408,6 +408,7 @@ Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth p
   <string name="quick_settings_batterysaver_label">Štednja baterije</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Nema dostupnih uparenih uređaja</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
+  <string name="quick_settings_camera_grip_charge">Punjenje putem držača</string>
   <string name="quick_settings_cellular_detail_dialog_message_turnoff">"Mobilni podaci (WCDMA/LTE) bit će isključeni. Osim ako koristite Wi-Fi, više nećete moći koristiti aplikacije koje zahtijevaju podatkovnu vezu. Slanje ili primanje multimedijskih poruka bit će ograničeno."</string>
   <string name="quick_settings_cellular_detail_dialog_message_turnon">Mobilni podaci bit će uključeni. Povezivanje s mobilnim mrežama može dovesti do dodatnih troškova ovisno o vašem planu plaćanja.</string>
   <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Odustani</string>

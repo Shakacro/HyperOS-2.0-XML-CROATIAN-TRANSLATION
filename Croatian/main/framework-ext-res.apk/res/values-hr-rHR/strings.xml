@@ -131,7 +131,7 @@
   <string name="description_title">Bešumno</string>
   <string name="device_status_failed">"Ne mogu poslati"</string>
   <string name="device_status_sending">Slanje…</string>
-  <string name="device_status_success">Uspješno poslano</string>
+  <string name="device_status_success">Poslano</string>
   <string name="device_status_waiting">Na čekanju…</string>
   <string name="device_type_pc">Računalo</string>
   <string name="dewdrops">Jutarnja rosa</string>
@@ -220,6 +220,8 @@
   <string name="global_actions_shutdown">"Isključi"</string>
   <string name="global_actions_silent_mode">"Bešumno"</string>
   <string name="global_help">"Ne mogu pronaći uređaj"</string>
+  <string name="global_my">"Moj uređaj
+%1$s"</string>
   <string name="global_pad">Moj tablet</string>
   <string name="global_pc">Moje prijenosno računalo</string>
   <string name="global_phone">Moj telefon</string>
