@@ -284,6 +284,7 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="copy_to_sdcard">Spremi privitak</string>
   <string name="copy_to_sdcard_fail">Ne mogu spremiti privitak</string>
   <string name="copy_to_sdcard_success">Privitak spremljen kao %s</string>
+  <string name="copy_toast_msg">Poveznica je kopirana u međuspremnik</string>
   <string name="copy_verification_code_tip">Uspješno kopirano</string>
   <string name="current_data_version">Verzija Mi Poruka</string>
   <string name="date">Datum</string>
@@ -437,6 +438,9 @@ Napominjemo da je značajka internet poruka od sada obustavljena do daljnjeg. To
   <string name="expiry_time">Vrijedi do</string>
   <string name="exporting_progress_private_message">Izvoz poruka iz privatnog sandučića</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
+  <string name="fallback_menu_item_copy_link">Kopiraj poveznicu</string>
+  <string name="fallback_menu_item_open_in_browser">Otvori u pregledniku</string>
+  <string name="fallback_menu_item_share_link">Podijeli poveznicu</string>
   <string name="fail_to_add_attachment">"Ne mogu dodati privitak"</string>
   <string name="fail_to_add_image">"Nije moguće pristupiti kopiranim stavkama"</string>
   <string name="fail_to_view_attachment">"Privitak nije dostupan"</string>

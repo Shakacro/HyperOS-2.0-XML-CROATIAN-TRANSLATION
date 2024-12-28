@@ -84,6 +84,7 @@
   <string name="get_credential_msg_single_password">Prijavite se sada na %2$s sa zaporkom \"%1$s\" (lozinka)?</string>
   <string name="get_credential_title">Prijavite se putem šifre</string>
   <string name="get_dialog_button_label_continue">Nastavi</string>
+  <string name="get_dialog_description_single_tap">Upotrijebite zaključavanje zaslona da biste se prijavili u aplikaciju %1$s korisničkim imenom %2$s</string>
   <string name="get_dialog_heading_for_username">Za %1$s</string>
   <string name="get_dialog_heading_from_another_device">S drugog uređaja</string>
   <string name="get_dialog_heading_locked_password_managers">Upravitelji zaključanih zaporki</string>
@@ -149,6 +150,7 @@
   <string name="m3c_dialog">Dijaloški okvir</string>
   <string name="m3c_dropdown_menu_collapsed">Sažeto</string>
   <string name="m3c_dropdown_menu_expanded">Prošireno</string>
+  <string name="m3c_dropdown_menu_toggle">Prečac za padajući izbornik</string>
   <string name="m3c_search_bar_search">Pretraživanje</string>
   <string name="m3c_snackbar_dismiss">Odbaci</string>
   <string name="m3c_suggestions_available">Prijedlozi su u nastavku</string>
@@ -164,6 +166,7 @@
   <string name="m3c_time_picker_period_toggle_description">Odaberite prijepodne ili poslijepodne</string>
   <string name="m3c_time_picker_pm">Poslijepodne</string>
   <string name="m3c_tooltip_long_press_label">Prikaži opis</string>
+  <string name="m3c_tooltip_pane_description">Opis</string>
   <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
   <string name="material_hour_24h_suffix">%1$s sati</string>
   <string name="material_hour_selection">Odaberite sat</string>
@@ -208,7 +211,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ne može učitati stavke</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
-  <string name="monday_shortest">Pon</string>
+  <string name="monday_shortest">P</string>
   <string name="month_april">Travanj</string>
   <string name="month_april_short">Tra</string>
   <string name="month_april_shortest">Tra</string>
@@ -302,6 +305,7 @@
   <string name="no_sign_in_info_in">Nema podataka za prijavu u %1$s</string>
   <string name="not_selected">Nije odabrano</string>
   <string name="other_password_manager">Ostali upravitelji zaporki</string>
+  <string name="passkey">Pristupni ključ</string>
   <string name="passkey_before_subtitle">Zaporka</string>
   <string name="passkey_creation_intro_body_device">Spremljene su u upravitelju zaporki, tako da se možete prijaviti na drugim uređajima</string>
   <string name="passkey_creation_intro_body_fingerprint">Zaporke su šifrirani digitalni ključevi koje stvarate pomoću otiska prsta, lica ili zaključavanja zaslona</string>
@@ -322,7 +326,7 @@
   <string name="request_cancelled_by">%1$s otkazao zahtjev</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
-  <string name="saturday_shortest">Sub</string>
+  <string name="saturday_shortest">S</string>
   <string name="save_credential_to_title">Spremi %1$s u</string>
   <string name="save_password_on_other_device_title">Spremiti zaporku na drugi uređaj?</string>
   <string name="save_sign_in_on_other_device_title">Spremiti prijavu na drugi uređaj?</string>
@@ -336,6 +340,8 @@
   <string name="set_as_default">Postavi kao zadano</string>
   <string name="settings">Postavke</string>
   <string name="side_sheet_accessibility_pane_title">Bočna stranica</string>
+  <string name="sign_in_info">Informacije o prijavi</string>
+  <string name="sign_ins">Prijave</string>
   <string name="snackbar_action">Više opcija</string>
   <string name="state_off">Isključeno</string>
   <string name="state_on">Uključeno</string>
@@ -346,20 +352,23 @@
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">Ned</string>
+  <string name="state_empty">Prazno</string>
   <string name="switch_role">Prekidač</string>
   <string name="tab">Kartica</string>
   <string name="template_percent">%1$d posto.</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
-  <string name="thursday_shortest">Čet</string>
+  <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Postavite vrijeme</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
+  <string name="tooltip_description">Opis</string>
+  <string name="tooltip_label">Prikaži opis</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
-  <string name="tuesday_shortest">Uto</string>
+  <string name="tuesday_shortest">U</string>
   <string name="unpin_specific_target">Otkvači sudionika %1$s</string>
   <string name="usb_device_resolve_prompt_warn">Ta aplikacija nema dopuštenje za snimanje, no mogla bi primati zvuk putem ovog USB uređaja.</string>
   <string name="use_a_different_app">Upotrijebite neku drugu aplikaciju</string>
@@ -368,6 +377,6 @@
   <string name="use_provider_for_all_title">Koristiti %1$s za sve vaše prijave?</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
-  <string name="wednesday_shortest">Sri</string>
+  <string name="wednesday_shortest">S</string>
   <string name="yesterday">Jučer</string>
 </resources>

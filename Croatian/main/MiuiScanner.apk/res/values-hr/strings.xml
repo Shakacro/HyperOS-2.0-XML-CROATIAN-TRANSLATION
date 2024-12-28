@@ -54,12 +54,16 @@
   <string name="app_description_title">O Skeneru</string>
   <string name="app_details">Aplik:</string>
   <string name="app_name">Skener</string>
+  <string name="app_remove_icon_description_content">Skener je aplikacija sustava. Čak i nakon što uklonite prečac početnog zaslona, moći ćete ga pronaći u Postavkama ili skenirati kodove koristeći Kameru, Preglednik i Mi Novčanik.</string>
+  <string name="app_remove_icon_description_title">Ukloniti \"Skener\" sa Početnog zaslona?</string>
   <string name="auracast_code_title_key">Slušajte prijenos od %s</string>
   <string name="back">Natrag</string>
   <string name="barcode_into_rectangle">Poravnajte kod unutar okvira da skenirate</string>
   <string name="birthday">Rođendan:</string>
   <string name="black_and_white">B&amp;W</string>
   <string name="blog">Weibo</string>
+  <string name="btn_add_schedule">Dodaj događaj</string>
+  <string name="btn_send_email">Pošalji e-poštu</string>
   <string name="btn_send_message">Pošalji SMS</string>
   <string name="business_card">Posjetnica</string>
   <string name="business_card_title">Stavite posjetnicu unutar okvira</string>
@@ -69,6 +73,8 @@
   <string name="business_no_result">"Ne mogu prepoznati posjetnicu. Pokušajte ponovo."</string>
   <string name="button_revoke_privacy_consent">Povlačenje suglasnosti</string>
   <string name="calender">Kalendar</string>
+  <string name="camera_string">Kamera</string>
+  <string name="camera_use">Za korištenje kamere</string>
   <string name="call_anyone">Poziv</string>
   <string name="call_phone_permissions_text">Odobrite pristup dopuštenjima poziva kako biste mogli koristiti Skener. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="calories_logo_text">AI podršku pruža Health Hope</string>
@@ -152,6 +158,7 @@
   <string name="continue_video">Skeniraj</string>
   <string name="continue_waiting">Nastavi čekati</string>
   <string name="copy">Kopiraj</string>
+  <string name="copy_web_url">Kopiraj poveznicu</string>
   <string name="copy_text">Kopiraj tekst</string>
   <string name="copy_text_fail">Kopiranje nije uspjelo, otvorite dopuštenje međuspremnika</string>
   <string name="copy_text_faile">"Nije moguće kopirati. Prvo dopustite skeneru da pristupi međuspremniku."</string>
@@ -173,6 +180,7 @@
   <string name="cropping">Obrezivanje…</string>
   <string name="current_word_is_locked">Trenutna je riječ zaključana</string>
   <string name="customer_service_call">Dežurna linija korisničke službe</string>
+  <string name="cta_purpose">Skener treba koristiti vašu kameru i obraditi slike koje snimite tijekom korištenja aplikacije. Ne koristite Skener za fotografiranje predmeta koji sadrže vaše osobne podatke. Dodirom na \"Prihvaćam\", prihvaćate naša Pravila o privatnosti i dopuštate Skeneru da se poveže s internetom.</string>
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
   <string name="default_missing">Nedostaje zadana aplikacija za plaćanje, odaberite ponovo</string>
   <string name="delete">Izbriši</string>
@@ -194,6 +202,7 @@
   <string name="document_ocr_fail_no_text">"Ne mogu prepoznati tekst. Odaberite ponovo i počnite ispočetka."</string>
   <string name="document_ocr_result_copy">Kopiraj tekst</string>
   <string name="document_ocr_result_save">Spremi u Bilješke</string>
+  <string name="document_ocr_result_title">Fotografija dokumenta</string>
   <string name="document_ocr_tip_msg">Čitanje…</string>
   <string name="document_read">Pročitaj</string>
   <string name="document_recognize_fail_tip">"Nije moguće pročitati dokument"</string>
@@ -225,9 +234,7 @@
   <string name="editor_form">Uredi</string>
   <string name="email">E-pošta:</string>
   <string name="email_message">Tijelo</string>
-    <string name="empty" />
-    <string name="eras_ad">CE</string>
-    <string name="eras_bc">BCE</string>
+  <string name="email_sub">Predmet</string>
   <string name="error_camera_disabled">Pristup kameri je odbijen zbog sigurnosnih razloga</string>
   <string name="error_cannot_connect_camera">"Ne mogu se povezati s kamerom"</string>
   <string name="error_empty_result">"Nisam mogao pronaći rezultate"</string>
@@ -236,6 +243,8 @@
   <string name="error_not_found_activity">Nije pronađena aplikacija za otvaranje u PDF formatu</string>
   <string name="error_not_found_excel_activity">"Nije moguće pronaći aplikaciju za otvaranje Excel datoteka"</string>
   <string name="error_permissions">"Skener nema dopuštenja potrebna za normalan rad. Idite na Postavke i provjerite dopuštenja za nastavak."</string>
+  <string name="error_permissions_location">Dopustite ovoj aplikaciji pristup preciznoj lokaciji kako bi mogla normalno raditi</string>
+  <string name="error_permissions_storage">Dopustite pristup svojim fotografijama da biste mogli koristiti ovu značajku</string>
   <string name="error_server_error">Došlo je do pogreške poslužitelja.</string>
   <string name="examples_form_guide">Kako skenirati tablice</string>
   <string name="examples_text_guide">Kako skenirati tekst</string>
@@ -501,7 +510,8 @@
   <string name="online_ocr_recognition_str">Već ste prešli na mrežno prevođenje</string>
   <string name="online_translation">Online prevođenje</string>
   <string name="open_file_error">"Ne mogu otvoriti datoteku"</string>
-  <string name="open_url">Otvori URL</string>
+  <string name="open_url">Otvori poveznicu</string>
+  <string name="open_web_url">Otvori u Pregledniku</string>
   <string name="original_image">Original</string>
   <string name="page_does_not_exist">Stranica ne postoji, ne mogu preskočiti</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>

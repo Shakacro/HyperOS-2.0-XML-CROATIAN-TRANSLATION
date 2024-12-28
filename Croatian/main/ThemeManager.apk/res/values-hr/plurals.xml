@@ -2,32 +2,48 @@
 <resources>
     <plurals name="a_hour_ago">
         <item quantity="other">prije 1 sat</item>
+        <item quantity="one">prije 1 sat</item>
+        <item quantity="few">prije 1 sat</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">prije 1 sat</item>
+        <item quantity="other">prije %d sati</item>
+        <item quantity="one">prije %d sat</item>
+        <item quantity="few">prije %d sata</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Prije pola sata</item>
+        <item quantity="one">Prije pola sata</item>
+        <item quantity="few">Prije pola sata</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">Za %d sat</item>
+        <item quantity="one">Za %d sat</item>
+        <item quantity="few">Za %d sata</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Za pola sata</item>
+        <item quantity="one">Za pola sata</item>
+        <item quantity="few">Za pola sata</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Odmah</item>
+        <item quantity="one">Odmah</item>
+        <item quantity="few">Odmah</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Za %d min</item>
         <item quantity="one">Za %d min</item>
+        <item quantity="few">Za %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Upravo sada</item>
+        <item quantity="one">Upravo sada</item>
+        <item quantity="few">Upravo sada</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije %d min</item>
+	<item quantity="few">prije %d min</item>
     </plurals>
     <plurals name="anonymous_resource_count_aod">
         <item quantity="other">%1$d AOD tema</item>
@@ -109,12 +125,14 @@
         <item quantity="one">Prije %d min.</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Brzo naprijed %d sek.</item>
-        <item quantity="one">Brzo naprijed %d sek.</item>
+        <item quantity="other">Premotavanje unaprijed za %d sekundi</item>
+        <item quantity="one">Premotavanje unaprijed za %d sekundu</item>
+        <item quantity="few">Premotavanje unaprijed za %d sekunde</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
-        <item quantity="other">Unatrag %d sek.</item>
-        <item quantity="one">Unatrag  %d sek.</item>
+        <item quantity="other">Premotavanje unatrag za %d sekundi</item>
+        <item quantity="one">Premotavanje unatrag za %d sekundu</item>
+        <item quantity="few">Premotavanje unatrag za %d sekunde</item>
     </plurals>
     <plurals name="guide_used_number">
         <item quantity="other">Primjenjeno na %1$d uređaja</item>
@@ -122,6 +140,8 @@
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Prije pola sata</item>
+	<item quantity="one">Prije pola sata</item>
+        <item quantity="few">Prije pola sata</item>
     </plurals>
     <plurals name="icon_batch_has_update_text">
         <item quantity="other">Dostupna su ažuriranja za ikone: %1$d</item>
@@ -175,8 +195,18 @@
         <item quantity="other">%1$s mel. zvona</item>
         <item quantity="one">%1$s mel. zvona</item>
     </plurals>
+	 <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Razina baterije trenutno na %s posto</item>
+        <item quantity="one">Razina baterije trenutno na %s posto</item>
+        <item quantity="few">Razina baterije trenutno na %s posto</item>
+     </plurals>
+     <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Punjenje. Razina baterije trenutno na %d posto.</item>
+        <item quantity="one">Punjenje. Razina baterije trenutno na %d posto.</item>
+        <item quantity="few">Punjenje. Razina baterije trenutno na %d posto.</item>
+     </plurals>
     <plurals name="theme_batch_has_update_text">
-        <item quantity="other">Dostupna su ažuriranja za teme: %1$d</item>
+        <item quantity="other">Dostupna su ažuriranja za %1$d tema</item>
         <item quantity="one">Dostupno je ažuriranje za %1$d temu</item>
     </plurals>
     <plurals name="theme_designer_products_count">
@@ -184,7 +214,7 @@
         <item quantity="one">%1$s tema</item>
     </plurals>
     <plurals name="theme_update_local_resource_notifaction">
-        <item quantity="other">Dostupna su ažuriranja za teme: %1$d</item>
+        <item quantity="other">Dostupna su ažuriranja za %1$d tema</item>
         <item quantity="one">Dostupno je ažuriranje za %1$d temu</item>
     </plurals>
     <plurals name="transparent_wallpaper_filter_hint">
@@ -230,42 +260,52 @@
      <plurals name="health_chart_calories_burned_schedule_format_desc">
         <item quantity="other">Potrošeno %1$s kcal</item>
         <item quantity="one">Potrošena %1$s kcal</item>
+        <item quantity="few">Potrošeno %1$s kcal</item>
      </plurals>
      <plurals name="health_chart_calories_goal_schedule_format_desc">
         <item quantity="other">Cilj kalorija: %1$s kcal</item>
         <item quantity="one">Cilj kalorija: %1$s kcal</item>
+        <item quantity="few">Cilj kalorija: %1$s kcal</item>
      </plurals>
      <plurals name="health_chart_calories_schedule_format">
         <item quantity="other">%1$s/%2$s kcal</item>
         <item quantity="one">%1$s/%2$s kcal</item>
+        <item quantity="few">%1$s/%2$s kcal</item>
      </plurals>
      <plurals name="health_chart_sport_time_current_schedule_format_desc">
         <item quantity="other">Vrijeme aktivnosti: %1$s min</item>
         <item quantity="one">Vrijeme aktivnosti: %1$s min</item>
+        <item quantity="few">Vrijeme aktivnosti: %1$s min</item>
      </plurals>
      <plurals name="health_chart_sport_time_goal_schedule_format_desc">
         <item quantity="other">Cilj aktivnosti: %1$s min</item>
         <item quantity="one">Cilj aktivnosti: %1$s min</item>
+        <item quantity="few">Cilj aktivnosti: %1$s min</item>
      </plurals>
      <plurals name="health_chart_sport_time_schedule_format">
         <item quantity="other">%1$s/%2$s min</item>
         <item quantity="one">%1$s/%2$s min</item>
+        <item quantity="few">%1$s/%2$s min</item>
      </plurals>
      <plurals name="health_chart_stand_count_schedule_format_desc">
-        <item quantity="other">Ustao unutar %1$s sati</item>
-        <item quantity="one">Ustao unutar %1$s sata</item>
+        <item quantity="other">Ustali ste unutar %1$s sati</item>
+        <item quantity="one">Ustali ste unutar %1$s sata</item>
+        <item quantity="few">Ustali ste unutar %1$s sata</item>
      </plurals>
      <plurals name="health_chart_stand_goal_schedule_format_desc">
         <item quantity="other">Cilj stajanja: %1$s sati</item>
         <item quantity="one">Cilj stajanja: %1$s sat</item>
+        <item quantity="few">Cilj stajanja: %1$s sata</item>
      </plurals>
      <plurals name="health_chart_stand_schedule_format">
         <item quantity="other">%1$s/%2$s hrs</item>
         <item quantity="one">%1$s/%2$s hr</item>
+        <item quantity="few">%1$s/%2$s hr</item>
      </plurals>
      <plurals name="health_chart_step_count_current_schedule_format_desc">
-        <item quantity="other">Broj trenutnih koraka: %1$s </item>
-        <item quantity="one">Broj trenutnih koraka: %1$s </item>
+        <item quantity="other">Trenutni broj koraka: %1$s koraka</item>
+        <item quantity="one">Trenutni broj koraka: %1$s korak</item>
+        <item quantity="few">Trenutni broj koraka: %1$s koraka</item>
      </plurals>
      <plurals name="health_chart_step_count_goal_schedule_format_desc">
         <item quantity="other">Cilj koraka: %1$s koraka</item>
@@ -274,6 +314,7 @@
      <plurals name="health_chart_step_count_schedule_format">
         <item quantity="other">%1$s/%2$s koraka</item>
         <item quantity="one">%1$s/%2$s korak</item>
+        <item quantity="few">%1$s/%2$s koraka</item>
      </plurals>
      <plurals name="weather_temperature_desc">
         <item quantity="other">Temperatura: %1$s stupnjeva, %2$s</item>

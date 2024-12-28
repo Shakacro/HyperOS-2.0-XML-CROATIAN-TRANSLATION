@@ -1608,6 +1608,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="conversation_summary_new">Uljepšavanje, titlovi i druge značajke tijekom audio i video poziva</string>
   <string name="conversation_title">Konferencijski alati</string>
   <string name="copy">Kopiraj</string>
+  <string name="copy_toast_msg">Poveznica kopirana u međuspremnik</string>
   <string name="correction_attention_dialog_message">Podešavanje postavki u tijeku. Pričekajte dok se proces ne završi i pokušajte ponovno.</string>
   <string name="cpu_usage_android_system">Sustav Android</string>
   <string name="cpu_usage_app_bg_restrict_default">Autom. (preporučeno)</string>
@@ -2353,6 +2354,9 @@ volonter"</string>
   <string name="face_unlock_verity_dialog_summary">Provjerite podatke vašeg lica</string>
   <string name="face_unlock_verity_dialog_title_failed">"Ne mogu vas prepoznati"</string>
   <string name="face_unlock_verity_dialog_title_succeed">Uspješno provjereno</string>
+  <string name="fallback_menu_item_copy_link">Kopiraj poveznicu</string>
+  <string name="fallback_menu_item_open_in_browser">Otvori u pregledniku</string>
+  <string name="fallback_menu_item_share_link">Podijeli poveznicu</string>
   <string name="fcm_fallback_notification_channel_label">Razno</string>
   <string name="file_confirm_start_activity">"%s ne smije pristupiti vašoj galeriji i aplikacijama na društvenim mrežama. Ova aplikacija želi pristupiti datotekama pohranjenim na ovom uređaju za dijeljenje predmeta. Dopustiti?"</string>
   <string name="finger_or_face_unlock">Otključaj otiskom prsta ili licem</string>
@@ -2613,6 +2617,7 @@ Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine 
   <string name="game_toolbox_title">Alati za igre</string>
   <string name="game_toolbox_title_game_center">Igre</string>
   <string name="game_toolbox_title_wild">Ultimativni način</string>
+  <string name="game_toolbox_wild_mode_toast_global">Wild Boost je uključen</string>
   <string name="game_toolbox_wild_mode_toast_tip">Performanse uređaja značajno su poboljšane</string>
   <string name="game_toolbox_wild_mode_toast_title">Najbolji način rada je uključen</string>
   <string name="game_video_net_data">Mobilni podaci</string>
@@ -2734,6 +2739,7 @@ Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine 
   <string name="gb_smart_battery_surplus_new">%1$s %2$s preostalo</string>
   <string name="gb_smart_shake_description">Osjetljivost na male geste</string>
   <string name="gb_smotion_super_core_level_bar_desc">Osjetljivost</string>
+  <string name="gb_super_follow_up_msg">Poboljašajte reaktivnost na dodir i praćenje kroz povezanost hardvera i softvera</string>
   <string name="gb_voice_changer_dialog_upgrade_vip">Obnovite svoju pretplatu da biste mogli koristiti povratne informacije u stvarnom vremenu.</string>
   <string name="gb_voice_changer_free">Besplatno</string>
   <string name="gb_voice_changer_gender_female">Žena</string>
@@ -3205,6 +3211,7 @@ Pritisnite i držite indikator za pomicanje prozora."</string>
   <string name="gtb_dialog_hint_smart_5g">Možete uključiti i isključiti ovu značajku u Game Turbo &gt; Postavke.</string>
   <string name="gtb_dialog_privacy_speed_message">"Upravo ćete koristiti Xunyou Game Booster. Ova usluga će prikupiti ID vašeg Xiaomi računa kako bi zabilježila trajanje vašeg članstva."</string>
   <string name="gtb_dialog_privacy_speed_tips"><Data>"Pročitao sam i prihvaćam Xunyou Game Booster &lt;a href=\"%1$s\">Pravila o privatnosti.&lt;/a>"</Data></string>
+  <string name="gtb_dialog_privacy_speed_tips_new"><Data>Pročitao sam i prihvaćam Xunyou Game Booster &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>.</Data></string>
   <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
   <string name="gtb_dialog_privacy_voice_message">"Upravo ćete koristiti Xunyou Game Voice Changer. Ova usluga će prikupiti ID vašeg Xiaomi računa kako bi zabilježila trajanje vašeg članstva."</string>
   <string name="gtb_dialog_privacy_voice_tips"><Data>"Pročitao sam i prihvaćam Xunyou Game Voice Changer &lt;a href=\"%1$s\">Pravila o privatnosti.&lt;/a>"</Data></string>
@@ -6320,6 +6327,8 @@ Povući suglasnost sada?"</string>
   <string name="sp_button_text_ignore_alert_title">Ignorirati ovu stavku?</string>
   <string name="sp_device_security_title">Sigurnost uređaja</string>
   <string name="sp_empty_title_sign_exception">Držite aplikaciju da je dodate u iznimke</string>
+  <string name="sp_eew_summary">Upozorenje o nadolazećim potresima</string>
+  <string name="sp_eew_title">Upozorenje potresa</string>
   <string name="sp_family_guard_summary">Pružite pomoć na daljinu</string>
   <string name="sp_family_guard_title">Family Guard</string>
   <string name="sp_find_device_summary">Pronađite svoj uređaj na daljinu</string>
@@ -7669,6 +7678,7 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="vpn_disabled_by_user">Određena podatkovna veza je isključena</string>
   <string name="vpn_unbale_get_phonenum">"Ne mogu dobiti brojeve telefona pomoću određenih planova podataka"</string>
   <string name="vtb_ai_subtitle">Titlovi</string>
+  <string name="vtb_ai_subtitle_intl">Al Titlovi</string>
   <string name="vtb_func_desc">O ovoj značajci</string>
   <string name="vtb_func_display_style_desc0">AI može prepoznati ljude, životinje, biljke, nebo, zgrade i druge predmete koji se nalaze u videozapisima i dinamički ih poboljšati.</string>
   <string name="vtb_func_display_style_desc1">"Odabrani efekti neće se primijeniti na HDR videozapise na odabranim uređajima."</string>

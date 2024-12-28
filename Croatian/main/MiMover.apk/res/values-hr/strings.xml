@@ -540,6 +540,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="new_trans_intro_desc_new">"%1$d. Provjerite je li Mi Mover na vašem novom uređaju ažuriran. Najnoviju verziju Mi Movera možete preuzeti u GetApps ili dodirnite ovdje:%2$s
 %3$d. Ako se hotspot i dalje ne pojavljuje u Mi Moveru, otvorite Wi-Fi postavke i provjerite vidite li je tamo. Ako je tako, vratite se na Mi Mover i dodirnite naziv hotspota."</string>
   <string name="new_trans_intro_desc_new_click">Preuzimanje</string>
+  <string name="new_trans_intro_desc_old">%d. Ako se hotspot još uvijek nije pojavio u Mi Moveru, otvorite Wi-Fi postavke i provjerite vidite li hotspot. Ako ga vidite, vratite se u Mi Mover i dodirnite naziv hotspota.</string>
   <string name="new_trans_intro_question_1">%d. Zašto ne mogu vidjeti hotspot novog uređaja na starom uređaju?</string>
   <string name="new_trans_intro_question_2">%d. Koja je zaporka hotspota?</string>
   <string name="new_trans_intro_question_3">%d. Zašto mi aplikacija govori da na mom starom uređaju nema dovoljno prostora za pohranu?</string>
