@@ -193,6 +193,7 @@
   <string name="click_to_share">Dodirnite za dijeljenje</string>
   <string name="close">Zatvori</string>
   <string name="close_alarm">Isključi</string>
+  <string name="color">Boja %d</string>
   <string name="common_google_play_services_enable_button">Omogući usluge za Google Play</string>
   <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite Google Play usluge.</string>
   <string name="common_google_play_services_enable_title">Omogući usluge za Google Play</string>

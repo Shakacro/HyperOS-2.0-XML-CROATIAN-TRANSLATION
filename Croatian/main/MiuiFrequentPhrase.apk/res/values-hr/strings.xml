@@ -97,7 +97,6 @@
   <string name="input_method_function_voice_des">Dodirnite za korištenje glasovnog unosa</string>
   <string name="input_method_function_xiaoai">Mi AI Glasovni unos</string>
   <string name="input_method_function_xiaoai_des">Dodirnite za korištenje glasovnog unosa Mi AI</string>
-  <string name="input_method_empty_text">Kopirane stavke mogu se vidjeti i zalijepiti ovdje</string>
   <string name="input_method_no_content_text">Ovdje još nema stavki</string>
   <string name="input_method_phrase_edit">Uredi</string>
   <string name="input_method_phrase_no_content_text">Dodajte često korištene izraze kako biste ih brzo umetnuli prilikom uređivanja</string>

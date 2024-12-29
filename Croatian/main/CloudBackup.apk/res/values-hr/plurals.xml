@@ -43,6 +43,7 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije %d min</item>
+		  <item quantity="few">prije %d min</item>
     </plurals>
 	<plurals name="backup_action_long_time_not_auto_backup_content">
         <item quantity="other">"Niste sigurnosno kopirali svoje stavke %s tjedana. Dodirnite da vidite kako uključiti automatsko sigurnosno kopiranje."</item>

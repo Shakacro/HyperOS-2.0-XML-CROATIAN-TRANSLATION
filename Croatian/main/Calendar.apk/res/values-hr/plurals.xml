@@ -413,6 +413,7 @@
     <plurals name="today_has_num_event">
         <item quantity="other">%d događaja danas</item>
         <item quantity="one">%d događaj danas</item>
+		   <item quantity="few">%d događaja danas</item>
     </plurals>
 	  <plurals name="today_num_events">
         <item quantity="other">%d događaja</item>
@@ -444,11 +445,12 @@
     <plurals name="widget_countdown_day">
         <item quantity="other">%1$s dana</item>
         <item quantity="one">%1$s dan</item>
+		   <item quantity="few">%1$s dana</item>
     </plurals>
     <plurals name="widget_custom_unit_day">
         <item quantity="other">%d dana</item>
         <item quantity="one">%d dan</item>
-	<item quantity="few">%1$s dana</item>
+	     <item quantity="few">%1$s dana</item>
     </plurals>
     <plurals name="widget_normal_agenda_going_counts">
         <item quantity="other">%d događaja u tijeku</item>

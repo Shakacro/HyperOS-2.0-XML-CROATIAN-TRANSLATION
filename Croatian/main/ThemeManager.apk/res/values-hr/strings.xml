@@ -499,6 +499,7 @@ Dopustite Temama da pristupaju vašem ID-u Xiaomi računa i Mi Community statusi
   <string name="enable_transparent_wallpaper">Koristi transparentnu pozadinu</string>
   <string name="enabling_all_free_mode">Otkup…</string>
   <string name="enter_email_address_tips">Unesite adresu e-pošte</string>
+  <string name="error_a11y_label">Pogreška: nije važeće</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="events">Događaji</string>
   <string name="exchange_alert">Možete dobiti kodove tijekom naših događaja i iskoristiti ih ovdje</string>

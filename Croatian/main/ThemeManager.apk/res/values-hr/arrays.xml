@@ -7,4 +7,14 @@
         <item>Botanika</item>
         <item>Životinje</item>
     </string-array>
+	 <string-array name="kg_glass_filters">
+        <item>Original</item>
+        <item>Blur</item>
+        <item>Reeded</item>
+        <item>Rebrasto</item>
+        <item>Prizma</item>
+        <item>Utori</item>
+        <item>Valovi</item>
+        <item>Kvadrati</item>
+     </string-array>
 </resources>
