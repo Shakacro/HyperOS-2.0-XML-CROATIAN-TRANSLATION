@@ -108,6 +108,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ai_in_line">"Na redu ste…"</string>
   <string name="ai_inquire_apply_wallpaper">Primijeniti ovu pozadinu?</string>
   <string name="ai_moving_your_wallpaper">Pogledajte kako AI može oživjeti vaše pozadine</string>
+  <string name="ai_pic_unavailable_content">Provjerite je li predmet fotografije jasan i bez prepreka.</string>
+  <string name="ai_pic_unavailable_title">"Ova fotografija ne ispunjava zahtjeve za generiranje"</string>
   <string name="ai_read_the_privacy_policy">&lt;Data&gt;Pročitajte i prihvatite naš &lt;a href=\"%1$s\"&gt;Korisnički ugovor&lt;/a&gt; i &lt;a href=\"%2$s\ "&gt;Pravila o privatnosti&lt;/a&gt; prije nego nastavite.&lt;/Data&gt;</string>
   <string name="ai_read_the_privacy_policy_pad">&lt;Data&gt;Pročitajte i prihvatite naš &lt;a href=\"%1$s\"&gt;Korisnički ugovor&lt;/a&gt; i &lt;a href=\"%2$s\ "&gt;Pravila o privatnosti za pozadinu i personalizaciju&lt;/a&gt; prije nego nastavite.&lt;/Data&gt;</string>
   <string name="ai_select_again">Odaberite</string>
@@ -130,7 +132,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ai_wallpaper_i_know">Razumijem</string>
   <string name="ai_wallpaper_inside_invitation">Beta test AI dinamičkih pozadina</string>
   <string name="ai_wallpaper_inside_invitation_agree">Prihvaćam</string>
-  <string name="ai_wallpaper_inside_invitation_description">Ova značajka koristi velike mogućnosti modela za korištenje fotografija krajolika, gradova, biljaka i automobila za stvaranje dinamičnih video pozadina. Dodirnite \"Slažem se\" da isprobate!</string>
+  <string name="ai_wallpaper_inside_invitation_description">Ova značajka koristi velike mogućnosti modela za korištenje fotografija krajolika, gradova, biljaka i automobila za stvaranje dinamičnih video pozadina. Dodirnite \"Prihvaćam\" da isprobate!</string>
+  <string name="ai_wallpaper_inside_invitation_description_all">Ova značajka koristi velike mogućnosti modela za korištenje fotografija za izradu dinamičnih video pozadina. Dodirnite "Prihvaćam" da isprobate!</string>
   <string name="ai_wallpaper_inside_invitation_disagree">"Ne prihvaćam"</string>
   <string name="ai_wallpaper_network_connection_exception">"Nije moguće spojiti se na mrežu"</string>
   <string name="ai_wallpaper_network_exception">Došlo je do mrežne pogreške</string>
