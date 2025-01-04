@@ -86,10 +86,12 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string formatted="false" name="ai_estimated_two_three_minutes">To će trajati %d–%d min.</string>
   <string name="ai_generate">Generirano sa AI</string>
   <string name="ai_generate_action">Generiraj</string>
+  <string name="ai_generate_add_latter">Pričekajte do završetka prije dodavanja novih fotografija.</string>
   <string name="ai_generate_background">Završi u pozadini</string>
   <string name="ai_generate_determine">Analiziranje fotografija…</string>
   <string name="ai_generate_fail">"Nije moguće generirati"</string>
   <string name="ai_generate_forbid">"Nadograđujemo ovu značajku. Pratite nas!"</string>
+  <string name="ai_generate_latter">Pokušajte ponovno kasnije</string>
   <string name="ai_generate_loading">Generiranje pozadine…</string>
   <string name="ai_generate_message">"Ako generirate dinamičku pozadinu, sve promjene koje ste napravili na statičkoj verziji pozadine neće biti spremljene. Generirati sada?"</string>
   <string name="ai_generate_text">Generiraj dinamičku pozadinu</string>
@@ -100,14 +102,18 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ai_generate_wallpaper_fail">"Nije moguće generirati AI dinamičku pozadinu"</string>
   <string name="ai_generate_wallpaper_fail_message">Fotografije koje ste odabrali možda su prekršile naše smjernice. Odaberitete nove fotografije.</string>
   <string name="ai_generating">Generiranje…</string>
+  <string name="ai_generating_loading">Generiranje</string>
   <string name="ai_generating_wallpaper">Generiranje pozadine…</string>
   <string name="ai_image_format_does_not_support_generation">Nepodržani format</string>
   <string name="ai_image_size_too_large">Slika je prevelika</string>
   <string name="ai_image_select_generate">Odaberite fotografije veličine do %d MB.</string>
   <string name="ai_image_too_big">Slika je prevelika</string>
   <string name="ai_in_line">"Na redu ste…"</string>
+  <string name="ai_in_line_match">Linija je prilično zauzeta.</string>
   <string name="ai_inquire_apply_wallpaper">Primijeniti ovu pozadinu?</string>
   <string name="ai_moving_your_wallpaper">Pogledajte kako AI može oživjeti vaše pozadine</string>
+  <string name="ai_pic_unavailable_content">Provjerite je li predmet fotografije jasan i bez prepreka.</string>
+  <string name="ai_pic_unavailable_title">"Ova fotografija ne ispunjava zahtjeve za generiranje"</string>
   <string name="ai_pic_unavailable_content">Provjerite je li predmet fotografije jasan i bez prepreka.</string>
   <string name="ai_pic_unavailable_title">"Ova fotografija ne ispunjava zahtjeve za generiranje"</string>
   <string name="ai_read_the_privacy_policy">&lt;Data&gt;Pročitajte i prihvatite naš &lt;a href=\"%1$s\"&gt;Korisnički ugovor&lt;/a&gt; i &lt;a href=\"%2$s\ "&gt;Pravila o privatnosti&lt;/a&gt; prije nego nastavite.&lt;/Data&gt;</string>
@@ -135,7 +141,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ai_wallpaper_inside_invitation_description">Ova značajka koristi velike mogućnosti modela za korištenje fotografija krajolika, gradova, biljaka i automobila za stvaranje dinamičnih video pozadina. Dodirnite \"Prihvaćam\" da isprobate!</string>
   <string name="ai_wallpaper_inside_invitation_description_all">Ova značajka koristi velike mogućnosti modela za korištenje fotografija za izradu dinamičnih video pozadina. Dodirnite "Prihvaćam" da isprobate!</string>
   <string name="ai_wallpaper_inside_invitation_disagree">"Ne prihvaćam"</string>
-  <string name="ai_wallpaper_network_connection_exception">"Nije moguće spojiti se na mrežu"</string>
+  <string name="ai_wallpaper_network_connection_exception">"Ne mogu se povezati na mrežu"</string>
   <string name="ai_wallpaper_network_exception">Došlo je do mrežne pogreške</string>
   <string name="ai_wallpaper_no_longer">"Ne prikazuj više"</string>
   <string name="ai_wallpaper_not_conform_to_generation_condition">"Ne mogu generirati pozadinu za ovu sliku"</string>

@@ -29,7 +29,7 @@
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="access_denied_info">Previše pokušaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="account_crop_user_avatar">Obreži fotografiju</string>
-  <string name="account_empty_user_name">Unesite svoje korisničko ime za Mi račun</string>
+  <string name="account_empty_user_name">Unesite svoje korisničko ime za Xiaomi račun</string>
   <string name="account_error_all_space_user_name">"Korisničko ime ne može sadržavati samo razmake"</string>
   <string name="account_error_invalid_user_name">"Ime ne može sadržavati &lt;, &gt; ili /"</string>
   <string name="account_error_longer_user_name">"Ime ne može biti duže od 20 znakova"</string>
@@ -50,7 +50,7 @@
   <string name="account_user_details">Osobni podaci</string>
   <string name="account_user_email">E-pošta za oporavak</string>
   <string name="account_user_gender">Spol</string>
-  <string name="account_user_id">ID Mi računa</string>
+  <string name="account_user_id">ID Xiaomi računa</string>
   <string name="account_user_name">Nadimak</string>
   <string name="account_user_name_dialog_title">Unesite korisničko ime</string>
   <string name="account_user_phone">Telefon za oporavak</string>
@@ -76,17 +76,19 @@
   <string name="airecorder_notification_recording_pause">Snimač pauziran</string>
   <string name="airecorder_notification_recording_stopped">Snimanje zaustavljeno</string>
   <string name="airecorder_notification_recording_ticker">Zvuk na telefonu isključen</string>
+  <string name="airecorder_os2_notification_recording">Snimanje</string>
+  <string name="airecorder_os2_off_screen_notification_stop">Snimanje završeno</string>
   <string name="airecorder_pause_status_focus_notification">Snimanje pauzirano</string>
   <string name="airecorder_record_while_in_call_tip">"Nije moguće snimati tijekom poziva"</string>
   <string name="airecorder_recording_status_focus_notification">Snimanje</string>
-  <string name="airecorder_speaker">ZvučnikȀ</string>
+  <string name="airecorder_speaker">"Zvučnik "</string>
   <string name="airecorder_stop_status_focus_notification">Snimanje završeno</string>
   <string name="airecorder_text_btn_complete">Završi</string>
   <string name="airecorder_text_btn_pause">Pauziraj</string>
   <string name="airecorder_text_btn_resume">Nastavi snimanje</string>
   <string name="alert_message_clear_records">Izbrisati odabrane snimke?</string>
   <string name="alert_message_delete_local_record">Izbrisati ovu snimku?</string>
-  <string name="alert_message_delete_record">Brisanje snimke s vašeg uređaja također će izbrisati ovu snimku na Mi Cloudu. Izbrisati sada?</string>
+  <string name="alert_message_delete_record">Brisanje snimke s vašeg uređaja također će izbrisati ovu snimku na Xiaomi Cloudu. Izbrisati sada?</string>
   <string name="alert_message_delete_record_title">Izbriši snimku</string>
   <string name="all_record">Sve snimke</string>
   <string name="allowed">Odobreno</string>
@@ -150,7 +152,7 @@
   <string name="data_connection_title">Upozorenje uporabe podataka</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="delete">Izbriši</string>
-  <string name="delete_cloud_data_at_same_time">Izbriši i sa Mi Clouda također</string>
+  <string name="delete_cloud_data_at_same_time">Izbriši i sa Xiaomi Clouda također</string>
   <string name="delete_dialog_message">Želite izbrisati trenutnu snimku?</string>
   <string name="delete_recorder">Izbriši</string>
   <string name="delete_recording_file_dialog_msg">Želite li sada izbrisati ovu snimku?</string>
@@ -162,7 +164,7 @@
 ID:%s
 Pošaljite ovaj kod nadzorniku."</string>
   <string name="dialog_content_storage_full">"Snimanje je zaustavljeno jer nema dovoljno slobodnog prostora na unutarnjoj memoriji vašeg uređaja."</string>
-  <string name="dialog_privacy_revoke_tips">"Nakon povlačenja suglasnosti, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Ipak opozvati autorizaciju? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete autorizaciju za usluge Mi Cloud."</string>
+  <string name="dialog_privacy_revoke_tips">"Nakon povlačenja suglasnosti, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Ipak opozvati autorizaciju? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete autorizaciju za usluge Xiaomi Cloud."</string>
   <string name="dialog_title_storage_full">Nema dovoljno prostora</string>
   <string name="doing_query_account">Provjera podataka o računu…</string>
   <string name="download">Preuzmi</string>
@@ -231,7 +233,7 @@ Pošaljite ovaj kod nadzorniku."</string>
   <string name="loading_text">Sažetak…</string>
   <string name="login_by_local_phone_long_text">Prijavite se sada</string>
   <string name="login_by_local_phone_short_text">Prijava</string>
-  <string name="login_other">Još jedan Mi račun</string>
+  <string name="login_other">Još jedan Xiaomi račun</string>
   <string name="login_register_by_local_phone_long_text">Izradi račun</string>
   <string name="login_with_sns">Drugi načini prijave</string>
   <string name="logout_account">Odjava</string>
@@ -402,6 +404,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="normal_settings_pref_title">Opće postavke</string>
   <string name="not_allowed">Nije odobreno</string>
   <string name="not_set">Nije postavljeno</string>
+  <string name="notice_for_ai_search_tips">Detalji</string>
   <string name="notification_message_all_paused">Čekanje na Wi-Fi vezu.</string>
   <string name="notification_playback">Reprodukcija snimke…</string>
   <string name="notification_recording">Snimanje…</string>
@@ -808,7 +811,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="show_text">Prikaži tekst</string>
   <string name="show_wave">Prikaži glasovni otisak</string>
   <string name="sound_recorder_settings">Postavke</string>
-  <string name="speaker">ZvučnikȀ</string>
+  <string name="speaker">"Zvučnik "</string>
   <string name="status_bar_back">Dodirnite za povratak na Snimač</string>
   <string name="status_bar_recording">Snimanje…</string>
   <string name="status_bar_recording_pause">"Snimanje je zaustavljeno."</string>
@@ -835,7 +838,10 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="tab_apps">Aplikacije</string>
   <string name="tab_call">Pozivi</string>
   <string name="tab_fm">FM</string>
+  <string name="talkback_component_exit_button">Zatvori plutajući prozor</string>
+  <string name="talkback_return_speak_location">Povratak na sinkroniziranu reprodukciju</string>
   <string name="talkback_traslation">Prevedi</string>
+  <string name="talkback_traslation_ai_recognize">Sakrij tekstni okvir</string>
   <string name="talkback_traslation_close">Zaustavi prevođenje</string>
   <string name="text_btn_backward_3_seconds">%d sekunde natrag</string>
   <string name="text_btn_complete">Stop</string>
@@ -850,6 +856,10 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="text_btn_wave">Val</string>
   <string name="text_finish">Potvrdi</string>
   <string name="text_for_build_database_progress">Analiza snimke…(%s)</string>
+  <string name="text_for_build_database_progress_state_paused">Snimke će se analizirati na vašem uređaju kako bi se dobili precizniji rezultati</string>
+  <string name="text_for_build_database_progress_state_running">Analiziranje snimaka radi dobivanja preciznijih rezultata…</string>
+  <string name="text_for_build_database_progress_state_stooping">"Snimke će se analizirati na vašem uređaju kako bi se dobili precizniji rezultati.
+Trenutno pauzirano. Analiza će se nastaviti kada ne budete koristili uređaj."</string>
   <string name="text_play_speed_0_5">Brzina reprodukcije 0.5X</string>
   <string name="text_play_speed_1_0">Normalna brzina reprodukcije</string>
   <string name="text_play_speed_1_5">Brzina reprodukcije 1.5X</string>
@@ -883,7 +893,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="unknown_error_info">Nepoznata pogreška</string>
   <string name="update_email_address_dialog_message">Morate potvrditi svoj identitet prije ažuriranja e-pošte za oporavak.</string>
   <string name="update_email_address_dialog_title">Ažuriraj e-poštu za oporavak</string>
-  <string name="usage_description">Prepisivanje zvuka i sinkroniziranje stavki s Mi Cloudom</string>
+  <string name="usage_description">Prepisivanje zvuka i sinkroniziranje stavki s Xiaomi Cloudom</string>
   <string name="user_avatar_update_title">Promjena fotografije profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="user_feedback">Povratne inf.</string>

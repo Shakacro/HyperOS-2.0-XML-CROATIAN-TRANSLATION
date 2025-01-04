@@ -99,6 +99,11 @@
    <string name="at_least_one">Odaberite barem jednu kategoriju</string>
    <string name="auto_interval">Svaki put kad se uređaj otključa</string>
    <string name="back_icon_content_description">Natrag</string>
+   <string name="bottomsheet_action_collapse">Sažmite donju tablicu</string>
+   <string name="bottomsheet_action_expand">Proširite donju tablicu</string>
+   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
+   <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnut marker za povlačenje</string>
+   <string name="bottomsheet_drag_handle_content_description">Marker za povlačenje</string>
    <string name="cancel">Odustani</string>
    <string name="cancel_button">Da</string>
    <string name="cancel_international">Odustani</string>

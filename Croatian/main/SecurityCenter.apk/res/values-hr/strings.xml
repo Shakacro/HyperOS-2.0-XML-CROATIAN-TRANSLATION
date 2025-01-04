@@ -2728,7 +2728,7 @@ Kad je uključena pametna brzina sličica u sekundi, alati za otkrivanje brzine 
   <string name="gb_performace_tips_button">Prebacivanje</string>
   <string name="gb_performace_tips_title">Prebacite se na način rada za bolje iskustvo</string>
   <string name="gb_predownload_check">Pogledajte nagrade</string>
-  <string name="gb_predownload_noti_small_size_message">"Preuzeto je %2$1,2f MB novih resursa. Moći ćete ih koristiti čim nova verzija bude objavljena."</string>
+  <string name="gb_predownload_noti_small_size_message">"Preuzeto je %2$1.2f MB novih resursa. Moći ćete ih koristiti čim nova verzija bude objavljena."</string>
   <string name="gb_predownload_receive">Osvojite nagrade</string>
   <string name="gb_predownload_receive_error">Došlo je do mrežne pogreške. Pokušajte ponovno.</string>
   <string name="gb_predownload_receive_max">"Ne mogu dobiti više nagrada na ovom uređaju"</string>
