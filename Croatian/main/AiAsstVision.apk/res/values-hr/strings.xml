@@ -33,7 +33,7 @@
   <string name="add">Dodaj</string>
   <string name="add_control_center_hint_text_1">Korak %d: Povucite prema dolje s vrha zaslona da biste otvorili Kontrolni centar</string>
   <string name="add_control_center_hint_text_2">Korak %d: Dodirnite \"Mi AI Translate\"</string>
-  <string name="add_control_center_hint_text_3">Mi AI Translate možda ćete morati ručno dodati u Control Center na nekim modelima. U kontrolnom centru prvo dodirnite *, zatim dodirnite * na Mi AI Translate.</string>
+  <string name="add_control_center_hint_text_3">Mi AI Translate možda ćete morati ručno dodati u kontrolnom centru na nekim modelima. U kontrolnom centru prvo dodirnite *, zatim dodirnite * na Mi AI Translate.</string>
   <string name="add_control_center_summary">Povucite prema dolje s vrha zaslona da uključite prijevod bilo kada</string>
   <string name="add_phrase_content_description">Dodajte čestu frazu</string>
   <string name="add_shortcut_dialog_cancel">Ne sada</string>
@@ -79,7 +79,7 @@
   <string name="call_notification_incoming_text">Dolazni poziv</string>
   <string name="call_notification_ongoing_text">Poziv u tijeku</string>
   <string name="call_notification_screening_text">Provjera dolaznog poziva</string>
-  <string name="camera_translate">Prevedite kameru</string>
+  <string name="camera_translate">Prevedite kamerom</string>
   <string name="cancel_text">Odustani</string>
   <string name="caption_text_size_large">L</string>
   <string name="caption_text_size_mid">M</string>
@@ -87,7 +87,7 @@
   <string name="character_counter_content_description">Ograničenje broja znakova premašilo je %1$d od %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_hint">*Označite ovu opciju da bi sadržaj titlova bio odvojen glasom radi lakšeg čitanja</string>
-  <string name="check_is_need_restore_text_dialog_content">Čini se da se ova aplikacija neočekivano zatvorila. Vratiti datoteku titlova stvorenu na %s sada u Notes?</string>
+  <string name="check_is_need_restore_text_dialog_content">Čini se da se ova aplikacija neočekivano zatvorila. Vratiti datoteku titlova stvorenu na %s sada u Bilješke?</string>
   <string name="check_is_need_restore_text_dialog_title">Vrati sadržaj</string>
   <string name="check_network_text">Provjerite mrežne postavke</string>
   <string name="check_update">Provjeri ima li ažuriranja</string>
@@ -110,10 +110,10 @@
   <string name="compose_message_hint">Ovdje upišite brze odgovore</string>
   <string name="compose_message_send">Pošalji</string>
   <string name="confirm">U redu</string>
-  <string name="confirm_text">Povlačenje pristanka</string>
+  <string name="confirm_text">Povlačenje suglasnosti</string>
   <string name="confirm_txt">Potvrdi</string>
   <string name="consume_resources_size_hint">Preuzimanje ovog jezičnog paketa koristit će %s MB mobilnih podataka. Svejedno preuzeti?</string>
-  <string name="content_broadcast">Igraj</string>
+  <string name="content_broadcast">Reproduciraj</string>
   <string name="content_clear">Izbriši</string>
   <string name="content_copy">Kopiraj</string>
   <string name="content_exit">Izlaz</string>
@@ -128,15 +128,15 @@
   <string name="copy">Kopiraj</string>
   <string name="copy_complete">Uspješno kopirano</string>
   <string name="copy_message_text">Kopiraj</string>
-  <string name="create">Stvori</string>
+  <string name="create">Izradi</string>
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
   <string name="decompression_hint_text">Raspakiranje…</string>
   <string name="delete_message">Izbriši</string>
   <string name="delete_phrase">Brisanje fraze</string>
   <string name="desktop_shortcuts">Prečac na početnom zaslonu</string>
   <string name="desktop_shortcuts_add_success">Uspješno dodan prečac na početni zaslon</string>
-  <string name="detail_how_to_open">Dodirnite gumb u sredini kako biste omogućili Mi Ditto transkripciju govora i audio reprodukcije sustava.</string>
-  <string name="detail_how_to_save_messages">Možete dodirnuti gumb na dnu zaslona da biste spremili transkribirane stavke u Notes.</string>
+  <string name="detail_how_to_open">Dodirnite tipku u sredini kako biste omogućili Mi Ditto transkripciju govora i audio reprodukcije sustava.</string>
+  <string name="detail_how_to_save_messages">Možete dodirnuti tipku na dnu zaslona da biste spremili transkribirane stavke u Bilješke.</string>
   <string name="detail_what_is_ai_translate">"U situacijama kao što su gledanje videa, mrežni sastanci i telefonski pozivi, interni i eksterni zvuk predstavljen je u obliku teksta i može se prevoditi u stvarnom vremenu. Ako ne možete govoriti naglas tijekom poziva ili sastanak, možete koristiti značajke pretvaranja teksta u govor da biste odgovorili drugoj strani. Sadržaj podnaslova također se može spremiti u Bilješke za jednostavno generiranje zapisa razgovora."</string>
   <string name="device_do_not_support_function">"Ovaj uređaj ne podržava ovu značajku"</string>
   <string name="dialog_message_delete_message">Izbrisati odabrane stavke sada?</string>
@@ -147,8 +147,8 @@
   <string name="dont_translate">"Nemoj prevoditi"</string>
   <string name="double_display">Oboje</string>
   <string name="download_button_text">Preuzimanje</string>
-  <string name="download_error_text">"Nije moguće preuzeti"</string>
-  <string name="download_language_error_text">"Nije moguće preuzeti jezične pakete titlova. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
+  <string name="download_error_text">"Ne mogu preuzeti"</string>
+  <string name="download_language_error_text">"Ne mogu preuzeti jezične pakete titlova. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="download_language_model_exit_ai_subtitles_hint">Titlovi su isključeni tijekom procesa preuzimanja</string>
   <string name="download_language_package_button_text">Preuzmi jezične pakete</string>
   <string name="download_later_text">Ne sada</string>
@@ -160,7 +160,7 @@
   <string name="expand_button_title">Napredno</string>
   <string name="export_note_toast_save_abnormal_empty_string">"Bilješka ne može biti prazna"</string>
   <string name="export_note_toast_save_done">Sadržaj podnaslova uspješno je spremljen</string>
-  <string name="export_note_toast_save_fail">"Nije moguće spremiti sadržaj podnaslova"</string>
+  <string name="export_note_toast_save_fail">"Ne mogu spremiti sadržaj podnaslova"</string>
   <string name="export_preview_results_remind_txt">"Dodirnite oznaku govornika da biste promijenili govornika ili njegov nadimak"</string>
   <string name="export_preview_results_title">Pregled</string>
   <string name="face_trans_layout_external_screen">Vanjski zaslon</string>
@@ -170,7 +170,7 @@
   <string name="face_trans_layout_vertical">Okomito</string>
   <string name="face_trans_network_error">Mrežna veza je loša. Prijevodi mogu kasniti.</string>
   <string name="face_trans_tts_time_out">Zahtjev je istekao. Pokušajte ponovno kasnije.</string>
-  <string name="face_trans_tts_time_out_error">"Nije moguće reproducirati glasovni prijevod. Pokušajte ponovno kasnije."</string>
+  <string name="face_trans_tts_time_out_error">"Ne mogu reproducirati glasovni prijevod. Pokušajte ponovno kasnije."</string>
   <string name="feedback_txt">Povratne informacije</string>
   <string name="first_use_des">"Nikad nemojte izgubiti važne informacije
 Pregledajte sve zapise na jednom mjestu"</string>
@@ -200,7 +200,7 @@ Spremi sadržaj podnaslova kao bilješke"</string>
   <string name="guide_page_subtitle">Pristupite Mi AI Translateu iz kontrolnog centra</string>
   <string name="guide_text3">"Naučio sam kako koristiti Mi Ditto!"</string>
   <string name="have_been_added">Dodano</string>
-  <string name="have_been_created">Stvoreno</string>
+  <string name="have_been_created">Izrađeno</string>
   <string name="have_downloaded_text">Preuzeto</string>
   <string name="hint_text_edit">Uredi</string>
   <string name="identify_sound">Izvorni jezik</string>
@@ -270,16 +270,16 @@ Spremi sadržaj podnaslova kao bilješke"</string>
   <string name="languages">Jezik</string>
   <string name="linking_now_text">Povezivanje</string>
   <string name="llm_water_mark_text">Ovaj je sadržaj generiran umjetnom inteligencijom i služi samo za vašu referencu</string>
-  <string name="loading_error_text">"Nije moguće učitati"</string>
-  <string name="loading_not_network_text">"Nije moguće spojiti se na mrežu"</string>
+  <string name="loading_error_text">"Ne mogu učitati"</string>
+  <string name="loading_not_network_text">"Ne mogu se povezati na mrežu"</string>
   <string name="loading_text">Samo trenutak…</string>
   <string name="matching_language_error_hint">"Još ne mogu prevesti ovaj jezik"</string>
   <string name="meeting_sound">Sustav i mikrofon</string>
   <string name="meeting_sound_content_able">Koristite Mi AI za prikupljanje zvuka tijekom mrežnih sastanaka iz aplikacije i vašeg mikrofona</string>
   <string name="meeting_sound_content_enable">"Koristite Mi AI za prikupljanje zvuka tijekom mrežnih sastanaka iz aplikacije i vašeg mikrofona.
 Ažurirajte na najnoviju verziju da biste mogli koristiti ovu značajku."</string>
-  <string name="menu_clear">Očisti</string>
-  <string name="menu_export">Izvoz</string>
+  <string name="menu_clear">Izbriši</string>
+  <string name="menu_export">Izvezi</string>
   <string name="menu_multi_select">Odaberi više stavki</string>
   <string name="mic_sound">Mikrofon</string>
   <string name="mic_sound_content">Koristite zvuk mikrofona za slušanje pristupa i prijevod tijekom osobnih sastanaka</string>
@@ -311,12 +311,12 @@ Ažurirajte na najnoviju verziju da biste mogli koristiti ovu značajku."</strin
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-  <string name="mobile_data_download_text">Preuzimanje s mobilnim podacima?</string>
+  <string name="mobile_data_download_text">Preuzeti s mobilnim podacima?</string>
   <string name="model_download_show_text_downloading_cn">Preuzimanje kineskog izvanmrežnog jezičnog paketa…</string>
   <string name="model_download_show_text_downloading_en">Preuzimanje engleskog izvanmrežnog jezičnog paketa…</string>
-  <string name="model_download_show_text_fail_no_net">"Nije moguće spojiti se na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
+  <string name="model_download_show_text_fail_no_net">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="model_download_show_text_fail_no_storage">Nedovoljno prostora za pohranu. Očistite pohranu i pokušajte ponovno preuzeti.</string>
-  <string name="model_download_show_text_fail_other">"Nije moguće preuzimanje. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
+  <string name="model_download_show_text_fail_other">"Ne mogu preuzeti. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="model_download_show_text_go_on">Preuzmi</string>
   <string name="model_download_show_text_mobile_net_tip_cn">Preuzimanje kineskih jezičnih paketa koristit će %d MB mobilnih podataka. Preuzeti sada?</string>
   <string name="model_download_show_text_mobile_net_tip_en">Preuzimanje paketa za engleski jezik koristit će %d MB mobilnih podataka. Preuzeti sada?</string>
@@ -376,9 +376,7 @@ Ažurirajte na najnoviju verziju da biste mogli koristiti ovu značajku."</strin
   <string name="network_unstable">Mreža je nestabilna. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="new_phrase">Dodajte izraz</string>
   <string name="new_phrase_hint">Unesite izraz ovdje</string>
-  <string name="night">Večer</string>
   <string name="no_associational_word_data_text">Još ništa ovdje</string>
-  <string name="noon">Podne</string>
   <string name="not_remind">"Ne prikazuj više"</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="not_support_parallel_download_multiple_models">"Ne mogu istovremeno preuzeti dva jezična paketa"</string>
@@ -392,8 +390,8 @@ Ažurirajte na najnoviju verziju da biste mogli koristiti ovu značajku."</strin
   <string name="open_ai_subtitle_button_text">Uključi titlove</string>
   <string name="open_control_center">Otvori putem kontrolnog centra</string>
   <string name="passport_oauth_actionbar_title">Xiaomi račun</string>
-  <string name="passport_oauth_sucess_tip">Autorizirani uspjeh</string>
-  <string name="password_toggle_content_description">Prikaži lozinku</string>
+  <string name="passport_oauth_sucess_tip">Uspješno autorizirano</string>
+  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="permission_account">Pristup računima uređaja</string>
   <string name="permission_account_desc">Za pristup računima pohranjenim na uređaju</string>
   <string name="permission_phone">Pristup informacijama vezanim uz poziv</string>
@@ -412,14 +410,14 @@ Napomena: titlovi generirani iz video i audio sadržaja ne mogu se spremiti kao 
   <string name="pf_auto_upgrade_summary_global">Kada se povežete na Wi-Fi, jezični paketi za prepoznavanje govora i prijevod bit će automatski ažurirani</string>
   <string name="pf_auto_upgrade_title">Automatska ažuriranja</string>
   <string name="pf_language_text">Jezik</string>
-  <string name="phrase_confirm_delete_message">Izbrisati ovaj izraz sada?</string>
+  <string name="phrase_confirm_delete_message">Izbrisati ovaj izraz?</string>
   <string name="phrase_empty">Ovdje još nema stavki</string>
   <string name="please_choose_the_correct_language">Odaberite jezik</string>
-  <string name="pp_app_warning_permission_tips">Osjetljive dozvole</string>
-  <string name="pref_summary_auto_export_to_notes">Automatski izvezi sadržaj zvuka u tekst u Notes</string>
+  <string name="pp_app_warning_permission_tips">Osjetljiva dopuštenja</string>
+  <string name="pref_summary_auto_export_to_notes">Automatski izvezi sadržaj zvuka u tekst u Bilješke</string>
   <string name="pref_summary_distinguish_speaker">Automatsko razlikovanje govornika prilikom transkripcije poziva</string>
   <string name="pref_summary_tone_setting">Odaberite ton koji se koristi pri korištenju odgovora tekst-u-glas</string>
-  <string name="pref_title_auto_export_to_notes">Automatski izvozi</string>
+  <string name="pref_title_auto_export_to_notes">Automatski izvezi</string>
   <string name="pref_title_distinguish_speaker">Razlikovanje govornika</string>
   <string name="pref_title_floating_window_background">Pozadina plutajućeg prozora</string>
   <string name="pref_title_introduce">FAQ</string>
@@ -433,13 +431,13 @@ Napomena: titlovi generirani iz video i audio sadržaja ne mogu se spremiti kao 
   <string name="preference_category_title_permission_authorization">Privatnost i dopuštenja</string>
   <string name="preference_copied">\"%1$s\" kopirano u međuspremnik.</string>
   <string name="preference_floating_window_background_summary">Odaberite boju pozadine za podnaslove plutajućeg prozora</string>
-  <string name="preference_permission_title">Dozvole</string>
+  <string name="preference_permission_title">Dopuštenja</string>
   <string name="preference_recognition_summary">Odaberite izvorni jezik</string>
   <string name="preference_revoke_authorization_title">Povlačenje suglasnosti</string>
   <string name="preference_sound_source_summary">Reprodukcija sustava ili mikrofon</string>
   <string name="preference_text_size_summary">Veličina teksta za podnaslove plutajućeg prozora</string>
   <string name="preference_translation_summary">Odaberite ciljni jezik</string>
-  <string name="privacy_flares_current">U upotrebi</string>
+  <string name="privacy_flares_current">Koristi se</string>
   <string name="privacy_flares_current_detail_mic">Korištenje mikrofona</string>
   <string name="privacy_policy_text">Pravila o privatnosti</string>
   <string name="privacy_statement"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije nego nastavite.</Data></string>
@@ -452,16 +450,16 @@ Napomena: titlovi generirani iz video i audio sadržaja ne mogu se spremiti kao 
   <string name="restore_text">Vrati</string>
   <string name="retry">Pokušaj ponovno</string>
   <string name="retry_download_model_hint">Pokušajte ponovno</string>
-  <string name="retry_save_subtitle_dialog_hint">"Nije moguće spremiti ovu datoteku titlova. Pokušati ponovo?"</string>
+  <string name="retry_save_subtitle_dialog_hint">"Ne mogu spremiti ovu datoteku titlova. Pokušati ponovo?"</string>
   <string name="retry_save_subtitle_dialog_title">Spremi titlove</string>
   <string name="revoke_privacy_content_text">"Ako povučete svoju suglasnost na Pravila o privatnosti Mi AI Translatea, prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i lokalno pohranjeni bit će izbrisani unutar određenog razdoblja kako zahtijeva važećim zakonima. Međutim, AI titlovi koji su izvezeni u Bilješke neće se automatski izbrisati u aplikaciji Bilješke.
 
 Ako povučete suglasnost, više nećete moći koristiti usluge Mi AI Translate. Ako želite koristiti ove usluge u budućnosti, morat ćete ponovno prihvatiti naša Pravila o privatnosti. Povući suglasnost?"</string>
-  <string name="revoke_privacy_no_network_content_text">Vaš uređaj mora biti spojen na mrežu da biste mogli povući suglasnost. Provjerite mrežne postavke i pokušajte ponovno.</string>
+  <string name="revoke_privacy_no_network_content_text">Vaš uređaj mora biti povezan na mrežu da biste mogli povući suglasnost. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="revoke_privacy_no_network_good_text">U redu</string>
   <string name="revoke_privacy_text">Povlačenje suglasnosti</string>
   <string name="revoke_privacy_title_text">Povlačenje suglasnosti</string>
-  <string name="revoke_privacy_toast_text">Suglasnot uspješno povučena</string>
+  <string name="revoke_privacy_toast_text">Suglasnost uspješno povučena</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
@@ -495,10 +493,10 @@ Ako povučete suglasnost, više nećete moći koristiti usluge Mi AI Translate. 
   <string name="sound_from_language">Izvorni jezik</string>
   <string name="sound_mode">Izvor zvuka</string>
   <string name="sound_target_language">Ciljni jezik</string>
-  <string name="speaker">ZvučnikȀ</string>
+  <string name="speaker">"Zvučnik "</string>
   <string name="speaker_not_recognition">Nepoznato</string>
-  <string name="speech_recognition_card_no_speech_text">"Nije moguće otkriti govor. Pokušajte ponovno."</string>
-  <string name="speech_recognition_card_not_network_text">"Nije moguće spojiti se na mrežu. Pokušajte ponovno."</string>
+  <string name="speech_recognition_card_no_speech_text">"Ne mogu otkriti govor. Pokušajte ponovno."</string>
+  <string name="speech_recognition_card_not_network_text">"Ne mogu se povezati na mrežu. Pokušajte ponovno."</string>
   <string name="speech_recognition_please_say_text">"Razgovarajte s Mi AI u "</string>
   <string name="start_translation_text">Prevoditelj</string>
   <string name="stop_transcription_and_generate_summary">Ako nastavite, transkripcija teksta će završiti i generirati će se sažetak. Nastaviti?</string>
@@ -513,7 +511,7 @@ Ako povučete suglasnost, više nećete moći koristiti usluge Mi AI Translate. 
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
   <string name="synonym">Sinonimi</string>
-  <string name="sys_app_prot_cracked_confirm">Shvaćam</string>
+  <string name="sys_app_prot_cracked_confirm">Razumijem</string>
   <string name="sys_sound">Audio sustava</string>
   <string name="sys_sound_content">Koristite zvuk sustava za prijevod tijekom glasovnih poziva, video reprodukcije i mrežnih sastanaka</string>
   <string name="text_big">L</string>
@@ -527,14 +525,14 @@ Ako povučete suglasnost, više nećete moći koristiti usluge Mi AI Translate. 
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="tip_add_shortcut_after_exit_desktop_mode">Isključite način rada radne stanice i pokušajte ponovno</string>
-  <string name="tip_no_support_insert_summary_to_notes">"Sažetak je predugačak. Nije moguće spremiti kao bilješku."</string>
+  <string name="tip_no_support_insert_summary_to_notes">"Sažetak je predugačak. Ne mogu spremiti kao bilješku."</string>
   <string name="title_how_to_open">Kako da uključim Mi Ditto?</string>
   <string name="title_how_to_save_messages">Kako mogu spremiti transkribirane stavke?</string>
   <string name="title_intelligent_summary">Pametni sažetak</string>
   <string name="title_what_is_ai_translate">Što su AI titlovi?</string>
   <string name="toast_current_voip_app_not_support_reply">"Ova aplikacija ne podržava odgovore"</string>
   <string name="toast_save_done">Uspješno spremljeno u Bilješke</string>
-  <string name="toast_save_fail">"Nije moguće spremiti u Bilješke"</string>
+  <string name="toast_save_fail">"Ne mogu spremiti u Bilješke"</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="transcribe_and_translation">Prevoditelj</string>
@@ -543,7 +541,7 @@ Ako povučete suglasnost, više nećete moći koristiti usluge Mi AI Translate. 
   <string name="translate_lang_jp">japanski</string>
   <string name="translate_lang_kr">korejski</string>
   <string name="translate_missing_token_not_login">Prvo se prijavite na svoj Xiaomi račun.</string>
-  <string name="translate_no_detected_sound">"Nije moguće otkriti zvuk."</string>
+  <string name="translate_no_detected_sound">"Ne mogu otkriti zvuk."</string>
   <string name="translate_text">Prijevod</string>
   <string name="translate_type">Stil podnaslova</string>
   <string name="translate_waiting_note_meeting">Slušanje zvuka sastanka…</string>
@@ -563,7 +561,7 @@ Ako povučete suglasnost, više nećete moći koristiti usluge Mi AI Translate. 
   <string name="update_xiaoai_application_version_dialog_message">Ažurirajte Mi AI na V5.120 ili noviju da biste mogli koristiti ovu značajku. Ažurirati sada?</string>
   <string name="update_xiaoai_application_version_dialog_title">Dostupno ažuriranje</string>
   <string name="user_agreement_text">Korisnički ugovor</string>
-  <string name="user_use_time_out_error">Sesija je istekla. Prekinuo slušanje.</string>
+  <string name="user_use_time_out_error">Sesija je istekla. Slušanje je prekinuto.</string>
   <string name="v15_add_control_center_hint_text_2">Korak %d: Ručno dodajte AI titlove u kontrolni centar. To možete učiniti tako da dodirnete \"Uredi\" u Kontrolnom centru, zatim dodirnete \"+\" na ikoni AI titlova.</string>
   <string name="v15_add_control_center_hint_text_3">Korak %d: Dodirnite \"AI titlovi\".</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
@@ -577,7 +575,7 @@ Ako povučete suglasnost, više nećete moći koristiti usluge Mi AI Translate. 
   <string name="word_adj">Pridjev</string>
   <string name="word_adv">Prilog</string>
   <string name="word_conn">Konjunkcija</string>
-  <string name="word_done">Past perfect</string>
+  <string name="word_done">Prošlo savršeno</string>
   <string name="word_er">Usporedni</string>
   <string name="word_est">Superlativ</string>
   <string name="word_inflection">Oblici riječi</string>
