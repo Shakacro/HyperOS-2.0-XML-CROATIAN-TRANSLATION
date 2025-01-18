@@ -502,10 +502,6 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="user_instructions_message"><Data>"Nećete moći nastaviti koristiti Mi Ditto osim ako ne prihvatite novu verziju njegovih &lt;a href=\"%s\">Pravila o privatnosti&lt;/a> . Prihvaćate ažurirana Pravila o privatnosti?"</Data></string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
-  <string name="voice_translate_function_description">Otvorite AI tumač iz bočne alatne kutije tijekom poziva ili konferencije. Možete prevesti razgovor između obiju strana u stvarnom vremenu za komunikaciju bez prepreka.</string>
-  <string name="voice_translate_function_name">Prevoditelj poziva i konferencija</string>
-  <string name="voice_translate_summary">Simultano prevođenje za pozive i konferencije</string>
-  <string name="voice_translate_title">AI tumač</string>
   <string name="vendor_permission_allow_content_policy1">Korisnički ugovor</string>
   <string name="voice_access">Glasovne kontrole</string>
   <string name="voice_access_command_fail">Nevažeća naredba</string>
