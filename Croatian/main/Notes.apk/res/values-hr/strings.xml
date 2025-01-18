@@ -97,6 +97,7 @@
   <string name="ai_label">Značajke umjetne inteligencije</string>
   <string name="ai_layout">Izgled umjetne inteligencije</string>
   <string name="ai_result_warn">Gornji sadržaj generirao je umjetna inteligencija. Točnost može varirati.</string>
+  <string name="ai_search_database_building_progress">Analiziranje bilješki radi pružanja preciznijih rezultata…</string>
   <string name="ai_sensitive_content_warn">"Ne mogu koristiti AI značajke za osjetljiv ili neprikladan sadržaj"</string>
   <string name="ai_summary">Sažetak umjetne inteligencije</string>
   <string name="ai_translate">AI prijevod</string>
@@ -668,6 +669,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="net_error">Došlo je do mrežne pogreške</string>
   <string name="network_error_info">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="network_timeout_info">"Ne mogu se povezati s mrežom. Pokušajte ponovno."</string>
+  <string name="new_ai_search_database_building_pause">Bilješke će se analizirati na vašem uređaju kako bi se pružili precizniji rezultati</string>
   <string name="new_alert_title_delete">Izbriši bilješke</string>
   <string name="new_app_name">Bilješke</string>
   <string name="new_audio_create_cancel_talkback_des">Otkazano</string>

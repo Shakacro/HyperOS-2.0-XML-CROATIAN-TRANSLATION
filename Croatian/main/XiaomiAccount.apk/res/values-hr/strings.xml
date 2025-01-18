@@ -211,9 +211,10 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="copy_link">Kopiraj poveznicu</string>
   <string name="copy_to_clipboard_successful">Uspješno kopirano</string>
   <string name="current_account_can_use_pwd_login">Unesite svoju zaporku za prijavu</string>
+  <string name="data_access_management">Upravljanje pristupom podacima</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
-  <string name="default_error_message">Invalid input</string>
-  <string name="default_popup_window_title">Pop-Up Window</string>
+  <string name="default_error_message">Nevažeći unos</string>
+  <string name="default_popup_window_title">Skočni prozor</string>
   <string name="delete_action">Izbriši</string>
   <string name="delete_bank_card_message">Mi Pay bankovne kartice i NFC kartice bit će izbrisane nakon što se odjavite.</string>
   <string name="delete_bank_card_title">Brisanje vaše bankovne kartice</string>
@@ -603,6 +604,10 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_checking_input">Provjera unosa…</string>
   <string name="passport_clear_input">Obriši uneseni sadržaj</string>
   <string name="passport_click_email_to_valid">"Da biste aktivirali svoj račun, slijedite poveznicu koju smo poslali u vašu pristiglu poštu."</string>
+  <string name="passport_close_dialog_close_btn">Isključi</string>
+  <string name="passport_close_dialog_hint">Ako isključite ovu značajku, dvofaktorska autentifikacija više neće biti potrebna prilikom prijave na vaš račun. To može učiniti vaš račun manje sigurnim.</string>
+  <string name="passport_close_dialog_open_btn">Nastavi</string>
+  <string name="passport_close_two_factor_auth">Isključi dvofaktorsku provjeru autentičnosti</string>
   <string name="passport_completed">Dovršeno</string>
   <string name="passport_confirm_login">Nastavi</string>
   <string name="passport_confirm_recycle_account">Da</string>
@@ -613,6 +618,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_copy_message_vcode">Kopiraj kod</string>
   <string name="passport_copy_to_clipboard_successful">Uspješno kopirano</string>
   <string name="passport_delete_account">Odjava</string>
+  <string name="passport_device_code_dialog_hint">"Nemojte dijeliti ovaj kod ni s kim"</string>
   <string name="passport_dialog_captcha_title">Kôd</string>
   <string name="passport_dialog_doing_login">Prijava…</string>
   <string name="passport_dialog_doing_register">Izrada računa…</string>
@@ -826,6 +832,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_send_vcode_failed">"Ne mogu poslati kod"</string>
   <string name="passport_sending_vcode">Šaljem kod…</string>
   <string name="passport_set">Postavi</string>
+  <string name="passport_set_password_hint">Postavite zaporku računa da biste mogli koristiti dvofaktornu provjeru autentičnosti</string>
   <string name="passport_set_password_no_phone_msg">Dodajte svoj broj telefona kako biste zaštitili svoj račun.</string>
   <string name="passport_setting">Postavljanje…</string>
   <string name="passport_skip_login">Preskoči</string>
@@ -855,6 +862,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="passport_to_password_login">Prijavite se zaporkom</string>
   <string name="passport_to_verify_code_login">Prijavite se SMS-om</string>
   <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>
+  <string name="passport_two_factor_auth">Autentikacija u dva faktora</string>
+  <string name="passport_two_factor_auth_hint">Uključite da biste zahtijevali dvostruku autentifikaciju prilikom prijave na svoj račun</string>
   <string name="passport_trying_read_verify_code_sms">Dobivanje koda za provjeru…</string>
   <string name="passport_tz_invalid">Otkriven siurnosni rizik. Ovaj je uređaj rootan ili flashan. Pokušajte druge načine prijave.</string>
   <string name="passport_unknown_error">Nepoznata pogreška</string>
@@ -951,7 +960,7 @@ Skenirajte donji kod pomoću Xiaomi aplikacije."</string>
   <string name="qrcode_login_entry_text"><Data>Jeste li se prijavili na drugom uređaju? Koristite &lt;a href=>brzu prijavu&lt;/a></Data></string>
   <string name="qrcode_login_load_refresh"><Data>Ovaj QR kod je istekao. Dodirnite za &lt;a href=>osvježiti&lt;/a>.</Data></string>
   <string name="qrcode_login_load_retry"><Data>"Ne mogu učitatid. &lt;a href=>Pokušajte ponovno&lt;/a>."</Data></string>
-  <string name="qrcode_login_message">"Skenirajte pomoću Mi AI Skenera ili druge Xiaomi aplikacije da se prijavite na svoj Xiaomi račun"</string>
+  <string name="qrcode_login_message">Idite na Postavke > Xiaomi račun na svom Xiaomi uređaju i skenirajte QR kod za prijavu ili upotrijebite drugi skener QR koda</string>
   <string name="qrcode_login_title">Skenirajte za prijavu</string>
   <string name="range_end">Kraj raspona</string>
   <string name="range_start">Početak raspona</string>

@@ -55,6 +55,7 @@ vaše uređaje?"</string>
  <string name="appcirculate_fragment_circulate_device_list_button_confirm">Traži ponovno</string>
  <string name="appcirculate_fragment_circulate_device_list_text_none">&lt;u&gt;"Ne možete pronaći svoje uređaje?"&lt;/u&gt;</string>
  <string name="appcirculate_fragment_circulate_device_list_text_searching">Traženje uređaja u blizini…</string>
+ <string name="appcirculate_toast_app_max_screen_count">"Ne mogu otvoriti više prozora"</string>
  <string name="appcirculate_toast_busy">Čini se da drugi uređaj sada prenosi datoteke. Pričekajte da prijenos završi i pokušajte ponovo.</string>
  <string name="appcirculate_toast_cancel">Otkazano</string>
  <string name="appcirculate_toast_connected">Emitiranje je pokrenuto</string>
@@ -66,6 +67,8 @@ vaše uređaje?"</string>
  <string name="appcirculate_toast_not_support_device_phone">"Ne mogu otvoriti ovu aplikaciju na telefonu"</string>
  <string name="appcirculate_toast_not_support_device_tv">"Ne mogu otvoriti ovu aplikaciju na televizorima"</string>
  <string name="appcirculate_toast_not_support_device_tv_connected">Već povezano s ovim televizorom</string>
+ <string name="appcirculate_toast_pad_connection_car">Tablet je povezan s vozilom</string>
+ <string name="appcirculate_toast_phone_connection_car">Telefon je povezan s vozilom</string>
  <string name="appcirculate_toast_success_1">Uspješno prebačeno</string>
  <string name="appcirculate_toast_success_2">Emitiranje u privatnom načinu…</string>
  <string name="appcirculate_toast_success_3">Emitiranje…</string>
@@ -466,6 +469,8 @@ Vaši uređaji?"</string>
  <string name="connect_settings_share_clipboard">Međuspremnik</string>
  <string name="connect_settings_share_launcher">Home screen+</string>
  <string name="connect_settings_share_notification">Obavijesti</string>
+ <string name="connect_settings_share_file">Pristup datoteci</string>
+ <string name="connect_settings_summary_share_file">Pristup lokalnim datotekama s obližnjih računala</string>
  <string name="connect_settings_summary"><Data>Automatski otkrijte obližnje uređaje koji su prijavljeni na vaš Xiaomi račun i povežite ih međusobno za obavljanje raznih zadataka na više uređaja. &lt;a href=%1$s>Saznajte više&lt;/a></Data></string>
  <string name="connect_settings_summary_connection_service">Dopustite svojim uređajima da međusobno komuniciraju bežično</string>
  <string name="connect_settings_summary_corp_phone">Odgovarajte na pozive na obližnjim tabletima ili računalima prijavljenima na svoj Xiaomi račun</string>
@@ -550,6 +555,9 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
  <string name="dialog_select_tv">Odaberite uređaj (%1$d)</string>
  <string name="dialog_show_help">Pomoć</string>
  <string name="disconnect">Zaustavi emitiranje</string>
+ <string name="disconnect_access">Zaustavi</string>
+ <string name="dist_file_notification_subtitle">"\"%s\" želi pristupiti datotekama ovog uređaja"</string>
+ <string name="dist_file_notification_title">Pristup datotekama s više uređaja</string>
  <string name="dp_casting_start_hint">Povezan putem kabela. Emitiranje je završilo.</string>
  <string name="dual_wifi_warning_china">Isključite dvostruki Wi-Fi i pokušajte ponovno</string>
  <string name="dual_wifi_warning_global">Uključite dvostruki Wi-Fi i pokušajte ponovno</string>
@@ -792,6 +800,7 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="invisible_mode_dialog_content_audio_relay">"Ne mogu prenijeti reprodukciju kada ste anonimni. Prvo isključite anonimni način."</string>
  <string name="invisible_mode_dialog_pos">Isključi</string>
  <string name="invisible_mode_dialog_title">"Anonimni ste"</string>
+ <string name="is_accessed_by">\"%1$s\" pristupa ovom uređaju</string>
  <string name="is_creating_camera_cooperation">Otključajte uređaj za povezivanje</string>
  <string name="item_view_role_description">Kartica</string>
  <string name="keyguard_security_setting_privacy_policy">Pravila o privatnosti</string>
@@ -990,6 +999,7 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
  <string name="mtrl_timepicker_cancel">Odustani</string>
  <string name="mtrl_timepicker_confirm">U redu</string>
+ <string name="nearby_device_file_access">"Primi obavijest kada uređaji u blizini pristupe datotekama ovog uređaja"</string>
  <string name="nfc_connect_failed_toast">"Nije moguće emitirati. Pokušajte ponovo."</string>
  <string name="notify_content">Pokreni u pozadini</string>
  <string name="no_permission">"Ne mogu vidjeti ovu stranicu"</string>
@@ -1016,7 +1026,11 @@ Napomena: primit ćete rutinsko upozorenje sustava kada uključite značajke pri
  <string name="open_game_accelerate">Uključi Game Turbo</string>
  <string name="open_wlan">Uključite Wi-Fi</string>
  <string name="open_wlan_china">Uključite Wi-Fi</string>
- <string name="open_wlan_known">Shvaćam</string>
+ <string name="open_wlan_known">Razumijem</string>
+ <string name="open_wlan_other_toast">Uključite Wi-Fi na drugom uređaju i pokušajte ponovno</string>
+ <string name="open_wlan_other_toast_china">Uključite WLAN na drugom uređaju i pokušajte ponovo</string>
+ <string name="open_wlan_self_toast">Uključite Wi-Fi i pokušajte ponovo</string>
+ <string name="open_wlan_self_toast_china">Uključite WLAN i pokušajte ponovno</string>
  <string name="open_wlan_other">Uključite Wi-Fi na %1$s da biste mogli koristiti značajke međusobnog povezivanja.</string>
  <string name="open_wlan_other_china">Uključite Wi-Fi na %1$s da biste mogli koristiti značajke međusobnog povezivanja.</string>
  <string name="open_wlan_self">Uključite Wi-Fi da biste mogli koristiti značajke međusobnog povezivanja. Uključiti sada?</string>

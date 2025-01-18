@@ -241,6 +241,8 @@ Xiaomi će obraditi sadržaj obavijesti i poruka (uključujući sve privatne pod
   <string name="notification_aggregate_summary">Dopustite sustavu da automatski grupira obavijesti</string>
   <string name="notification_aggregate_summary_inner">Automatski uključi grupne push i promotivne obavijesti</string>
   <string name="notification_aggregate_title">Grupne obavijesti</string>
+  <string name="notification_aon_land_support_dev_message">Kako bi se utvrdilo gleda li više ljudi u zaslon, ova će značajka pristupiti prednjoj kameri kada se prikaže lebdeća obavijest. Prikupljene slike koriste se samo za analizu na uređaju broja ljudi koji gledaju u ekran. Radi bolje točnosti, ova je značajka podržana samo u pejzažnom načinu. Sadržaj obavijesti bit će skriven prema zadanim postavkama u portretnom načinu.</string>
+  <string name="notification_aon_land_support_dev_summary">Ovaj model podržava ovu značajku samo u pejzažnom načinu. Sadržaj obavijesti bit će skriven u portretnom načinu.</string>
   <string name="notification_aon_summary">Sakrij sadržaj obavijesti kada više osoba gleda u tvoj uređaj</string>
   <string name="notification_aon_title">Plutajući pametni zaslon obavijesti</string>
   <string name="notification_aon_title_aon">AON obavijesti</string>

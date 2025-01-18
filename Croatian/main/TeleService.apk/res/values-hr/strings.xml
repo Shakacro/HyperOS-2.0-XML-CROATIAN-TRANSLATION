@@ -1252,7 +1252,7 @@ Koristiti svejedno mobilne podatke?"</string>
   <string name="enable_esim_dialog_title">Uključi eSIM</string>
   <string name="enable_esim_error_toast_message">Uključivanje eSIM-a nije moguće</string>
   <string name="enable_esim_progress_activating_message">Uključivanje eSIM-a…</string>
-  <string name="enable_esim_summary">Onemogućite SIM %s nakon uključivanja</string>
+  <string name="enable_esim_summary">eSIM će zamijeniti %s</string>
   <string name="enable_esim_title">Uključi eSIM</string>
   <string name="enable_fdn">Omogući FDN</string>
   <string name="enable_fdn_ok">Onemogući FDN</string>

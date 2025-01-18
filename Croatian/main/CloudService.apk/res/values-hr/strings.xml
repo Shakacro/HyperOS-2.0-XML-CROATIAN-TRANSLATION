@@ -64,6 +64,7 @@
   <string name="cloud_storage_almost_full_upgrade_text">Cloud pohrana je gotovo puna. Možda neće moći sinkronizirati fotografije.</string>
   <string name="cloud_storage_common_functions_text">Često korišteno</string>
   <string name="cloud_storage_default_title">Cloud pohrana</string>
+  <string name="cloud_storage_full_international_upgrade_default_text">Nedovoljno prostora za pohranu. Sinkronizacija je pauzirana.</string>
   <string name="cloud_storage_full_upgrade_default_text">"Nedovoljno prostora za pohranu. Ne mogu sinkronizirati fotografije."</string>
   <string name="cloud_storage_info_type_creation">Mi Canvas</string>
   <string name="cloud_storage_info_type_drive">Xiaomi Drive</string>
@@ -71,6 +72,7 @@
   <string name="cloud_storage_info_type_family">Obitelj</string>
   <string name="cloud_storage_info_type_others">Ostalo</string>
   <string name="cloud_storage_info_type_pdc">Postavke sustava</string>
+  <string name="cloud_storage_international_almost_full_upgrade_text">Nedovoljno prostora za pohranu. Sinkronizacija je pauzirana.</string>
   <string name="cloud_storage_loading_data">Samo trenutak…</string>
   <string name="cloud_storage_manage_title">Upravljajte Cloud prostorom</string>
   <string name="cloud_storage_no_data">Nema još stavki u Cloudu</string>

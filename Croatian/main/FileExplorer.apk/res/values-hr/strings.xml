@@ -41,6 +41,8 @@
   <string name="added_category">Dodano</string>
   <string name="aggree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i odobrite gore navedena obvezna dopuštenja.</string>
   <string name="agree">Prihvaćam</string>
+  <string name="ai_search_building_database">Analiziranje datoteka za pružanje preciznijih rezultata…</string>
+  <string name="ai_search_building_database_pause">Datoteke će se analizirati na vašem uređaju kako bi se dobili precizniji rezultati</string>
   <string name="ai_search_progress">Analiziranje datoteka… (%s)</string>
   <string name="ai_search_progress_tips">"Neka vaš uređaj bude povezan s punjačem. Brže će analizirati datoteke kada je ekran isključen."</string>
   <string name="app_all_purpose">Dobrodošli u Datoteke! Ovom aplikacijom možete upravljati datotekama pohranjenim na vašem uređaju.</string>
@@ -472,6 +474,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_item_view_role_description">Kartica</string>
@@ -480,6 +483,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="miuix_navigator_content_switch_description">Prikaži bočnu traku</string>
   <string name="miuix_navigator_multiple_choice">Odaberi</string>
   <string name="miuix_navigator_navigator_switch_description">Sakrij bočnu traku</string>
+  <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
@@ -610,6 +614,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="operation_cache_use_data">Preuzimanje</string>
   <string name="operation_cache_use_free_network">Pričekajte Wi-Fi</string>
   <string name="operation_cancel">Odustani</string>
+  <string name="operation_check_cloud_space">Prikaži</string>
   <string name="operation_cloud_copy_to_local">Spremi u…</string>
   <string name="operation_compress">Sažmi</string>
   <string name="operation_compressing">Sažimanje…</string>
@@ -626,6 +631,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="operation_decompressing">Raspakiranje…</string>
   <string name="operation_del_fav">Uklanjanje iz favorita…</string>
   <string name="operation_delete">Izbriši</string>
+  <string name="operation_delete_cloud_upload_record">Odbaci</string>
   <string name="operation_delete_confirm_dcim_message_folder">DCIM je mapa galerije. Ako izbrišete ovu mapu, sve stavke unutar nje također će biti trajno izbrisane iz Galerije. Svejedno izbrisati ovu mapu?</string>
   <string name="operation_delete_confirm_message">Izbrisati?</string>
   <string name="operation_delete_confirm_message_folder">"Sav sadržaj mape biti će izbrisan.
@@ -676,7 +682,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="operation_upload_delete">Izbriši</string>
   <string name="operation_upload_err_file_not_found">"Izgleda da ova datoteka ne postoji."</string>
   <string name="operation_upload_err_file_size_zero">"Ne mogu učitati prazne datoteke."</string>
-  <string name="operation_upload_err_full_space">Cloud pohrana je puna. Nadogradite svoj plan za pohranu kako biste mogli učitati više stavki.</string>
+  <string name="operation_upload_err_full_manage_space">"Cloud pohrana u je puna. Nadogradite svoj plan za pohranu ili izbrišite stavke koje vam ne trebaju. Dodirnite \"Prikaži\" za pregled i upravljanje prostorom za pohranu u cloudu ili \"Odbaci\" za brisanje ovog prijenosa."</string>
   <string name="operation_upload_err_illegal_char">Ovaj naziv datoteke sadrži nepodržane znakove.</string>
   <string name="operation_upload_err_larger_than_4g">"Ne mogu prenijeti datoteke veće od %d GB."</string>
   <string name="operation_upload_err_not_support_overseas">Samo korisnici u Kini mogu učitavati stavke u ovom trenutku.</string>
@@ -685,6 +691,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="operation_upload_retry">Pokušajte ponovno</string>
   <string name="operation_upload_save_to_local">Spremi u…</string>
   <string name="operation_upload_use_data">Pošalji</string>
+  <string name="otg_data_safely_exiting">Samo trenutak…</string>
   <string name="otg_data_transfer_success">Uspješno poslano</string>
   <string name="otg_data_transferring">"Prijenos datoteka… Ne isključujte vanjsku pohranu."</string>
   <string name="otg_file_security_note">OGTSecurity</string>

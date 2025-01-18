@@ -119,8 +119,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ai_select_again">Odaberite</string>
   <string name="ai_select_images_in_the_following_formats">Odaberitete slike u bilo kojem od sljedećih podržanih formata: *.jpg, *.jpeg, *.png, *.bmp, WebP, HEIC i HEIF.</string>
   <string name="ai_select_images_smaller_than_one_hundred">Odaberitete sliku ispod %d MB i pokušajte ponovno.</string>
-  <string name="ai_select_message">Odaberitete samo slike krajolika, gradova, biljaka i automobila te provjerite je li glavni subjekt slike jasan i bez prepreka.</string>
-  <string name="ai_select_title">"Ne mogu obraditi slike"</string>
+  <string name="ai_select_message">Odaberite fotografiju na kojoj je subjekt jasno vidljiv.</string>
+  <string name="ai_select_title">"Nije moguće izraditi"</string>
   <string name="ai_select_wallpaper">Odaberite pozadinu</string>
   <string name="ai_service_temporarily_unavailable">"Značajka nije dostupna"</string>
   <string name="ai_service_unavailable">"Značajka nije dostupna"</string>
@@ -136,8 +136,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="ai_wallpaper_i_know">Razumijem</string>
   <string name="ai_wallpaper_inside_invitation">Beta test AI dinamičkih pozadina</string>
   <string name="ai_wallpaper_inside_invitation_agree">Prihvaćam</string>
-  <string name="ai_wallpaper_inside_invitation_description">Ova značajka koristi velike mogućnosti modela za korištenje fotografija krajolika, gradova, biljaka i automobila za stvaranje dinamičnih video pozadina. Dodirnite \"Prihvaćam\" da isprobate!</string>
-  <string name="ai_wallpaper_inside_invitation_description_all">Ova značajka koristi velike mogućnosti modela za korištenje fotografija za izradu dinamičnih video pozadina. Dodirnite "Prihvaćam" da isprobate!</string>
+  <string name="ai_wallpaper_inside_invitation_description">Ova značajka koristi velike mogućnosti modela za stvaranje dinamičnih pozadina od statičnih slika. Dodirnite \"Prihvaćam\" da isprobate!</string>
   <string name="ai_wallpaper_inside_invitation_disagree">"Ne prihvaćam"</string>
   <string name="ai_wallpaper_network_connection_exception">"Ne mogu se povezati na mrežu"</string>
   <string name="ai_wallpaper_network_exception">Došlo je do mrežne pogreške</string>
@@ -488,6 +487,7 @@ Dopustite Temama da pristupaju vašem ID-u Xiaomi računa i Mi Community statusi
   <string name="display">Zaslon</string>
   <string name="do_not_allow">Ograničeno</string>
   <string name="download_failed">"Ne mogu preuzeti"</string>
+  <string name="download_limit">"Trenutno nije moguće preuzeti više stavki. Pokušajte ponovno kasnije."</string>
   <string name="download_management">Preuzimanja</string>
   <string name="download_preview_failed">"Ne mogu učitati pregled"</string>
   <string name="download_success">Preuzimanje dovršeno!</string>
@@ -1002,6 +1002,7 @@ Dodirnite za isključivanje."</string>
   <string name="long_click_can_hide_resource">Pritisnite i držite za skrivanje stavki</string>
   <string name="loop_video_wallpaper">Petlja dinamičkih pozadina</string>
   <string name="match_theme">Teme koje si odgovaraju</string>
+  <string name="mashup_sound">Miks prirode</string>
   <string name="material_clock_toggle_content_description">Odaberitete prijepodne ili poslijepodne</string>
   <string name="material_hour_selection">Odaberitete sat</string>
   <string name="material_hour_suffix">%1$s h</string>
@@ -1593,6 +1594,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="resource_account_login_title">Prijavite se</string>
   <string name="resource_account_switch">Promjena računa</string>
   <string name="resource_alarm_default">Alarm</string>
+  <string name="resource_alarm_default_with_brackets">Zvuk alarma (%1$s)</string>
   <string name="resource_app_name">Prikaži izvore</string>
   <string name="resource_apply">Postavi</string>
   <string name="resource_apply_trial">Isprobajte sada</string>
@@ -1648,6 +1650,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="resource_data_empty">Ovdje nema stavki.</string>
   <string name="resource_default">Zadana melodija zvona</string>
   <string name="resource_default_name">Resursi</string>
+  <string name="resource_default_with_brackets">Zadana melodija zvona (%1$s)</string>
   <string name="resource_delete">Izbriši</string>
   <string name="resource_delete_all">Izbrisati odabrane stavke: %1$d?</string>
   <string name="resource_delete_confirm">Izbrisati odabrane stavke?</string>
@@ -1728,6 +1731,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="resource_no_network_text">"Ne mogu se povezati na mrežu."</string>
   <string name="resource_no_result">"Ništa nije pronađeno"</string>
   <string name="resource_notification_default">Obavijesti</string>
+  <string name="resource_notification_default_with_brackets">Zvuk obavijesti (%1$s)</string>
   <string name="resource_on_trial">Isprobavam: %1$s</string>
   <string name="resource_on_use">Korištenje: %1$s</string>
   <string name="resource_online">Mrežno</string>
@@ -1756,6 +1760,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="resource_restore_succ">Uspješno vraćeno</string>
   <string name="resource_right_ack_check_error">Ovaj kod je istekao</string>
   <string name="resource_ringtone_default">Melodija zvona</string>
+  <string name="resource_ringtone_default_with_brackets">Melodija zvona (%1$s)</string>
   <string name="resource_ringtone_playing_error">Pogreška</string>
   <string name="resource_ringtone_too_large_waring">Datoteke melodija zvona moraju imati %1$d MB ili manje</string>
   <string name="resource_ringtone_volume_mute">Zvono je utišano</string>

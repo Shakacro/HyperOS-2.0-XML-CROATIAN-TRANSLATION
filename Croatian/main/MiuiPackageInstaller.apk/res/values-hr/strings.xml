@@ -395,6 +395,10 @@
 	<string name="message_staging">Pripremna aplikacija…</string>
 	<string name="mi_protected">Mi Protect</string>
 	<string name="mi_protected_duty">Vaša sigurnost naš je prioritet</string>
+	<string name="minors_mode_no_network_hint">"Ne može provesti otkrivanje rizika na aplikacijama koje sadrže pornografiju, kockanje ili drugo prijevarno ponašanje bez internetske veze. Instalacija bilo koje aplikacije zahtijeva roditeljsku potvrdu."</string>
+   <string name="minors_mode_no_network_hint_description">Instalacija bilo koje aplikacije zahtijeva roditeljsku potvrdu kada niste povezani s mrežom</string>
+   <string name="minors_mode_risk_hint_content">Ova aplikacija sadrži viruse koji mogu ugroziti vašu privatnost i sigurnost</string>
+   <string name="minors_mode_risk_hint_description">"Ovo je visokorizična aplikacija koja se ne može instalirati"</string>
 	<string name="miui_clean">Očisti</string>
 	<string name="miui_clear_apks_summary">Ukupno %s</string>
 	<string name="miui_clear_apks_title">Automatski očisti instalacijske pakete</string>

@@ -244,8 +244,11 @@ Dodirnite dvaput za prikaz detalja."</string>
   <string name="pa_base_yesterday">Jučer</string>
   <string name="pa_cancel">Otkaži</string>
   <string name="pa_clear">Izbriši</string>
+  <string name="pa_comm_cancel">Odustani</string>
   <string name="pa_comm_confirm">U redu</string>
   <string name="pa_comm_download_to_install">Instaliraj</string>
+  <string name="pa_comm_install_apk">Instaliraj</string>
+  <string name="pa_comm_menstrual_please_install_health">Instalirajte Mi Fitness da biste uključili cikluse.</string>
   <string name="pa_comm_refuse">Ne sad</string>
   <string name="pa_comm_to_setting">Postavke</string>
   <string name="pa_covid_card_title">COVID-19</string>
@@ -569,7 +572,12 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
   <string name="pa_page_medicine_action_uses_infos_subtitle">Uređivanje i snimanje podataka o lijekovima</string>
   <string name="pa_page_medicine_action_uses_infos_title">Uredi</string>
   <string name="pa_page_medicine_title">Podsjetnici za lijekove</string>
+  <string name="pa_page_menstruation_action_uses_infos_subtitle">Uređivanje u Mi Fitnessu</string>
+  <string name="pa_page_menstruation_action_uses_infos_title">Uređivanje informacija o ciklusu</string>
+  <string name="pa_page_menstruation_title">Ciklusi</string>
   <string name="pa_page_metro_code_app_select_default_config">Neka Mi AI odabere najbolju aplikaciju za vas</string>
+  <string name="pa_page_metro_code_app_select_more">Više aplikacija na ovom uređaju</string>
+  <string name="pa_page_metro_code_app_select_other">Ostale aplikacije</string>
   <string name="pa_page_metro_code_app_select_text">Odaberite aplikaciju</string>
   <string name="pa_page_metro_code_app_select_title">Odaberite aplikaciju</string>
   <string name="pa_page_metro_code_smart_select">Pametno</string>

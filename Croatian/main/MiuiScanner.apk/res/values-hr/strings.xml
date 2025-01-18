@@ -928,6 +928,8 @@ Umjesto toga skenirajte nešto drugo."</string>
   <string name="waybill_num">"Narudžba: "</string>
   <string name="web">Web stranica:</string>
   <string name="web_url">URL</string>
+  <string name="web_url_confirm_content">QR kod koji skenirate odvest će do veze koja može biti rizična. Može biti povezano sa zlonamjernim web stranicama ili mrežnim zamkama, koje mogu naštetiti sigurnosti vašeg uređaja ili osobnoj privatnosti. Ako odlučite nastaviti, potvrdite da u potpunosti razumijete uključene rizike.</string>
+  <string name="web_url_confirm_title">Sigurnosna obavijest</string>
   <string name="website_details">Web stranica:</string>
   <string name="wechat_pay">WeChat Pay</string>
   <string name="wechat_scan_code">WeChat skener</string>

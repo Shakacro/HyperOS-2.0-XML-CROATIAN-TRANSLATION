@@ -92,6 +92,7 @@
   <string name="agenda_not_today_empty_hint">Ovdje još nema događaja. Dodirnite za izradu.</string>
   <string name="agenda_tomorrow">SUTRA, %1$s</string>
   <string name="agenda_view">Događaji</string>
+  <string name="ai_introduce_card_sub_title">Neka AI automatski doda putovanja, karte i druge vrste događaja u vaš kalendar</string>
   <string name="alarm_close_reminder">Isključivanje podsjetnika za alarm</string>
   <string name="alarm_label">Odbaci</string>
   <string name="alarm_open_reminder">Uključi podsjetnik</string>
@@ -102,11 +103,11 @@
   <string name="all_events">Svi događaji</string>
   <string name="all_records">Svi zapisi</string>
   <string name="already_num">Vrijeme od %s</string>
-  <string name="am">AM</string>
   <string name="anniversary_event_title">Godišnjica: %1$s</string>
   <string name="anniversary_secondary_tag">Godišnjica</string>
   <string name="app_label">Kalendar</string>
   <string name="app_name">Kalendar</string>
+  <string name="apply_auto_insert_ai_event_button">Uključi</string>
   <string name="app_not_found">"Odabrana aplikacija nije pronađena"</string>
   <string name="archive_loading_failed">Arhiva se ne može otvoriti za pregledavanje. Datoteka je oštećena ili njezin format nije podržan.</string>
   <string name="attendees">Sudionici</string>
@@ -120,6 +121,7 @@
   <string name="auth_notification_error_ssl_untrusted">SSL nepouzdan. Nastaviti?</string>
   <string name="authentication_required">Da biste pregledali ovaj direktorij, prijavite se na %1$s</string>
   <string name="auto_import_birthday_from_contact">"Uvezi rođendane kontakata"</string>
+  <string name="auto_insert_ai_event_toast">Asistent za AI događaje je uključen</string>
   <string name="average_cycle_days">Prosječni ciklus</string>
   <string name="average_menstruation_days">Prosječno trajanje ciklusa</string>
   <string name="back_to_today">Danas</string>
@@ -1117,6 +1119,7 @@ Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="setting_about_miui_version">Verzija sustava:</string>
   <string name="setting_about_summary">Verzija: </string>
   <string name="setting_accounts">Računi kalendara</string>
+  <string name="setting_auto_insert">Asistent za AI događaje</string>
   <string name="setting_change_language">Odaberite jezik kalendara</string>
   <string name="setting_chinese_calendar">Kineski kalendar</string>
   <string name="setting_content_promotion">内容推广</string>

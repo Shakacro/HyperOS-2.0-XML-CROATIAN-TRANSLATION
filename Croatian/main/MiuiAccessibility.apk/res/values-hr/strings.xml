@@ -126,7 +126,7 @@
   <string name="dialog_message_create_shortcut">Izraditi prečac Poč. zaslona?</string>
   <string name="dialog_message_delete_message">Izbrisati odabrane stavke?</string>
   <string name="dialog_message_revoke_authorization">"Morat ćete dati autorizaciju kako biste mogli ponovo upotrebljavati Mi Ditto."</string>
-  <string name="dialog_message_revoke_authorization_accessbility">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Mi Accessibility. Prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Mi Accessibility pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Mi Accessibility?</string>
+  <string name="dialog_message_revoke_authorization_accessbility">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Mi Ditto. Prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Mi Ditto pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Mi Ditto?</string>
   <string name="dialog_message_revoke_authorization_cancel">Odustani</string>
   <string name="dialog_message_revoke_authorization_common" formatted="false">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti %1s. Prestat ćemo prikupljati vaše osobne podatke, a osobni podaci koji su već prikupljeni i zadržani bit će biti izbrisani unutar navedenog razdoblja u skladu s važećim zakonima i propisima osim ako se ne zahtijeva drugačije Budući da %2s pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje privole smatrat će se odbijanjem prihvaćanja ovih usluga."</string>
   <string name="dialog_message_revoke_authorization_confirm">Povlačenje (%ds)</string>
@@ -248,6 +248,7 @@
   <string name="loading">Samo trenutak…</string>
   <string name="long_press">Pritisnite i držite [**]</string>
   <string name="long_press_summary">Pritisnite i držite stavku na zaslonu</string>
+  <string name="media_volume_too_low_message">Pojačajte zvuk medija da biste mogli čuti prijevod</string>
   <string name="menu_multi_select">Odaberi više stavki</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -358,8 +359,8 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="password_toggle_content_description">Pokaži zaporku</string>
   <string name="pause_recognize_content_description">Zaustavljeno je prepisivanje zvuka. Dvaput dodirnite za početak.</string>
   <string name="permission_allow_content_policy1">Pravila o privatnosti</string>
-  <string name="permission_content_title">Dobrodošli u Mi Accessibility! Ova aplikacija pruža usluge uključujući Mi Ditto, glasovne kontrole i prepoznavanje ambijentalnog zvuka.</string>
-  <string name="permission_content_title_new">Dobrodošli u Mi Accessibility! Ova aplikacija nudi Mi Ditto, simultano prevođenje za pozive, glasovne kontrole i prepoznavanje ambijentalnog zvuka.</string>
+  <string name="permission_content_title">Mi Ditto pruža glasovne kontrole i prepoznavanje ambijentalnog zvuka.</string>
+  <string name="permission_content_title_new">Dobrodošli u Mi Ditto! Ova aplikacija nudi Mi Ditto, simultano prevođenje za pozive, glasovne kontrole i prepoznavanje ambijentalnog zvuka.</string>
   <string name="phrase_confirm_delete_message">Izbrisati ovaj izraz?</string>
   <string name="phrase_empty">Ovdje još nema stavki</string>
   <string name="phrase_list_title">Česti izrazi</string>
@@ -496,12 +497,16 @@ Imajte na umu da se ova aplikacija treba povezati s internetom i zahtijeva sljed
   <string name="tv_caption_alpha">Neprozirnost pozadine</string>
   <string name="tv_caption_size">Veličina teksta</string>
   <string name="tv_real_time_trans">Prijevod uživo</string>
-  <string name="user_agreement_policy">Korisnički sporazum</string>
+  <string name="user_agreement_policy">Korisnički ugovor</string>
   <string name="user_instructions">Pažnja</string>
-  <string name="user_instructions_message">&lt;Data&gt;"Ne&amp;#263;ete mo&amp;#263;i nastaviti koristiti Mi Ditto osim ako ne prihvatite novu verziju njegovih &amp;lt;a href=\"%s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; . Sla&amp;#382;ete li se sada s a&amp;#382;uriranom Politikom privatnosti?"&lt;/Data&gt;</string>
+  <string name="user_instructions_message"><Data>"Nećete moći nastaviti koristiti Mi Ditto osim ako ne prihvatite novu verziju njegovih &lt;a href=\"%s\">Pravila o privatnosti&lt;/a> . Prihvaćate ažurirana Pravila o privatnosti?"</Data></string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
-  <string name="vendor_permission_allow_content_policy1">Korisnički sporazum</string>
+  <string name="voice_translate_function_description">Otvorite AI tumač iz bočne alatne kutije tijekom poziva ili konferencije. Možete prevesti razgovor između obiju strana u stvarnom vremenu za komunikaciju bez prepreka.</string>
+  <string name="voice_translate_function_name">Prevoditelj poziva i konferencija</string>
+  <string name="voice_translate_summary">Simultano prevođenje za pozive i konferencije</string>
+  <string name="voice_translate_title">AI tumač</string>
+  <string name="vendor_permission_allow_content_policy1">Korisnički ugovor</string>
   <string name="voice_access">Glasovne kontrole</string>
   <string name="voice_access_command_fail">Nevažeća naredba</string>
   <string name="voice_access_new_permission_content_first_line">"Dobro došli u Mi Ditto! Ovu aplikaciju možete koristiti za pretvaranje internih i eksternih glasovnih poruka u tekst, generiranje izlaza pretvaranja teksta u govor i korištenje glasovnih kontrola.

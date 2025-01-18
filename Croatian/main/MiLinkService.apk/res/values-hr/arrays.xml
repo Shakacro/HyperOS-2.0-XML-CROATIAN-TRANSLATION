@@ -75,6 +75,11 @@
       <item>Međupovezanost/mrežna sinkronizacija</item>
       <item>Mrežna pomoć, povezivanje, dijeljenje hotspota, mrežna sinkronizacija</item>
      </string-array>
+	  <string-array name="settings_search_share_file">
+      <item>Pristup datotekama s više uređaja</item>
+      <item>Međusobno povezivanje/pristup datotekama</item>
+      <item>Pristup datoteci s više uređaja、Pristup s više uređaja、Datoteka s više uređaja、Pristup datoteci、distribuirana datoteka、Distribuirano slovo pogona</item>
+     </string-array>
      <string-array name="settings_search_share_Launcher">
         <item>Home screen+</item>
         <item>Međusobna povezanost/Home screen+</item>

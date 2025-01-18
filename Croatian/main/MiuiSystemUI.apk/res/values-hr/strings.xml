@@ -235,6 +235,7 @@
   <string name="accessibility_quick_settings_dnd_none_on">Potpuna tišina</string>
   <string name="accessibility_quick_settings_edit">Uređivanje redoslijeda postavki.</string>
   <string name="accessibility_quick_settings_expand">Otvaranje brzih postavki.</string>
+  <string name="accessibility_quick_settings_handle_handsfree_battery_level">Povezani držač</string>
   <string name="accessibility_quick_settings_less_time">Manje vremena.</string>
   <string name="accessibility_quick_settings_more_time">Više vremena.</string>
   <string name="accessibility_quick_settings_open_settings">Otvaranje postavki za %s.</string>

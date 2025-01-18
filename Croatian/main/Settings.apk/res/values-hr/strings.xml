@@ -3160,6 +3160,7 @@ Ako je to dopuštenje uključeno, aplikacija će biti dostupna kao opcija svaki 
   <string name="ciwlan_dialog_nw_incompatible_dds_compatible_ndds_attempt_ndds">Da biste uključili Voice Over Cellular Internet, molimo postavite željenu vrstu mreže druge pretplate na onu koja uključuje LTE, NR ili Global.</string>
   <string name="ciwlan_dialog_nw_incompatible_dds_incompatible_ndds_attempt_either">Da biste uključili Voice Over Cellular Internet, molimo postavite željenu vrstu mreže za obje pretplate na jednu uključujući LTE, NR ili Global.</string>
   <string name="choose_unlock_fingerprint_msg">Postavite Zaklj. zaslona prije dodavanje otiska prsta.</string>
+  <string name="circle_to_search_title">Zaokruži za pretraživanje</string>
   <string name="ciwlan_channel_name">Glas preko mobilnog interneta</string>
   <string name="ciwlan_exit_notification_description">Isključivanje može pomoći u dobivanju usluge.</string>
   <string name="ciwlan_exit_notification_negative_button">ODBACI</string>
@@ -4927,7 +4928,7 @@ Neke aplikacije možda neće raditi dok ih razvojni programeri ne ažuriraju."</
   <string name="enterprise_privacy_always_on_vpn_device">Aktiviran je uvijek uključeni VPN</string>
   <string name="enterprise_privacy_always_on_vpn_personal">Uvijek uključeni VPN aktiviran je u osobnom profilu</string>
   <string name="enterprise_privacy_always_on_vpn_work">Uvijek uključeni VPN aktiviran je u radnom profilu</string>
-  <string name="enterprise_privacy_apps_count_estimation_info">Broj aplikacija procijenjen je i možda ne uključuje aplikacije koje su instalirane izvan Trgovine Play.</string>
+  <string name="enterprise_privacy_apps_count_estimation_info">Broj aplikacija procijenjen je i možda ne uključuje aplikacije koje su instalirane izvan Google Play.</string>
   <string name="enterprise_privacy_backups_enabled">Podaci s uređaja sigurnosno se kopiraju</string>
   <string name="enterprise_privacy_bug_reports">Najnovije izvješće o programskoj pogrešci</string>
   <string name="enterprise_privacy_ca_certs">Pouzdane vjerodajnice</string>
@@ -5297,7 +5298,7 @@ okrenut prema vanjskom zaslonu"</string>
   <string name="financed_privacy_header">"Vaš davatelj kredita može promijeniti postavke i instalirati softver na ovaj uređaj.
 
 Da biste saznali više, obratite se svom vjerovniku."</string>
-  <string name="financed_privacy_install_apps">instaliranje aplikacija koje nisu iz Trgovine Play</string>
+  <string name="financed_privacy_install_apps">instaliranje aplikacija koje nisu iz Google Play</string>
   <string name="financed_privacy_intro">"Vaš vjerovnik može promijeniti postavke i instalirati softver na ovom uređaju tijekom postavljanja.
 
 Ako propustite uplatu, vjerovnik može zaključati uređaj i promijeniti postavke.
@@ -5717,6 +5718,10 @@ Podaci sigurnosnih kopija ne uračunavaju se u kvotu pohrane na Disku. Velike da
   <string name="gaze_lock_screen_summary">"Uređaj će ostati otključan dok gledate u zaslon i zaključat će se kada skrenete pogled radi zaštite vaše privatnosti, nadjačavajući postavku vremena automatskog zaključavanja"</string>
   <string name="gaze_lock_screen_title">Otkrij prisutnost</string>
   <string name="gd_setting_title">Bočna traka</string>
+  <string name="gemini">Gemini</string>
+  <string name="gemini_description">Razgovarajte s Geminijem da nadogradite svoje ideje. Dobijte pomoć pri učenju na nove načine, pisanju zahvalnica, planiranju događaja i više. Koristite tekst, glas, fotografije i kameru da biste dobili pomoć na nove načine.<a href="https://support.google.com/gemini/answer/14579026#zippy=%2Cwhere-you-can-download-the- gemini-app-from-the-google-play-store">Saznajte više o dostupnosti.</a></string>
+  <string name="gemini_function">Napunite svoje ideje s Google Geminijem, vašim novim AI pomoćnikom</string>
+  <string name="gemini_setting">Gemini postavke</string>
   <string name="general_category_title">Općenito</string>
   <string name="general_notification_header">Upravljanje</string>
   <string name="general_text">Polje za tekst</string>
@@ -6378,7 +6383,7 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="install_preinstall_app">Promjena regije…</string>
   <string name="install_text">Instaliraj</string>
   <string name="install_type_instant">Instant aplikacija</string>
-  <string name="install_unknown_applications">Dopusti instalaciju aplikacija iz drugih izvora osim Trgovine Play</string>
+  <string name="install_unknown_applications">Dopusti instalaciju aplikacija iz drugih izvora osim Google Play</string>
   <string name="install_unknown_applications_title">Omogućuje instaliranje aplikacija iz izvora koji nisu Google Play</string>
   <string name="install_whole_rom">Preuzmi ROM</string>
   <string name="installed">Instalirano</string>
