@@ -182,16 +182,16 @@
         <item quantity="other">+%s sati</item>
         <item quantity="one">+%s sat</item>
 		</plurals>
-		<plurals name="worldcolock_timezone_gap_fast_new">
-        <item quantity="other">+%1$d sati</item>
-        <item quantity="one">+%1$d sat</item>
+    <plurals name="worldcolock_timezone_gap_fast_new">
+        <item quantity="other">+%1$s hrs</item>
+        <item quantity="one">+%1$s hr</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">-%s sati</item>
-        <item quantity="one">-%s sat</item>
-		</plurals>
-		<plurals name="worldcolock_timezone_gap_slow_new">
-        <item quantity="other">-%1$d sat</item>
-        <item quantity="one">-%1$d sat</item>
+        <item quantity="other">-%s hrs</item>
+        <item quantity="one">-%s hr</item>
+    </plurals>
+    <plurals name="worldcolock_timezone_gap_slow_new">
+        <item quantity="other">-%1$s hrs</item>
+        <item quantity="one">-%1$s hr</item>
     </plurals>
 </resources>
