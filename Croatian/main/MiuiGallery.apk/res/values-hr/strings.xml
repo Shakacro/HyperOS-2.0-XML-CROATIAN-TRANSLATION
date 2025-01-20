@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="ai_film_description">Stvorite zapanjujuće videozapise uz pomoć AI</string>
-  <string name="ai_film_title">Automatsko uređivanje</string>
   <string name="and"> i </string>
   <string name="abc_action_bar_home_description">Idi na početnu</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
@@ -201,6 +199,8 @@ Pokušajte stvoriti AI sliku s različitim fotografijama."</string>
   <string name="ai_entrance_description">Izradte AI sliku na temelju fotografija ljudi i generirajte njihove portrete</string>
   <string name="ai_entrance_title">Portret umjetne inteligencije</string>
   <string name="ai_exit">Izlaz</string>
+  <string name="ai_film_description">Stvorite zapanjujuće videozapise uz pomoć AI</string>
+  <string name="ai_film_title">Automatsko uređivanje</string>
   <string name="ai_filter_album_tag">Osobe s nedovoljno fotografija su filtrirane</string>
   <string name="ai_free_creation_button">Izradi</string>
   <string name="ai_free_creation_container_msg">Na primjer: šetnja plažom</string>
