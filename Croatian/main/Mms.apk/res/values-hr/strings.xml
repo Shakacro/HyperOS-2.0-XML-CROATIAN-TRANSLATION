@@ -1153,6 +1153,8 @@ Pročitajte i prihvatite novu verziju Pravila o privatnosti prije nego što nast
   <string name="private_protect">Zaštita privatnosti</string>
   <string name="private_settings">Postavke</string>
   <string name="processing">Obrada…</string>
+  <string name="progress_start_tips">Analiziranje poruka radi pružanja preciznijih rezultata…</string>
+  <string name="progress_stop_tips">Poruke će se analizirati na vašem uređaju kako bi se dobili točniji rezultati</string>
   <string name="progress_text">Organiziranje poruka…(%s)</string>
   <string name="prompt_otp">Kod</string>
   <string name="prompt_phone">Broj telefona</string>
