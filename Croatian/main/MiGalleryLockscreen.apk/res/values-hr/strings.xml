@@ -362,9 +362,9 @@ To može generirati dodatne naknade."</string>
    <string name="llks_whole_cate">Sve kategorije</string>
    <string name="load_hdpicture_complete">Originalna slika uspješno učitana</string>
    <string name="loading"><CDATA>Samo trenutak…</CDATA></string>
-   <string name="lock_screen_date">EEEE, dd.MM</string>
-   <string name="lock_screen_date_12">EEEE, dd.MM</string>
-   <string name="lock_show_permission_exception">Dopustite Wallpaper Carousel da prikazuje stavke na Zaklj. zaslonu.</string>
+   <string name="lock_screen_date">EEEE, dd.MM.</string>
+   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
+   <string name="lock_show_permission_exception">Dopustite Wallpaper Carouselu prikaz stavki na Zaklj. zaslonu.</string>
    <string name="lockscreen_h5_back_tv">Natrag</string>
    <string name="lockscreen_h5_close_tv">Isključi</string>
    <string name="lockscreen_h5_refresh_btn_tv">Osvježi</string>
@@ -376,7 +376,7 @@ To može generirati dodatne naknade."</string>
    <string name="login_app">Prijava</string>
    <string name="login_app_cancel">Odustani</string>
    <string name="login_app_confirm">Prijava</string>
-   <string name="login_xiaomi_account_summary">"Pročitao sam i prihvaćam Xiaomi Račun &lt;font color ='#0D84FF'&gt;&lt;a href='%1$s'&gt;Korisnički ugovor&lt;/font&gt;&lt;/a&gt; i &lt;font color ='#0D84FF'&gt;&lt;a href='%2$s'&gt;Pravila o privatnosti&lt;/font&gt;&lt;/a&gt;."</string>
+   <string name="login_xiaomi_account_summary">"Pročitao sam i prihvaćam Xiaomi račun &lt;font color ='#0D84FF'&gt;&lt;a href='%1$s'&gt;Korisnički ugovor&lt;/font&gt;&lt;/a&gt; i &lt;font color ='#0D84FF'&gt;&lt;a href='%2$s'&gt;Pravila o privatnosti&lt;/font&gt;&lt;/a&gt;."</string>
    <string name="logout">Odjava</string>
    <string name="logout_account">Odjava</string>
    <string name="logout_cancel">Odustani</string>

@@ -261,7 +261,7 @@ dd.MM."</string>
   <string name="kg_dialog_fashion_gallery_message">"Trenutno koristite Wallpaper Carousel. Primjena dinamičke pozadine isključit će Wallpaper Carousel. Želite li svejedno primijeniti?"</string>
   <string name="kg_dialog_fashion_gallery_title">Pažnja</string>
   <string name="kg_dialog_fontfilter_dualclock_button">"Ne mogu uređivati ​​font kada je uključen dvostruki sat"</string>
-  <string name="kg_dialog_no_content_available_the_moment">Ovdje enam ništa</string>
+  <string name="kg_dialog_no_content_available_the_moment">Ovdje nema ništa</string>
   <string name="kg_dialog_too_much_time_blocking">"Sat je zaklonjen. Ne mogu koristiti efekt dubine."</string>
   <string name="kg_discard_changes_text">Odbaciti promjene?</string>
   <string name="kg_doodle_font_label">Crtež</string>
@@ -326,7 +326,8 @@ dd.MM."</string>
   <string name="kg_hierarchy_not_support_third_party_wallpaper_service_tip">"Pozadine trećih strana ne podržavaju efekte dubine"</string>
   <string name="kg_hierarchy_not_support_wallpaper_tip">"Ova pozadina ne podržava efekt dubine"</string>
   <string name="kg_hierarchy_switch_label">Efekt dubine</string>
-  <string name="kg_line_spacing">Prored</string>
+  <string name="kg_line_spacing">Razmak između redaka</string>
+  <string name="kg_live_photo_land_tips">Vodoravne fotografije uživo mogu se postaviti samo kao statične fotografije</string>
   <string name="kg_magazine_a_b_primary_color_label">Sat</string>
   <string name="kg_magazine_a_b_secondary_color_label">Potpis</string>
   <string name="kg_magazine_c_primary_color_label">Drugi tekst</string>
@@ -367,6 +368,7 @@ dd.MM."</string>
   <string name="kg_title_fonts_and_content">Font i sadržaj</string>
   <string name="kg_title_name">Font</string>
   <string name="kg_typesetting_string">Stil</string>
+  <string name="kg_wallpaper_blur_effect">Zamuti pozadinu</string>
   <string name="kg_wallpaper_filter_title">Efekti pozadine</string>
   <string name="kg_wallpaper_filter_type_crystallized">Kristali</string>
   <string name="kg_wallpaper_filter_type_focus">Fokus</string>
@@ -378,6 +380,8 @@ dd.MM."</string>
   <string name="kg_wallpaper_filter_type_striped_lens">Ljeća</string>
   <string name="kg_wallpaper_filter_type_water">Voda</string>
   <string name="kg_wallpaper_scale_hint_text">Uhvatite prstima za obrezivanje</string>
+  <string name="kg_wallpaper_scroll_type_disable_tips">"Nije moguće uključiti pomicanje za ovu pozadinu"</string>
+  <string name="kg_wallpaper_scroll_type_tips">Pomicanje pozadine</string>
   <string name="kg_word_spacing">Prored između znakova</string>
   <string name="label">Oznaka</string>
   <string name="large_time">Veliki sat</string>
