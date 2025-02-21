@@ -1412,10 +1412,8 @@ za fotografije"</string>
   <string name="grant_permission_shortcut">Dopustite ovoj aplikaciji da prvo stvara prečace na početnom zaslonu.</string>
   <string name="grant_permission_storage">Dopustite ovoj aplikaciji prvo pristup pohrani.</string>
   <string name="grant_permission_storage_unlock">Otključajte svoj uređaj i dopustite ovoj aplikaciji da prvo pristupi pohrani.</string>
-  <string name="grant_permission_text">"Galerija treba pristup za
-%s
-da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
   <string name="grant_permission_title">Dopusti pristup</string>
+  <string name="grant_permission_text">Dopustite galeriji pristup svim fotografijama i videozapisima na vašem uređaju. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="grant_permission_unlock_and_set">Otključaj i postavi</string>
   <string name="grant_permission_unlock_and_set_2">Otključaj</string>
   <string name="grant_permission_write_clipboard">Da biste mogli kopirati stavke, dopustite ovoj aplikaciji spremanje stavki u međuspremnik.</string>

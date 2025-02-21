@@ -160,7 +160,8 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="game_introduction">Dodatak za igre omogućuje vam prijavu, stvaranje narudžbi, dovršavanje plaćanja, korištenje kupona i sudjelovanje u promotivnim događajima.</string>
-  <string name="get_imei_information">Pristup IMEI</string>
+  <string name="get_audio_and_video_information_settings">Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju</string>
+  <string name="get_imei_information">Pristup IMEI-ju</string>
   <string name="get_imei_information_settings">Pristup jedinstvenom identifikatoru uređaja (IMEI)</string>
   <string name="google_service_introduction">Da bi mogao normalno raditi, Trgovina Play treba se povezati s internetom, pristupiti vašoj lokaciji, moći slati SMS i MMS, snimati zvukove, upućivati pozive, pristupiti događajima iz kalendara, povijesti poziva, senzorima, pohrani, kameri, informacijama o uređaju i računima.</string>
   <string name="home_settings_miui_home">Klasično</string>
@@ -465,6 +466,7 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="permission_download_introduction">Za predmemoriranje preuzetih stavki i spremanje na uređaj</string>
   <string name="permission_enable_disable_bluetooth_summary">Za pronalaženje uređaja u blizini radi povezivanja i prijenosa podataka</string>
   <string name="permission_fast_pairing">Da bi mogao pronaći uređaje u blizini, Mi Link se mora povezati s internetom i zahtijeva sljedeća dopuštenja:</string>
+  <string name="permission_get_audio_and_video_summary_settings">Za postavljanje fotografije profila i pregleda zvona (uključuje Postavke)</string>
   <string name="permission_get_imei_information_summary">Za prepoznavanje vremena aktivacije uređaja</string>
   <string name="permission_get_imei_information_summary_settings">Za prikaz informacija i specifikacija uređaja</string>
   <string name="permission_imei_service">Za pristup IMEI za pružanje usluga povezanih s vašim uređajem</string>

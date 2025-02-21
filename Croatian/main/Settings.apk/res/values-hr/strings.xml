@@ -1521,7 +1521,11 @@ Posljednji put pokrenuto %2$s"</string>
   <string name="back_navigation_animation_summary">Omogućuje animaciju kad korisnik napravi povratnu kretnju.</string>
   <string name="back_sensitivity_dialog_message">Veća osjetljivost može utjecati na pokrete u aplikacijama uz rub zaslona.</string>
   <string name="back_sensitivity_dialog_title">Osjetljivost stražnje strane</string>
+  <string name="back_strap_image_new_text">Uključite ovu značajku da biste dobili vizualne obavijesti i personalizirane svjetlosne efekte</string>
   <string name="back_strap_image_simplified_text">Kada je uređaj licem prema dolje s isključenim zaslonom, pozadinsko svjetlo prikazat će podsjetnike za obavijesti</string>
+  <string name="back_strap_off">Isključeno</string>
+  <string name="back_strap_on">Uključeno</string>
+  <string name="back_strap_on_back_light_display">Samo kada je ekran okrenut prema dolje</string>
   <string name="back_tap">Dodir iza</string>
   <string name="back_triple_tap">Trostruki dodir iza</string>
   <string name="background_activity_disabled_dialog_text">"Aplikacija nije postavljena za optimizaciju baterije, pa je ne možete ograničiti.
@@ -10314,6 +10318,8 @@ Svatko tko poveže vaš uređaj s računalom ili instalira zlonamjerne aplikacij
   <string name="process_stats_type_cached">Spremljeno u privremenu memoriju</string>
   <string name="process_stats_type_foreground">Prednji plan</string>
   <string name="processes_subtitle">Procesi</string>
+  <string name="product_page_name_des_super_ai">Vaš pametni osobni pomoćnik</string>
+  <string name="product_page_name_super_ai">Xiaomi Hyper XiaoAi</string>
   <string name="processor_info">Informacije o procesoru</string>
   <string name="profile_connect_timeout_subtext">Problem s povezivanjem. Isključite i ponovo uključite uređaj</string>
   <string name="profile_info_settings_title">Profilni podaci</string>
@@ -11314,6 +11320,7 @@ Da biste se koristili prikvačivanjem aplikacije: \u0009
   <string name="search_storage_settings">Pohrana;Memorija</string>
   <string name="search_sync_settings">Sinkr.;Auto;Wi-Fi samo</string>
   <string name="search_system_app_settings">Aplikacije sustava</string>
+  <string name="search_system_personalize_title">prezentacija pozadine;jutarnji pozdravi;Wallpaper Carousel;stil teme;teme;postavke teme;Pozadina zaključanog zaslona;Pozadina početnog zaslona;prozirne pozadine;Početni zaslon i pozadine;Xiaomi pozadine;prozirna pozadina;moje pozadine;online pozadine;melodije zvona;melodija telefona;tekstualna melodija zvona;poziv melodija zvona;postavke melodije zvona;melodija alarma;klizna pozadina;pozadina projekcije slajdova;pozadina prezentacije fotografija;dijaprojekcija vrtuljka pozadine;mrežne teme;zvuk punjenja;animacije punjenja;efekti otiska prsta;stil otiska prsta;otključavanje animacije;tema;personalizacija;personalizacija;pozadina;ikona;dinamička pozadina;efekti zaključanog zaslona;male ikone;čitanje način rada;anime;službene teme;odabrane teme;odabrane pozadine;uljepšavanje;omiljene pozadine;video pozadina;prilagođena melodija zvona;uzvratno zvono;zvukovi upozorenja;zvukovi obavijesti;tekstualno upozorenje;dugina baterija;popularne pozadine;punobojne pozadine;dinamički zaključani zaslon;efekti punjenja;multifunkcionalni zaključani zaslon;žiroskop;zaobljene ikone;linearne ikone;zaslon za zaključavanje glazbe;Početni zaslon efekti;dinamičke ikone;ručno nacrtane ikone;početni zaslon u slobodnom stilu;animacija zaključanog zaslona;animacija pri pokretanju;transparentna tema;zaslon za zaključavanje slajdova</string>
   <string name="search_tether">Dijeljenje veze &amp; prijenosni hotspot;Hotspot;Osobni Hotspot;Dijeli;Dijeljenje;Dijeli internet;Wi-Fi hotspot;Wifi hotspot;Wi-Fi hotspot</string>
   <string name="search_tether_settings_title_bluetooth">Dijeljenje veze Bluetoothom;Dijeli;Dijeljenje</string>
   <string name="search_tether_settings_title_usb">Dijeljenje veze USB-om;Dijeli;Dijeljenje;USB</string>
@@ -13872,6 +13879,7 @@ i Mi Mover uključen"</string>
   <string name="tv_media_transfer_earc_subtitle">Povezan putem eARC-a</string>
   <string name="tv_media_transfer_hdmi">HDMI izlaz</string>
   <string name="tv_media_transfer_internal_speakers">Unutarnji zvučnici</string>
+  <string name="twenty_four_select_time_format">24-satni format</string>
   <string name="tx_link_speed">%1$d Mbps</string>
   <string name="tx_link_speed_label">Brzina prijenosa:</string>
   <string name="tx_wifi_speed">Brzina prijenosa</string>

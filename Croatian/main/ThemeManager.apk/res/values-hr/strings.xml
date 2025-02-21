@@ -1108,6 +1108,7 @@ mm"</string>
   <string name="miuix_appcompat_select_all">Odaberite sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberite sve</string>
   <string name="miuix_appcompat_select_item">Odaberite stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_compat_contact">Kontakti</string>
   <string name="miuix_compat_dialog_button">Razumijem</string>
   <string name="miuix_compat_dialog_cancel">Odustani</string>
@@ -1119,6 +1120,7 @@ mm"</string>
   <string name="miuix_compat_mms">Poruke</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>

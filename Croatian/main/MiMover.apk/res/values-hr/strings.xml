@@ -244,6 +244,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="err_bakfile_broken">Ne mogu koristiti ovu Sig. kopiju.</string>
   <string name="err_bakfile_not_exist">Sig. kopija datoteke ne postoji.</string>
   <string name="err_binder_died">Aplikacija se neočekivano zaustavila.</string>
+  <string name="err_data_protection">Na starom uređaju uključena je napredna zaštita podataka. Potrebna je potvrda.</string>
   <string name="err_install_incompatible">Problem kompatibilnosti</string>
   <string name="err_low_storage">Nema dovoljno prostora za pohranu</string>
   <string name="err_no_gms">Nekompatibilna verzija aplikacije. Instalirajte ovu aplikaciju zasebno.</string>
@@ -461,6 +462,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>

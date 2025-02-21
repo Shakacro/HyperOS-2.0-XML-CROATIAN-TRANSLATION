@@ -76,6 +76,13 @@
   <string name="btn_share">Podijeli</string>
   <string name="btn_stop">Zaustavi</string>
   <string name="btn_yes">Da</string>
+  <string name="call_notification_answer_action">Odgovori</string>
+  <string name="call_notification_answer_video_action">Video</string>
+  <string name="call_notification_decline_action">Odbij</string>
+  <string name="call_notification_hang_up_action">Prekini vezu</string>
+  <string name="call_notification_incoming_text">Dolazni poziv</string>
+  <string name="call_notification_ongoing_text">Poziv u tijeku</string>
+  <string name="call_notification_screening_text">Provjera dolaznog poziva</string>
   <string name="button_delay_update_reboot">Ponovo pokreni &amp; ažuriraj</string>
   <string name="button_text_cancel">Odustani</string>
   <string name="button_text_check">Provjeri ima li ažuriranja</string>
@@ -517,6 +524,7 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">"Ne mogu ući u način rada za oporavak"</string>
   <string name="recovery_failed_title">Koristite Mi PC Suite za ažuriranje vašeg sustava</string>
   <string name="recovery_mode">Sada ste u Recovery načinu, možete flashati ROM-ove aplikacijom Ažuriranje!</string>
+  <string name="search_menu_title">Traži</string>
   <string name="recovery_power_need_plugged">Priključite punjač za ažuriranje</string>
   <string name="recovery_power_need_plugged_pad">Priključite punjač za ažuriranje</string>
   <string name="recovery_power_not_enough_msg">Napunite svoj uređaj do najmanje %s za ažuriranje.</string>

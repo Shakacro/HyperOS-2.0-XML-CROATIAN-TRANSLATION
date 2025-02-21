@@ -786,6 +786,7 @@ Podijelit ćemo više kada ponovno budete na mreži."</string>
   <string name="pref_title_clean_alert">Podsjeti za čišćenje</string>
   <string name="pref_title_cleanup_white_list">Iznimke</string>
   <string name="pref_title_create_onekeyclean_shortcut">Prikaži prečac na Poč. zaslonu</string>
+  <string name="pref_title_engine">Definicije skeniranja</string>
   <string name="pref_title_expand_cache_group">Prikaži stavke predmemorije</string>
   <string name="pref_title_garbage_cleanup_check_size">Ograničenje veličine smeća</string>
   <string name="pref_title_garbage_cleanup_check_time">Planirano</string>

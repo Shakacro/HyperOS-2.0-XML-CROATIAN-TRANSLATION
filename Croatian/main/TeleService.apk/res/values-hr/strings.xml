@@ -3359,11 +3359,11 @@ Potvrdite zadanu postavku računa za pozivanje."</string>
   <string name="telocation_number_type_tel">Fiksni</string>
   <string name="telocation_setting">Postavke lokcije</string>
   <string name="telocation_show_settings">Postavke zaslona</string>
-  <string name="tether_settings_title_all">Dijeljenje veze i žarišna točka</string>
+  <string name="tether_settings_title_all">Dijeljenje veze i hotspot</string>
   <string name="tether_settings_title_bluetooth">Dijeljenje Bluetoothom veze</string>
   <string name="tether_settings_title_usb">USB dijeljenje veze</string>
   <string name="tether_settings_title_usb_bluetooth">Dijeljenje veze</string>
-  <string name="tether_settings_title_wifi">Prijen. pristupna točka</string>
+  <string name="tether_settings_title_wifi">Hotspot</string>
   <string name="tethering_hardware_offload">Hardversko ubrzanje za modemsko povezivanje</string>
   <string name="tethering_hardware_offload_summary">Upotreba hardverskog ubrzanja za modemsko povezivanje ako je dostupno</string>
   <string name="tethering_settings_not_available">Postavke dijeljenja veze nisu dostupne ovom korisniku</string>

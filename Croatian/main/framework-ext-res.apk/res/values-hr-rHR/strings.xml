@@ -328,6 +328,7 @@
   <string name="launch_wechat_payment_code">WeChat kod plaćanja</string>
   <string name="launch_wechat_scanner">WeChat skener</string>
   <string name="leisure">Dodatno vrijeme</string>
+  <string name="linked_wallpaper">Skupovi slika pozadine</string>
   <string name="livetalk_not_enable">Paket nadoplate isključen</string>
   <string name="location_usage_restricted_body">Dodirnite za dopustiti.</string>
   <string name="location_usage_restricted_title">Pozadinsko lociranje je ograničeno</string>
@@ -631,8 +632,10 @@
   <string name="talk_back_conflict_with_handy_mode">"Ne može se koristiti Rad jednom rukom kada je TalkBack uključen"</string>
   <string name="talk_back_water_mark_string1">TalkBack je uključen</string>
   <string name="talk_back_water_mark_string2">Pritisnite i držite \"Glasnoća +\" i \"Glasnoća -\" na 3 sekunde da ga isključite</string>
-  <string name="three_gesture_down">Prevucite s 3 prsta prema dolje</string>
-  <string name="three_gesture_horizontal">Prevucite vodoravno s %d prsta</string>
+  <string name="theme_titile_classis">Klasično</string>
+  <string name="theme_titile_classis_scenery">Prizor</string>
+  <string name="three_gesture_down">Povucite s 3 prsta prema dolje</string>
+  <string name="three_gesture_horizontal">Povucite vodoravno s %d prsta</string>
   <string name="three_gesture_long_press">Pritisnite i držite s %d prsta</string>
   <string name="three_gesture_pc_mode">Uključi PC način</string>
   <string name="throwing_print">Ispiši</string>
@@ -640,8 +643,7 @@
   <string name="toast_camera_satellite_mutually_exclusive">"Ne mogu koristiti kameru dok se korist satelitska komunikacija"</string>
   <string name="tip_close_screen_phone">Prebacite se na handsfree ili sklopite uređaj da biste koristili ugrađeni zvučnik</string>
   <string name="tip_for_phone_and_camera">Preklopite svoj uređaj za korištenje ugrađenog zvučnika ili prednje kamere</string>
-  <string name="tip_use_front_camera">Sklopite uređaj da 
-	
+  <string name="tip_use_front_camera">Sklopite uređaj da 	
 biste koristili prednju kameru</string>
   <string name="tips_prompt_enable_midrop">Mi Share</string>
   <string name="toast_mic_muted">Mikrofon je isključen</string>

@@ -91,11 +91,18 @@
   <string name="ai_when_mistake_title">Došlo je do greške. Pokušajte ponovno.</string>
   <string name="ai_writing_invite_beta_testing_content">Ova značajka koristi velike mogućnosti modela za lektoriranje, proširenje, sažetak i poliranje vašeg teksta. Također možete unijeti upite i pustiti AI da piše umjesto vas. Dodirnite \"Slažem se\" da isprobate!</string>
   <string name="ai_writing_invite_beta_testing_title">Beta testiranje AI pisanja</string>
+  <string name="aicr_download_confirm">Preuzimanje</string>
+  <string name="aicr_download_content">Preuzmite potrebne velike modele kako biste mogli koristiti značajke AI pisanja. Preuzeti sada?</string>
+  <string name="aicr_download_title">Preuzmi veliki model</string>
   <string name="ai_check">Lektura umjetnom inteligencijom</string>
   <string name="ai_failed">"Nije moguće generirati. Pokušajte ponovo."</string>
   <string name="ai_feature_disabled">Više puta ste prekršili naše standarde zajednice. Ova značajka više nije dostupna.</string>
   <string name="ai_label">Značajke umjetne inteligencije</string>
   <string name="ai_layout">Izgled umjetne inteligencije</string>
+  <string name="ai_local_device_low_battery_title">Niska baterija. Napunite i pokušajte ponovno.</string>
+  <string name="ai_local_device_over_heat_title">Uređaj se pregrijao. Pokušajte ponovno kasnije.</string>
+  <string name="ai_local_language_unsupported_title">"Ovaj jezik nije podržan"</string>
+  <string name="ai_local_network_error_title">Povežite se na mrežu i pokušajte ponovo</string>
   <string name="ai_result_warn">Gornji sadržaj generirao je umjetna inteligencija. Točnost može varirati.</string>
   <string name="ai_search_database_building_progress">Analiziranje bilješki radi pružanja preciznijih rezultata…</string>
   <string name="ai_sensitive_content_warn">"Ne mogu koristiti AI značajke za osjetljiv ili neprikladan sadržaj"</string>
@@ -575,6 +582,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_item_view_role_description">Kartica</string>
@@ -1024,8 +1032,10 @@ Dodirnite + da napravite mapu"</string>
   <string name="toast_reach_text_limit_checkbox">"Nije moguće dodati potvrdni okvir jer je bilješka predugačka"</string>
   <string name="toast_reach_text_limit_truncate">Bilješka je predugačka. Dio teksta je odsječen na kraju.</string>
   <string name="toast_refuse_to_record_when_in_call">"Nije moguće koristiti ovu značajku tijekom poziva"</string>
+  <string name="toast_refuse_to_record_when_in_call_new">"Nije moguće snimati zvuk tijekom poziva"</string>
   <string name="toast_refuse_to_record_when_in_multi_window">"Nije moguće koristiti ovu značajku u Podijeljenom zaslonu"</string>
   <string name="toast_refuse_to_record_when_in_multi_window_new">"Nije moguće koristiti ovu značajku na podijeljenom zaslonu ili plutajućim prozorima"</string>
+  <string name="toast_refuse_to_record_when_mic_in_use">"Nije moguće snimati zvuk dok je mikrofon u upotrebi"</string>
   <string name="toast_refuse_to_use_contact">"Dopuštenja za kontakte su ograničena.
 Dopustite aplikaciji Bilješke čitanje vaših kontakata i pronalaze račune na uređaju."</string>
   <string name="toast_refuse_to_use_external_storage">"Dopuštenja za pohranu su ograničena.
