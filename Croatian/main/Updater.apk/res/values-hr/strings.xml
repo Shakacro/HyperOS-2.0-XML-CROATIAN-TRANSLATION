@@ -524,7 +524,6 @@ http://zhushou.xiaomi.com"</string>
   <string name="recovery_failed_notification_msg">"Ne mogu ući u način rada za oporavak"</string>
   <string name="recovery_failed_title">Koristite Mi PC Suite za ažuriranje vašeg sustava</string>
   <string name="recovery_mode">Sada ste u Recovery načinu, možete flashati ROM-ove aplikacijom Ažuriranje!</string>
-  <string name="search_menu_title">Traži</string>
   <string name="recovery_power_need_plugged">Priključite punjač za ažuriranje</string>
   <string name="recovery_power_need_plugged_pad">Priključite punjač za ažuriranje</string>
   <string name="recovery_power_not_enough_msg">Napunite svoj uređaj do najmanje %s za ažuriranje.</string>

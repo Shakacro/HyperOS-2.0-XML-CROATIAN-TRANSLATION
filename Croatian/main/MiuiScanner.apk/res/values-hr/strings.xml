@@ -50,6 +50,9 @@
   <string name="all_text">Cijeli tekst</string>
   <string name="already_ocr_result">Automatski odabrane stavke</string>
   <string name="always">Uvijek</string>
+  <string name="aon_no_network_tip">Uključite Wi-Fi ili mobilne podatke i pokušajte ponovno</string>
+  <string name="aon_pay_setting_default_des">Zadani način plaćanja</string>
+  <string name="aon_recognize_code_des">QR kod prepoznat</string>
   <string name="app_description_content">Skener vam omogućuje skeniranje QR kodova, dokumenata, posjetnica i još mnogo toga.</string>
   <string name="app_description_title">O Skeneru</string>
   <string name="app_details">Aplik:</string>
@@ -61,7 +64,7 @@
   <string name="barcode_into_rectangle">Poravnajte kod unutar okvira da skenirate</string>
   <string name="birthday">Rođendan:</string>
   <string name="black_and_white">B&amp;W</string>
-  <string name="blog">Weibo</string>
+  <string name="bluetooth_auracast_fg_title">Audioemitiranje</string>
   <string name="btn_add_schedule">Dodaj događaj</string>
   <string name="btn_send_email">Pošalji e-poštu</string>
   <string name="btn_send_message">Pošalji SMS</string>
@@ -384,6 +387,9 @@
   <string name="mihome_install_title">Instaliraj Mi Home</string>
   <string name="mihome_update_message">Ažurirajte Mi Home na najnoviju verziju i pokušajte ponovo.</string>
   <string name="mihome_update_title">Ažuriraj Mi Home</string>
+  <string name="milink_toast_des">"Vaš uređaj ne pokreće Xiaomi HyperOS. Umjesto toga skenirajte QR kod koji nije Xiaomi HyperOS."</string>
+  <string name="milink_update_des">Ažurirajte Xiaomi Interconnectivity Services na najnoviju verziju u GetApps, a zatim pokušajte ponovno.</string>
+  <string name="milink_update_title">Ažuriraj</string>
   <string name="mipayin_dialog_more">Više</string>
   <string name="mipayin_dialog_title">Otvori sa</string>
   <string name="miracast_connect">Emitiraj</string>
@@ -411,6 +417,7 @@
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -928,7 +935,7 @@ Umjesto toga skenirajte nešto drugo."</string>
   <string name="waybill_num">"Narudžba: "</string>
   <string name="web">Web stranica:</string>
   <string name="web_url">URL</string>
-  <string name="web_url_confirm_content">QR kod koji skenirate odvest će do veze koja može biti rizična. Može biti povezano sa zlonamjernim web stranicama ili mrežnim zamkama, koje mogu naštetiti sigurnosti vašeg uređaja ili osobnoj privatnosti. Ako odlučite nastaviti, potvrdite da u potpunosti razumijete uključene rizike.</string>
+  <string name="web_url_confirm_content">Ovaj QR kod vodi do opasne veze koja može naštetiti sigurnosti vašeg uređaja ili vašoj privatnosti. Ako odlučite nastaviti, potvrdite da u potpunosti razumijete ove rizike.</string>
   <string name="web_url_confirm_title">Sigurnosna obavijest</string>
   <string name="website_details">Web stranica:</string>
   <string name="wechat_pay">WeChat Pay</string>

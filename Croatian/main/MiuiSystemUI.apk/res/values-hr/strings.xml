@@ -731,6 +731,7 @@ Dodirnite za ponovno postavljanje"</string>
   <string name="connected_via_network_scorer_default">Automatski povezan putem ocjenjivača mreže</string>
   <string name="connected_via_passpoint">Povezano putem %1$s</string>
   <string name="connected_with_car">Povezan s vozilom</string>
+  <string name="connected_with_mijia_camera">Korištenje Xiaomi Home kamere</string>
   <string name="connected_with_pad">Povezan s tabletom</string>
   <string name="connected_with_pc">Povezan s računalom</string>
   <string name="connected_with_phone">Povezan s telefonom</string>
@@ -2926,6 +2927,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="status_bar_date_format_12">"EEEE
  dd.MM."</string>
   <string name="status_bar_ethernet">Ethernet</string>
+  <string name="status_bar_next_alarm">Alarm će se isključiti u %1$s</string>
   <string name="status_bar_settings_auto_rotation">Automatski zakreni zaslon</string>
   <string name="status_bar_work">Poslovni profil</string>
   <string name="status_before_loading">Sadržaj će se uskoro prikazati</string>
@@ -3198,6 +3200,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="user_switch_to_user">Prelazak na korisnika %s</string>
   <string name="using_camera">Ova aplikacija koristi kameru</string>
   <string name="using_camera_and_microphone">Ova aplikacija snima zvuk i koristi kameru</string>
+  <string name="using_glasses">Korištenje naočala</string>
   <string name="using_microphone">Ova aplikacija snima zvuk</string>
   <string name="using_house_play">Korištenje reprodukcije cijele kuće</string>
   <string name="using_sound_box">Korištenje zvučnika</string>

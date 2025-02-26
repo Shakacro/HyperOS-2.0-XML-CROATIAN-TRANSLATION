@@ -269,7 +269,7 @@ Xiaomi će obraditi sadržaj obavijesti i poruka (uključujući sve privatne pod
   <string name="privacy_text">"Xiaomi mora pristupiti i obraditi sadržaj obavijesti (koji može uključivati ​​privatne podatke) kako bi pružio ovu značajku, ali Xiaomi neće pohranjivati ​​te informacije."</string>
   <string name="privacy_text_with_link"><Data>Pročitajte naša &lt;a href=https://privacy.mi.com/AISummary/en_US/>AI Briefing Pravila o privatnosti&lt;/a></Data><Data> da biste razumjeli kako upravljamo vašim podacima. Za više informacija o ovoj usluzi, pogledajte naš &lt;a href=https://terms.miui.com/doc/AiListSummary.html?lang=en_US>AI Briefing Korisnički ugovor&lt;/a>.</Data></string>
   <string name="privacy_title">Odredbe i uvjeti</string>
-  <string name="rule_keyguard_display">Format</string>
+  <string name="rule_keyguard_display">%s preferenci</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
