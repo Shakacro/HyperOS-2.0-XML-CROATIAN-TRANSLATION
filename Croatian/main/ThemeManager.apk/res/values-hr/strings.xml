@@ -870,7 +870,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="kg_dialog_fashion_gallery_message">"Trenutačno koristite vrtuljak za pozadinu. Primjena dinamične pozadine isključit će vrtuljak za pozadinu. Želite li svejedno primijeniti?"</string>
   <string name="kg_dialog_fashion_gallery_title">Pažnja</string>
   <string name="kg_dialog_fontfilter_dualclock_button">"Ne mogu uređivati ​​font kada je uključen dvostruki sat"</string>
-  <string name="kg_dialog_no_content_available_the_moment">Još ništa ovdje</string>
+  <string name="kg_dialog_no_content_available_the_moment">Ovdje nema ništa</string>
   <string name="kg_dialog_too_much_time_blocking">"Sat je zaklonjen. Ne mogu koristiti efekt dubine."</string>
   <string name="kg_discard_changes_text">Odbaciti promjene?</string>
   <string name="kg_doodle_font_label">Crteži</string>

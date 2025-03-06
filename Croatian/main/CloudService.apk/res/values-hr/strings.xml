@@ -51,6 +51,8 @@
   <string name="button_cancel">Odustani</string>
   <string name="button_quit">Izlaz</string>
   <string name="button_revoke">Povlačenje</string>
+  <string name="calendar_sync_item_permission">kalendar</string>
+  <string name="call_log_sync_item_permission">povijest poziva</string>
   <string name="check_contact">Dodaj</string>
   <string name="choose_contact_title">Kontakti</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
@@ -104,6 +106,7 @@
   <string name="connect_wlan">Povežite se na Wi-Fi</string>
   <string name="connect_wlan_china">Povežite se na Wi-Fi</string>
   <string name="contact_alert_sync_data_merge_dialog_msg">Ako uključite sinkronizaciju, kontakti preneseni s ovog uređaja spojit će se s kontaktima pohranjenim u cloudu. Želite li ipak uključiti sinkronizaciju?</string>
+  <string name="contacts_sync_item_permission">kontakti</string>
   <string name="copy">Kopiraj</string>
   <string name="creation_dialog_message">Pogledajte Mi Canvas podatke na svom tabletu.</string>
   <string name="creation_dialog_positive_btn">U redu</string>
@@ -188,7 +191,7 @@
   <string name="e2ee_device_verification_os_tip">Ažuriranje na Xiaomi HyperOS 2 ili noviji</string>
   <string name="e2ee_device_verification_result_subtitle">"Uređaji koji su odjavljeni s vašeg Xiaomi računa neće moći koristiti Xiaomi Cloud i druge povezane usluge dok se ponovno ne prijave."</string>
   <string name="e2ee_device_verification_result_title">Svi uređaji su odjavljeni</string>
-  <string name="e2ee_device_verification_tip">Uklonite ovaj uređaj sa svog računa</string>
+  <string name="e2ee_device_verification_tip">Dodirnite ovdje za uklanjanje ovog uređaja</string>
   <string name="e2ee_dialog_close_subtitle">Podaci zaštićeni ovom značajkom više neće podržavati end-to-end enkripciju, a napredna zaštita podataka bit će isključena na svim uređajima.</string>
   <string name="e2ee_dialog_close_title">Isključi naprednu zaštitu podataka</string>
   <string name="e2ee_dialog_exit_account_subtitle">"Kada je uređaj odjavljen, napredna zaštita podataka automatski se isključuje. To neće utjecati na druge uređaje. Kada se ponovno prijavite, morat ćete ponovno uključiti ovu značajku." </string>
@@ -206,6 +209,9 @@
   <string name="e2ee_loading_close">Isključivanje…</string>
   <string name="e2ee_loading_open">Uključivanje…</string>
   <string name="e2ee_name_data_protection">Napredna zaštita podataka</string>
+  <string name="e2ee_need_bind_phone_button_sure">Razumijem</string>
+  <string name="e2ee_need_bind_phone_subtitle">"Niste dodali telefonski broj za oporavak. Ako zaboravite zaporku, nećete se moći prijaviti. Dodajte telefonski broj za oporavak da biste mogli dohvatiti svoju zaporku."</string>
+  <string name="e2ee_need_bind_phone_title">Dodaj telefon za oporavak</string>
   <string name="e2ee_result_close">Napredna zaštita podataka je isključena</string>
   <string name="e2ee_result_close_failed">"Nije moguće isključiti"</string>
   <string name="e2ee_result_close_failed_tip">"Nije moguće isključiti ovu značajku. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
@@ -255,7 +261,7 @@
   <string name="find_device">Pronađi uređaj</string>
   <string name="find_device_dspt_provision">"Ako izgubite svoj uređaj, možete ići na &lt;font color=#0097FF&gt;%s&lt;/font&gt; kako biste ga locirali, zaključali ili poništili.
  Možete uključiti/isključiti tu značajku bilo kada u Postavkama."</string>
-  <string name="find_device_gdpr_prompt">"BUključivanjem značajke Pronađi uređaj, prihvaćate naša "<a href="app://com.miui.cloudservice.gdpr.license"><u>Pravila o privatnosti</u></a>. Isključite ovu značajku ako želite povući svoju suglasnost.</string>
+  <string name="find_device_gdpr_prompt">"Uključivanjem značajke Pronađi uređaj, prihvaćate naša "<a href="app://com.miui.cloudservice.gdpr.license"><u>Xiaomi Cloud Pravila o privatnosti</u></a>. Za povlačenje suglasnosti na Pravila privatnosti isključite ovu značajku.</string>
   <string name="find_device_operation_failure_rpc">"Nije moguće izvršiti radnju zbog RPC pogreške."</string>
   <string name="find_device_permissions_footer">"Dodirnite \"Odobri\" da biste dodijelili dopuštenja koja ste odabrali."</string>
   <string name="find_device_permissions_header">"Dobro došli u Pronađi uređaj! Ovu aplikaciju možete koristiti za lociranje, praćenje i zaključavanje svog uređaja ako ga izgubite. Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje. Za normalan rad ova aplikacija zahtijeva sljedeća dopuštenja:"</string>
@@ -280,9 +286,9 @@ Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje."</s
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
-  <string name="gallery_auto_sync_fail_international_noti_content">Nema dovoljno prostora za pohranu u cloudu</string>
-  <string name="gallery_auto_sync_fail_noti_content">"Nema dovoljno prostora za pohranu u cloudu. Ne mogu spremiti fotografije."</string>
-  <string name="gallery_auto_sync_fail_noti_content_lite">"Nema dovoljno prostora za pohranu u cloudu. Ne mogu se spremiti fotografije."</string>
+  <string name="gallery_auto_sync_fail_international_noti_content">"Nedovoljno prostora za pohranu. Ne mogu dovršiti sinkronizaciju fotografija."</string>
+  <string name="gallery_auto_sync_fail_noti_content">"Nedovoljno prostora za pohranu u cloudu. Ne mogu spremiti fotografije."</string>
+  <string name="gallery_auto_sync_fail_noti_content_lite">"Nedovoljno prostora za pohranu u cloudu. Ne mogu se spremiti fotografije."</string>
   <string name="gallery_data_transfer_ddl">Rok: %s</string>
   <string name="gallery_data_transfer_summary">"Stavke iz galerije više se ne mogu sinkronizirati s Xiaomi Cloudom. Preporučujemo da fotografije i videozapise koje ste sinkronizirali s oblakom prenesete na Google fotografije i koristite njihove usluge za sigurnosno kopiranje svojih stavki."</string>
   <string name="gallery_data_transfer_title">Prijenos sinkroniziranih fotografija i videozapisa u Google fotografije</string>
@@ -473,9 +479,9 @@ Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje."</s
   <string name="micloud_manual_all_sync_off_title">Sinkr. je isključena</string>
   <string name="micloud_manual_buy_vip">Dobijte više prostora za pohranu</string>
   <string name="micloud_manual_cloud_storage_full_button_text">Dobijte više prostora za pohranu</string>
-  <string name="micloud_manual_cloud_storage_full_international_summary">"Ne mogu sinkronizirati fotografije, kontakte i druge stavke."</string>
+  <string name="micloud_manual_cloud_storage_full_international_summary">"Ne mogu sinkronizirati fotografije i kontakte."</string>
   <string name="micloud_manual_cloud_storage_full_summary">"Ne mogu se sinkronizirati fotografije, kontakti i druge stavke. Nadogradite svoj plan ili oslobodite prostor za pohranu."</string>
-  <string name="micloud_manual_cloud_storage_full_title">"Ne mogu se sinkronizirati. Nema dovoljno prostora za pohranu u Xiaomi Cloudu."</string>
+  <string name="micloud_manual_cloud_storage_full_title">"Ne mogu se sinkronizirati. Nedovoljno prostora za pohranu u Xiaomi Cloudu."</string>
   <string name="micloud_manual_cloud_storage_low_button_text">Dobijte više prostora za pohranu</string>
   <string name="micloud_manual_cloud_storage_low_summary">Ponestaje prostora u Xiaomi Cloudu</string>
   <string name="micloud_manual_cloud_storage_low_title">Sinkronizirano</string>
@@ -511,7 +517,7 @@ Također možete anonimno pomoći drugima da lociraju svoje Xiaomi uređaje."</s
   <string name="micloud_notif_content_dirty_data">Pojedinosti</string>
   <string name="micloud_notif_content_master_depend_wifi">Povežite se na Wi-Fi ili promijenite postavke sinkronizacije. Dodirnite za promjenu.</string>
   <string name="micloud_notif_content_master_depend_wifi_china">Povežite se na Wi-Fi ili promijenite postavke sinkronizacije. Dodirnite za promjenu.</string>
-  <string name="micloud_notif_content_memory_low">Nema dovoljno prostora za pohranu.</string>
+  <string name="micloud_notif_content_memory_low">Nedovoljno prostora za pohranu.</string>
   <string name="micloud_notif_content_multi_user_error">Prijavili ste se s istim računom kao u Prvom prostoru.</string>
   <string name="micloud_notif_content_privacy_reopen_failed">Prikaži detalje</string>
   <string name="micloud_notif_content_sync_not_finish">Pojedinosti</string>
@@ -579,7 +585,7 @@ Provjerite koristite li povezani Xiaomi račun kao svoj MIUI račun."</string>
   <string name="micloud_sync_alert_dialog_title">Koristi Xiaomi Cloud</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync">Sinkroniziraj samo kontakte, događaje kalendara i bilješke. Da biste sinkronizirali više stavki, idite na Xiaomi Cloud postavke.</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync_pad">Sinkroniziraj samo događaje i bilješke u kalendaru. Za sinkronizaciju više stavki idite na Xiaomi Cloud postavke.</string>
-  <string name="micloud_sync_result_cloud_storage_full">"Ne mogu se sinkronizirati. Nema dovoljno prostora za pohranu u Xiaomi Cloudu."</string>
+  <string name="micloud_sync_result_cloud_storage_full">"Ne mogu se sinkronizirati. Nedovoljno prostora za pohranu u Xiaomi Cloudu."</string>
   <string name="micloud_sync_result_common_message">"Sinkronizacija je prekinuta. Pokušajte ponovno."</string>
   <string name="micloud_sync_result_cta_permission_error">Dopustite povezivanje na mrežu da možete sinkronizirati</string>
   <string name="micloud_sync_result_get_sim_info_error">"Ne mogu dobiti informacije o SIM kartici. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
@@ -618,6 +624,7 @@ Provjerite koristite li povezani Xiaomi račun kao svoj MIUI račun."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -678,9 +685,9 @@ Provjerite koristite li povezani Xiaomi račun kao svoj MIUI račun."</string>
   <string name="noti_quota_full_title_without_button">Cloud pohrana je puna</string>
   <string name="noti_quota_low_sum">Nadogradite vaš plan pohrane za nastavak sinkroziranja stavki.</string>
   <string name="noti_quota_low_sum_without_button">Nabavite više prostora za pohranu za nastavak sinkroziranja stavki.</string>
-  <string name="noti_quota_low_title">Nema dovoljno prostora u Cloud pohrani</string>
+  <string name="noti_quota_low_title">Nedovoljno prostora u Cloud pohrani</string>
   <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424&gt;Preostalo je manje od &lt;xliff:g id=remaining_storage_space example=0.5&gt;%s&lt;/xliff:g&gt; GB&lt;/font&gt; Cloud pohrane</string>
-  <string name="noti_quota_low_title_without_button">Nema dovoljno prostora u Cloud pohrani</string>
+  <string name="noti_quota_low_title_without_button">Nedovoljno prostora u Cloud pohrani</string>
   <string name="notification_sync_fail_title">"Ne mogu sinkronizirati"</string>
   <string name="notification_update_key_text">Vaša je zaporka poništena</string>
   <string name="offline_find_action_open">Uključi</string>
@@ -770,6 +777,8 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="privacy_runtime_perm_contacts_title">Pristup i uređivanje kontakata</string>
   <string name="privacy_runtime_perm_external_storage_desc">Za sinkronizaciju profilnih fotografija kontakata</string>
   <string name="privacy_runtime_perm_external_storage_title">Pristup pohrani</string>
+  <string name="privacy_runtime_perm_get_installed_apps_desc">Za sinkronizaciju podataka aplikacije</string>
+  <string name="privacy_runtime_perm_get_installed_apps_title">Pristup podacima aplikacije</string>
   <string name="privacy_runtime_perm_notification_desc">Za slanje obavijesti usluga Xiaomi Clouda</string>
   <string name="privacy_runtime_perm_notification_title">Obavijesti</string>
   <string name="privacy_runtime_perm_phone_state_desc">Za pristup telefonskom broju i statusu uređaja</string>
@@ -794,6 +803,9 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="recommend_service_cloudservice_description">Sinkronizirajte podatke aplikacije sustava, postavke Sig. kopije, izgled Poč. zaslona i još mnogo toga</string>
   <string name="recommend_service_sharelocation_description">Pronađite, zaključajte i izbrišite podatke na uređajima koji nedostaju i podijelite lokaciju s prijateljima i obitelji</string>
   <string name="recommend_service_title">Preporučene usluge</string>
+  <string name="request_manual_notification_permission_labels">Kako biste bili sigurni da ćete primati važne obavijesti, dopustite ovoj aplikaciji da šalje obavijesti u Postavkama.</string>
+  <string name="request_manual_various_permissions_labels_exclude_notification_permission">Kako biste bili sigurni da se važni podaci (%1$s) mogu sinkronizirati s cloudom, dodijelite ovoj aplikaciji sljedeća dopuštenja u postavkama: %2$s.</string>
+  <string name="request_manual_various_permissions_labels_include_notification_permission">Kako biste bili sigurni da primate važne obavijesti i da se važni podaci (%1$s) mogu sinkronizirati s cloudom, dopustite ovoj aplikaciji da šalje obavijesti i dodijelite sljedeća dopuštenja u Postavkama: %2$s.</string>
   <string name="retain_data_high_quality_photo_waring_message">Slike visoke kvalitete izbrisat će se iz vaše galerije nakon što se odjavite. Odgovarajuće izvorne datoteke i dalje će biti pohranjene u cloudu. Izvorne datoteke možete preuzeti i prije odjave.</string>
   <string name="retain_data_high_quality_photo_waring_title">"Slike visoke kvalitete neće biti dostupne"</string>
   <string name="revoke_block_by_find_device">"Povlačenjem suglasnosti također će se isključiti Pronađi uređaj. Morat ćete potvrditi svoju zaporku nakon što nastavite."</string>
@@ -808,6 +820,9 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="request_os_permissions_dialog_neg_button">"Ne prihvaćam"</string>
   <string name="request_os_permissions_dialog_pos_button">Prihvaćam</string>
   <string name="request_os_permissions_dialog_title">Potrebna dopuštenja</string>
+  <string name="request_permissions_dialog_negative_button_mes">Ne sada</string>
+  <string name="request_permissions_dialog_positive_button_mes">Shvaćam</string>
+  <string name="request_permissions_labels">"Izgleda da niste dopustili Xiaomi Cloudu pristup sljedećim vrstama informacija: %1$s. Kako biste bili sigurni da se sve stavke mogu normalno sinkronizirati s cloudom, dodijelite Xiaomi Cloudu sljedeća dopuštenja: %2$s."</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
@@ -918,6 +933,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
   <string name="sina_share_success">Poslano</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao, ponovno dodajte račun.</string>
   <string name="sina_token_invalid_warning">Weibo račun je nevažeći, ponovno dodajte račun.</string>
+  <string name="sms_sync_item_permission">poruke</string>
   <string name="soundrecorder_sync_only_in_wifi">Koristi samo Wi-Fi za sinkr.</string>
   <string name="soundrecorder_sync_only_in_wifi_china">Koristi samo Wi-Fi za sinkr.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Snimač neće koristiti mobilne podatke za preuzimanje ili učitavanje snimaka</string>

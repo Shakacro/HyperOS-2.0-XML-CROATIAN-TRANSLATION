@@ -407,6 +407,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
@@ -1111,6 +1112,9 @@ Skenirajte donji kod pomoću Xiaomi aplikacije."</string>
 "</Data></string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="wear_account_auth_failed_message">"Slijedite ove korake za ponovnu prijavu:
+%1$d. Povežite telefon i nosivi uređaj.
+%2$d. Otvorite Mi Fitness i prijavite se."</string>
   <string name="vip_account_settings">Vip Postavke</string>
   <string name="vip_settings_info">VIP postavke</string>
   <string name="wednesday">Srijeda</string>

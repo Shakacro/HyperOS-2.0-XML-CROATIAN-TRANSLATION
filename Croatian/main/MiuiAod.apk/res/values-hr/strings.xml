@@ -68,6 +68,7 @@ dd.MM."</string>
   <string name="aod_mode_time_summary">Raspored vremena za uključivanje/isključivanje Always-ono načina</string>
   <string name="aod_mode_time_title">Raspored</string>
   <string name="aod_mode_title">Always-on zaslon</string>
+  <string name="aod_multi_window_not_support">"Ova radnja nije podržana na podijeljenom zaslonu"</string>
   <string name="aod_notification_use_app_icon">Koristi ikone aplikacija za obavijesti</string>
   <string name="aod_preview_title">Pregled</string>
   <string name="aod_resting_screen_define">Prilagođeno</string>
@@ -314,6 +315,7 @@ dd.MM."</string>
   <string name="kg_function_button_text_hierarchy">Dubina</string>
   <string name="kg_function_button_text_lang">Jezik</string>
   <string name="kg_function_button_text_wallpaper">Pozadina</string>
+  <string name="kg_gallery_reset_magic_type_tips">"Nije moguće postaviti efekte pri korištenju dijaprojekcije pozadine. Vraćena izvorna slika."</string>
   <string name="kg_glass_filter_on_time">Primijeni na sat</string>
   <string name="kg_guidance_dialog_positive_button_text_next_step">Dalje</string>
   <string name="kg_guidance_dialog_positive_button_text_start">Početak</string>
@@ -457,8 +459,10 @@ mm"</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_select_all_description">Odaberi sve</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
+  <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_popup_window_default_title">Skočni prozor</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>

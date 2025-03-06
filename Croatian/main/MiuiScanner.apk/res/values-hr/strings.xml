@@ -420,7 +420,7 @@
   <string name="miuix_appcompat_show_dialog_description">Skočni prozor</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povucite za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
   <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Otpusti za osvježiti</string>
@@ -631,7 +631,7 @@
   <string name="ppt_loading_moire">Samo trenutak…</string>
   <string name="ppt_loading_processing">Samo trenutak…</string>
   <string name="ppt_loading_recovery">Oporavak…</string>
-  <string name="ppt_preview_bottom_tips">*Povucite slajdove da biste im promijenili raspored</string>
+  <string name="ppt_preview_bottom_tips">*Povucitete slajdove da biste im promijenili raspored</string>
   <string name="ppt_preview_color">Uređivanje fotografije</string>
   <string name="ppt_preview_color_enhance">Poboljšaj</string>
   <string name="ppt_preview_color_moire">Ukloni moiré</string>

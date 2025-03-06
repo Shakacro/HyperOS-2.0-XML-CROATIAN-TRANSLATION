@@ -351,7 +351,7 @@ Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
   <string name="support_device_type">Podržani uređaji</string>
-  <string name="switch_mode_all">Od bilo koga (za %dm)</string>
+  <string name="switch_mode_all">Od bilo koga (za %d min.)</string>
   <string name="switch_mode_close">Isključeno</string>
   <string name="switch_mode_sameaccount">S ovog računa</string>
   <string name="throwing_print">Ispis</string>

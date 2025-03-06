@@ -120,6 +120,10 @@
         <item quantity="other">Poslano %1$d slika na %2$s</item>
         <item quantity="one">Poslana %1$d slika na %2$s</item>
     </plurals>
+	<plurals name="send_file_success_detail_live_photos_content">
+        <item quantity="other">Poslano %1$d fotografija uživo na %2$s</item>
+        <item quantity="one">Poslana %1$d fotografija uživo na %2$s</item>
+    </plurals>
     <plurals name="send_files_to_device_files">
         <item quantity="other">Priprema za slanje %2$d datoteka u %1$s…</item>
         <item quantity="one">Priprema za slanje %2$d datoteke u %1$s…</item>
@@ -128,6 +132,10 @@
         <item quantity="other">Priprema za slanje %2$d slika u %1$s…</item>
         <item quantity="one">Priprema za slanje %2$d slike u %1$s…</item>
     </plurals>
+	<plurals name="send_files_to_device_live_photos">
+        <item quantity="other">Priprema za slanje %2$d fotografija uživo %1$s…</item>
+        <item quantity="one">Priprema za slanje %2$d fotografije uživo na %1$s…</item>
+ </plurals>
     <plurals name="send_image_dialog_desc">
         <item quantity="other">%2$d slika od %1$s</item>
         <item quantity="one">%2$d slika od %1$s</item>
@@ -151,6 +159,18 @@
     <plurals name="send_image_video_dialog_desc_receiving">
         <item quantity="other">Primanje %2$d slika i videozapisa od %1$s…</item>
         <item quantity="one">Primanje %2$d slike ili videozapisa od %1$s…</item>
+    </plurals>
+	<plurals name="send_live_photo_dialog_desc">
+        <item quantity="other">%1$s vam je poslao %2$d fotografija uživo</item>
+       <item quantity="one">%1$s vam je poslao %2$d fotografiju uživo</item>
+    </plurals>
+    <plurals name="send_live_photo_dialog_desc_received">
+       <item quantity="other">Primljeno %2$d fotografija uživo od %1$s</item>
+       <item quantity="one">Primljena %2$d fotografija uživo od %1$s</item>
+   </plurals>
+   <plurals name="send_live_photo_dialog_desc_receiving">
+       <item quantity="other">Primanje %2$d fotografija uživo od %1$s</item>
+       <item quantity="one">Primanje %2$d fotografije uživo od %1$s</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc">
         <item quantity="other">%2$d datoteka od %1$s</item>
@@ -196,6 +216,10 @@
         <item quantity="other">Primljeno %1$d fotografija</item>
         <item quantity="one">Primljena %1$d fotografija</item>
     </plurals>
+	<plurals name="share_notification_receive_confirm_title_live_photo">
+        <item quantity="other">Primanje %1$d fotografija uživo</item>
+        <item quantity="one">Primanje %1$d fotografije uživo</item>
+    </plurals>
     <plurals name="share_notification_receive_confirm_title_video">
         <item quantity="other">Primljeno %1$d videozapisa</item>
         <item quantity="one">Primljen %1$d videozapis</item>
@@ -207,6 +231,10 @@
     <plurals name="share_notification_receiving_title_image">
         <item quantity="other">Primanje %1$d fotografija</item>
         <item quantity="one">Primanje %1$d fotografije</item>
+    </plurals>
+	<plurals name="share_notification_receiving_title_live_photo">
+        <item quantity="other">Primanje %1$d fotografija uživo</item>
+        <item quantity="one">Primanje %1$d fotografije uživo</item>
     </plurals>
     <plurals name="share_notification_receiving_title_video">
         <item quantity="other">Primanje %1$d videozapisa</item>
@@ -220,6 +248,10 @@
         <item quantity="other">Slanje %1$d fotografija</item>
         <item quantity="one">Slanje %1$d fotografije</item>
     </plurals>
+	<plurals name="share_notification_sending_title_live_photo">
+        <item quantity="other">Slanje %1$d fotografija uživo</item>
+        <item quantity="one">Slanje %1$d fotografije uživo</item>
+    </plurals>
     <plurals name="share_notification_sending_title_video">
         <item quantity="other">Slanje %1$d videozapisa</item>
         <item quantity="one">Slanje %1$d videozapisa</item>
@@ -231,6 +263,10 @@
     <plurals name="share_received_describe_for_aod_status_bar_image">
         <item quantity="other">Primljeno %1$d fotografija</item>
         <item quantity="one">Primljena %1$d fotografija</item>
+    </plurals>
+	<plurals name="share_received_describe_for_aod_status_bar_live_photo">
+        <item quantity="other">Primljeno %1$d fotografija uživo</item>
+        <item quantity="one">Primljena %1$d fotografija uživo</item>
     </plurals>
     <plurals name="share_received_describe_for_aod_status_bar_video">
         <item quantity="other">Primljeno %1$d videozapisa</item>
@@ -247,6 +283,10 @@
     <plurals name="share_receiving_describe_video">
         <item quantity="other">%1$d videozapisa</item>
         <item quantity="one">%1$d videozapis</item>
+    </plurals>
+	<plurals name="share_receiving_describe_live_photo">
+        <item quantity="other">%1$d fotografija uživo</item>
+        <item quantity="one">%1$d fotografija uživo</item>
     </plurals>
     <plurals name="someone_send_file_to_you_files">
         <item quantity="other">%1$s šalje %2$d datoteka za vas…</item>
@@ -283,6 +323,10 @@
     <plurals name="success_receive_file_files">
         <item quantity="other">Primljeno %2$d datoteka od %1$s. Dodirnite za prikaz.</item>
         <item quantity="one">Primljena %2$d datoteka od %1$s. Dodirnite za prikaz.</item>
+    </plurals>
+	<plurals name="start_send_files_to_device_live_photos">
+        <item quantity="other">Slanje %2$d fotografija uživo na %1$s…</item>
+        <item quantity="one">Slanje %2$d fotografije uživo na %1$s…</item>
     </plurals>
     <plurals name="success_receive_file_images">
         <item quantity="other">Primljeno %2$d slika od %1$s. Dodirnite za prikaz.</item>
