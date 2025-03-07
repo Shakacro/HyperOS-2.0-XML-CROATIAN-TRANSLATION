@@ -1339,9 +1339,6 @@ Zadržite izvorni omjer slike, odaberite vlastiti ili pustite umjetnoj inteligen
   <string name="photo_editor_eliminate">Ukloni odraz</string>
   <string name="photo_editor_eliminate_notice_desc">Jednostavno uklonite refleksije uzrokovane staklom u prozorima, izložbenim vitrinama i više</string>
   <string name="photo_editor_eliminate_progress">Uklanjanje odraza…</string>
-  <string name="photo_editor_eliminate">Ukloni odraz</string>
-  <string name="photo_editor_eliminate_notice_desc">Jednostavno uklonite odbljeske uzrokovane staklom u prozorima, izložbenim vitrinama itd.</string>
-  <string name="photo_editor_eliminate_progress">Uklanjanje odraza…</string>
   <string name="photo_editor_estimate_size">Predviđena veličina: %1$s - %2$d × %3$d px</string>
   <string name="photo_editor_filter">Filter</string>
   <string name="photo_editor_font_default">Sustav</string>
