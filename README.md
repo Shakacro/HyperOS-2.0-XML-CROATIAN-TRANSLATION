@@ -14,5 +14,5 @@ Za više informacija posjetite:
  Croatian translation for HyperOS 2.0
  
 
- HyperOS Translation: **MASVA**
+ HyperOS Translation: **Shakacro**
 
