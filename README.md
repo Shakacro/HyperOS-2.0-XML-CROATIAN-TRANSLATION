@@ -1,18 +1,20 @@
-[![HyperOS](https://i.imgur.com/DBEfanq.png)](https://xiaomi.eu/)
+# Xiaomi HyperOS 2.2 XML-CROATIAN
+
+![HyperOS Logo](https://i.imgur.com/DBEfanq.png "HyperOS Logo")
 
 
 # HyperOS XML-CROATIAN
 
 
-Based on a work at http://mi.com
+Based on a work at <http://mi.com>
 
 Za više informacija posjetite:
 
-- [Multilang MIUI Support](http://xiaomi.eu) 
+[Xiaomi Multilang Support](http://xiaomi.eu)
 
 
- Croatian translation for HyperOS 2.0
+## Hrvatski prijevod za Xiaomi HyperOS 2.2
  
-
- HyperOS Translation: **MASVA**
-
+**Autor:** Shakacro  
+**Verzija:** 2.2  
+**Datum:** 2025-07-28
